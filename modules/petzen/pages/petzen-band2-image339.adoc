@@ -1,0 +1,111 @@
+= 1816 Christine Louise Krückeberg Marriage
+:page-role: doc-width
+
+In 1816 Christine Louise Krückeberg, daughter of Johann Heinrich Krückeberg, married Johann Heinrich Klöpper.
+
+== Citation
+
+This marriage is found on <<image339, image 339, on pages 704 and 705>> in the Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+== Pages 704 and 705
+
+Page heading on page 704:
+
+image::petzen-band2-img339-704.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img339-704.jpg]
+
+Page 705 heading portion:
+
+image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img339-705.jpg]
+
+[,text]
+.Transliteration of pages 704 and 705 header
+----
+704                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)            im Jahr (in year) 1816                      705
+----
+
+[caption="Transliteration 1: "]
+.Marriage entry No. 1.
+[%header,cols="1,3,3,3,2,2,2,1",frame="none"]
+|===
+s|Zahl s|Name, Stand, Religion +
+u. Eltern des Bräutigams s|Name, Religion +
+Geburt u. Wohnort +
+der Brat s|Zeit u. Ort + 
+der Proclamation s|Zeit u. Ort +
+der Kopulation s|der kopu +
+lirende +
+Prädiger s|Kopulations +
+Zeugen s|Bemerkungen
+
+s|No. s|Name, Occupation, Religion, +
+Parents of the Groom s|Name, Religion +
+Birth place and Residence +
+of the Bride s|Time and Place +
+of the Proclamation s|Time and Place +
+of the Marriage s|The offi- +
+ciating Minister s|Marriage Witnesses s|Remarks
+
+|8
+|Jungeselle Johann Hein- +
+rich Klöpper, ehelicher Sohn +
+des Albreacht Klöpper +
+no. 22 in Röcke. Luth. Conf. +
+u. jetzt 29 Jahre alt +
+ge[t/b]. 10.10.1790 +
+gest. 25.12.1853
+|Jungfrau Christine Louise +
+Krückebergs, des verstor- +
+beneen Johann Heinrich +
+Krückeberg n. 19 in Evesen +
+hinterlassene eheliche Tochter. +
+Luth. Conf. u. jetzt 19. Jahr alt +
+geb. 26.4.1798 +
+gest. 11.9.1878
+|sind in der Kirche +
+zu Petzen proclamiert +
+d. 6ten 12ten u. 20ten Octbr.
+|u. kopulirt d 1st +
+Decbr.
+|von der zeitigen +
+Prediger
+|in Gegenwart +
+der Confitenten +
+u. des zeiten +
+Küsters Crömer
+|[empty]
+
+|8
+|Bachelor Johann Hein- +
+rich Klöpper, legitimate son +
+of Albreacht Klöpper +
+no. 22 in Röcke. Luth. Conf. +
+and now 29 years old +
+born 10/10/1790 +
+died 12/25/1853
+|Maiden Christine Louise +
+Krückeberg, the surviving +
+daughter of the late Johann +
+Heinrich Krückeberg n. 19 in Evesen +
+Luth. Conf. and now 19 years old +
+born 4/26/1798 +
+died 9/11/1878
+|proclaimed in the church +
+at Petzen +
+on 6^th^ 12^th^ and 20^th^ Oct.
+|and married on 1^st^ +
+of Dec.
+|by the current +
+minister
+|in the presence +
+of the communicants +
+and of the current +
+parish clerk Crömer
+|[empty]
+|===
+
+
+[bibliography]
+== References
+
+* [[[image339]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/39e8241151/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3397 of 357

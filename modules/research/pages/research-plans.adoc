@@ -1,0 +1,136 @@
+= Genealogy Research Priorities
+
+== Adams County, Indiana Index of Names of Persons & Firms
+
+The volume _Adams County, Indiana Index of Names of Persons & of Firms_, available link:https://www.familysearch.org/library/books/records/item/321749-adams-county-indiana-index-of-names-of-persons-and-of-firms[online]
+also well as in the Genealogy Center (call number is **977.201 Ad1aa**), is a product of the xref:wpa-hrs.adoc[WPA Historical Survey]. 
+
+As well as Blakey, Bleeke, Thieme, Schamerloh, etc, the surnames **Kruckeberger**, **Kruekeberg** and **Kukeberger** appear.
+
+This volume provides cross references to these four volumes using these symbols:
+
+.Volumes Cross Referenced and Their Symbols
+|===
+|Volume|Symbol
+
+|link:https://archive.org/details/biographicalhistawcty01chic/page/n1/mode/2up[Biographical and Historical
+Record of Adams and Wells Counties]; Indiana, Lewis Publishing Co.; 1887|**B**
+
+|link:https://archive.org/details/reminiscencesofa00lync/page/n1/mode/2up[Reminiscences of Adams, Jay and
+Randolph Counties]; Lynch, Martha C.; Fort Wayne, 1897?|**L**
+
+|link:https://archive.org/details/snowshistoryofad00snow/page/n3/mode/2up[Snow's History of Adams County,
+Indiana]; Snow, J. F.; Indianapolis, 1907|**S**
+
+|link:https://archive.org/details/standardhistoryo02tynd/page/n3/mode/2up[Standard History of Adams and Wells
+Counties, Indiana, vol. 2]; Tyndall, John W. and Lesh. O. E.; Lewis Publishing Co., 1918|**T**
+|===
+
+[caption="Surnames in Adams County, Indiana Index of Names of Persons & of Firms"] 
+.Blakey and Bleeke, Kirkenberg, Kruckeberger, Kruekeberg and Kukeberger.
+|===
+|Name|page #er|Cross references: Symbol + page #er
+
+|Blakey/Bleeke|link:https://www.familysearch.org/library/books/viewer/321749/?offset=#page=33&viewer=picture&o=info&n=0&q=[27-29]|Numerous
+
+|Kirkenberg, Catherine|link:https://www.familysearch.org/library/books/viewer/321749/?offset=#page=168&viewer=picture&o=info&n=0&q=[162]
+|link:https://archive.org/details/snowshistoryofad00snow/page/n721/mode/2up[S352]
+
+|Kruckeberger, Caroline|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=176&viewer=picture&o=info&n=0&q=[
+170]|link:https://archive.org/details/snowshistoryofad00snow/page/n457/mode/2up[S223], link:https://archive.org/details/snowshistoryofad00snow/page/n735/mode/2up[S359]
+
+|Kruckerberger, Sophia|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=176&viewer=picture&o=info&n=0&q=[170]
+|link:https://archive.org/details/snowshistoryofad00snow/page/n737/mode/2up[S360]
+
+|Kruekeberg, Wilhelmena|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=176&viewer=picture&o=info&n=0&q=[170]
+|link:https://archive.org/details/snowshistoryofad00snow/page/n735/mode/2up[S359]
+|===
+
+== Get Naturlaization Records
+
+The Adams County Trumpeter newletter/jounral of the Adams County Historical Society published, in two separate issues,one
+for A-K and the second for K-Z, the article explains that:
+
+[quote, Naturalization, Adams County Trumpeter, October 1988]
+____
+The US Department of Justice sponsored a nationwide project from October, 1941, to April, 1942, to locate and index these
+records. We are fortunate that all 92 counties in the state of Indiana participated in the project which was administered by
+the Division of Community Services Programs, Works Projects Administration. War effort superseded completion of the project
+nationwide. The completed index survey files were found in the late seventies in the archives division of the Indiana State
+Library. The family history section of the Indiana Historical Society became interested in the files and in 1981 published
+“An Index to Indiana Naturalization Records Founded Various Order Books of the 92 Local Courts Prior to 1970” close quote a
+copy is still available for $10 to members and $20 to non-members from the Indiana Historical Society….
+____
+
+The index gives 1.) the person's name, 2.) the name of the court order book and 3.) the page number within the book.
+
+FamilySearch has digitized the link:https://www.familysearch.org/search/catalog/1150012[Adams' County Court Order books] and
+they are availalbe to view at afflilates like the Genealogy Center, where the images can be downloaded to one's harddrive.
+
+I would also like to read more about the history of the indexing and try to locate the original work in which it was
+contained. 
+
+What was the time wait before declaration and oath for naturalziaton in the 1850's?
+
+[caption="Synopsis of Persons of Interest: "]
+.in Naturalization Indexes published in the Adams County Trumper
+[%header,cols="4,2,1,1"]
+|===
+|Name|Court|Volume|Page
+
+|Blake, Christian|Circuit|B|180
+
+|Blake, Christian F.|Circuit|B|180
+
+|Blake, Christina|Circuit|B|180
+
+|Blake, Louisa|Circuit|B|180
+
+|Blake, Sophia|Circuit|B|180
+
+|Bleeke, Christian|Circuit|A|427
+
+|Blake, Sophia|Circuit|B|180
+
+|Book(Buuck), Conrad|Circuit|A|265
+
+|More to do|more to|do|do
+|===
+
+Adams
+
+== Tax Lists PERSI Article
+
+Look again at the PERSI tax list/index article.
+
+== The Other PERSI Articles
+
+I did not scan all the PERSI articles.
+
+== Top Research Question
+
+Where CHW Krüeckeberg (1835-1915) live in Preble township in 1860? Did he own the land or was it owned by his wife's family?
+
+== Other Records and Sources to Look into. 
+
+* Go to Auditor's office and get 19th century Plat Maps Once ScanTent arrives, try to scan the Immanuel Lutheran, Decatur,
+* Indiana, church register.  Scan the Buuck and Mels book.  Look for obituary of Dorothea Weiland Krueckeberg, using
+* Chronicling America
+*** See link:https://chroniclingamerica.loc.gov/lccn/sn84027334/ .. Genealogy Center
+link:https://www.genealogycenter.info/search_obits1900.php[Allen County obituary search] .. xref:persi.adoc[PERSI indexed
+articles for Adams county, Indiana] .. Obit in newspapers.com
+* Using Harry's book as a guide and after reading Val Greenwood's chapters on Land Recrds and the Research Land Records by
+* Hone and
+the Patricia Hackett Law books, I want to get patents, deeds, quitclaims, etc from the Adams County auditor's office.
+* Create Google earth sites for them.
+
+== Big Picture Question
+
+With respect to the Big Picture, I want to connect the dots of the inter-family relationships:
+
+* How was the wife of Carl Freidrich related to the wife of Johann Heinrich, who married the sister of Heinrich Wilhelm
+Weiland?
+
+== Background Research
+      
+Further background reading and scanning: The Buuck Family History.

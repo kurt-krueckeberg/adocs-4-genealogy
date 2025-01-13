@@ -1,0 +1,55 @@
+= 1790 Johann Heinrich Kruckeberg Marriage
+:page-role: doc-width
+
+The marriage of Johann Heinrich Krueckeberg is entry 8 on page 5.
+
+== Citation
+
+On 2 August 1790, Johann Heinrich Krückeberg from Berenbusch No 10 married Anna Catharine Sophia Krömer from Evesen No 19. The marriage is entry 8 on 
+<<image5, Page 5, entry 8>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+
+== Pages 4 and 5
+
+Header:
+
+image::petzen-band2-img5-header.jpg[align=left,title='Page Header for Entries 8, 10 and 13',xref=image$petzen-band2-img5-header.jpg]
+
+The marriage of Johann Heinrich Kruckeberg is recorded are on page 5 on entry 8:
+
+image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',xref=image$petzen-band2-img5-1.jpg]
+
+[NOTE]
+.`Jfr` abbreviation
+====
+. The abbreviation **Jfr** stands for Jungfrau or maiden.
+====
+
+[caption="Transliteration and Translation: "]
+.page header and lines 8, 10 and 13
+[%autowidth, cols="l",frame="none"] 
+|===
+|                       Getraute       1790                                  5
+                       Married Couples 1790                                5
+
+|8) d 2 Aug ist copuliert Johann Heinrich Kruckeberg
+    aus Berenbusch No 10 mit Jfr Anna Catharine Sophia
+    Krömern aus Evesen No 19.
+
+|8) date 2 Aug Johann Heinrich Kruckeberg
+    from Berenbusch No 10 was married to maiden Anna Catharine Sophia
+    Krömer from Evesen No 19.
+
+|10) d 19th Septbr ist copulirt Jobst Heinrich Weiland aus
+     Berenbush No 1 mit Jfr Anna Catharina Margaretha
+     Mohtin aus Berenbush No 7.
+
+|10) date 19th Septbr Jobs[h]t Heinrich Weiland from
+     Berenbush No 1 was married to maiden Anna Catharina Margaretha
+     Mohtin from Berenbush No 7.
+|===
+
+
+[bibliography]
+== References
+
+* [[[image5]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/68ee336254/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357

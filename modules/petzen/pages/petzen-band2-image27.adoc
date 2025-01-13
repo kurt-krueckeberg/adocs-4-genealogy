@@ -1,0 +1,103 @@
+= 1812 Philippine Caroline Christine Krückeberg Marriage
+:page-role: doc-width
+
+In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Krückeberg, married Friedrich Wilhelm Watermann.
+
+== Citation
+
+The marriage record is on <<image27, image 27, on pages 48 and 49>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+== Papges 48 and 49 
+
+Heading page 48:
+
+image::petzen-band2-img27-left-1.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img27-left-1.jpg]
+
+Heading page 49:
+
+image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img27-right-1.jpg]
+
+[caption="Transliteration 1: "]
+.Marriage entry No. 1.
+[%autowidth, frame="none"]
+|===
+8+l|48                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                    im Jahr (in the year) 1812                      49
+ s|Zahl s|Name, Stand, Religion +
+u. Eltern des Bräutigams s|Name, Religion +
+Geburt u. Wohnort +
+der Brat s|Zeit u. Ort + 
+der Proclamation s|Zeit u. Ort +
+der Kopulation s|der kopu +
+lirende +
+Prädiger s|Kopulations +
+Zeugen s|Bemerkungen
+
+|No.|Name, Occupation, Religion, +
+Parents des Bräutigums|Name, Religion +
+Birth place and Residence +
+of the Bride|Time and Place +
+of the Proclamation|Time and Place +
+of the Marriage|The offi- +
+ciating Minister|Marriage Witnesses|Remarks
+
+|1 
+|Junggeselle Friedrich  +
+Wilhelm Watermann, Colonus +
+aus n. 11 in Nordhotz. Luth. +
+Conf. und jetzt 21. Jarhe alt +
+geb. 29.2.1792 +
+|Jungfrau Philippine +
+Caroline Krückeberg, Tochter +
+des Jobst Heinr. Kruckeberg +
+n. 10 in Bärenbusch. Luth. Conf. +
+und jetzt 21. Jahr alt +
+geb. 1.2.92; 2. Cop. 11.5.34 +
+gest. 26.10.70 +
+|Sind in der Kirche zu +
+Petzen procalmiert +
+d. 15ten 22ten u. 29ten Decbr. +
+1811
+|u. Kopuliert d. 23ten +
+Febr.
+|von dem +
+zeitigen Prediger +
+Nille
+|In['in' is written with a lowercase 'i' not 'I'?] Gegenwart +
+der versammelten +
+Gemeinde
+|[empty]
+
+|1.
+|Bachelor Friedrich  +
+Wilhelm Watermann, Farmer +
+from no. 11 in Nordlotz. Luth. +
+Conf. and now 21 years old +
+born 2/29/1792
+|Maiden Philippine +
+Caroline Krückeberg, daughter +
+of Jobst Heinr[ich]. Kruckeberg +
+n. 10 in Bärenbusch. Luth. Conf. +
+and now 21 years old +
+Born 2/1/92; 2nd [yet-future] marriage +
+5/11/34. Died 10/26/70
+|Proclaimed in the church at +
+Petzen +
+date 15th 22th and 29th December +
+1811
+|and married on 23 Febr [1812]. +
+|by the +
+current minister +
+Stille
+|in presence +
+of the assembled +
+parish
+|[empty]
+|===
+
+
+[bibliography]
+== References
+
+* [[[image27]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/e8f8a097b9/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 27 of 357
+

@@ -1,0 +1,89 @@
+page_start: |
+  = Timeline
+  :page-role: doc-width timeline
+timeline:
+  - title: Schaumburg-Lippe Created
+    icon: flag 
+    date: 1647
+    content: >-
+     Schaumburg-Lippe is created by the division of the County of Schaumburg (Grafschaft Schaumburg).
+    citation: link:https://de.wikipedia.org/wiki/Schaumburg-Lippe[Schaumburg-Lippe]
+  - title: Thirty Years War Ends
+    icon: war
+    date: 1618&ndash;1648
+    content: >-
+      October 24, 1648, the Peace of Westphalia ends the Thirty Years War, during which 20%
+      of the population of the Holy Roman Empire dies. In some areas 50% of the population is
+      killed.
+    citation: link:https://blogs.loc.gov/law/2017/10/the-peace-of-westphalia/[Peace of Westphalia]
+  - title: Carl Friedrich Bleeke Born
+    icon: male
+    date: 2 Nov 1794
+    content: >-
+      Carl Friedrich Bleeke (1794&ndash;1853) born at Leteln Nr. 13, Grafschaft Schaumburg (County of Schaumburg), Holy Roman Empire of the German Nation.
+    citation: xref:frille:frille-band2-image123.adoc[] 
+  - title: >-
+      Johann Heinrich Philip Bleeke Born
+    icon: male 
+    date: 3 Nov 1797 
+    content: >-
+      Johann Heinrich Philip Bleeke (1797&ndash;1883) born at Leteln Nr. 13, Graftschaft Schaumburg, Holy Roman Empire of the German Nation.
+    citation: xref:frille:frille-band2-image136.adoc[]
+  - title: French Revolution Begins
+    icon: flag
+    date: 1789
+    content: >-
+      The French Revolution begins in 1789.
+    citation: link:https://www.history.com/topics/european-history/french-revolution[French Revolution Timeline]
+  - title: Napoleon Comes to Power
+    icon: flag
+    date: 1799
+    content: >-
+      In a bloodless coup Napoleon comes to power. The Napoleonic Wars will run from 1800 to 1815.
+    citation: link:https://www.ngv.vic.gov.au/napoleon/revolution-to-empire/the-rise-of-napoleon.html[Napoleon's Rise]
+  - title: Christine L. E. Krückeberg Born
+    date: 26 April 1798
+    icon: female
+    content: |
+      Christine Luise Eleonore Krückeberg, the older sister of Johann Heinrich Krückeberg, is born 26 April 1798 
+      in Evesen. Both siblings will immigrate with their future families to Adams county, Indiana.
+      Christine Luise Eleonore Krückebereg would marry Christian Friedrich Bleeke, who was born in 25th December 1800 in Leteln.
+      Christian Friedrich Bleeke was the youngest of two older brothers who immigrated before him and were awarded land patents, on 10 November
+      1840 to tracts of land in Section 21 of Union township, Adams County, Indiana in November 1840.
+    citation: xref:petzen:petzen-band2-image71.adoc[Baptism Record]
+  - title: >-
+      Christian Friedrich Bleeke Born
+    icon: male
+    date: 25 Dec 1800
+    content: >-
+      Christian Friedrich Bleeke (1800&ndash;1889) born at Leteln Nr. 13, Graftschaft Schaumburg, Holy Roman Empire of the German Nation.
+    citation: xref:frille:frille-band2-image152.adoc[]   
+  - title: Johann Heinrich Krückeberg born
+    icon: male
+    date: 12 Aug 1806
+    content: Johann Heinrich Krückeberg (1806&ndash;1879) born in Berenbush, Graftschaft Schaumburg-Lippe.
+    citation: xref:petzen:petzen-band2-image91.adoc[Baptism Record]
+  - title: Schaumburg-Lippe in Rheinbund
+    icon: flag 
+    date: 1807
+    content: >-
+      Francis II, Emperor of the Holy Roman Empire of the German Nation, abdicates. Empire dissolved.
+      Schaumburg-Lippe joins Rheinbund (Confederation of the Rhine), which includes all German states except Austria and Prussia.  
+    citation: link:https://www.britannica.com/topic/Confederation-of-the-Rhine[Confederation of the Rhine]
+  - title: Carl Friedrich Krückeberg born
+    icon: male
+    date: 21 May 1807
+    content: Carl Friedrich Krückeberg (1807&ndash;Unknown) born in Berenbush, Graftschaft Schaumburg-Lippe.
+    citation: xref:petzen:petzen-band2-image96.adoc[Baptism Record]
+  - title: Bleeke&ndash;Krückeberg marriage
+    icon: marriage
+    date: 26 Nov 1826
+    content: Christian Friedrich Bleeke (1800&ndash;1889) marries Christine Luise Eleonore Krückeberg (1799&ndash;unknown),
+      in Frille. She is the sister of Johann Heinrich Krückeberg  
+    citation: link:https://docs.krueckeberg.org[Yet to Do] 
+  - title: Carl Fried. Bleeke immigrates
+    icon: ship
+    date: 3 Dec 1836
+    content: Carl Friedrich Bleeke and his family arrive in New York.
+    citation: >-
+      link:https://www.familysearch.org/memories/memory/203816572?cid=mem_copy[FamilySearch Passenger Arrival List]

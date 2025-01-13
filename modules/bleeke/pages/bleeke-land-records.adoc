@@ -1,0 +1,68 @@
+= Bleeke Federal Land Purchases
+
+Three Bleekes successfully purchased tracts of land from the federal goverment and were awarded federal Land Patents,
+the first title of ownership when possession of the land passed from the U.S. government to private individuals:
+
+[arabic]
+. John Henry Bleeke appears twice, as <<image528-1, Jn. Henry Bleeke>> and as <<image528-2, John Henry Bleeke>>.
+  This is Johann Heinrich Philip Bleeke, born 1797 in Leteln number 13.
+. <<image528-3, Charles F. Bleeke>>. This is Johann Heinrcih Philip's older brother, Carl Friedrich Bleeke, born in Leteln number 13 in 1794.
+. <<image528-4, Christian Blake>> is the son of Johann Heinrich Philip Bleeke, also born in Leteln in 1821.
+
+Below are the tract book entries for their tracts of land in Section 21, Union township. These are found in the Fort Wayne
+land office tract book, volume 2. Below is the page on which the Bleekes appear:
+
+image::bleeke-tract-book-entries.jpg[align=left,title="Bleeke Fort Wayne Land Office tract book entries (Click to enlarge)",xref=image$bleeke-tract-book-entries.jpg]
+appear in Volume 2 of the Fort Wayne General Land Office tract books. They are on image 238 of 288 images of this volume found on 
+link:https://www.familysearch.org/ark:/61903/3:1:3QS7-99WS-RH8X?wc=M7WQ-V3N%3A356163201%2C356292201&cc=2074276&i=237[Family Search].
+
+NOTE: The "ditto" quote marks below in the Section, Township and Range, columns represent the values 21, 28, and 15, respectively,
+which appear in the entries immediately above these.
+
+[caption="Trascription of left page: "]
+.Tract Book Volume 2, Fort Wayne land office
+[cols="3,1,1,1,1,1,1,1,1,1,3", %noheader,frame="none",grid="rows"]
+|===
+11+>s|TOWNSHIP No. 28
+
+4+^s|DESCRIPTION OF THE TRACT 2+^s|Contents 2+^s|Rate per Acre 2+^s|Purchase Money .2+.^s|Name of Purchaser
+^s|Part of Section ^s|Section ^s|Township ^s|Range ^s|Acres ^s|Hdths. ^s|Dollars ^s|Cents ^s|Dollars ^s|Cent
+
+|NW ^1^/~4~ SW ^1^/~4~|"|"|"|40|"|1|25|50|"|Jn. Henry Blecke
+
+|E ^1^/~2~ SW ^1^/~4~|"|"|"|80|"|1|25|100|"|Charles F Ble[c]ke
+
+|NW ^1^/~4~|"|"|"|160|"|1|25|200|"|John Henry Bleeke
+
+|SW^1^/~4~ SW^1^/~4~|"|"|"|[40?]|"|1|25|50|"|Christian Blake
+|===
+
+.Tract Book Volume 2, Fort Wayne land office
+[cols="1,3,1,1,3,2,1,1",%noheader,frame="none",grid="rows"]
+|===
+8+<s|RANGE No. 15 DISTRICT OF Fort Wayne[Fort Wayne is written by hand]
+
+.2+^s|Number of +
+Register's Return .2+^s|DATE OF SALE .2+^s|Number of +
+Receipt. .2+^s|Number of +
+Certificate of Purchase. .2+^s|TO WHOM PATENTED. .2+^s|DATE OF PATENT 2+^s|When Recorded
+
+^s|Volume ^s|Page
+
+|153|Dec. 10 1838|23246|23246||||
+
+|"|Dec. 10 1838|23247|23247||||
+
+|"|Dec. 10 1838|23248|23248||||
+
+||July 6 184[7?]|26075|26075||||
+|===
+
+
+[bibliography]
+== Citation
+* [[[image528-1]]] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6KD7-37XL : Mon Sep 16 11:19:34 UTC 2024), Entry for Johann Heinrich Philip Bleeke, 10 Dec 1838.
+* [[[image528-2]]] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6KD7-37XP : Mon Sep 16 11:23:33 UTC 2024), Entry for Johann Heinrich Philip Bleeke, 10 Dec 1838.
+* [[[image528-3]]] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6KD7-37XG : Mon Sep 16 11:22:04 UTC 2024), Entry for Carl Friedrich Bleeke, 10 Dec 1838.
+* [[[image528-4]]] "United States Bureau of Land Management Tract Books, 1800-c. 1955", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:6KD7-37X5 : Mon Sep 16 12:26:02 UTC 2024), Entry for Christian Friedrich Bleeke, 6 Jul 1847.
+

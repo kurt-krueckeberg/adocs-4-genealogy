@@ -1,0 +1,13 @@
+.Family Backgrounds
+* xref:persons-firms-index.adoc[]
+* xref:bleeke.adoc[] 
+* xref:buuck.adoc[]
+* xref:weiland.adoc[]
+* xref:krueckeberg.adoc[]
+* xref:inter-family-relationships.adoc[]
+* Obituaries
+** xref:obituaries-krueckeberg-chw.adoc[]
+** xref:obituaries-thieme-jg.adoc[]
+** xref:obituary-thieme-fj.adoc[]
+** xref:obituary-krueckeberg-ernst-heinrich.adoc[]
+* xref:puzzling-child.adoc[The Child with Two Surnames]

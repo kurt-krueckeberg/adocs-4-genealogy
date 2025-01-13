@@ -1,0 +1,116 @@
+= Helpful Background information
+
+Background information on the research threads in this section.
+
+== WPA Historical Survey
+
+The FamilySearch Digital Library's <<wap-digital-book, The WPA Historical Survery: A Guide to the Unpublished
+Inventories, Indexes and Transcripts>> published in 1980 describes the purpose and scope of the WPA's History
+Records Survey and in which repositiers by state its results can now be found. 
+
+xref:attachment$WPA_Historical_Records_Survey_A_Guide_to_the_Unpublished_Inventories_Indexes_and_Transcripts.pdf[The WPA Historical 
+Records Survery: A Guide to the Unpublished Inventories, Indexes and Transcripts]
+
+== State Archives
+
+Links for the link:https://www.in.gov/iara/[Indiana Archives and Records Administration]. 
+
+**TODO:** Look for a guide to their holdings or finding aid to their holdings, particulairly the
+School Enumerations. 
+
+See:
+
+* link:https://www.in.gov/iara/divisions/state-archives/[IARA main page]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/genealogy/[Genealogy] contains a list of Resources & Services links,
+contact information, etc.
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/census-records/[Census Records]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/vital-records/[Census & Vital Records]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/finding-aids/[Finding Aids (includes email contact)]. This includes helpful guidance
++
+about how to email the Indiana State Archives staff for guidance and help.
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/finding-aids/[Search Archives Holdings]
+
+== Indiana State Censuses and Enumerations
+
+The FamilySearch wiki page link:https://www.familysearch.org/en/wiki/Indiana_Census[Indiana Censuses] has links to the Indiana state censuses on FamilySearch
+and Ancestry.
+
+The Indiana State Library article link:https://blog.library.in.gov/understanding-and-accessing-indiana-state-censuses-and-other-enumerations[Understanding and accessing
+Indiana state censuses and other enumerations] explains in great detail the various types of state censuses
+and enumerations. Of particular interest is the School Enumeration. See the Indiana State Library's guide to xref:attachment$State-Censuses-and-Enumerations.pdf[Indiana State Censuses and Alternate Enumerations, Genealogy Division, Indiana State Library]
+
+== Agricultural Schedules for U.S. Censuses
+
+== Naturalization Records and Indexes
+
+The Adams County Trumpeter newletter of the Adams County Historical Society published the Adams County, Indiana, entries
+found in “An Index to Indiana Naturalization Records Founded Various Order Books of he 92 Local Courts Prior to 1970” 
+The entries for the surnames from A-K was published in the October 1988 issue; the entries for the surnames from K-Z
+was published in ????:
+
+[quote, Naturalization, page 1]
+.Adams County Trumpeter of the Adams County Historical Society, Vol. 6., No. 3, October 1988, page 1:
+____
+The US Department of Justice sponsored a nationwide project from October, 1941, to April, 1942, to locate and index these
+records. We are fortunate that all 92 counties in the state of Indiana participated in the project which was administered by
+the Division of Community Services Programs, Works Projects Administration. War effort superseded completion of the project
+nationwide. The completed index survey files were found in the late seventies in the archives division of the Indiana State
+Library. The family history section of the Indiana Historical Society became interested in the files and in 1981 published
+“An Index to Indiana naturalization records found in various order books of the ninety-two local courts prior to 1907”. A copy is
+still available for $10 to members and $20 to non-members from the Indiana Historical Society….
+____
+
+The index gives 1.) the person's name, 2.) the name of the court order book and 3.) the page number within the book.
+
+[IMPORTANT]
+====
+**An Index to Indiana naturalization records found in various order books of the ninety-two local courts prior to 1907**
+is available at several libraries in Indiana. The complete holdings in Indiana county libraries is link:https://evergreen.lib.in.us/eg/opac/record/18411727[here].
+
+The copy in the Adams County Pulib Library, Decatur, is link:https://apls.evergreenindiana.org/GroupedWork/c74895c5-bfe9-5a92-13cb-2adcf2ce7bdb-eng/Home?searchId=4291430&recordIndex=1&page=1&searchSource=local&referred=resultIndex[INREF
+929.377 IND]
+====
+
+Starting in 1854 separate naturalization ledgers were begun in Adams county, Indiana.
+
+FamilySearch has digitized the link:https://www.familysearch.org/search/catalog/1150012[Adams' County Court Order books] and
+they are availalbe to view at afflilates like the Genealogy Center, where the images can be downloaded to one's harddrive.
+
+[IMPORTANT]
+.Guides to Understanding the WPA Indexes and Surverys
+====
+
+The first volume below seems to hold the most essential background. 
+
+* FamilySearach digitized book link:https://www.familysearch.org/library/books/records/item/398714-the-wpa-historical-records-survey-a-guide-to-the-unpublished-inventories-indexes-and-transcripts[The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts]
+
+* Family History Library lecture: link:https://youtu.be/fRc8GQghBsI?si=ehbVYszx0pPoLJtN[Certifying Citizenship: An Introduction to U.S. Naturalization Records]
+
+* FamilyTree Magazine article on link:https://familytreemagazine.com/records/occupational/good-works-wpa-projects/[Where to Look for Works Progress Administration (WPA) Records]
+
+* National Archives page on link:https://www.archives.gov/research/immigration/naturalization[Naturalization]
+
+* Ancestry's Family History Learning Hub's article on link:https://www.ancestry.com/c/family-history-learning-hub/wpa[Works Progress Administration (WPA)]
+====
+
+== Maps
+
+=== Adams County
+
+Adams County Map, 1873
+
+image::adams-county-map-1873.jpg[align=left,title="Map of Adams County  (cartographic material) : compiled and drawn from records and surveys / by Abraham Boegley (Click to Enlarge)",xref=image$adams-county-map-1873.jpg]
+
+The map is from the <<adams-county-map-1873, IU Library at Indianapolis's Digital Collection>>.
+
+[bibliography]
+== References
+
+* [[[adams-county-map-1873]]] "Indiana University Library, Indianapolis, Digital Collection", database of digital images, (https://iuidigital.contentdm.oclc.org/digital/collection/HIM/id/59/rec/1
+: 21 November 2024), path: Home > Historic Indiana Maps > Map of Adams County Indiana [cartographic material] : compiled and drawn from records and surveys / by Abraham Boegley.
+* [[[wpa-digital-book]]] The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts, Loretta L. Hefner, Society of American Archivists (Chicago), 1980, FamilySearch Digital Library : www.familysearch.org/library/books/idviewer/398714 

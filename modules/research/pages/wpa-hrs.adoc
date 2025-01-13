@@ -1,0 +1,213 @@
+= WPA Historical Records Survey
+
+What the Historical Records Survey was?
+In the introduction of
+link:https://www.familysearch.org/library/books/records/item/398714-the-wpa-historical-records-survey-a-guide-to-the-unpublished-inventories-indexes-and-transcripts[The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts]
+by Loretta L. Hefner, she explains:
+
+[quote, "The WPA Historical Records Survery: A Guide to the Unpublished Inventories, Indexes, and Transcripts", page 1]
+____
+The HRS was a work-relief project of the Works Progress Administration (later
+called the Work Projects Administration) which began in 1935 and ended in 1942.
+During that time, thousands of workers were employed to survey virtually every
+type of public record and a large number of private documents as well. Once the
+surveys were complete, the ultimate goal was to publish the results. The HRS, in
+its short life span, did succeed in producing more than two thousand published
+inventories. As great an achievement as this was, however, Sargent Child
+reported in 1943 that "a large amount of material gathered by the Survey was in
+varying stages of completion when the program was discontinued, a volume
+estimated to be eight or ten times greater than the volume of material
+represented by the publications listed in [the] final check list."
+
+The Historical Records Survey was abruptly terminated in 1942 because of the
+demands of war. The new National Archives accepted the records of the national
+HRS office and, in each of the states, HRS officials deposited most of the
+local project materials in a variety of repositories. The deposits were
+considered temporary measures, for there was some hope that the project would
+resume after the war was over. The "temporary" measures became virtually
+permanent, however, and over the next several decades the HRS materials
+remained in storage where they were frequent­ ly neglected, occasionally
+forgotten, and in some cases even discarded by the agencies that had taken them
+in.
+____
+
+.Timeline of WPA Historical Records Survey
+****
+NARA describes the link:https://www.archives.gov/research/guide-fed-records/groups/069.html#69.5.6[timeline of the HRS]:
+
+* 1935 - Organized in 1935 as part of the Federal Writers' Project, to document
+resources for research in U.S. history. 
+* 1936 - Became an independent part of Federal Project No. 1 in October 1936
+* 1939 - Became a unit of the Research and Records Program, Professional and Service Division,
+in August 1939. 
+* February 1, 1943 - Terminated pursuant to Presidential letter, December 4, 1942.
+****
+
+As <<wpa-digital-book, Loretta L. Hefner>> explains, in 1977 the American
+Society of Archivist received a grant from the National Endowment for the
+Humanities to conduct a survery of the published materials of the Historical
+Records Survery. Their guide lists state-by-state what HRS materials were
+created and in which repositories they reside today.
+
+For Indiana the guide gives this information:
+
+[quote, "The WPA Historical Records Survery: A Guide to the Unpublished Inventories, Indexes, and Transcripts", page 15]
+____
+**INDIANA**
+
+The Indiana HRS was established in 1936. In 1939, when state sponsorship became
+mandatory, the Indiana Historical Bureau and the Indiana State Library assumed
+control. **Upon termination of the project in 1942, the unpublished records were
+deposited with the Indiana State Library, Archives Division**. During its
+existence, the HRS produced forty-eight publications for Indiana.
+
+Unique to the project was the **microﬁlming of early Indiana county records for
+preservation purposes**. Five-­to six-hundred volumes of records in eighteen
+different counties were microfilmed.
+
+**Indiana State Library**
+State Archives +
+140 Senate Avenue +
+Indianapolis, IN 46204
+
+_Records of the WPA Historical Records Survey,
+1936-1942_ +
+15 cubic feet, plus 67 reels of microfilm +
+Unpublished guide available
+
+NATIONAL PROJECTS
+Inventory of County Records*
+Microfilm Project*
+
+STATE PROJECTS
+Index to Indiana Newspapers
+Transcripts of County Records
+____
+
+It can be downloaded xref:research:attachment$WPA_Historical_Records_Survey_A_Guide_to_the_Unpublished_Inventories_Indexes_and_Transcripts.pdf[here].
+
+== Information on WPA HRS from Ancestery's Learning Hub
+
+Source: link:https://www.ancestry.com/c/family-history-learning-hub/wpa[Ancestry® Family History Learning > Works Prorcess Administration]
+
+=== Where to Look for WPA Records
+
+Many of the most useful WPA records were compiled by the Historical Records
+Survey, which indexed public records held in places like churches, county
+clerks' offices, or courthouses. There are also oral histories conducted by the
+WPA, meaning you might be able to find a detailed account of your ancestor's
+**life. Here are some places where you can access these WPA records:**
+
+**Vital Records:** The HRS indexed vital records, like birth, marriage, and death
+certificates, many of which are now searchable on Ancestry. In Indiana, for
+instance, the HRS indexed birth and death records from 1880 to 1920, and
+marriages from about 1850 to 1920. Vital records cover key genealogical
+information like name, gender, race, birth date, and parents' names.
+
+**Naturalization Records:** The HRS worked on several naturalization collections.
+These records may include details like a person's country of origin, alternate
+spellings of their name, current residence, or even a physical description. One
+of the most valuable is the Philadelphia Naturalization Records from 1789 to
+1880, which includes information on over 113,000 immigrants in the city who
+applied for citizenship. In Massachusetts, the HRS helped compile records dating
+to 1798.
+
+**Cemetery Inscriptions:** Charles R. Hale led a WPA project that transcribed
+inscriptions on headstones in 2,000 cemeteries in Connecticut. Dating from 1629
+to 1934, these records include names, dates of birth and death, and burial
+place. Some also mention names of spouses and children.
+
+**Narratives of Formerly Enslaved People:** The Civil War was still in living memory
+for older Americans at the time of the New Deal. People working for the Federal
+Writers' Project collected first-person accounts of slavery, talking with over
+2,300 formerly enslaved African Americans. The database, "Interviews with
+Formerly Enslaved People, 1936–1938" contains their names, ages, and
+birthplaces, as well as their personal history and sometimes a photo. This
+amazingly rich collection is especially important given how difficult it can be
+to find records of formerly enslaved people.
+
+**How to Find Family in WPA Records:** It can be hard to find out if your ancestors
+worked for the WPA. There's no single directory of every person involved, so you
+may have to do some sleuthing. However, given that the WPA and other New Deal
+agencies employed millions of Americans, there's a good chance someone in your
+**family benefited from the programs. Here's how to begin your research:**
+
+**Look Up Your Family Members In the 1940 Census:** If they were of working age,
+check under occupation and industry. You may find "WPA" listed as their
+industry, with an occupation like laborer, road worker, housekeeper, or artist.
+The census also asked people their salary, so you can discover how much money
+your ancestor earned with the agency. The entries for Dorothy West and Ralph
+Ellison, for instance, both said they were writers with the Federal Writers'
+Project and made over $900 in 1939.
+
+**See If They Worked For the Government:** The 1940 Census asked everyone over 14 if
+they had worked for the government during the previous week. Question 22
+specifically asked if they did public emergency work with an agency like the WPA
+during the week of March 24 to 30, 1940. If your ancestor answered yes, they
+probably worked for a New Deal agency. But this question only refers to a single
+week, so if they answered no, your relative may have still worked for the WPA at
+another time.
+
+**WPA records Consider Their Occupation:** Certain jobs might indicate that your
+ancestor had a New Deal job at some point in the 1930s. Check both the 1940 and
+1950 censuses for leads. For example, if they worked in flood control in
+Tennessee, maybe they got their start at the Tennessee Valley Authority. A park
+ranger in the West might have been part of the Civilian Conservation Corps.
+Librarians, teachers, and archivists could have been employed by the Historical
+Records Survey; actors by the Federal Theater Project; and conductors by the
+Federal Music Project. Anyone who did manual labor in 1940 was likely involved
+in one of the many public works projects of the previous decade.
+
+**Search City Directories:** The precursor to phone books, city directories listed
+names, addresses, and sometimes occupation. Your ancestor may have listed their
+employer as "WPA," or something more specific, like "seamstress WPA." Or maybe
+one of your ancestors lived somewhere that had been built by the WPA. A telltale
+clue would be if the listed address was something like "31 WPA Cabins" or "1982
+WPA Road."
+
+**Check Employment Directories:** Employee cards and directories can also provide
+leads. Search keywords like "WPA" and "public works" to see if your ancestor was
+involved in building highways or another infrastructure project.
+
+Find out how the New Deal and the WPA impacted your family. By exploring
+historic newspapers, vital records, the 1940 and 1950 censuses, and photos from
+the era, you may learn new information about your family’s history. Discover
+your family story on Ancestry® and Newspapers.com® today.
+
+== Books and Articles on WPA HRS
+
+[caption="Volumes in: "]
+.Genealogy Center
+[cols="5,1"]
+|===
+|Citation|Call #
+
+|_The W.P.A. Historical Records Survey : sources for genealogists_, Heisey, John W., Heritage House, 1988| 929 H354w  
+
+|W.P.A. : Works Progress Administration surveys, guides, inventories, city-town-county-state-national.[compiled by Fran Carter-Walker]|929 C232WA
+
+|Bibliography of research projects reports : check list of Historical Records Survey publications|973 UN351 NO.7
+|===
+
+.Online Articles About the WPA HRS
+[%noheader]
+|===
+|link:https://sites.rootsweb.com/~flmgs/articles/Works_Projects_AdministrationMarch2011_BM.pdf[Works Progress Administration (WPA) 
+Historical Records Survey], compiled by Bryan L. Mulcahy, Reference Librarian,
+Fort Myers-Lee County Library,
+March 14, 2011
+
+|link:https://learngenealogy.com/wpa-historical-records-survey/[The Historical Records Survey of the Works Progress Administration],
+by Kimberly Powell, 12 May 2022
+
+|xref:attachment$Where_to_Look_for_Works_Progress_Administration_Records_By_Paula_Stuart-Warren.docx[Where to Look for Works Progress Administration (WPA) Records], by Paula Stuart-Warren, family tree magazine
+|===
+
+
+[bibliography]
+== References
+
+* [[[naturaliziation-article]]] Adams County Trumpeter of the Adams County Historical Society, Vol. 6, No. 3, Octoboer 1988, pages 1-6,
+Genealogy Center of the Allen County Public Library Call #: 977.201 
+* [[[wpa-digital-book]]] The WPA historical records survey : a guide to the unpublished inventories, indexes, and transcripts, Loretta L. Hefner, Society of American Archivists (Chicago), 1980, FamilySearch Digital Library : 
+https://www.familysearch.org/library/books/idviewer/398714 

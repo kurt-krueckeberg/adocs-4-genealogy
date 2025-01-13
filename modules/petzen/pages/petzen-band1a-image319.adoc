@@ -1,0 +1,34 @@
+= 1778 Johann Heinrich Krückeberg Confirmation
+:page-role: doc-width
+
+== Reference
+
+This confirmation entry is on the <<image319, 319^th^ image on Archion>> of "database with images".
+
+The FamilySearch Tree-ID for Jobst Heinrich Krückeberg is [??TODO????].
+
+== Jobst Heinrich Krückeberg Confirmation 1778
+
+image::petzen-band1a-img319.jpg[align=left,title='Marriage Entry 3',xref=image$petzen-band1a-img319.jpg]
+
+[NOTE]
+No page number is written on this page.
+
+[caption="Transliteration and Translation: "]
+.Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg 
+[%autowidth, cols="l",frame="none"]
+|===
+|                   Confirmati ao 1778 D. Quasimod:
+                    Confirmed year 1778 1st Sunday after Easter
+
+|Line 1 not transliterated
+
+|2. Jobst Heinrich Krückeberg aus Berenbusch
+2. Jobst Heinrich Krückeberg from Berenbusch
+|===
+
+[bibliography]
+== References
+
+* [[[image319]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/d45f414805/: 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 319 of 322
+

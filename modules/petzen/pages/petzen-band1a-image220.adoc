@@ -1,0 +1,69 @@
+= 1767 Johann Heinrich Wilhelm Krückeberg Baptism
+:page-role: doc-width
+
+This is the baptism record of Anna Christina Maria Krückeberg from "database with images", image 246.
+
+== Citation
+
+The baptism of Johann Heinrich Wilhelm Krückeberg is on <<image220, image 220, leftt page, the last entry>> from the  
+"database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
+
+The FamilySearch Tree-IDS [??TODO????].
+
+== Image, Its Transliteration and Translation
+
+image::petzen-band1a-img220-overview.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',xref=image$petzen-band1a-img220-overview.jpg]
+
+image::petzen-band1a-img220-left.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',xref=image$petzen-band1a-img220-left.jpg]
+
+.Comments on the significant wording change in these baptismal entries
+****
+
+[NOTE]
+.Eodem explained
+====
+`Eodem` means "on the same day" and refers to the date on the prior
+entry: 5 July 1767.
+
+
+The wording of the baptismal entries found on this page diverges
+significantly from previous baptismal entries. Unlike all previous baptismal 
+entries the infant's name is not the name that appears first. To understand this,
+consider this word-for-word English substitution for the German:
+
+```text
+Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus  | is here baptized Johann Heinrich Kruckeberg's from
+    Berenbusch mit seiner Ehefrau Anne Christine Elisabeth | Berenbusch with his wife Anne Christine Elisabeth
+    Seegers erzeugter Sohn und genan[n]t worden Johann     | Seeger's begotten son and named[known] was Johann 
+    Heinrich Wilhelm von seinem Gevatter Jobst             | Heinirch Wilhelm by his godfather Jobst
+    Heinrich Weiland aus Berenbusch.                       | Heinrich Weiland from Berenbusch
+```
+====
+
+****
+
+
+[caption="Transliteration and Translation: "]
+.1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+[cols="l",frame="none"]
+|===
+<|1776                  Getaufte (Baptisms)
+ 
+
+Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
+    Berenbusch mit seiner Ehefrau Anne Christine Elisabeth
+    Seegers erzeugter Sohn und genant worden Johann 
+    Heinrich Wilhelm von seinem Gevatter Jobst
+    Heinrich Weiland aus Berenbusch.
+
+|On the same day) Johann Heinrich Krukeberg's from Berenbusch
+    and his wife Anne Christine Elisabeth Seeger's begotten
+    son was baptized and was named[called] Johann Heinrich Wilhelm
+    by his godfather Jobst Heinrich Weiland from Berenbusch.
+|===
+
+
+[bibliography]
+== References
+
+* [[[image220]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c47579fcb0/ : 3 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 220 of 322

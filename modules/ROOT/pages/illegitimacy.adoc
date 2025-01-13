@@ -1,0 +1,15 @@
+= Illegitimacy in 19th Century Germany
+
+The causes of illegitimatcy in 19^th^ century German has been studied. One important article on this topic is:
+
+"Law, Marriage and Illegitimacy in Nineteenth-Century Germany", by John Knodel,
+appeared in Popluation Studies, Mar., 1967, Vol. 20, No. 3 (Mar. 1967), pp. 279-294footnote:[Knodel, John. “Law, Marriage and Illegitimacy in Nineteenth-Century Germany.” Population Studies 20, no. 3 (1967): 279–94. https://doi.org/10.2307/2172673.]
+
+[NOTE]
+.Note to myself
+====
+NOTE: I purchased access to this copyrighted article. It is available in the `attachments` folder named *Knodel-LawMarriageIllegitimacy-1967.pdf*. To make it
+downloadable add this cross reference to `r/p/illegitimacy.adoc`:
+
+`xref:attachment$Knodel-LawMarriageIllegitimacy-1967.pdf[John Knodel article]`
+====

@@ -1,0 +1,85 @@
+= 1798 Christine Louise Krückeberg Baptism
+:page-role: doc-width
+
+The birth is recorded on <<image71-136, image 71 of page 136>> and  <<image71-137, image 71 of page 137>> of Petzen Kirchenbuch volume 2. The birth entries spans across both pages 136 and 137.
+
+== Birth 26 April 1798
+
+The birth month of `April` is written across the two columns `geb. | get.` near the bottom of page 70. The entries at the top of page 71 continue the births
+in April (until later on a new month is again written in these two colums).
+
+image::petzen-band2-img70-135-bottom.jpg[title="Bottom of page 135 showing April (Click to enlarge)", xref=image$petzen-band2-img70-135-bottom.jpg]
+
+== Birth Entry 24 on Pages 136-137
+
+image::petzen-band2-img71-136.jpg[title="Header and first three entries, page 136 portion (Click to enlarge)", xref=image$petzen-band2-img71-136.jpg]
+
+image::petzen-band2-img71-137.jpg[title="Header and first three entries, page 137 portion(Click to enlarge)", xref=image$petzen-band2-img71-137.jpg]
+
+.Transliteration of header for pages 136-137
+```text
+136                           Gebohrne(births)                       im Jahr (in year) 1798               137
+```
+
+[NOTE]
+The dates of her marriage and death, written below her name, have been displayed separately
+
+[caption="Transliteration: "]
+.birth of Christine Louise Krückeberg in 1798
+[%header,%autowidth.stretch,frame="none"]
+|===
+|An +
+zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb.|get.|Namen der Gevatt[ron]
+
+|22 8+|[remainder of line not shown. Not relevant]
+
+|23 8+|[remainder of line not shown. Not relevant]
+
+|24
+|Christine Louise Krückeberg   
+|Johann Heinrich Krückeberg
+|19
+|Evesen
+|Kathar: Sophie Krömer
+|26
+|29
+|Sophie Charlotte Krückeberg [au]s Bärenbusch
+|===
+
+.Transliteration of dates written below her name
+```text
+ cop.  1.12.1816
+ gest. 11.9.1878
+```
+
+[caption="Translation: "]
+.birth of Anne Christine Eleonore Krückeberg in 1798
+[cols="1,3,3,1,2,3,1,1,3",header,frame="none"]
+|===
+|On +
+No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Names of godparents
+
+|3
+|Christine Louise Krückeberg   
+|Johann Heinrich Krückeberg
+|19
+|Evesen
+|Katharine Sophe Krömer
+|26
+|29
+|Sophie Charlotte Krückeberg from Bärenbusch
+|===
+
+.Translation of dates written below her name
+```text
+ married  12/1/1816
+ died      0/11/1878
+```
+
+
+[bibliography]
+== References
+
+* [[[image71-136]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/ba3bed0468/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357
+* [[[image71-137]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/dbf697fc6e/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 71 of 357
+

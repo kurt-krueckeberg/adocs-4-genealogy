@@ -1,0 +1,38 @@
+= Censuses and Naturalization
+
+Since several censuses contain questions relating to naturalization, they can
+be used to add details about an ancestor's naturlization. For example, in 1900,
+we can learn whether an ancestor was still **Al**, an Alien; whether he had
+filed his  **PA**, his Declaration of Intent (first papers); or whether he was
+**Na**, naturalized?
+
+[caption="naturalization: "]
+.U.S. Censuses Naturalization Questions
+[cols="1, 7"]
+|===
+|Year of Census|Naturalization Questions
+
+|1870|First census to ask if the individual’s father and mother were **foreign-born.**
+It asked: "**Male Citizen of U.S. of 21 years of age and upwards**".
+
+|1900|Included questions about year of immigration and naturalization status.
+Asked if the individual was naturalized or still an alien, with codes like **AL** (**Alien**),
+**Pa** (**Papers filed**), or **Na** (**Naturalized**).
+
+|1910|Continued to ask about father's and mother's country of birth, **year of immigration and naturalization status using the same coding
+system as 1900**. Also asked about the mother tongue.
+
+|1920|Added questions about naturalization year, providing more precise data on when naturalization
+occurred.
+
+|1930|Similar to previous censuses, it asked about year of immigration and naturalization status.
+Asked for the language spoken at home before coming to the U.S.
+
+|1940|Asked year of immigration and naturalization status.
+Also included questions about the individual's place of birth and citizenship status.
+
+|1950 and Beyond|The 1950 Census asked about naturalization but did not specify detailed statuses.
+Subsequent censuses focused less on detailed naturalization questions, and newer ones relied more
+on specialized surveys like the American Community Survey (ACS).
+|===
+

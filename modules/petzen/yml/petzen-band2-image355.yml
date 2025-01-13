@@ -1,0 +1,89 @@
+# Same as petzen2-image355.yml 
+register: 
+  shortname: petzen2
+image:
+  image_num: 355
+  permalink: http://www.archion.de/p/de0cff4510/ 
+  lpage_num: 736
+  events:
+    - event: marriage
+      locality: Petzen
+      view_date: 2024-07-02 
+      evdate: &event_date 1826-10-15
+      entry_num: 8
+      persons:
+        - key: &father1 'father1'
+          given: Johann Heinrich
+          surname: Jäger
+          gender: male
+          facts:
+            - type: residence
+              date: *event_date
+              date_type: known
+              locality: Nordholz
+              address: 5
+        - key: &son 'son'
+          given: Johann Heinrich
+          surname: Jäger   
+          gender: male
+          facts:
+            - type: marriage
+              locality: Petzen
+              date_type: known
+              date: *event_date
+            - type: approx_birth_year
+              locality: unknown
+              date_type: approx_year 
+              date: 1800-00-00
+            - type: legitimate
+              locality: unknown
+              date_type: approx_year
+              date: 1800-00-00
+            - type: remark
+              locality: Nordholz
+              date_type: approx_year
+              date: *event_date
+              details: "Anerbe, principal heir"
+        - key: &father2 'father2'
+          given: Carl Heinrich Gottlieb
+          surname: Krückeberg
+          gender: male
+          facts:
+            - type: residence
+              locality: Bärenbusch
+              address: 8
+              person: father2
+              date: 1826-10-15
+              date_type: known
+        - key: &daughter 'daughter'
+          given: Philippine Christine
+          surname: Krückeberg
+          gender: female
+          facts:
+            - type: marriage
+              locality: Petzen
+              date: *event_date
+              date_type: known
+            - type: approx_birth_year
+              locality: unknown
+              date: 1803-00-00
+              date_type: approx_year
+            - type: legitimate
+              locality: unknown
+              date: 1803-00-00
+              date_type: approx_year
+            - type: residence
+              locality: Bärenbusch
+              address: 8
+              date: 1826-10-14
+              date_type: known
+      relationships:
+        - type: parent_child
+          person1: *father1
+          person2: *son
+        - type: parent_child
+          person1: *father2
+          person2: *daughter
+        - type: husband_wife
+          person1: *son
+          person2: *daughter

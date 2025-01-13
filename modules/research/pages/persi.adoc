@@ -1,0 +1,235 @@
+= PERSI Articles on Adams County
+
+The PERSI search results for Adams county, Indiana, are link:https://www.genealogycenter.info/results_persilocation.php?cosearch=USA&usloc=IN&subloc=Adams[here].
+
+Below are the search results of interest that are from the categories of <<Cemeteries, Cemeteries>>, <<census-records, Census Records>>,
+<<church-records, Church Records>>, <<obituaries, Obituaries>>, <<naturalization, Naturalization>>, and <<tax-records, Tax Records>>. 
+
+== Cemeteries
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=CM&cosearch=USA&loc=IN&subloc=Adams&sort=title[Cemeteries] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|County Home burials, 1876-1918|**Adams County Trumpeter** +
+Vol. 4, Issue 1 (Apr 1985) +
+ACPL Call #: 977.201 Ad1hs|1985|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+
+|County home burials, 1876-1918|**Adams County Trumpeter** +
+Vol. 4, Issue 2 (Aug 1985) +
+ACPL Call #: 977.201 Ad1hs|1985|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+|===
+
+NOTE: I have not looked at these articles yet.
+
+== Census Records
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=CN&cosearch=USA&loc=IN&subloc=Adams&sort=title[Census Records] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|School Enumeration, Union Township, Adams County, Indiana, 20 September 1853|**Indiana Genealogist** +
+Vol. 13, Issue 3 (Oct 2002) +
+ACPL Call #: 977.2 IN2015|2002|**Indiana Genealogical Society** +
+POB 10507 +
+Fort Wayne, IN 46852
+|===
+
+NOTE: The article "School Enumeration, Union Township, Adams County, Indiana, 20 September 1853" mentions Charles and Henry
+Kruckenbarger.
+
+== Church Records
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=CP&cosearch=USA&loc=IN&subloc=Adams&sort=title[Church Records] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|German Reformed Zion congregation, Decatur|**Hoosier Genealogist** +
+Vol. 20, Issue 2 (Jun 1980) +
+ACPL Call #: 977.2 In2471h|1980|**Indiana Historical Society** + 
+450 West Ohio Street +
+Indianapolis, IN 46202-3269
+
+|Immanuel Lutheran Church's 150th anniversary, 1840-1999|**Adams County Trumpeter** +
+Vol. 17, Issue 2 (Apr 1999) +
+ACPL Call #: 977.201 Ad1hs|1999|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733 
+
+|Zion Evan. Luth. church, Friedheim|**Indiana Genealogist** +
+Vol. 7, Issue 3 (Sep 1996) +
+ACPL Call #: 977.2 IN2015|1996|**Indiana Genealogical Society** +
+POB 10507 +
+Fort Wayne, IN 46852
+
+|Zion Evan. Luth. parish register, Friedheim|**Indiana Genealogist** +
+Vol. 7, Issue 1 (Mar 1996) +
+ACPL Call #: 977.2 IN2015|1996|**Indiana Genealogical Society** +
+POB 10507 +
+Fort Wayne, IN 46852
+
+|Zion Evan. Luth. parish register, Friedheim|**Indiana Genealogist** +
+Vol. 7, Issue 2 (Jun 1996) +
+ACPL Call #: 977.2 IN2015|1996|**Indiana Genealogical Society** +
+POB 10507 +
+Fort Wayne, IN 46852
+|===
+
+NOTE: I have not looked at these articles yet.
+
+== Military Records
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=ML&cosearch=USA&loc=IN&subloc=Adams&sort=title[Military Records (of Interest)]
+[cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|Civil War soldiers list, 1893 |**Adams County Trumpeter** +
+Vol. 11, Issue 3 (Oct 1993) +
+*ACPL Call #:* 977.201 Ad1hs |1993 |**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+|Civil war, Co. H. 98th regt. IN |**Adams County Trumpeter** +
+Vol. 6, Issue 2 (May 1988) +
+*ACPL Call #:* 977.201 Ad1hs |1988 |**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+|===
+
+== Obituaries
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=OB&cosearch=USA&loc=IN&subloc=Adams&sort=title[Obituaries] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|How to use the Decatur Daily Democrat obituary index online|Adams County Genealogical Society Newsletter +
+Issue 45 (Jul 2008) +
+ACPL Call #: 977.201 Ad1gs|2008|**Adams County Indiana Genealogical Society** +
+P.O. Box 33 +
+Geneva, IN 46740
+|===
+
+NOTE: I have not looked at this articles yet.
+
+== Other Records
+
+.Adams county, Other Records (Misc)
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=OT&cosearch=USA&loc=IN&subloc=Adams&sort=title[Other Records Misc)]
+[cols="3,3,1,2",]
+|===
+|Eagle excerpts, 1866-67, Decatur|**Adams County Trumpeter** +
+vol. 9, Issue 1 (Feb 1991) +
+**ACPL Call #**: 977.201 Ad1hs|1991|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+
+|Eagle, 1873|**Adams County Trumpeter** +
+vol. 6, Issue 2 (May 1988) +
+**ACPL Call #**: 977.201 Ad1hs|1988|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+
+|Petition, 1842 |*Adams County Trumpeter* +
+Vol. 10, Issue 1 (Feb 1992) +
+*ACPL Call #:* 977.201 Ad1hs* |1992 |**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+
+|Pioneers renew acquaintances, 1895 news item |**Adams County
+Trumpeter** +
+Vol. 12, Issue 2 (Apr 1994) +
+*ACPL Call #:* 977.201 Ad1hs* |1994 |**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+|===
+
+[IMPORTANT]
+.Important Comments
+====
+The article "Pioneers renew acquaintances, 1895" did not mention any of our ancestors or those they knew best.
+I did mentioned on German pioneer whose surname was Steele.
+
+The article "Eagle, 1873" (which has excerpts from the Eagle from April 12, 1867 to April 11, 1873) has this comment: **Microfilm in Decatur Library**. Therefore it likely
+has microfilm of other similiar early issues of the **The Eagle** newspaper.
+
+I still have to read the article above nor the "Eagle, excerpts, 1866-67"
+====
+
+== Naturalization
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=NT&cosearch=USA&loc=IN&subloc=Adams&sort=title[Naturalization] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|Naturalization index, A-K|**Adams County Trumpeter** +
+Vol. 6, Issue 3 (Oct 1988) +
+ACPL Call #: 977.201 Ad1hs|1988|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+
+|Naturalization index, K-Z|**Adams County Trumpeter** +
+Vol. 7, Issue 1 (Apr 1989) +
+ACPL Call #: 977.201 Ad1hs|1989|**Adams County Historical Society** +
+POB 262 +
+Decatur, IN 46733
+|===
+
+IMPORTANT: This article mentions numerous individualsl, including Bleeke, Kleinschmidt (which is misspelled), Krueckeberg, etc.
+
+== Tax Records
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=TX&cosearch=USA&loc=IN&subloc=Adams&sort=title[Tax Records] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|Assessor's statement of agricultural products, 1853|**Adams County Genealogical Society Newsletter** +
+Issue 31 (Dec 2002) +
+ACPL Call #: 977.201 Ad1gs|2002|**Adams County Indiana Genealogical Society** +
+P.O. Box 33 +
+Geneva, IN 46740
+|===
+
+IMPORTANT: While the "Assessor's statement of agricultural products, 1853" applies to French township only, it
+tells us that there are likely assessments from the same timeframe of Preble and Union townships available in the
+Adams's County Assessor's/Auditor's Office.
+
+== Vital Records
+
+[caption="PERSI search results for: "]
+.Adams County > link:https://www.genealogycenter.info/results_persilocation_detail.php?rectype=VR&cosearch=USA&loc=IN&subloc=Adams&sort=title[Vital Records] (of Interest)
+[%autoheader,cols="3,3,1,2"]
+|===
+|Article Title|Periodical|Year Published|Publisher
+
+|Marriages, 1836-44|**Hoosier Genealogist** +
+Vol. 18, Issue 4 (Dec 1978) +
+ACPL Call #: 977.2 In2471h|1978|**Indiana Historical Society** +
+450 West Ohio Street +
+Indianapolis, IN 46202-3269
+
+|Marriages, 1844-49|**Hoosier Genealogist** +
+Vol. 34, Issue 2 (Jun 1994) +
+ACPL Call #: 977.2 In2471h|1994|**Indiana Historical Society** +
+450 West Ohio Street +
+Indianapolis, IN 46202-3269
+|===
+
+NOTE: I have not looked at these articles yet.

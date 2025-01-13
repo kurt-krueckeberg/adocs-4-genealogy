@@ -1,0 +1,6 @@
+= Ancestral Sites on Google Earth
+
+You can view ancestral sites on link:https://earth.google.com/earth/d/1iqKtO6TLMhBl3N6QWNwtLlunkncqQoak?usp=sharing[Google Earth]. Use the
+**Table of contents** in the lower left corner to fly to each site:
+
+image::table-of-contents.jpg[title="Table of Contents",xref=image$table-of-contents.jpg]

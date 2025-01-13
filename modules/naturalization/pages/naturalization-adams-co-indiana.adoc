@@ -1,0 +1,82 @@
+= Naturalization Records, Adams CO IN
+
+The October 1988 issue of the Adams County Trumpeter in an article on naturalization records explained the role 
+the naturalization index as part of the xref:research:wpa-hrs.adoc[WPA Historical Survery]
+ 
+[quote, Naturalization, Adams County Trumpeter, October 1988]
+____
+The US Department of Justice sponsored a nationwide project from October, 1941, to April, 1942, to locate and index these
+records. We are fortunate that all 92 counties in the state of Indiana participated in the project which was administered by
+the Division of Community Services Programs, Works Projects Administration. War effort superseded completion of the project
+nationwide. The completed index survey files were found in the late seventies in the archives division of the Indiana State
+Library. The family history section of the Indiana Historical Society became interested in the files and in 1981 published
+“An Index to Indiana Naturalization Records Founded Various Order Books of the 92 Local Courts Prior to 1970” close quote a
+copy is still available for $10 to members and $20 to non-members from the Indiana Historical Society….
+____
+
+The index gives:
+
+1. the person's name
+2. the name of the court order book, and
+3. the page number within the book.
+
+Among others, these names of interest appeared in the October 1988 and the 
+
+[caption="Synopsis of Persons of Interest: "]
+.in Naturalization Indexes publish in the Adams County Trumper
+[%header,cols="4,2,1,1"]
+|===
+|Name|Court|Order Book|Page
+
+|Blake, Christian|Circuit|B|180
+
+|Blake, Christian F.|Circuit|B|180
+
+|Blake, Christina|Circuit|B|180
+
+|Blake, Louisa|Circuit|B|180
+
+|Blake, Sophia|Circuit|B|180
+
+|Bleeke, Christian|Circuit|A|427
+
+|Blake, Sophia|Circuit|B|180
+
+|Book(Buuck), Conrad|Circuit|A|265
+
+|Book(Buuck), Ernst|Circuit|A|265
+
+|Book(Buuck), Ernst|Probate|A|436
+
+|Book(Buuck), Frederic|Circuit|A|42
+
+|Book(Buuck), Frederick|Circuit|A|250
+
+|Book(Buuck), Frederic|Circuit|C|4
+
+|Klainsmith(Kleinschmidt), Christian|Circuit|A|41
+
+|Klanesmith, Christian|Circuit|A|41
+
+|Klinesmith, Christian|Circuit|A|381
+
+|Koldewie, Ludwick|Circuit|D|314
+
+|Kreickeberg, Carolina|Circuit|B|526
+
+|Kreickeberg, Christian|Circuit|B|526
+
+|Kreickeberg, John|Circuit|D|317
+
+|Kreickeberg, John Henry|Circuit|B|526
+
+|Kreickeberg, Phillip|Circuit|B|526
+
+|Kreickeberg, Charles|Circuit|C|13
+
+|Kritzman, Henry|Circuit|D|342
+
+|Kruckenberg, Charles|Circuit|Y|74
+|===
+
+

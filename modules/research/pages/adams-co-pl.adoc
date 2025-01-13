@@ -1,0 +1,41 @@
+= Adams County Public Library Volumes
+
+Genealogy-related volumes in the Indiana Reference section, Adams County Public Library, Decatur Indiana.
+
+[caption="Adams County, Public Library, Decatur IN: "]
+.Indiana Referene, Adams County 
+[cols="70%,30%"]
+|===
+| Volume | Call #er 
+
+|**Title:**: link:[Index of files administrationships, Adams County, Indiana, book no. 1, 1841-1968]|INREF 929.3 HEL
+
+|**Title:**: link:[Tract book, Adams County, Indiana : with index of deeds]. 
+
+**Description:** Record of ownership of land in Adams County.|INREF 929.3 LOC
+
+|**Title:**: link:https://apls.evergreenindiana.org/Record/5200817?searchId=4647715&recordIndex=1&page=1[Tract book of Adams County, Indiana, 1838-1851]. 
+
+**Description:** Shows ownership of land in Adams County in 1838-1851.| INREF 929.3 TRA
+
+|**Title:**: link:https://apls.evergreenindiana.org/Record/5200817?searchId=4647715&recordIndex=1&page=1[Index to supplemental record: marriage applications, Adams County, letters A-Z].
+
+**Description:** Indiana Work Progress Administration| INREF VR IN ADAMS
+
+|**Title:**: link:https://apls.evergreenindiana.org/Record/5237213[Index to supplemental record: marriage transcript, Adams County, Letters A-Z]. 
+
+**Description:** 
+Register of marriage transcripts from the County Clerk's office in Decatur.|INREF VR IN ADAMS
+
+| link:https://apls.evergreenindiana.org/Record/5237314[Marriage License Book A, 1836-1844]. 
+
+**Description:** Adams County marriage license from 1836-1844| INREF VR IN ADAMS
+
+|**Title:**: link:https://apls.evergreenindiana.org/Record/5237705[Index to census of 1870 and 1880, Adams County, IN]| INREF CENSUS IN-AD 1870
+
+|**Title:**: link:https://apls.evergreenindiana.org/Record/5237319[Will Books A and B, 18337-1888]. 
+
+**Description:** Adams County wills from 1837-1888.|INREF CENSUS IN-AD 1870
+|===
+
+

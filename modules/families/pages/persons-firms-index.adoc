@@ -1,0 +1,60 @@
+= Families in Adams County, Indiana Index of Names of Persons & Firms
+
+The volume _Adams County, Indiana Index of Names of Persons & of Firms_, available link:https://www.familysearch.org/library/books/records/item/321749-adams-county-indiana-index-of-names-of-persons-and-of-firms[online]
+also well as in the Genealogy Center (call #er **977.201 Ad1aa**), is a product of the xref:research:wpa-hrs.adoc[WPA Historical Survey]. 
+
+As well as Blakey, Bleeke, Thieme, Schamerloh, etc, the surnames **Kruckeberger**, **Kruekeberg** and **Kukeberger** appear.
+
+_Adams County, Indiana Index of Names of Persons & of Firms_ provides cross references to four volumes, using a one- or two-character
+symbol followed by the page number:
+
+[caption="Volumes Cross Referenced by: "]
+.Adams County, Indiana Index of Names of Persons & Firms
+[cols="6,1"]
+|===
+|Volume|Symbol
+
+|link:https://archive.org/details/biographicalhistawcty01chic/page/n1/mode/2up[Biographical and Historical
+Record of Adams and Wells Counties]; Indiana, Lewis Publishing Co.; 1887|**B**
+
+|link:https://archive.org/details/reminiscencesofa00lync/page/n1/mode/2up[Reminiscences of Adams, Jay and
+Randolph Counties]; Lynch, Martha C.; Fort Wayne, 1897?|**L**
+
+|link:https://archive.org/details/snowshistoryofad00snow/page/n3/mode/2up[Snow's History of Adams County,
+Indiana]; Snow, J. F.; Indianapolis, 1907|**S**
+
+|link:https://archive.org/details/standardhistoryo02tynd/page/n3/mode/2up[Standard History of Adams and Wells
+Counties, Indiana, vol. 2]; Tyndall, John W. and Lesh. O. E.; Lewis Publishing Co., 1918|**T2**
+|===
+
+
+[caption="Selected Surnames: "]
+.Adams County, Indiana Index of Names of Persons & of Firms
+|===
+|Name|page #er|Cross references: Symbol + page #er
+
+|Blakey/Bleeke|link:https://www.familysearch.org/library/books/viewer/321749/?offset=#page=33&viewer=picture&o=info&n=0&q=[27-29]|Numerous
+
+|Bleeke, Christian F., son of John H. Bleeke|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=33&viewer=picture&o=info&n=0&q=[27]|link:https://archive.org/details/biographicalhistawcty01chic/page/n537/mode/2up[B291],
+link:https://archive.org/details/snowshistoryofad00snow/page/n481/mode/2up[S235], link:https://archive.org/details/standardhistoryo02tynd/page/782/mode/2up[T2:783],
+link:https://archive.org/details/standardhistoryo02tynd/page/802/mode/2up[T2:804]
+
+|Blakey, John H. (1797-1883)|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=34&viewer=flip&o=info&n=0&q=[28]|link:https://archive.org/details/biographicalhistawcty01chic/page/n537/mode/2up[B291],
+link:https://archive.org/details/snowshistoryofad00snow/page/n169/mode/2up[S86]
+
+|Bleeke, John H. (1797-1883)|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=35&viewer=picture&o=info&n=0&q=[29]|link:https://archive.org/details/standardhistoryo02tynd/page/782/mode/2up[T2:782]
+
+|Buuck|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=54&viewer=picture&o=info&n=0&q=[48]|?
+
+|Kleinsmidt/Kleinkneight/Kleinknight|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=170&viewer=picture&o=info&n=0&q=[164]|?
+
+|Kirkenberg, Catherine|link:https://www.familysearch.org/library/books/viewer/321749/?offset=#page=168&viewer=picture&o=info&n=0&q=[162]|link:https://archive.org/details/snowshistoryofad00snow/page/n721/mode/2up[S352]
+
+|Kruckeberger, Caroline|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=176&viewer=picture&o=info&n=0&q=[170]|link:https://archive.org/details/snowshistoryofad00snow/page/n457/mode/2up[S223], link:https://archive.org/details/snowshistoryofad00snow/page/n735/mode/2up[S359]
+
+|Kruckerberger, Sophia|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=176&viewer=picture&o=info&n=0&q=[170]|link:https://archive.org/details/snowshistoryofad00snow/page/n737/mode/2up[S360]
+
+|Kruekeberg, Wilhelmena|link:https://www.familysearch.org/library/books/viewer/321749/?offset=0#page=176&viewer=picture&o=info&n=0&q=[170]|link:https://archive.org/details/snowshistoryofad00snow/page/n735/mode/2up[S359]
+|===
+
+

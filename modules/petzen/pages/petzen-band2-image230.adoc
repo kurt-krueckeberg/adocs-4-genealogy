@@ -1,0 +1,77 @@
+= 1794 Krückeberg or Croemer Begraben?
+:page-role: doc-width
+
+== Citation
+
+The begraben (burial) of Unknown Uncertain Krückeberg, on 29 May 1794, is on <<image230, page 485 entry 16>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+***
+.Krückeberg Surname Puzzle
+
+[IMPORTANT] 
+====
+In this entry for the death of Friederich Wilhelm, the **Krückeberg** surname appears twice:
+
+* It first appears above the underlined surname of the deceased child: Friderich Wilhem Croemer.
+* In the second instance, **Krückeberg** is written above the surname of the father, Johann Heinrich Cromer.
+
+What is the intention or meaning?
+
+No other death entry up to this has contained a second surname. The entry gives his father as a Croemer(Crömer/Krömer). Did Friderich Wilhelm
+Croemer die in a Krückeberg family but was recorded with his biological parents? Is there the remote possibilty his father was a Krückeberg,
+but he got recorded with the "wrong" father (or mother)?
+
+To answer these questions would require researching the Cromer parents mentioned in this entry, looking for any previous marriages. All Krückeberg
+entries that name as child named Friederich/Friedrich Wilhelm also need to be noted.
+
+Someone who might have help answer this two-surname puzzle would be an archivists in the Niedersächisches Landarchiv (Lower Saxony State Archives).
+Emailing this question to the the Niedersächisches Landarchiv would be worthwhile.
+
+But for now, the plan is finish recording the rest of the church registers Krückeberg entries and revisit this question later.
+====
+
+***
+
+=== Page 485
+
+Overview:
+
+image::petzen-band2-img230-overview.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge), xref=image$petzen-band2-img230-overview.jpg]
+
+Page 485, entry 16:
+
+image::petzen-band2-img230-entry16.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge), xref=image$petzen-band2-img230-entry16.jpg]
+
+[NOTE]
+.Comments
+====
+In the image the surname [.underline]#Croemer# is underlined, denoting the deceased. Why the surname **Kruckeberg** (appended with a colon the first
+time) also appears is unclear?
+
+Also the month of May is written in entry 14 and applies to entreis 15 and 16.
+====
+
+.Transliteration of page 485, entry 16
+```text
+                                      Kruckeberg:       
+16) d 29 ist beerdigt Friedrich Wilhelm Croemer des Johann
+         krückebergs [written above]
+Heinrich cromers aus evesen no 19 mit seiner ehefrau
+Anne Catharine Sophie geb. [Brömann?] erzeugter Sohn
+seine krankheit war der Husten u. Sch[ur]kgen. sein alter
+war 3 und ?/4 Jahr.
+                                                  kruckeberg:          
+16) the 29th [of May: see entry 14] Friedrich Wilhelm Cromer was buried 
+the begotten son of 
+         Krückebergs [written above]
+heinrich cromers from evesen no 19 and his wife 
+anne catharine sophie geb. [???m?rn?] 
+his illnes was coughing[literally: the cough] and [uncertain]. his age 
+was 3 and ?/4 years.
+```
+
+
+[bibliography]
+== References
+
+* [[[image230]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/715d70f09b/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 230 of 357

@@ -1,0 +1,195 @@
+= Buuck Family Questions
+:page-role: doc-width
+
+== Is 'Fredrick Buck' the 'Ernst Friedrich Buuck'?
+
+A **Fredrick Buck** of Adams county, Indiana, was awarded a xref:land-records:attachment$Buck_Frederick_Land_Patent_Adams_CO_IN.pdf[Land Patent]:
+
+[quote, Award of land patent to Frederick Buck of Adams county, Indiana]
+.Frederick Buck awarded land patent
+____
+**Frederick Buck** according to the provisions of
+the Act of Congress of the 24^th^ of April, 1820, entitled "An Act making
+provision for the sale of Public Land," for
+____
+
+It was awarded on **5 August 1837**:
+ 
+[quote, Award of land patent to Frederick Buck of Adams county, Indiana]
+.Date of award
+____
+fifth day of August in the Year of our Lord one thousand eight hunder and thirty seven... 
+____
+
+The legal description of tract of land (in Public Land Survey System) is to land
+in **Township 28 North, of Range 13 East, Section 10**:
+
+[quote, Award of land patent to Frederick Buck of Adams county, Indiana]
+.The Land Patent's legal description of the tract of land:
+____
+the South East quarter of Section ten and the West half of the South West
+quarter of Section eleven in Township twenty 28 North of Range thirteen East
+in the District of lands subject to sale at Fort Wayne, Indiana, containing
+two hundred and forty acres.
+____
+
+Question: Is this Ernst Friedrich Buuck of Preble township, Adams county, Indiana?
+
+== Is This the 1836 Arrival of Friedrich Buuck (born abt. 1800) Family?
+
+Passenger link:https://www.ancestry.com/imageviewer/collections/7488/images/NYM237_31-0120?pId=1022455917[Arrival List] on Ancstry.com
+of Ship **Birg Sophie** from Bremen, [1?]st arrived August 1836.
+
+[caption="Buck family members for: "]
+.Propsective Arrival of Friedrich Buuck (born abt. 1800) with this family from Bremen
+[%autowidth,frame="none",grid="rows"]
+|===
+|Line No.|Name|Years (age)|Months(age)|Sex|Occupation|The Community to which they [generally?] belong|The [??] in which they intent to [??] [habitation?]|Died on the Voyage
+
+|25|Frederick Buck       |35|9||Farmer|Wind[heim?]||Michigan
+
+|26|Margaret Kleinschmidt|35|-||      |D[for ditto?]||D[for ditto?]
+
+|27|Charolotte Buck|15|6||D[for ditto?]|||D[for ditto?]
+
+|28|Sophie Buck|12|6||D[for ditto?]|||D[for ditto?]
+
+|29|Louise Buck|5|-||D[for ditto?]|||D[for ditto?]
+
+|30|Diedrich Buck|2|6||D[for ditto?]|||D[for ditto?]
+|===
+
+The children of Ernst Friedrich Conrad Buuck and ?? Kleinschmidt documented in the U.S. Census are:
+
+[caption="Family Members Documented in U.S. Census"]
+[%autowidth,frame="none",grid="rows"]
+|===
+|Name|Birth Date|Place of birth
+
+|25|Frederick Buck       |35|9||Farmer|Wind[heim?]||Michigan
+
+|26|Margaret Kleinschmidt|35|-||      |D[for ditto?]||D[for ditto?]
+
+|27|Charolotte Buck|15|6||D[for ditto?]|||D[for ditto?]
+
+|28|Sophie Buck|12|6||D[for ditto?]|||D[for ditto?]
+
+|29|Louise Buck|5|-||D[for ditto?]|||D[for ditto?]
+
+|30|Diedrich Buck|2|6||D[for ditto?]|||D[for ditto?]
+|===
+
+
+TODO: Find the births of the children in the Windheim church records on Archion.
+
+
+[caption="Transliteration: "]
+.Baptism Entry No. 128
+[cols="1,3,1,1,2,2,4,2,4,4,1,1,1,1,2",%header,frame="none"]
+|===
+|[Buch?] +
+Nr|Wohn Ort +
+und +
+Haus Num.|männlich|weiblich|Monat Tag Stunde +
+der +
+Geburt|Monat Tag Stunde +
+der +
+Taufe|Vor. und Zu _ Name des Vaters u[nd] +
+der Mutter, [St]and, Gewerbe `_` Alter|Wie lange +
+die Eltern +
+in der [Ehe?]|TaufZeugen +
+Nach[?ischt] des +
+Kind geboren ist +
+geboren ist|Geschlechts und Familien +
+Name des getauft Kindes|der +
+[??] +
+Sohn|die +
+[???] +
+Tochter|[Evidently: Total No. +
+of Children]|[uncertain]|Bemerkungen +
+Todes Tag und +
+Jahr
+
+|129
+|Windheim +
+109
+|68
+|-
+|[vierten?] +
+4ten Novbr. +
+Morg. 7 Uhr
+|10 Novbr
+|Ernst Diedrich Buuck [?] 29 +
+Christine Wilhelmine Dörmanns 22
+|28 Novbr +
+1830
+|18 Januar 1831 +
+Conrad Dörmann 78. +
+Friedrich Buuck 47
+|Ernst Friedrich Conrad +
+Buuck
+|1
+|1
+|2
+|-
+|[??sch ??ttog].
+|===
+
+NOTE: I believe--though I'm not certain, since the header does not denote this--that the "fourth" written above the date and time of birth
+may indicate the birth order of the child.
+
+The translation follows below:
+
+[caption="Translation: "]
+.Baptism Entry No. 128
+[cols="1,3,1,1,2,2,4,2,4,4,1,1,1,1,2",%header,frame="none"]
+|===
+|[??] +
+No.|Place of Residence +
+and +
+House Num.|male|female |Month Day Hour +
+of Birth|Month Day Hour +
+of Baptism|Given and Last Name of the Father and +
+the Mother, Occupation, Type of work `_` Age|How long +
+the Parents +
+married?|Baptism Sponsers[godparents] +
+[uncertain] of the +
+child born|Sex und Family +
+Name of the baptized Child|the +
+[number of?] +
+son[s]|the +
+[number of?] +
+Daughters|[Evidently: Total No. children]|[uncertain]|Remarks +
+Day of Death and +
+Year
+
+|[??] +
+129
+|Windheim +
+109
+|68
+|-
+|[fourth] +
+4th Nov. +
+7 a.m. 
+|10 Nov.
+|Ernst Diedrich Buuck [?] 29 +
+Christine Wilhelmine Dörmanns 22
+|28 Nov. +
+1830
+|18 Janary 1831 +
+Conrad Dörmann 78. +
+Friedrich Buuck 47
+|Ernst Friedrich Conrad +
+Buuck
+|1
+|1
+|2
+|-
+|[uncertain].
+|===
+
+
+
+
+

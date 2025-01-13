@@ -1,0 +1,67 @@
+= Carl Friedrich Krückeberg's Naturaltion Declaration
+
+== Summary
+
+In order to apply for and purchase land from the federal government, you had to either be native-born or have made your
+declaration to naturalize (started the first step in the naturalization process).  See:
+xref:naturalization:attachment$naturalization-lecture-handout.pdf[U.S. Naturalization: The Records, the Laws, and the
+Impact].
+
+The children of the father who immigrated automatically became U.S.  citizens when the father completed his naturalization.
+They did not have to go through the naturalization process. If the father died after declaring his intention to naturalize,
+but before he completed the 2nd step, the children still were automatically naturalized. The wife/mother's naturalization was
+completely tied to her husband.
+
+The timeline for Carl Friedrich Krückeberg is:
+
+* On *19 November 1850*, he and his family <<arrival, arrived in New York City>>.
+Then they had to travel to Fort Wayne (likely using the Wabash-Erie
+canal system).
+* On *16 December 1850*, Carl Friedrich Krückeberg went to the Fort
+Wayne land office and applied and paid for a tract of federal land under
+the Swaplands Act. He must therefore have *declared his intention to
+naturalize* beforehand. 
+* The <<obit1, News Sentinel obituary>> for his eldest son, Carl "Charles" Heinrich Wilhelm Krückeberg (1835-1915)
+states:
++
+[quote, Fort Wayne News Sentinel, 18 December 1915, page 3]
+____
+He was born in German and brought by his parent to the United States...
+The family lived for a time in Fort Wayne, where his father was engaged
+in the tailoring business.
+____
+
+* The <<obit2, Journal Gazette obituary>> for Carl Heinrich Wilhelm Krückeberg states:
++
+[quote, Fort Wayne Journal Gazette, 18 December 1915, page 6]
+____
+When fifteen years of age, the family settling in Fort Wayne, where
+the subject of this sketch was engaged in the tailoring business with
+his father.
+____
+
+
+The family was living in Fort Wayne when Carl Friedrich applied and paid for a tract of federal land on 16 December 1850. It
+is therefore likely he made his declaration of intention to naturalize in a Fort Wayne court, either at the end of November
+1850 or the beginning of December 1850. He might have made the declaration to naturalize in Decatur, but I'd look first in
+the court records of Allen county, which Family Search has digitized.
+
+**Question:** You had to have made your Declaration of Intention to naturalization, if you wanted to apply for and purchase
+federal land in the Public Domain states like Indidana, but if you had to wait two years to first make your Declaration of
+Intention for naturaliztion, then how could someone like CFK apply and pay for federal land within 30 days of his arrival?
+
+== Records to Look For
+
+Since the Genealogy Center is an affiliated institution of the Family
+History Library, you will be able to view the digitized court records of
+Allen and Adams counties in the Genealogy Center.
+
+
+[bibliography]
+== References
+
+* [[arrival]] "New York City, New York, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:939V-5G7J-5?view=index : Oct 31, 2024), image 524 of 869; United States. National Archives and Records Administration.
+"New York City, New York, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:939V-5G7J-5?view=index : Oct 31, 2024), image 524 of 869; United States. National Archives and Records Administration.
+* [[obit1]] Fort Wayne News Sentinel, 18 December 1915, page 3 (https://drive.google.com/file/d/1rgAuwZNrugu4jrZdEubf1MJP2Jswho2I/view?usp=sharing : 30 October 2024), personal copy of digital image on my Google Drive.
+* [[obit2]] Fort Wyane Journal Gazette, 18 December 1915, page 6 (https://drive.google.com/file/d/1j4CbMceF5rv7tLq_MdrIay8n_l8xs2JS/view?usp=sharing : 30 October 2024), person copy of digital image on my Google Drive. 
+

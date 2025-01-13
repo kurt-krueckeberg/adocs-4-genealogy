@@ -1,0 +1,26 @@
+= Sample Family Group Sheet
+
+Finish this default template using the NGS link:https://www.ngsgenealogy.org/wp-content/uploads/2018/11/Family_Group_Sheet_NGS_Final.pdf[Family Group Sheet].
+
+[caption="Family Group Sheet: "]
+.Friedrich Heinrich Surname
+[width="70%",cols="<.>1,<.>5,<.>5",frame=none,grid=rows]
+|===
+| |Name and/or Date |Place
+
+|pass:[<span style="font-size:larger; font-weight:bold;">Husband:</span]
+|Bob Somebody
+|Frille
+
+s|Birth:
+|yyy
+|zzzzz
+
+|pass:[<span style="font-size:larger; font-weight:bold;">Mother:</span]
+|Susan Somebody
+|Evesen
+
+s|Birth:
+|bbb
+|zzzzz
+|===

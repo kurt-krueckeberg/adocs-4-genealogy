@@ -1,0 +1,11 @@
+.Persons
+* Bleeke
++
+--
+include::partial$nav-bleeke.adoc[]
+--
+* Krückeberg 
++
+--
+include::partial$nav-krueckeberg.adoc[]
+--

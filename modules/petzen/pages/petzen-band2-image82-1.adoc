@@ -1,0 +1,81 @@
+= 1803 Sophie Caroline Krückeberg Birth
+:page-role: doc-width
+
+The birth is recorded on <<image82-158-entry23, image 82, entry 23, on page 158>> and  <<image82-159-entry23, image 82, entry 23, on page 159>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+The birth entries spans across both pages 158 and 159.
+The birth month of **`Jul`** is written on page 159 slightly above the text of entry 22.
+
+== Overview of Pages 158 and 159
+
+This is an overview of the first 33 entries of pages 158 and 159:
+ 
+image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to enlarge)", xref=image$petzen-band2-img82-overview.jpg]
+
+[sidebar]
+****
+[NOTE]
+.Abbreviations in the Header
+====
+The word before **Schumb Lipp** is uncertain. Is it an administrative term, either governmental or religious?
+====
+****
+
+[caption="Transliteration: "]
+.page header
+[cols="l",%autowidth,frame="none",options="noheader"]
+|===
+|158                                        1803                                  1803                               159
+    Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den im[rest uncertain] Schumb Lipp  Dorfschaften  
+    Births from the [uncertain] Schaumburg-Lippe Villages                       Births from the  [uncertain] Schaumburg-Lippe Villages      
+|===
+
+== Pages 158 and 159
+
+Birth entry 23:
+
+image::petzen-band2-img82-entry23-158.jpg[title="Entry 23, page 158 portion (Click to enlarge)", xref=image$petzen-band2-img82-entry23-158.jpg]
+
+image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Click to enlarge)", xref=image$petzen-band2-img82-entry23-159.jpg]
+
+[caption="Transliteration: "]
+.birth of Sophie Caroline Krückeberg in 1803
+[%header,%autowidth.stretch,frame="none"]
+|===
+10+l|158                                        1803                                  1803                               159
+    Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den [uncertain] Schumb Lipp  Dorfschaften  
+    Births from the [uncertain] Schaumburg-Lippe Villages                       Births from the  [uncertain] Schaumburg-Lippe Villages      
+
+s|No s|Namen des Kindes s|Namen des Vaters s|Stand s|Dorfschaft s|N s|Namen der Mutter s|gebo. s|get. s|Namen der Gewattern 
+
+|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
+
+|23
+|Sophie Caroline
+|Joh Heinr: Krückeberg
+|[Hausherr?]
+|Evesen
+|19
+|Catha:Soph:geb: Krömer
+|Jul 21
+|Jul 31
+|Soph: Ernestine Wilharm aus Evesen
+
+|23
+|Sophie Caroline
+|Johann Heinrich Krückeberg
+|[landlord?]
+|Evesen
+|19
+|Catha:Soph:born: Krömer
+|21
+|31
+|Sophie Ernestine Wilharm from Evesen
+|===
+
+
+[bibliography]
+== References
+
+* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
+* [[[image82-159-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/10fd9445da/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357

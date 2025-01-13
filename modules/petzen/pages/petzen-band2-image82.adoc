@@ -1,0 +1,146 @@
+= Image 82 1803
+:page-role: doc-width
+
+== Sophie Caroline Krückeberg 1803
+
+The birth is recorded on <<image82-158-entry23, image 82, entry 23, on page 158>> and  <<image82-159-entry23, image 82, entry 23, on page 159>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+The birth entries spans across both pages 158 and 159.
+The birth month of **`Jul`** is written on page 159 slightly above the text of entry 22.
+
+=== Overview of Pages 158 and 159
+
+This is an overview of the first 33 entries of pages 158 and 159:
+ 
+image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to enlarge)", xref=image$petzen-band2-img82-overview.jpg]
+
+[sidebar]
+****
+[NOTE]
+.Abbreviations Used in the Header
+====
+By comparing this page with prior pages, it is clear this page header contains two words that are an abbreviation for (the
+adjective form) of the principality of Schauburg-Lippe: **Schaumburg-Lippischen**.
+
+These two words come immediately before **Dortschaften**. They are hurried written as: **Schumb Lipp**
+
+The word before this two-word abbreviation is uncertain. It likely refers to the general area of villages that belonged to the Petzen parish.
+Perhaps it is its administrative term, either governmental or religious. 
+====
+****
+
+[caption="Transliteration: "]
+.page header
+[cols="l",%autowidth,frame="none",options="noheader"]
+|===
+|158                                        1803                                  1803                               159
+    Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den [uncertain] Schumb Lipp  Dorfschaften  
+|===
+
+[caption="Translation: "]
+.page header
+[cols="l",%autowidth,frame="none",option="noheader"]
+|===
+|158                                           1803                                  1803                            159
+       Births from the [uncertain] Schaumburg-Lippe Villages                       Births from the  [uncertain] Schaumburg-Lippe Villages      
+|===
+
+
+=== Birth Entry 23 Pages 158 and 159
+
+image::petzen-band2-img82-entry23-158.jpg[title="Entry 23, page 158 portion (Click to enlarge)", xref=image$petzen-band2-img82-entry23-158.jpg]
+
+image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Click to enlarge)", xref=image$petzen-band2-img82-entry23-159.jpg]
+
+[caption="Transliteration: "]
+.birth of Sophie Caroline Krückeberg in 1803
+[%autowidth,cols="1l,3l,3l,2l,2l,1l,3l,1l,1l,3l",frame="none",%header]
+|===
+|No|Namen des Kindes|Namen des Vaters|Stand|Dorfschaft|N|Namen der Mutter|gebo.|get.|Namen der Gewattern 
+
+|23
+|Sophie Caroline
+|Joh Heinr: Krückeberg
+|[Hausherr?]
+|Evesen
+|19
+|Catha:Soph:geb: Krömer
+|Jul 21
+|Jul 31
+|Soph: [Crestin?] Wilharm aus Evesen
+|===
+
+
+[caption="Translation: "]
+.birth of Sophie Caroline Krückeberg in 1803
+[%autowidth,cols="1,3,3,2,2,1,3,1,1,3",frame="none",%header]
+|===
+|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
+
+|23
+|Sophie Caroline
+|Johann Heinrich Krückeberg
+|[landlord?]
+|Evesen
+|19
+|Catha:Soph:geb: Krömer
+|21
+|31
+|Sophie [Crestin?] Wilharm from Evesen
+|===
+
+== Christine Philippine Krückeberg 1803
+
+The birth is recorded on <<image82-158-159-entry40, image 82, entry 40, on pages 158 and 159>>.
+The birth month of **`Decbr`** is written on page 159 slightly above the numbers `7 11` on page 159.
+
+=== Birth Entry 40 Pages 158 and 159
+
+image::petzen-band2-img82-entry40-158.jpg[title="Entry 40, page 158 portion (Click to enlarge)", xref=image$petzen-band2-img82-entry40-158.jpg]
+
+image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Click to enlarge)", xref=image$petzen-band2-img82-entry40-159.jpg]
+
+[caption="Transliteration: "]
+.birth of Christine Philippine Krückeberg in 1803
+[cols="1m,3m,3m,2m,2m,1m,3m,1m,1m,3m",frame="none",%header]
+|===
+|No|Namen des Kindes|Namen des Vaters|Stand|Dorfschaft|N|Namen der Mutter|gebo.|get.|Namen der Gewattern 
+
+|40
+|Christine Philippine
+|Carl Fried: Krückeberg
+|Einlieger
+|Evesen
+|[empty]
+|Philipp: geb: Werkmeister
+|7
+|11
+|[Fr/Jr] Kruckeberg u. Weiland aus Berenb:
+|===
+
+
+[caption="Translation: "]
+.birth of Christine Philippine Krückeberg in 1803
+[cols="1m,3m,3m,2m,2m,1m,3m,1m,1m,3m",frame="none",%header]
+|===
+|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
+
+|40
+|Christine Philippine
+|Carl Friedrich Krückeberg
+|farm laborer
+|Evesen
+|[empty]`
+|Philippine nee Werkmeister
+|Dec 7
+|Dec 11
+|[Mrs./Misses] Kruckeberg and Weiland from Berenb:
+|===
+
+
+[bibliography]
+== References
+
+* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
+* [[[image82-159-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/10fd9445da/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
+* [[[image82-158-159-entry40]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/d873293f80/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357

@@ -1,0 +1,2 @@
+%s@^```{figure} images/\([^ ]\+\)@image::\1\[align=left,title="todo",xref=image$\1\]@
+%s@^```{list-table} \([^ ].\+\)@\[caption="todo"\]\r\.\1\r\[\%autowidth\]\r|===@ 

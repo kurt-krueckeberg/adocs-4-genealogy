@@ -1,0 +1,170 @@
+= Federal Land Records Overview
+
+When individuals successfully completed the purchase of land in the Public Domain land states (of Ohio, Indiana, Illinois, Michigan,
+Florida, Wisconsin, Alabama, Mississippi, Louisiana, Minnesota, Iowa, Missouri, and Arkansas), they were awarded a Land Patent by
+the federal General Land Office in Washington D.C. This represented the first deed. The process of applying to buy federal land
+was termed **land entry**, and the prospective buyer was called the **entryman**.
+
+The Land Ordinance Act of May 20, 1785, authorized the Treasury Department to survey and sell Public Domain land as a source of revenue. 
+
+The Act also established the policy of "survey before settlement" and used a link:https://www.familysearch.org/en/wiki/Rectangular_Surveys[
+rectangular survery system] (known also as the Public Land Survey System) that divided most of the land in the public domain into townships
+and sections. Later laws established local land offices to distribute the land. These were under the direction of the General Land Office
+(GLO) in Washington, D.C. (now known as the Bureau of Land Management).
+
+image::rectangular_survey_grid.jpg[title="Townnship Grid", xref=image$rectangular_survey_grid.jpg]
+
+The purchase process involved several steps and generated various documents. These documenmts were kept in a Land Entry case files
+maintained by the local Land Office that were later sent to the General Land Office in Washington, D.C.. For Adams county, Indiana,
+this office was in Fort Wayne.
+
+The related Northwest Ordinance of 1787 "set out a process by which land was to be organized as dependent territories and then as
+states fully equal in status to those already in the union."
+
+These two related Acts are dicussed on the Library of Congress webpage link:https://www.loc.gov/collections/pioneering-the-upper-midwest/articles-and-essays/history-of-the-upper-midwest-overview/northwest-and-ordinances/[The Northwest
+and the Ordinances, 1783-1858].
+
+== Land Acts
+
+Genealogist Kimberly Powel has create a link:https://learngenealogy.com/timeline-of-us-public-land-laws/[Genealogy Timeline of Land Acts].
+
+== Sources that Use Legal Descriptions of Land
+
+NOTE: This information is taken directly from link:https://www.familysearch.org/en/wiki/Grants_from_the_Federal_Government_(Public_Domain)#Obtaining_a_Legal_Description_of_the_Land[Legal Description of the Land] 
+on the FamilySearch wiki.
+
+The legal description of a parcel of land includes the
+https://www.familysearch.org/en/wiki/United_States_Land_Terms_and_Definitions[township&#44;
+range and section of] the property, or in the case of a great portion of Ohio bounty-warrant land, may include
+https://www.familysearch.org/en/wiki/United_States_Land_Terms_and_Definitions[metes and bounds].
+
+The following are places where a legal description of land may be found:
+
+* **Deeds** -- the written legal document transferring ownership of property.
+These are usually found at the county level. The FamilySearch Library has a
+collection of many older deed records for a large part of the counties and
+towns in the US. To access these records go to the FamilySearch Catalog 
+(www.familysearch.org) Place Search > County or Town > Land
+
+* **Tract books** -- If you know the general location of the land, you can
+search the tract books to obtain the legal description. They are arranged
+by the legal description of the land. Copies of Tract books are held by
+Family Search and may be 
+https://familysearch.org/search/image/index#uri=https://familysearch.org/recapi/sord/collection/2074276/waypoints[searched
+online].
++
+Tract books are divided into two geographical areas: Eastern States and
+Western States.
++
+** The **Western States** tract books are located in the
+http://www.archives.gov/dc-metro/washington/index.html[National Archives
+Building] in Washington D.C. and include Alaska, Arizona, California,
+Colorado, Idaho, Kansas, Montana, Nebraska, Nevada, New Mexico, North
+Dakota, Oklahoma, Oregon, South Dakota, Utah, Washington and Wyoming.
+The address for the National Archives is: +
++
+National Archives and Records Administration +
+700 Pennsylvania Avenue +
+Washington D.C. 20408-0001 +
++
+** The **Eastern States** tract books are held at the
+http://www.blm.gov/es/st/en/prog/lands.html[Bureau of Land Management]
+and include the states of Alabama, Arkansas, Florida, Illinois, Indiana,
+Iowa, Louisiana, Michigan, Minnesota, Mississippi, Missouri, Ohio and
+Wisconsin. The address for the Eastern States office is: 
++
+Eastern States Office, Bureau of Land Management +
+Department of the Interior (BLM-ESO) +
+7450 Boston Boulevard +
+Springfield, Virginia 22153 +
+Phone: 703-440-1523 +
++
+** The original tract books for many states may be found at the National
+Archives branch that serves the state. 
++
+** FamilySearch Library has microfilm of the track books beginning with
+https://www.familysearch.org/search/catalog/results#count=20&query=%2Bfilm_number%3A1445277[FS
+Library 1445277]. United States, Bureau of Land Management. _Tract
+Books_. Washington, D.C.: Records Improvement, Bureau of Land
+Management, 1957.
++
+** Bureau of Land Management also has copies at the
+http://www.cadastral.com/cad-off.htm[BLM offices] in Anchorage, Phoenix,
+Sacramento, Denver, Boise, Billings, Reno, Santa Fe, Portland (Oregon),
+Salt Lake City, and Cheyenne. You can search these records yourself, or
+the staff at the BLM offices will search the tract books for you for a
+fee. Most **state archives** also have copies for their states.
+
+* **Plat maps** -- represent a piece of land which has been subdivided,showing
+boundaries of the individual lots. In some cases a plat map may give
+reference to the original patent or tract. These may be found at the
+following places:
++
+** FamilySearch Library. To learn whether plat maps are available at the
+library, go to the FamilySearch Catalog at Place Search > County or town
+> Land or Maps.
++
+** State archives will often have plat maps.
++
+** Boyd, Gregory A. _Family Maps_ series of Land Patent Books published by
+http://www.arphax.com/[Arphax Publishing]. A series of Land Patent books
+including maps of settlers whose purchases are indexed in the
+http://www.glorecords.blm.gov/[U.S. Bureau of Land Management database].
+
+* **Federal plats **are another source for finding the legal description.
+They are often referred to as the “township plats.” Most of these are
+available at the http://www.cadastral.com/cad-off.htm[BLM offices
+]mentioned above or at the National Archives—Cartographic Branch. Each
+state archive may also have microfilm copies for the state.
+
+== Land Entry
+
+Land Entry refers to the initial application or filing made by an individual to claim a piece of public land from the
+government, essentially marking the first step in the process of acquiring legal title to that land, which ultimately
+culminates in the issuance of a land patent; it documents who applied for the land and where it is located. The entryma
+was the prospective buyer seeking a land patent.
+
+The local land offices of the General Land Office were staffed by two officials: a Register and a Receiver. The Register was
+responsible for maintaining the land records and registers, which included logging claims, deeds, and sales of public land. They
+ensured all transactions and land transfers were properly documented. The Register also issued certificates of purchase to
+individuals who bought land.
+
+The Receiver handled the financial aspect of land sales. Their responsibilities included receiving payments for land
+purchases, issuing receipts, and managing the funds collected from land sales. The Receiver worked closely with the Register
+to ensure proper accounting of all transactions.
+
+Together, these two officials ensured the orderly sale and distribution of public land as part of the broader mission of the
+General Land Office.
+
+== Land Entry Case Files
+
+The most important records for genealogical purposes are the Land Entry Case Files stored at the National Archives.
+
+Land Entry Case File::
+
+**From:** link:https://www.archives.gov/files/publications/ref-info-papers/rip114.pdf[Research in the Land Entry Files of the General Land Office] +
++
+Land entry case files comprise the paperwork accumulated by a local U.S.  land office in administering a land entry
+application. Once the legal requirements governing a land entry were met, whether by a cash payment, surrender of a
+bounty land warrant, or proof of residency and improvements, officials at the local land office forwarded the case file
+to the headquarters of the General Land Office (GLO) in Washington, DC, along with a final certificate that declared it
+eligible for a patent. There the case file was examined, and if found valid, a patent or deed of title for the land was
+sent back to the local land office for delivery to the entryman. The GLO also recorded each land entry in tract books
+arranged by state and legal description of the land in terms of numbered section, township, and range. The case files
+were retained and kept in separate filing systems for military bounty land warrants, pre-1908 general land entry files,
+and post-1908 general land entry files.
+
+The information needed to order a Land Entry Case Files can be seen on the link:https://www.archives.gov/forms/pdf/natf-84.pdf[National
+Archives Order for Copies of Land Entry Files].
+
+== Sources of Information:
+
+* FamilySearch wiki articles:
+** link:https://www.familysearch.org/en/wiki/Grants_from_the_Federal_Government_(Public_Domain)[Grants from the Federal Government (Public Domain)]
+** link:https://www.familysearch.org/en/wiki/Rectangular_Surveys[Rectangular Surveys]
+** link:https://www.familysearch.org/en/wiki/Land_Entry_Case_Files[Land Entry Case Files]
+* Other
+** This professional genealogist's detailed guide with explanations is excellent: +
+link:https://acrobat.adobe.com/id/urn:aaid:sc:US:1a0b8119-d763-421a-983d-aff8dd98f663[Land Entry Papers: Federal Land Records at the National Archives]
+* NARA information on: +
+** link:https://www.archives.gov/research/land/accessing-land-entry-files[Accessing Land Entry Records]

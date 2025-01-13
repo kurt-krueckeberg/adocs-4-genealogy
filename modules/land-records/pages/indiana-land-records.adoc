@@ -1,0 +1,23 @@
+= Indiana Land Records
+
+The Indiana State Library's link:https://www.in.gov/library/collections-and-services/indiana/subject-guides-to-indiana-collection-materials/early-indiana-land-research/[Early Indiana Land Research],
+and the Indiana Archives and Records Adminstration's website has information on link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/[Land Records]
+that includes these topics:
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#History%20of%20Land%20Records%20in%20Indiana[History of Land Records in Indiana]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#Land%20Records%20at%20the%20Indiana%20State%20Archives[Land Records at the Indiana State Archives]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#Federal%20Land%20Office%20Records[Federal Land Offices]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#Land%20Office%20Indexes[Land Office Indexes]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#State%20Lands[State Lands including Indianapolis Donation]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#GLO%20Plat%20Maps[GLO Plat Maps]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#Native%20American%20Land%20Records[Native American Land Records]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#Tippecanoe%20Battle%20Ground%20Plat%20Map[Tippecanoe Battle Ground Plat Map]
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#Hoosier%20Homestead%20Awards[Hoosier Homestead Awards]

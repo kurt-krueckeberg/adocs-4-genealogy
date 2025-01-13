@@ -1,0 +1,232 @@
+= Naturalization
+
+== Overview of the Naturalization Process
+
+The **Naturalization Act of 1802** required prospective citizens to be "free
+white persons" with good moral character, reside in the United States for five
+years, declare their intention to become citizens at least three years in
+advance, and renounce their allegiance to any foreign country, essentially
+meaning they had to show a commitment to becoming a US citizen and demonstrate
+good character. 
+
+Key points about the 1802 Act:
+
+* Residency requirement: Five years 
+* Declaration of intent: Required to be made at least three years before applying for citizenship by
+filing the Petition to Naturalize. 
+* Eligibility restriction: Only "free white persons" could apply 
+* Moral character requirement: Applicants needed to demonstrate good moral character
+
+There were three major exceptions to the five-year requirement. Val Greenwood
+in The Researcher's Guide to American Genealogy, 4th Edition", pages 561-562,
+explains:
+
+[quote, "The Researcher's Guide to American Genealogy, 4th Edition", pages 561-562]
+____
+* The **first exception** was called **"derivative" citizenship** and was applied to
+wives and minor children of men who became naturalized citizens. Between 1790
+and 1922, of a naturalized man automatically became a citizen, did an alien
+woman who married a US citizen.... 
++
+Between 1790 and 1940, children under 21 became naturalized citizens when
+their fathers were naturalized. However, prior to September 1, 1906, information
+about these wives and children was rarely included in the papers.
+
+* The **second exception**, this one applying between 1824 and 1906, was that
+**minor aliens who had resided in the United States for at least 5 years before
+turning 23** could file both their declaration and petition at the same time. 
+
+* The **third exception** was applicable to aliens who were in the US military
+who were **U.S. military veterans**. An 1862 law allow an **army veteran of
+any War who was honorably discharged and who had at least one year of residency
+to file his petition for naturalization without having previously filed a
+declaration of intent**.
+____ 
+
+.What if the father of minor children never became a citizen?
+****
+If the father of minor children, those under 21, never naturalized, his minor
+children, if they were born outside the U.S., would not automatically later
+become citizens. This is true even if the father did file the Declaration of
+Intent.
+
+If the father filed a Declaration of Intent to naturalize, but failed to file
+(three years or more years later) the Petition to Naturalize--or if he died
+before he could do so--his children would still need to file a Declaration of
+Intent. This could be done when they reached the age of 21 provided they had
+resided in the U.S. for five years. Then, two years later they could Petition
+to Naturalized.
+
+NOTE: Prior to 1906, the naturalization process for minors reaching adulthood
+differed slightly from the process for adults who began the process
+independently. The minors reaching adulthood at 21 would only have to wait two
+years instead of three after they filed their Declaration of Intent.
+****
+
+== Naturalization Occurred in the Courts
+
+The courts were solely responsible for the entire naturalization
+process:
+
+[quote, "The Researcher's Guide to American Genealogy, 4th Edition", pages 562]
+____
+It is important to remember that prior to 1906 the courts were responsible for
+the entire process. Naturalization proceedings could take place in any US
+District Court, in any court of the several States, the district or Supreme
+Courts of the territories. The clerk of the court was required to record all
+proceedings.
+____
+
+The Declaration of Intention could be filed in any "court of record" (municipal,
+county, state, or Federal).  The subsequent Petition to Naturalzie could be filed in
+a different court. The clerk of the court was required to record all proceedings.
+
+The <<history-declaration-of-intention, “Old Law” Declarations of Intention (Jan. 29,
+1795 – Sept. 26, 1906>> process and content consisted of: 
+ 
+[quote, History of the Declaration of Intention (1795-1956)]
+____
+Declaration of Intention records' content and format varied between courts
+before Sept. 27, 1906.
+
+“Old Law” Declarations usually offer less biographical information than their
+Standard Form successors but can contain more information about the subject
+than “Old Law” Petitions for Naturalization, court orders conferring
+citizenship, or Certificates of Naturalization.
+
+Filing and recording an “Old Law” declaration was a very straightforward undertaking.
+Making an “Old Law” declaration required no proof of actual eligibility for
+naturalization; any alien, aged eighteen or older, could file a declaration
+with any naturalization court at any time. The declarant simply paid the
+prescribed fee, appeared before the court (or often the clerk), and made a
+declaration of intention under oath. [xiii]
+
+The clerk of the court created a Declaration of Intention to document the event
+and entered it in the court’s permanent records. Without statutory guidance or
+administrative oversight, the design and quality of “Old Law” Declarations
+differed by court and each clerk filed and indexed naturalization records
+according to local recordkeeping practice.
+
+The declarant usually received a receipt (or “Certificate of Intention”)
+showing that the declaration had been made. (If the declarant later applied for
+citizenship, this proof of the receipt was attached the Petition for
+Naturalization as proof the declaration had been made.) If a receipt was not
+issued, or if it was lost, an immigrant might make a new declaration in a court
+at a new location. Many immigrants made multiple declarations.
+____
+
+== History of Naturalization
+
+The waiting period before one could file the Declaration of Intent is shown in the
+table below. The information is from the U.S. Citizenship and Immigration Services
+link:https://www.uscis.gov/about-us/our-history/stories-from-the-archives/history-of-the-declaration-of-intention-1795-1956[History
+of the Declaration of Intention (1795-1956)]:
+
+.Waiting Period before Filing the Petition to Naturalize
+|===
+|Declaration of Intention Filed Between|Waiting Period (years of residency required)
+
+|January 29, 1795 and June 17, 1798|3 years
+|June 18, 1798 and April 13, 1802  |5 years
+|April 14, 1802 and May 25, 1824   |3 years
+|May 26, 1824 and December 23, 1952|2 years
+|===
+
+NOTE: Between April 14, 1802 and May 25, 1824, there was no Declaration of Intention.
+
+== Key Points to Remember
+
+* Declaration of intentions could be filed at any time;
+* The declaration and Petition for Naturalization could be filed in different courts,
+* Many declarants filed more than one declaration, and
+* Finding a declaration does not in itself mean the declarant naturalized.
+
+.Family Search wiki comments on Declaration of Intention
+****
+The Family Search wiki U.S. article on <<family-search, United States Naturalization and Citizenship>>
+states this about the Declaration of Intention:
+
+[quote]
+____
+**Declaration of Intention.** The immigrant filed a declaration of intention (also
+called first papers) to renounce allegiance to foreign governments and to later
+prove he or she had resided in the country long enough to apply for
+citizenship. However, generally speaking, an immigrant filed a declaration of
+intention up to two years after he immigrated to the United States. The
+immigrant could declare any time after he arrived after fulfilling the
+residency requirement. Some immigrants waited as late as 20 years after coming
+to the United States to begin the process to become a citizen. There are some
+exceptions to the naturalization process where the immigrant was not required
+to file a declaration.
+____
+
+The article also states the 5-year residency requirement before filing the Petition to Naturalization also
+include a 1-year residency in the state.
+****
+
+== Civil War Veterans
+
+A law passed in 1862 allowed Army Veterans of a war could file with a Declaration of Intent
+after only one year of residence in the U.S.
+
+== Records of Naturalization
+
+The main naturalization document are:
+
+* **Declaration of Intention** - Prior to 1906, this gave the county of origin, applicant's +
+name, date of application, applicant's signature. After 1906, much more information was given.
+* **Petition to Naturalize**
+* **Certificate of Citizenship** issued once citizenship was granted. The courts did +
+not retain a copy.
+
+Other documents that may also appear:
+
+* Naturalization Deposition
+* Oath of Allegiance
+* Certificate of Arrival
+
+=== What the Declaration of Intent Did 
+
+The Declaration of Intention did not make you a U.S. citizen. But declarants could be <<history-declaration-of-intention, conscripted into
+the U.S. Armed Services>> and nine states even allowed declarants to vote.
+
+== Naturalization and Immigrants who Applied for Land Patents 
+
+Recent immigrants could apply to buy a federal land patent. They were not
+required to be citizens, nor were they required to first make a Declaration of
+Intention to naturalize--although the Preemption Act of 1841, which gave
+"squatters" (those already living on public domain land) the first chance the
+purchase the land on which they resided, did require either citizenship or
+making a Declaration of Intention to naturalize.
+
+As Allison B. Tirres writes in <<ownership-article, "Ownership Without
+Citizenship: The Creation of Noncitizen Property Rights">>, page 25, it was not
+until 1887 that alien purchase of pulic land was qualified:
+
+[quote, "Ownership Without Citizenship: The Creation of Noncitizen Property Rights", page 25]
+____
+Not until 1887 would Congress prohibit alien purchase of public lands, and that
+prohibition was significantly qualified by an exception allowing noncitizens
+who had filed declarations of intent to purchase.
+____
+
+On pages 24-25, she adds:
+
+[quote, "Ownership Without Citizenship: The Creation of Noncitizen Property Rights", page 24-25]
+____
+The ability of aliens to purchase federal land remained free of either
+naturalization or declaration of intent requirements; as the Attorney General
+wrote in an opinion regarding an 1854 land law, "But what is there in the act
+to forbid the alien to purchase... in open competition with all the world, as
+he may other public lands? I do not perceive anything."
+____
+
+
+[bibliography]
+== References
+
+* [[[history-declaration-of-intention]]] History of the Declaration of Intention (1795-1956), U.S. Citizenship Services, URL: 
+https://www.uscis.gov/about-us/our-history/stories-from-the-archives/history-of-the-declaration-of-intention-1795-1956
+* [[[family-search]]] link:https://www.familysearch.org/en/wiki/United_States_Naturalization_and_Citizenship[United States Naturalization and Citizenship]United States Naturalization and Citizenship
+* [[[ownership-article]]] Allison B. Tirres, Ownership Without Citizenship: The Creation of Noncitizen Property Rights, 19 MICH. J.
+RACE & L. 1 (2013). Available at: https://repository.law.umich.edu/mjrl/vol19/iss1/1

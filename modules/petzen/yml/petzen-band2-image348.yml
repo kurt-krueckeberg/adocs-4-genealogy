@@ -1,0 +1,74 @@
+register: 
+  shortname: petzen2
+image:
+  image_num: 348
+  permalink: https://www.archion.de/p/de1fdbc46c/
+  lpage_num: 722
+  events:
+    - event: marriage
+      locality: Petzen
+      view_date: 2023-10-26
+      evdate: &event_date 1822-03-12
+      entry_num: 6
+      persons:
+        - key: &husband 'husband'
+          given: Friedrich Wilhelm
+          surname: Drifftmeier
+          gender: male
+          facts:
+            - type: marriage
+              locality: Evesen	      
+              date: *event_date
+              date_type: known
+            - type: residence
+              date: *event_date
+              date_type: known
+              locality: Berenbusch
+              address: 19
+            - type: widower
+              date_type: known
+              date: *event_date
+              locality: Berenbusch
+            - type: job
+              date: *event_date
+              date_type: known
+              locality: Berenbusch
+              fact_details: day-laborer
+            - type: approx_birth_year
+              date: *event_date
+              date_type: approx_year
+              details: 1780-00-00
+              locality: Berenbusch
+        - key: &father 'father'
+          given: Heinrich
+          surname: Krückeberg
+          gender: male
+          facts:
+            - type: death 
+              date: 0000-00-00 # <-- TODO: Is this the date of the death?
+              date_type: unknown
+              locality: Evesen
+        - key: &daughter 'daughter'
+          given: Philippine Louise Eelonore
+          surname: Kruckeberg # <-- TODO: Should I use a canonical spelling?
+          gender: female
+          facts:
+            - type: marriage
+              locality: Evesen
+              date_type: known
+              date: *event_date
+            - type: approx_birth_year
+              locality: Unknown
+              date_type: approx_year
+              date: 1793-00-00
+            - type: legitimate
+              locality: Unknown
+              date_type: approx_year
+              date: 1793-00-00
+      relationships:
+        - type: parent_child
+          person1: *father
+          person2: *daughter
+        - type: husband_wife
+          person1: *husband
+          person2: *daughter

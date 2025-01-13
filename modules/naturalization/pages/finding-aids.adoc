@@ -1,0 +1,205 @@
+= Finding Aids for Naturalization Records
+
+== Naturalization Indexes 
+
+_An Index to Naturalization Records In pre-1907 Order Books of Indiana County
+Courts_, Indiana Historical Society, Indianapolis, 2001, is the 2nd edition of
+the early _An index to Indiana naturalization records found in various order
+books of the ninety-two local courts prior to 1907_, Indiana Historical Society,
+Indianapolis, 1981.
+
+Its contents are described on the
+link:https://www.in.gov/iara/divisions/state-archives/collections/naturalization-records/#Other[Naturalization
+Records] page of the link:https://www.in.gov/iara/[Indiana State Archives]:
+
+[quote]
+____
+There are numerous early naturalizations records indexed in a book titled **An
+Index to Naturalization Records In pre-1907 Order Books of Indiana County
+Courts**, found in many libraries and the Archives Reading Room. With some
+exceptions, the documents indexed in this book are located within the county
+indicated. They are recorded in **Court Order books**, which cover a wide
+variety of legal proceedings from various courts, including, Circuit, Common,
+and Probate. Researchers should contact the **Clerk of the Courts** for the
+county in question, and request the record by providing the name of the person
+the record pertains to, the type of court order book listed, and the volume and
+page number.
+____ 
+
+The index includes:
+
+1. the **person's name**, 
+2. the **name of the court order book**, and
+3. the **page number within the book**.
+
+The table shows libraries that have _An Index to Naturalization Records In pre-1907 Order Books of Indiana County
+Courts_.
+
+[caption="Repositories with: "]
+.An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts
+|===
+|Repository|Information
+
+|Genealogy Center of Allen CO Public Library|Call #: **977.2 IN1015A**
+
+|Adams CO Public Library, Decatur IN|Call #: **INREF 929.377 IND**
+
+|FamilySearch Library photocopy of 1981 edition|link:https://www.familysearch.org/search/film/007790993?cat=214250[
+photocopy] (viewable only at affliate institutions like the Genealogy Center or Family History Centers)
+
+|Other Libraries|See link:https://search.worldcat.org/title/891455989[Worldcat.org listing]
+|===
+
+[NOTE]
+====
+According to the Worldcat entry (under Show more information):
+
+____
+"This index does not include naturalization documents such as forms,
+certificates, or bound naturalization books, which are gathered by law at the
+Indiana State Archives (Indiana State Commission on Public Records)."
+Originally published: An index to Indiana naturalization records found in
+various order books of the ninety-two local courts prior to 1907. 1981
+____
+====
+
+[IMPORTANT]
+====
+**Research in Indiana courthouses: judicial and other records**, by
+John J. Newman, is helpful in understanding the types of Indiana courts, what
+resources they contain, and how best to view them.
+
+The Genealogy Center call number is: **977.2 N46r**.
+====
+
+=== Background History
+
+The content _An Index to Naturalization Records In pre-1907 Order Books of
+Indiana County Courts_ derives from the work of the Work Progress
+Administration's Historical Records Survery, which among other things indexed
+Declaration of Intentions and Petition to Naturalize found in court order
+books. The article <<naturalization-article, _Naturalization_, Adams County
+Trumpeter of the Adams County Historical Society, Vol. 6., No. 3, October 1988,
+page 1>> explained:
+
+[quote, Naturalization article, page 1]
+____
+The US Department of Justice sponsored a nationwide project from October, 1941,
+to April, 1942, to locate and index these records. We are fortunate that **all
+92 counties in the state of Indiana participated** in the project which was
+administered by the **Division of Community Services Programs, Works Projects
+Administration**. War effort superseded completion of the project nationwide.
+**The completed index survey files were found in the late seventies in the
+archives division of the Indiana State Library. The family history section of
+the Indiana Historical Society became interested in the files and in 1981
+published “An Index to Indiana naturalization records found in various order
+books of the ninety-two local courts prior to 1907”**. A copy is still
+available for $10 to members and $20 to non-members from the Indiana Historical
+Society.
+____ 
+
+
+== Adams County, Circuit Court Records
+
+.Order Book versus Civil Records
+****
+Order Books
+
+* **Purpose:** Order Books are official summaries of the court's daily proceedings, including entries about cases, motions, rulings, and filings like Declarations of Intention for naturalization.
+* **Content:** They often include references to case numbers, participants, dates, and the actions taken by the court. They are essential for tracking down detailed case files or related documents.
+
+Circuit Civil Records
+
+* **Purpose:** These are broader collections of records related to civil cases handled by the Circuit Court, including naturalization records, lawsuits, property disputes, and other non-criminal matters.
+* **Content:** May include original filings, case documentation, and summaries of cases recorded in the Order Books.
+
+How Are They Related?
+
+* The Order Books are typically the first point of record for legal proceedings and decisions.
+* The Civil Records might contain more detailed documentation about the cases or filings referenced in the Order Books.
+
+If the library has the Circuit Civil Records, they may include the Order Books as part of the collection. Contact the library to confirm:
+
+1. Whether the Civil Records include Order Books for the specific volume and timeframe you’re researching.
+2. If the records are indexed for easy searching by name, date, or page reference.
+****
+
+=== Adams County Court Records
+
+The Adams County Clerk of the Court link:https://www.co.adams.in.us/DocumentCenter/View/47395/REQUESTS-FOR-COPIES-OF-A-COURT-RECORD---fillable?bidId=[page]
+includes contact, also below, as well as a link to form for link:https://www.co.adams.in.us/DocumentCenter/View/47395/REQUESTS-FOR-COPIES-OF-A-COURT-RECORD---fillable?bidId=[requests
+for copies of a court record], which requests "date of filing, order, decree."
+
+____
+Circuit and Superior Court Clerk's Office
+112 S 2nd St, Room A
+Decatur, IN 46733
+Hours: Mon - Fri: 8AM - 4PM
+Phone: (260) 724-5309
+
+
+Pho: 260-724-5309
+Fax: 260-724-5313
+____
+
+Family Search has the link:https://www.familysearch.org/search/catalog/1150012[Adams County, Indiana, Circuit Court civil records, 1844-1921].
+The **NOTES** state that:
+
+[quote]
+____
+Microfilm of records located at the Adams County Courthouse, Decatur, Indiana.
+
+Also includes volumes from the Adams County Court of Common Pleas.
+
+Contains court order books, as well as complete or final records in civil and
+criminal causes, showing dates of court term, names of defendants and
+plaintiffs, orders and actions taken by the court.
+____
+
+The film is viewable at afflicated institutions and at the Adams County Public Library in Decature, Indiana:
+
+[caption="Where to view: "]
+.Adams County, Indiana, Circuit Court civil records, 1844-1921
+|===
+|Facility|Information
+
+|Genealogy Center|link:https://www.familysearch.org/search/catalog/1150012[Adams County, Indiana, Circuit Court civil records, 1844-1921] (Access within
+Genealogy Center)
+
+|Adams County Public Libary|**Call #er:** MICFILM 977.2 ADA
+
+**Description:** Contains court order books, as well as complete or final
+records in civil and criminal causes, showing dates of court term, names of
+defendants and plaintiffs, orders and actions taken by the court.
+|===
+
+The volumes of most relevance are:
+
+* Circuit Court order book index, v. A-B (1836-post 1920)
+* Circuit Court civil order book, v. A-B, Nov. 1836-Mar. 1853
+* Circuit Court civil order book, v. C-D, Aug. 1853-June 1873
+
+== FamilySearch Wiki
+
+While the FamilySearch wiki does have a page on link:https://www.familysearch.org/en/wiki/Indiana_Naturalization_and_Citizenship[Indiana
+Naturalization and Citizenship], most of these records and indexes seem to be of the 20^th^ century.
+
+== Indiana State Archives: Search Indiana Indexes
+
+The Indiana State Archives: link:https://www.in.gov/iara/services-for-public/search-archives-holdings/indiana-archives-digital-index-records/[Search
+Indiana Indexes] did not find any hits for "Kr*" that were anywhere close to Krueckeberg.
+
+== Ask a Librarian
+
+**Indians State Library**: link:https://www.in.gov/library/collections-and-services/ask-a-librarian/[Ask a Librarian]
+
+== Indiana Archives and Libraries
+
+link:https://www.familysearch.org/en/wiki/Indiana_Archives_and_Libraries[Indiana Archives and Libraries].
+
+
+[bibliography]
+== References
+
+* [[[naturaliziation-article]]] Adams County Trumpeter of the Adams County Historical Society, Vol. 6, No. 3, Octoboer 1988, pages 1-6,
+Genealogy Center of the Allen County Public Library Call #: 977.201 Ad1hs

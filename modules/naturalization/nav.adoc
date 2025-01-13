@@ -1,0 +1,4 @@
+.xref:index.adoc[]
+* xref:census-naturalization.adoc[] 
+* xref:finding-aids.adoc[]
+* xref:naturalization-adams-co-indiana.adoc[]

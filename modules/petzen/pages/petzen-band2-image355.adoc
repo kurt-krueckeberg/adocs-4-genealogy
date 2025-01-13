@@ -1,0 +1,119 @@
+= 1826 Philippine Christine Krückeberg Marriage
+:page-role: doc-width
+
+In 1826 Philippine Christine Krückeberg, daughter of Carl Friedrich Gottlieb Krückeberg, married Johann Heinrich Jäger. 
+
+== Citation
+
+The marriage record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
+
+== Record
+
+The image below shows the page and column headings for pages 736 and 737:
+
+image::petzen-band2-img355-header.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$petzen-band2-img355-header.jpg]
+
+=== Marriage Record
+
+The marriage record is entry #8 on poages 736 and 737.
+
+image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (Click to enlarge)",xref=image$petzen-band2-img355-736.jpg]
+
+image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",xref=image$petzen-band2-img355-737.jpg]
+
+[,text]
+.Transliteration of pages 736 and 737 header
+----
+736                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                  im Jahr (in the year) 1826                      737
+----
+
+[NOTE]
+.Meaning of **Anerbe**
+====
+The groom is described as the "Sohn u[nd] **Anerbe** des Johann Heinrich Jäger (son an principal heir of Johann Heinrich Jäger)", defined as:
+
+Anerbenrecht::
+
+"inheritance law keeping farms intact (in northern Germany and old Bavaria)." 
+
+-- from Thode's German-English Genealogical Dictionary
+
+Anerbe::
+
+* "principal heir[to a landed estate]; single heir"
+
+* single heir
+
+-- from link:https://www.dict.cc/?s=anerbe[Anerbe] in online dictionary link:https://dict.cc[dict.cc]
+
+====
+
+[caption="Transliteration and translation: "]
+.Marriage entry No. 8.
+[%autowidth,%header,frame="none"]
+|===
+s|Zahl s|Name, Stand, Religion +
+u. Eltern des Bräutigams s|Name, Religion +
+Geburt u. Wohnort +
+der Brat s|Zeit u. Ort + 
+der Proclamation s|Zeit u. Ort +
+der Kopulation s|der kopu +
+lirende +
+Prädiger s|Kopulations +
+Zeugen s|Bemerkungen
+
+s|No. s|Name, Occupation, Religion, +
+Parents des Bräutigums s|Name, Religion +
+Birth place and Residence +
+of the Bride s|Time and Place +
+of the Proclamation s|Time and Place +
+of the Marriage s|The offi- +
+ciating Minister s|Marriage Witnesses s|Remarks
+
+|8. 
+|Junggeselle Johann Heinrich +
+Jäger, ehelicher Sohn u. anerbe +
+des Johann Heinrich Jäger +
+n. 5. in Nordholz. Luth. Conf. u. jetzt +
+26 Jahr alt 
+|Philippiine Christine +
+Krückebergs, eheliche Tochter +
+des Carl Friedrich Gottlieb +
+Krückeberg n. 18 in Bärenbusch +
+Luth. Conf. u. jetzt 23 Jahr alt 
+|sind in der Kirche +
+zu Petzen proclamiert den +
+23 u. 30 Juli u. 6 Aug. 
+|u. kopulirt d. 15 Octbr
+|Gottlieb Daniel Stille 
+|in Gegenwart +
+der Gemein
+|[empty]
+
+|8.
+|Bachelor Johann Heinrich +
+Jäger, legitimate son and principal +
+heir of Johann Heinrich Jäger +
+n. 5. in Nordholz. Luth. Conf. and +
+now 26 years old
+|Philippiine Christine +
+Krückebergs, legitimate daughter +
+of Carl Friedrich Gottlieb +
+Krückeberg n. 18 in Bärenbusch +
+Luth. Conf. and now 23 years old
+|proclaimed in the church +
+at on the 23^rd^ and 30^th^ July +
+and 6^th^ of Aug.
+|married on 15^th^ of Oct.
+|Gottlieb Daniel Stille
+|in the presence +
+of the parish
+|[empty]
+|===
+
+
+[bibliography]
+== References
+
+* [[[image355]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/de0cff4510/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 355 of 357

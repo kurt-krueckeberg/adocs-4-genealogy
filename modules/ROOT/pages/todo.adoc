@@ -1,0 +1,354 @@
+= Plans
+
+== Make Scans
+
+Scan using my phone app these documents in the Genealogy Center:
+
+.Volumes to Scan
+[cols="5,1"]
+|===
+|Name|Call #
+
+|Adams-Wells counties, Indiana, farm plat book & index of owners. |977.2 Ad1 
+
+|Adams County, Indiana Index of Names of Persons & of Firms| **977.201 Ad1aa**
+
+|_An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ +
+Note: Allen and Adams Counties| **977.2 IN1015A**
+
+|Adams CO Trumpeter, October 1988|**977.201 Ad1hs**
+
+|A Little History of the Krueckeberg Home place, 1849-2013|**929.2 K933KD**
+
+|Mel's book|??
+
+|Rescan the "B"s from link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records]|Call #: **977.2 N46r**
+|===
+
+== Read and View
+
+[caption="Adams County, Public Library, Decatur IN: "]
+.Indiana Referene, Adams County 
+|===
+| Volume | Information
+
+|link:[Index of files administrationships, Adams County, Indiana, book no. 1, 1841-1968]| Call #er: INREF 929.3 HEL
+
+|link:[Tract book, Adams County, Indiana : with index of deeds] +
+Record of ownership of land in Adams County.|INREF 929.3 LOC
+
+|link:https://apls.evergreenindiana.org/Record/5200817?searchId=4647715&recordIndex=1&page=1[Tract book of Adams County, Indiana, 1838-1851] +
+Shows ownership of land in Adams County in 1838-1851.|Call #er: INREF 929.3 TRA
+
+|link:https://apls.evergreenindiana.org/Record/5200817?searchId=4647715&recordIndex=1&page=1[Index to supplemental record: marriage applications, Adams County, letters A-Z] +
+Indiana Work Progress Administration|Call #er: INREF VR IN ADAMS
+
+|link:https://apls.evergreenindiana.org/Record/5237213[Index to supplemental record: marriage transcript, Adams County, Letters A-Z] +
+Register of marriage transcripts from the County Clerk's office in Decatur.|INREF VR IN ADAMS
+
+| link:https://apls.evergreenindiana.org/Record/5237314[Marriage License Book A, 1836-1844] +
+Adams County marriage license from 1836-1844|Call #er: INREF VR IN ADAMS
+
+|link:https://apls.evergreenindiana.org/Record/5237705[Index to census of 1870 and 1880, Adams County, IN]|Call #er: INREF CENSUS IN-AD 1870
+
+|link:https://apls.evergreenindiana.org/Record/5237319[Will Books A and B, 18337-1888] +
+Adams County wills from 1837-1888.|INREF CENSUS IN-AD 1870
+|===
+
+View: link:https://youtu.be/6qblhQ_V_YY?si=WV3rslQ7nouBCuAY[Finding Persons Missing from the Census]
+
+Add notes from my videos--plus, re-listen and add notes--to this youtube lecture link:https://www.youtube.com/live/89MpNLY4zK4?si=RiX3ii3VXu3Uj0Gw[Naturalization: Certifying Citizenship]
+
+Read link:https://www.familysearch.org/en/wiki/Indiana_Naturalization_and_Citizenship[Indiana: Naturalization & Citizenship], and add a link to it
+and information from it in my notes. It mentiones court Order Books...
+
+...therefore read up on court order books.
+
+== Naturalization Research Plan
+
+. The Genealogy Center has the 2001 edition of the volume _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_,
+which contains Adams County naturalization indexes created by the WPA Historical Records Survey, Division of Community Services.
+. Scan the above volume and rescan Harry's A Little History of the Homeplace using my mobile scanning App.
+. Read Christine Rose's tips on visiting the clerk of the court.
+. Go to Adams County Clerk of the Court and ask for the records
+. Go to Auditor's office and get the Plats for Adams county from 1840 to 1890.
+
+Go to Adams County Clerk of Court:
+
+. Take Research plan that includes the results of the Adams county results found in  _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ 
+. Take pencil and notebook for a research log of what I have looked at even if I find nothing in the volume.
+
+== Land Records Research Plan
+
+. Rescan Harry's book using my cell phone app.
+. Using Harry's book as a guide, get the Deeds from the Adams's County Recorder's Office.
+. Get Plats from Adams CO Auditor's office
+. Try to find original land/tract survey done when a land patent application was made. The survey
+results were recorded in the tract book. See Hone, p 12, for details.
+
+== WPA Information Rewrite
+
+Merge what is in m/naturalization/wpa-index.adoc with what is in m/research/pages.
+
+== Other Stuff
+
+**Error in Ancestry.com pedigree of Christine Luise Krückeberg (1798-1878)** who supposedly married Christian Friedrich Bleeke (1800-1889).
+The Christine Luise Krückeberg born in 1789 married someone else. Her birth record give the dates of her marriage as 1 December 1818 and
+her date of death as 27 November 1864.
+
+Did her first husband die? I have the marriage of Christian Fr
+
+Database question: Is the a fact's date the date the fact occurred, or the date of the event in which it is mentioned?
+
+== Timeline
+
+Create a Canva timeline
+
+== Up-Next TODOES
+
+* Look into todds-research-report.adoc.
+* Look into prospective-weilands-krueckebergs-in-petzen-band1a.doc
+
+== Books to Scan
+
+* scan harry frederick's books:
+** link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=7&cn=1706792#:~:text=ancestral%20roots%20and%20family%20branches%20%3a%20ancestor%20and%20descendant%20reports%20on%20the%20families%20of%20the%20krueckebergs%2c%20vollmers%2c%20shanks%2c%20with%20photographs[
+ancestral roots and family branches : ancestor and descendant reports on the families of the krueckebergs, vollmers, shanks, with photographs
+by krueckeberg, harry f., 1934-] +
+call number: 929.2 k933kc 
+** link:https://acpl.polarislibrary.com/polaris/search/searchresults.aspx?ctx=24.1033.0.0.5&type=browse&term=a%20little%20history%20of%20the%20krueckeberg%20home%20place,%201849-2013&by=ti&sort=relevance&limit=tom=*%20and%20ab=24&query=mte=%271058997%27&page=0&searchid=0[a little history of the krueckeberg home place, 1849-2013] +
+call number: 929.2 k933kd
+* link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=119392[The Buuck Family in America] +
+call number: 929.2 B985B
+
+== Research 
+
+* scan harry frederick's books:
+** link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=7&cn=1706792#:~:text=ancestral%20roots%20and%20family%20branches%20%3a%20ancestor%20and%20descendant%20reports%20on%20the%20families%20of%20the%20krueckebergs%2c%20vollmers%2c%20shanks%2c%20with%20photographs[
+ancestral roots and family branches : ancestor and descendant reports on the families of the krueckebergs, vollmers, shanks, with photographs
+by krueckeberg, harry f., 1934-] +
+call number: 929.2 k933kc 
+** link:https://acpl.polarislibrary.com/polaris/search/searchresults.aspx?ctx=24.1033.0.0.5&type=browse&term=a%20little%20history%20of%20the%20krueckeberg%20home%20place,%201849-2013&by=ti&sort=relevance&limit=tom=*%20and%20ab=24&query=mte=%271058997%27&page=0&searchid=0[a little history of the krueckeberg home place, 1849-2013] +
+call number: 929.2 k933kd
+* Locate the actual _mortgage between the State of Indiana and CHW Krueckeberg_ (and his mother
+Dorothea nee Weiland). This link:https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637014/facts[transcript] of it 
+is in my Krückeberg tree on Ancestry, attached as a fact for link:https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637017/facts/citation/0/edit/details/facts[Louise Dorothee Weiland]
+and link:https://www.ancestry.com/family-tree/person/tree/68081704/person/38173637014/facts[CHW Krückeberg].
++
+.Transcript of Mortgage between CHW Krückeberg, his mother and the State 
+____
+State of Indiana, Adams County, SS. Before me the undersigned, personally comes Charles Krckenberg [comment: the name is
+written in by hand], the signer of the foregoing mortgage, and being duly sworn, deposes and says, that he is the legal owner
+of the premises mentioned in said mortgage, and that there is no encumbrance or better claim, either in law or equity, that
+he knows of or believes, on or to said land. The said Krckenberg derives his title by Deed from Aaron Carpenter (?word
+uncertain?) he by patent from the United States Karl Krükeberg (signature) Sworn to and subscribed, before the undersigned,
+this 2nd day of June 1854 John McConnel Aud A. C [comment: no doubt this means, Auditor Adams County) State of Indiana, Adams
+County, SS(?) Before me , the undersigned, Auditor in and for said County personally appeared Charles Krckeberg & Dorothy
+Krckeberg[comment: the names are written in by hand] the mortgagors within named, and acknowledges the within deed of
+mortgage to be their voluntary act and deed for the uses and purposes therein mentioned. In Testimony Whereof, I have
+hereunto set my hand seal the 2nd June, 1854 John McConnel A A C [comment: A A C menas, Auditor Adams County] CHW
+Krueckeberg. I need to also find the original document, an image of it.
+____
++
+**Source**: +
+**Title:** Mortgage between State of Indiana and Dorothy Krueckeberg and Karl Krueckeberg +
+**Author:** Clerk and Recorder of Adams Co, Indiana +
+**Publisher:** Adams Co Recorder's Office, 313 W Jefferson Street Suite 240 Decatur, IN 46733 +
+260-724-5343
+**Date:** 02 JUN 1854 +
++
+Question: Does Mel have it? Ask him for it and search further. The image of it is not on Ancestry.com nor in `~/d/genealogy/ahnentafel_digital/016...CHW.../land-records/`.
+* Take photos of the 1850-1880 plat maps found in the Adams County Auditor's Office
+
+* The naturaliztion of Carl Friedrich Gottlieb Krückeberg may be in the link:https://www.familysearch.org/search/catalog/1150012?availability=Family%20History%20Library[Adams County, Indiana, Circuit Court civil records, 1844-1921]
+The naturalization declarations for Carl Friedrich and Ernst Diedrich Buuck that are in the tree of the late Connie Buuck are in **Order Book A**.
++
+See the FamilySearch catalog link:https://shorturl.at/SLwK2[Search Results for "Adams, Indiana" in FamilySearch Card Catalog].
+
+* link:https://us18.campaign-archive.com/?u=85e74f974334b42e8fe26c392&id=080d90ef37[Friends of Wyneken] that has bio of Connie Buuck.
+
+* Add back the Research Questions in `m/research/buuck-family-quesitons.adoc` to the `m/research/nav-research.adoc` file.
+
+* Perhaps change information about the land office Receiver and Records to use the excellent information found at: +
+link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/#:~:text=Each%20office%20was%20staffed%20by,the%20payments%20for%20the%20land[History of Indiana Land Records]
+
+* Use the link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/major-land-record-collection-descriptions[Major Land Record
+Collection Descriptions] for Indiana. This is on the Indiana Archives and Records Adminstration website.
+
+* Heinrich Wilhelm Weiland (born 1815) immigrated with his wife Sophia Piehl, their children and his father, Friderich Wilhelm Weiland (born 1777). The came on the same ship +
+as Johann Heinrich Krückeberg (born 1806) and his wife Caroline Sophie Weiland (born 1808).
++
+* Prove: That Heinrich Wilhelm and Caroline Sophia are siblings
+* Determine: What the relationship is between the two siblings above (once it is proven they are siblings) with +
+the wife of Carl Friedrich Krückeberg (born 1807), Luise D. Weiland (born 1811).
+
+== Timeline Tools 
+
+link:https://www.canva.com/design/DAGUOT4kzho/1WWQYx4ZZMyE32vwqpZhnA/edit[Canva Timeline template].
+
+== Other Stuff
+
+1. These files are missing from the m/petzen/nav-petzen.adoc:
+
+* petzen-band2-image33.adoc
+* petzen-band2-image34-right.adoc
+
+2. Only if useful--which it may not be--create a petzen timeline with this pcregrep and vim commands:
+* pc -nH '^= .*$' *.adoc > ~/temp/petzen-timeline.txt
+* edit with vim and do this regex: `:%s@^\([^:]\{-}\):\d\+:=\s\(\d\d\d\d\)\s\+\(.*\)$@  - title: \3\r    date: \2\r    content: \r    citation: xref:petzen:\1\[\3\]@`
+
+3. Some of the **.adoc** files in petzen/pages are not listed in petzen/nav-petzen.adoc!!!
+
+4. Add the images for Windheim:
+* Take screenshots of the header
+* Take screenshots of the p. 178 entry and the page 179 side of the entry
+
+
+== Timeline Connections to Add
+
+This Bleeke-Krueckeberg marriage occurrs in 1803. Both husband and wife are from Evesen.
+Philippine Leonore Bleeke, born 4 May 1783 in Evesen, will marry Carl Friedrich Gottlieb Krueckeberg, who was born 5 April 1779 at 18 Berenbusch.
+on 13 March 1893 in Petzen.
+
+== What is Where Database
+
+The Archion and Asciidoc tracking database keeps track of:
+
+* archive name (and its bundesland)
+* The parishes within that archive for which archives church registers
+* The Kirchenbuch volume names for each parish
+* The principal person(s)'s name and the event type found on an image(s) from a Kirchenbuch. 
++
+  Note: A image may contain more than one principal person's event.
+* The Asciidoc file the captures the principal person's church ceremony and all its information.
+
+== Timelines and Cross Record Comparisions per Shannon Green
+
+* Tracing married Krueckeberg daughters in order to discover the baptismal sponsors of the children.
+* I have completed through Petzen, volume 2, image 337, starting from end of the book.
+* Email: ____ Holm who had emailed me about my Antora/Adoc gitlab or github repo, and who replied he was looking into a straight .adoc site with
+graphiv genealogy charts.
+
+Shannon Green plan:
+
+List all the facts in each recorded event in the Petzen church books, each of which now has a citation and downloaded section of the relevant
+portions of the image(s).
+
+* Treating each person recorded in an event as unique try to create a timeline for the putative parents in the direct line.
+* Try comparing individuals who are evidently the same, list the attributes that they share in an effort to establish they are the
+same person.
+
+== Graphviz
+
+Email: ____ Holm who had emailed me about my Antora/Adoc gitlab or github repo, and who replied he was looking into a straight .adoc site with
+graphiv genealogy charts.
+
+See generating family trees graphs using Graphviz on link:https://stackoverflow.com/questions/2271704/family-tree-layout-with-dot-graphviz[Family tree layout with Dot/GraphViz]
+
+== todoes
+
+Fix the problems with vol2-image12-?.adoc. Several individuals are mentioned on these pages. I have broken image1 number 2 (from the last Petzen volume)
+into separate files for each individual. In the process I discovered that vol2-image12-2.adoc was identiacl to vol2-image3.adoc. Thus the person
+referenced by vol2-image12-2.adoc in ~/ad/p/nav-petzen.doc is WRONG--most likely.
+
+Find out how to add the Antora PDF convertor -- or find a single page converter of an Antora webpage.
+See:
+
+* https://www.npmjs.com/package/@antora/pdf-extension 
+* https://gitlab.com/antora/antora-assembler
+
+
+Add these sources to my German sources to consult:
+
+* link:https://www.familienkunde-niedersachsen.de/?Veroeffentlichungen___Ortsfamilienbuecher_und_Familiendatenbanken[Ortsfamilienbücher und Familiendatenbanken]
+  der Familienkunde Niedersachsen. Ein Ortsfamilienbuch (OFB) ist im Wesentlichen eine Zusammenstellung aller Familien und ihrer Personen eines Ortes oder einer
+  Pfarrei, erstellt aus den Kirchenbüchern und weiteren Quellen.
+
+* link:https://static.libnet.info/frontend-images/pdfs/acpl/Genealogy/IGGP_Librarians_Day_Handouts.pdf[Resources for Beginning German Research] von Archivist im
+  Bremen
+
+* https://www.familysearch.org/en/wiki/Germany_Town_Genealogies_and_Parish_Register_Inventories_on_the_Internet
+
+* https://static.libnet.info/frontend-images/pdfs/acpl/Genealogy/IGGP_Librarians_Day_Handouts.pdf
+
+== Minert sources
+
+Add the census sources Roger Minert describes for Schaumburg-Lippe the link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action[Bückeburg Arcsys]?
+
+Kevan M Hansen's:  Map Guide to German Parish Registers.
+
+== Progess
+
+=== Church Registers
+
+[caption="Status of Examiniation of Petzen Church Registers: "]
+.Pages done in these volumes
+|===
+|Title|# of Images|Status
+
+|Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827
+|357
+|Completed all 357
+
+|Verzeichnis der Getauften und Konfirmierten, 1641-1784
+|Image 167 of 322
+|Need to move systematically +
+from 1744 back to already- +
+completed images
+
+|Verzeichnis der Getrauten und Gestorbenen, 1641-1784
+|239
+|?
+|===
+
+[caption="Status of Examiniation of Frille Church Registers: "]
+.Pages done in these volumes
+|===
+|Title|# of Images|Status
+
+|Verzeichnis der Getauften, Getrauten, Gestorbenen 1758-1804
+|388
+|?
+
+|Verzeichnis der Getauften, Getrauten, Gestorbenen 1664-1757
+|389
+|?
+|===
+
+=== Other Frille Volumes Listed in Archion and Arcsys
+
+* Naturalienverzeichnis und Einnahmen der Kirchengemeinde Frille, 1631 - 1764 		
+* Naturalienverzeichnis der Kirchengemeinde Frille, 1641 - 1733 
+
+=== Other Items
+* write code for archion db records insertion from yaml files.Database
+
+* Look for the marriage of Johann Heinrich Krüeckeberg born 1744 on the dat, if given, in familysearch.org.
+
+=== Undo Weiland .adocs for Images
+
+These Weiland images have not been transliteration, translated or added to the documention:
+
+Seee ~/ad/p/p/vol1a-still-not-done.txt
+
+Stopped at image 173 (not viewed) of baptisms and confirmations from vol1a.
+Did not transcribe about 20 .jpgs of Weilands. 
+
+== Add Meili open source search to the website:
+
+See:
+
+* link:https://dev.to/meilisearch/integrate-a-relevant-search-bar-to-your-documentation-3nl9[Integrate a relevant search bar to your documentation with MeiliS]
+
+* link:https://www.youtube.com/watch?v=SJl2UWfy1nk[Youtube Video with key developer]
+
+* link:https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/[Thorough Article on Meili Search].
+
+== UI Customization
+
+* Optionally personal UI bundle (zip) and put it in the antora-playbook.yml in the genealogy repo. I currently
+  am using supplemental_ui to create a custom header
+
+== German Genealogy 
+
+* Gail Blankensale lecture.

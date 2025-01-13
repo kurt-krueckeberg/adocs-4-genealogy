@@ -1,0 +1,15 @@
+= Friedrich J Thieme 1823-1887
+:page-role: doc-width
+
+== Fort Wayne Sentinel and Journal Gazette
+
+This obituary appeared in the <<ft-wayne-sentinel, Fort Wayne Sentinel, December 16, 1887, page 1>>.
+
+image::ObituaryThiemeFriedrichJ-FtWayneSentinel-16Dec1887Page1.jpg[id="sentinel-obit",align="center",width=600,caption="The Fort Wayne Sentitnel, 12/16/1887, page 1, Obituary",title="Friederich G. Thieme",xref=image$ObituaryThiemeFriedrichJ-FtWayneSentinel-16Dec1887Page1.jpg]
+
+[bibliography]
+== References
+
+// newspapers.com image?
+* [[[ft-wayne-sentinel]]] "Friedrich G. Thieme", The Fort Wayne Sentinel, 16 December 1887, page 1
+

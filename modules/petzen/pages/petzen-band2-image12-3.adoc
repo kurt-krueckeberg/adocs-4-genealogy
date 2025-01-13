@@ -1,0 +1,57 @@
+= 1803 Carl Friedrich Gottlieb Krückeberg Marriage
+:page-role: doc-width
+
+== Citation
+
+This marriage occurred on March 13, 1803. It is on <<image12, image 12, page 19, entry 4>> in the Petzen Kirchenbuch volume "Verzeiches der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+
+image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img12-right2.jpg]
+
+== Page 19
+
+[NOTE]
+The first date abbreviation below Carl Fried. Krückeberg's name which is quite small appears to be _geb_; however, many other such
+abbreviations on the page are _get_. Thus, it could be _get_.
+
+[caption="Transliteration and Translation: "]
+.Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
+[%autowidth,frame="none"]
+|===
+s|Zahl s| Nahmen des Bräutigams s| Ortschaft s| Sh s| Nahmen der Braut s| Ortschaft s| N.:
+
+|Number | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.
+
+|4
+|   am 13ten Marz
+Jggs Carl Fried: Gottlieb +
+   Krückeberg +
+get. 18.4.79 gest. 13.5.38
+|Berenb
+|10
+|Jgfr Philippine Eleonore +
+   Werkmeister +
+ get. 4.5.83 gest. 16.12.40
+|Evesen
+|11
+
+|4
+|on 13th March +
+Bachelor Carl Fried: Gottlieb +
+Krückeberg +
+baptized 4/18/79 died 5/13/38
+|Berenb.
+|10
+|Maiden Philippine Eleonore +
+    Werkmeister +
+  baptized. 5/4/83  died. 12/16/40
+|Evesen
+|11
+|===
+
+
+[bibliography]
+== References
+
+* [[[image12]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/60a0c24411/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 12 of 357
+

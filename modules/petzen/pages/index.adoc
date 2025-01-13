@@ -1,0 +1,13 @@
+= Petzen Kirchenbücher
+:page-role: doc-width
+
+TODO: Explain when the volumes begun. Why they exist and what contents they contain.
+
+== Volumes
+
+These volumes reside at the Bückeburg regional department of the Lower Saxony state archives. Digital images of their pages are available on
+link:https://www.archion.de[archion.de], the Protestant Kirchenbücher portal:
+
+* Verzeichnis der Getauften und Konfirmierten 1641-1784
+* Verzeichnis der Getrauten und Gestorbenen 1641-1784
+* Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827

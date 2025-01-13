@@ -1,0 +1,97 @@
+= Naturalization Research Plan
+
+See the background on xref:naturalization:index.adoc[naturalization].
+
+We know that the Work Progress Administation's Historical Records Survery included the creation of a naturalization index
+derived from examination of court Order Books. This index included:
+
+* the individual's name
+* the court of filing
+* the Order Book where the filing is recorded
+* the page in the Order Book
+
+In Indiana, the sponsoring entity for the History Records Survery was the Indiana State Library,
+Archives Division. 
+
+In 1981 the Society of American Archivists created a working group to ascertain where in each state
+the WPA's Historical Records Survery results resided. It can be downloaded
+xref:research:attachment$WPA_Historical_Records_Survey_A_Guide_to_the_Unpublished_Inventories_Indexes_and_Transcripts.pdf[here].
+
+We know that the Indiana Historical Society's, Family History Section, used the information in the
+WPA's naturalization index to produce the volume _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_,
+Indiana Historical Society, Indianapolis, 2001. This was the 2^nd^ edition of an earlier volume 
+produced 1981 under a similiar title.
+
+Scan using my phone app these documents in the Genealogy Center:
+
+.Volumes to Scan
+[cols="5,1"]
+|===
+|Name|Call #
+
+|_An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ +
+Note: Allen and Adams Counties| **977.2 IN1015A**
+
+|Adams CO Trumpeter, October 1988|**977.201 Ad1hs**
+
+|link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records]|Call #: **977.2 N46r**
+|===
+
+We know that the U.S. Censuses in these years asked these naturalization questions:
+
+[caption="naturalization: "]
+.U.S. Censuses Naturalization Questions
+[cols="1, 7"]
+|===
+|Year of Census|Naturalization Questions
+
+|1870|First census to ask if the individual’s father and mother were **foreign-born.**
+It asked: "Male Citizen of U.S. of 21 years of age and upwards".
+
+|1900|Included questions about year of immigration and naturalization status.
+Asked if the individual was naturalized or still an alien, with codes like **AL** (**Alien**),
+**Pa** (**Papers filed**), or **Na** (**Naturalized**).
+
+|1910|Continued to ask about father's and mother's country of birth, **year of immigration and naturalization status using the same coding
+system as 1900**. Also asked about the mother tongue.
+
+|1920|Added questions about naturalization year, providing more precise data on when naturalization
+occurred.
+
+|1930|Similar to previous censuses, it asked about year of immigration and naturalization status.
+Asked for the language spoken at home before coming to the U.S.
+
+|1940|Asked year of immigration and naturalization status.
+Also included questions about the individual's place of birth and citizenship status.
+
+|1950 and Beyond|The 1950 Census asked about naturalization but did not specify detailed statuses.
+Subsequent censuses focused less on detailed naturalization questions, and newer ones relied more
+on specialized surveys like the American Community Survey (ACS).
+|===
+
+
+.Carl Heinrich Wilhelm Krückeberg's responses to Citizenship questions on U.S. Censuses
+|===
+|Census year|Question|Response
+
+|1870|"Male Citizen of U.S. of 21 years of age and upwards."|Box checked, affirming he is
+
+|1900|Immigration Year|1850
+
+|1900|Years in the U.S.|50
+
+|1900|Naturalized|"Na"=Naturalized
+
+
+|===
+
+== Plan 
+
+* Correlate the information in the U.S. Censuses from 1870 to 1910 with the individual's named in
+_An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_  who are
+my ancestors in Adams county, Indiana. 
+* Determine if the minor children of Carl Friedrich Krueckeberg needed to apply for citizenship
+and how long they had to wait, after reaching age 21 (when they were no longer) minors
+* Read the volume on link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records].
+
+

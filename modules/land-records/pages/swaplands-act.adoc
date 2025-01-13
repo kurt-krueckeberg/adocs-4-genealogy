@@ -1,0 +1,64 @@
+= Swaplands Act and Indiana
+
+General articles on the Swaplands Act:
+
+* link:https://www.law.cornell.edu/cfr/text/43/2625.1[Selection and patenting of swamp lands] +
+
++
+
+**Path**: Electronic Code of Federal Regulations (e-CFR) **>** Title 43—Public Lands: Interior **>** +
+Subtitle B—Regulations Relating to Public Lands **>** CHAPTER II—BUREAU OF LAND MANAGEMENT, DEPARTMENT OF THE INTERIOR **>** +
+SUBCHAPTER B—LAND RESOURCE MANAGEMENT (2000) Group 2000—Land Resource Management; General **>** PART 2620—STATE GRANTS **>** +
+Subpart 2625—Swamp-land Grants **>** link:https://water.usgs.gov/nwsum/WSP2425/history.html[History of Wetlands in the Conterminous United States]
+
+Resources about the Swampland and Indiana:
+
+* link:https://www.in.gov/iara/divisions/state-archives/collections/land-records/[Indiana Land Records from Indiana Archives and Records Administration]
+* link:https://boonecounty.in.gov/offices/surveyor/history-drainage-indiana/[History of Drainage in Indiana]
+* link:https://digitalresearch.bsu.edu/landandlit/Environment/Issues/Wetland_destruction.html[Our Lands, Our Literature]
+* link:https://www.heraldtimesonline.com/story/lifestyle/home-garden/2019/11/08/swamp-busting-in-indiana/117233894/[Swampbusting in Indiana]
+* link:https://www.pbs.org/video/the-story-of-the-grand-kankakee-marsh-evt7wb/[Everglades of the North]
+* link:https://www.pbs.org/video/wbgu-documentaries-the-story-of-the-great-black-swamp/[The Story of the Great Black Swamp]
+* link:https://beltmag.com/death-life-great-black-swamp/[Death and Life of the Great Black Swamp]
+* link:https://culturalhistoryus.weebly.com/american-cultural-history/-american-destruction-how-the-swamp-land-act-of-1850-wreaked-havoc-on-floridas-everglades-by-petra-hokanson[
+American Destruction: How the Swamp Land Act of 1850 Wreaked Havoc on Florida’s Everglades]  
+
+== Information Gleaned
+
+[IMPORTANT]
+.Key Points
+====
+. Federal Tract books do not have information maintained by territorial, state or county governments:
+"The collection  described here does not include any tract books maintained by territorial, state, or county governments, even when the property they describe may partially overlap."
+. Even if an individaul did not ultimately receive a Land Patent: "Unsuccessful claims still have case files, and tract books are one of the best ways to find the information needed to obtain a case file from the two million otherwise unindexed land entry case files that were never finished, forfeited, rejected, or cancelled.[3]
+====
+
+== ChatGPT Responses to Questions Re Swaplands Act
+
+[quote, ChatGPT Session]
+____
+ChatGPT: Under the Swaplands Act, states could award a land patent to a tract of land that previously could only be purchased through a Federal Land Offices--is this correct?
+
+ChatGPT replied:
+Yes, that's correct. The Swampland Acts, particularly the Swamp Land Act of 1850, allowed certain states to claim federally owned swamp and overflowed lands that were deemed unfit for cultivation. Under this act, states could transfer or sell these lands to private owners or award land patents for reclamation purposes, typically to encourage drainage and development.
+
+Before the Swamp Land Act, such lands would only have been available through purchase via the Federal Land Offices, which managed the sale of public lands. The act shifted authority over these lands to individual states, allowing them to dispose of the lands and use the proceeds for drainage and reclamation projects.
+
+ChatGPT: Did individuals who purchased such swapland also received a federal land patent to the same tract of land for which the state also awarded a land patent?
+
+ChatGPT replied:
+No, individuals who purchased swampland under the Swamp Land Acts typically did not receive both a state and a federal land patent for the same tract of land. Once the land was granted to the state by the federal government under the Swamp Land Act, it became state land. The state would then issue land patents or deeds to individuals who purchased or claimed the land from the state.
+
+The federal government transferred ownership of the land to the states, and the states became responsible for managing and selling the land. Therefore, individuals would receive only a state-issued land patent or deed, not a federal one. The federal land patent system was used primarily when the federal government sold or granted land directly to individuals, such as through the Homestead Act or other federal land sale programs.
+
+So, in cases of swampland, the state patent was sufficient, as the land had already been conveyed from federal to state control.
+
+ChatGPT: When did the Swaplands Act become applicable to the state of Indiana?
+
+ChatGPT replied:
+The Swamp Land Act of 1850 (also known as the Swamp and Overflowed Lands Act) became applicable to the state of Indiana soon after its passage. Specifically, Indiana was included under the act on September 28, 1850, the same date the original federal legislation was passed by Congress.
+
+The act granted swamplands to several states, including Indiana, to encourage drainage and reclamation for productive use. Indiana then received federal swamp and overflowed lands, which the state could sell to private individuals, using the proceeds for reclamation and drainage projects. Indiana's General Assembly passed additional legislation to implement the provisions of the act, manage the swampland, and facilitate its sale to private purchasers.
+____
+
+

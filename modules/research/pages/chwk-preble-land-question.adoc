@@ -1,0 +1,76 @@
+= Where did CHW Krückeberg Live in 1870?
+
+Precisely where in Preble township did the family of Carl Heinrich Wilhelm Krückeberg and his wife Caroline Wilhelmine
+Maria Kleinschmidt live on 15 July 1870, when they were enumerated in the U.S. Census. On whose property did they
+live, their own or land that was former Kleinschmidt land? 
+
+== Background
+
+In the <<citation1, 1870 U.S. Census>>, on 15 July 1870, Carl Heinrich Wilhelm Krüeckeberg age 34 (according to
+the census) and his wife Caroline Wilhelmine Marie Kleinschmidt are living in Preble township; however, ten years
+later, on 3 June 1880, they are living in Union township, according to the <<citation2, 1880 U.S. Census>>. Carl
+is, then, age 45. Caroline Wilhelmine Maria grew up in Preble township. Perhaps this was land her parents (or their
+close silbings owned)?
+
+== Plan
+
+[arabic]
+. The Plat Maps for the 19^th^ century Adams, Indiana, are in the Adams county, Auditos Office, open from 8am to 4pm.
+. Thereafter find who was first awarded a land patent to that tract.
+. Using this, trace the ownership of that tract using Adams county land records.
+. Look into Indiana Tax Records for Adams county. See the FamilySearch wiki page on link:https://www.familysearch.org/en/wiki/Indiana_Taxation[Indiana Taxation]
+
+== Strategy
+
+To determine the exact location where a family lived in 1870 using the township, range, section, and aliquots, even though
+the census itself doesn't provide this information, follow these steps:
+
+[arabic]
+. Census Records and Neighboring Households While the census doesn't directly list township, range, and section information,
+the order in which households were enumerated can offer clues. People were usually recorded in the order in which the census
+taker visited their homes. By identifying the names of neighbors and nearby households, you might be able to cross-reference
+property records, land patents, or maps.
+
+. 1870 County Land Records and Plat Maps Plat Maps from the 19th century often show land ownership by section, township, and
+range. Check for Adams County plat maps (often available through the county recorder’s office, historical societies, or local
+libraries). You may find a specific family’s name listed on these maps along with their township and section.  You can also
+look for Bureau of Land Management (BLM) General Land Office (GLO) records. These records show land patents and transactions
+from the federal government to individuals, which often include the township, range, and section numbers. The BLM GLO website
+(glorecords.blm.gov) allows you to search for these records by name and location.  3. Land Deeds If the family owned
+property, the deed records at the Adams County Recorder's Office should include the legal description of the property,
+including township, range, section, and sometimes aliquots (divisions of a section like NE ¼). You can request a search for
+deeds from that era.
+
+. Historical Atlases Many counties published historical atlases that included detailed maps showing landowners and their
+parcels. These maps often identified the township, range, and section numbers, sometimes along with aliquot parts. Look for
+an atlas published close to 1870 for Adams County, Indiana. These can sometimes be found in local libraries, genealogical
+societies, or online archives.
+
+. Homestead and Land Patent Records If your family acquired land through the Homestead Act or another land grant, their
+legal land description (township, range, and section) would be in these records. The National Archives or BLM GLO records
+could help here.
+
+. County Tax Records
++
+These are listed in the FamilySearch catalog. Search the catalog for "Adams, Indiana".
+
+== Done to Date
+
+* The Adams County Library in Decatur has Plat books, but the earliest was published around 1903. The other earliest dates
+from around 1950.
+
+The link:https://www.familysearch.org/ark:/61903/3:1:S3HY-6P3W-RJ6?view=index&action=view&cc=1438024&groupId=TH-267-12393-182344-72[prior
+1870 census page] (to that for CHW Krueckeberg and his family) shows the family of Charles Heckman and his wife Christina. She is likely
+link:https://www.familysearch.org/tree/person/details/MVC8-3B4[Christine Maria Bleeke (1828-1921)], the daughter of **Johann Heinrich Philip**
+Bleeke (1797-1883) because she is 42 on 15 July 1870, and a **Sophia Blakey** age 17 lives with the family. Her age of 17
+corresponds with the 1853 birth date for link:https://www.familysearch.org/ark:/61903/3:1:S3HY-6P3W-RJ6[Sofia Louise Bleeke, 27 March
+1853-4 May 1934], the daughter of link:https://www.familysearch.org/ark:/61903/3:1:S3HY-6P3W-RJ6[Christian Friedrich Bleeke, 7 May
+1821-17 March 1899].
+
+**TODO**: Check even earlier pages and later pages of census.
+
+[bibliography]
+== References
+
+* [[[citation1]]] "United States Census, 1870", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MXXZ-SMX : Sun Aug 04 16:39:47 UTC 2024), Entry for Carl "charles" Heinrich Wilhelm Krueckeberg and Caroline Krueckeberg, 1870.
+* [[[citation2]]] "United States Census, 1880", , FamilySearch (https://www.familysearch.org/ark:/61903/1:1:MHMH-P1H : Sun Mar 10 20:30:12 UTC 2024), Entry for Charles Krikeberg and Caraline Krikeberg, 1880.

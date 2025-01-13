@@ -1,0 +1,24 @@
+= Also of Interest
+
+== Schaumburg Newspapers 1764 to 2004
+
+Also in the Bückeburg regional department of the Lower Saxony State Archives there is a collection of Schaumburger Newspapers from 1764 to 2004. 
+
+The description in link:http://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=b822[Arcsys] is:
+
+[caption="Arcsys Information: "]
+.Schaumburger newspapers from 1764 to 2004
+[cols="1,4"]
+|===
+|Short description
+|Department: Collections. +
+Contents: Microfiches of all newspapers published in Schaumburg. +
+ Scope: 33 titles, approx. 47,000 items +
+ indexing: finding aid, machine.
+
+|Custodial history
+|All of the Schaumburg newspapers published up to that point were made into films in the 1960s and 1970s. From 2005
+onwards the filming was stopped because the current newspapers were available as digital versions from newspaper
+ publishers from 2005 onwards. The films were copied onto microfiche. The microfiches represent the research in the Nds
+ user room. State Archives - Bückeburg Department available. The originals of the newspapers are only partially available.
+|===

@@ -1,0 +1,20 @@
+= Map of the Villages Surrounding Evesen
+:page-role: doc-width
+
+Evesen was the Standamt or Civil Registration Office when Meyer's Gazetteer was made in the 1870s. 
+
+The map below is from the cropped center section (of a fullscreen 4K, ultra high definition) image of the Evesen area. It shows the
+surrounding villages like:
+
+* Berenbusch-Nordholtz
+* Röcke
+* Scheie 
+* Meissen
+* Meinsen
+* Nammen 
+* Wülpke
+* Kleinen bremen
+
+It also shows the `Aue`, which branches off from (or flows into) the `Weser` river at Petershaben.
+
+image::evesen-ortsteile.jpg[title="Evesen and its surrounding villages (Click to enlarge),xref=image$evesen-ortsteile.jpg]

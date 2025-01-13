@@ -1,0 +1,86 @@
+= Boondoggle Land: Indiana and the Swamplands Act of 1850
+
+In Indiana, the federal Swamp Lands Act of September 28, 1850, proved an administrative nightmare plagued by disputes
+with the federal government over which land was swampy, ineptitude and dishonesty. As a result, buyers of swamplands
+often waited years before they took possession of the land they hoped to cultivate.
+
+Stepehen F. Strausberg's article <<citation, Indiana and the Swampland Act: A Study in State Administration>> summarizes
+the problems that ensued:
+
+.page 203 
+[quote, Stephen F. Strauberg,  "Indiana and the Swampland Act: A Study in State Administration"]
+____
+Indiana's difficulties in administrating an efficient drainage program ... retarded the agricultural utilization of its
+wet lands. Like so many of the congressional enactments dealing with the disposal of the public domain, little
+consideration was given to the realities of frontier life. Grandiose plans for rapid transformation of the barren
+wilderness were foiled by the lack of expertise needed to complete such a project.
+____
+
+Because the 1850 Swamp Lands Act allowed states to amend the list of lands initially deemed swamp land by the federal
+government (originally based on surveyor's notes and descriptions of the land), the land deemed swampy
+was disputed for several years: 
+
+.page 193 
+[quote, Stephen F. Strauberg, "Indiana and the Swampland Act: A Study in State Administration"]
+____
+In accordance with federal directions the state auditors were to submit a list of townships encompassed by the act that
+might have been omitted from the federal lists. Once the designations were forwarded to the General Land Office in
+Washington, comparisons revealed discrepancies.
+
+By 1854 the federal government had approved the designation of 9,811,682 acres as “wet” lands eligible for cession to
+Indiana but had rejected an additional 283,315 acres sought by the state. The Indiana Governor Joseph A. Wright did not
+want to lose money from any land that had already passed into private hands (by the awarding of a federal land patent to
+an individual) that was later determined to be land officially considered swampy under the Swamp Lands Act.
+____
+
+In Indiana the state legislature established the procedure that each county was to employ a surveyor charged with
+selecting the tracts which qualified under the act:
+
+.page 196 
+[quote, Stephen F. Strauberg, "Indiana and the Swampland Act: A Study in State Administration"]
+_____
+The surveyors were to forward their lists of designated tracts to the state auditor for validation. After verification of
+the lands selected as swamp lands by state and federal officials, sales would commence. The state auditor was
+responsible for ensuring the preparation of maps and plats indicating the location of all swamp lands within each
+county. After notice of the impending sale had been publicly posted, the county auditor would hold a public auction at
+the courthouse.
+_____
+
+The state of Indiana would, then, hire contractors to drain the swampy land, but by 1855 the entire program had become
+dysfunctional:
+
+.page 199, 
+[quote, Stephen F. Strauberg, "Indiana and the Swampland Act: A Study in State Administration"]
+_____
+In addition, by 1955, Indiana’s financial administration of the swamp lands program had become unglued. The central
+accounting of receipts strained the limited  resources of the bookkeeping staff at the capital; therefore, the General
+Assembly had decided to allow the individual counties to keep the records. This measure, designed to alleviate the
+burden of paper work, opened the floodgates of possible corruption even wider. By the fall of 1857 the entire program
+tottered on the verge of collapse. The state auditor, John Dodd, accused the swamp  lands commissioners of allowing the
+tracts to fall into the hands of speculators who had no intention of fulfilling the terms of the agreement. He
+suggested that each contract should contain a provision rendering it void if the work was not satisfactorily completed
+within a reasonable time or by a specified date.
+_____
+
+By 1859 an Indiana Senate special investigatory committee examined all phases of the Swamplands program. The
+subsequent probe...
+
+.page 200 
+[quote,  Stephen F. Strauberg, "Indiana and the Swampland Act: A Study in State Administration"]
+____
+...unearthed numerous examples of ineptness and criminality, both on the part of county officials and of state officers.
+Its report castigated the swamp lands commissioners in general as dishonest and inefficient and labeled their efforts as
+at least dilatory, at worst fraudulent.  The governor’s appointments of commissioners and other officials were "in many
+instances ... singularly unfortunate" as the men possessed "neither qualifications nor honesty of such a character as to
+fit them for their responsibilities." The examination unearthed unlawful and wasteful practices honey-combing the entire
+administrative structure. Since most of the laws relative to the swamp lands were "radically defective" the committee
+recommended their immediate revision.
+____
+
+
+[bibliography]
+== References
+
+* [[[citation]]] Stephen F. Strausberg, link:https://scholarworks.iu.edu/journals/index.php/imh/article/view/10021["Indiana and the Swaplands Act: A Study in State Administration"],
+Indiana Magazine of History, Volume 73, Issue 3, September 1977,  page 192, retrieved from
+

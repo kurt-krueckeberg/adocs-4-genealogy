@@ -1,0 +1,4 @@
+.Probate
+* xref:chw-executors-oath.adoc[]
+* xref:heinrich_wilhelm_weiland.adoc[]
+* xref:chw_krueckeberg_last_will_and_testament.adoc[]

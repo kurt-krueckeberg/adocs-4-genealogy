@@ -1,0 +1,73 @@
+= 1806 Philippine Louise Leonore Krückeberg Confirmation
+:page-role: doc-width
+
+== Citation
+
+The confirmation of Philippine Louise Leonore Krückeberg Confirmation in 1806 is found on <<image201-entry12, pages 426 and 427>> of the Petzen Kirchenbuch:
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+Page 201 overview:
+
+image::petzen-band2-img201-overview.jpg[[title="Philippine Louise Krückeberg Confirmation 1806 (Click to enlarge)", xref=image$petzen-band2-img201-overview.jpg]
+
+=== Pages 426 and 427 
+
+.Page 426
+image::petzen-band2-img201-426.jpg[[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)", xref=image$petzen-band2-img201-426.jpg]
+
+.Page 427
+image::petzen-band2-img201-427.jpg[[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)", xref=image$petzen-band2-img201-427.jpg]
+
+[caption="Transliteration and translation: "]
+.Page Header, Column Heading and Entry 13
+[%autowidth,frame="none"]
+|===
+7+l|426    Register der am Sonntage Quasimodogeniti  1806   in der Kirche zu Petzen Konfirmirten Kinder      427
+
+7+l|426   Register of Confirmed Children on the Sunday Quadimodogeniti (2nd Sunday after Easter) 1806  in the Church at Petzen     427
+
+s|Zahl s|Namen des Kindes s|Name des Vaters s|Name der Mutter s|Wohnort des +
+Vaters oder +
+der Mutter s|Geburtszeit +
+u. +
+Geburtsort +
+des +
+Kindes s|Bemerkungen
+
+|No. |Name of Child s|Name of Father |Name of Mother |Residence of +
+Father or +
+Mother |Birth time +
+and +
+Birth place +
+of the +
+Child|Remarks
+
+|13
+|Philippine Louise Leonore +
+Krückebergs
+|Johann Heinrich Krückeberg
+|Anne Cathrine Sophie +
+geb Krömers Nr. 19 in Evesen +
+|Evesen Nr. 19.
+|d. 21. Aprl.
+1793 in Evesen
+|
+
+|13
+|Philippine Louise Leonore +
+Krückeberg
+|Johann Heinrich Krückeberg
+|Anne Cathrine Sophie +
+born Krömer no. 19 in Evesen 
+|Evesen no. 19.
+|date 21st April
+1793 in Evesen
+|
+|===
+
+
+[bibliography]
+== References
+
+* [[[image201-entry12]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/5fe9bf6cc9/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 201 of 357
+

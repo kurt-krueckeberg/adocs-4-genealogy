@@ -1,0 +1,14 @@
+page_start: |
+  = Timeline
+  :page-role: doc-width
+timeline:
+  - year: 1794
+    milestones:
+      - '2 Nov 1794 &ndash; Carl Friedrich Bleeke born: in Leteln Nr. 13, Grafschaft Schaumburg, Holy Roman Empire of the German Nation.'
+  - year: 1797
+    milestones:
+      - '3 Nov 1797 &ndash; Johann Heinrich Philipp Bleeke born: in Leteln Nr. 13, Graftschaft Schaumburg, Holy Roman Empire of the German Nation'
+  - year: 1800
+    milestones:
+      - '28 Dec 1800 &ndash; Christian Friedrich Bleeke born: in Leteln Nr. 13, Graftschaft Schaumburg, Holy Roman Empire of the German Nation'
+      - '28 Dec 1800 &ndash; Somebody else born: in Leteln Nr. 13, Graftschaft Schaumburg, Holy Roman Empire of the German Nation'

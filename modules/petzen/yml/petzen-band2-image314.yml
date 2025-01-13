@@ -1,0 +1,50 @@
+register: 
+  shortname: petzen2
+image:
+  image_num: 314
+  permalink: http://www.archion.de/p/591dfa54f9/
+  lpage_num: 654
+  events:
+    - event: death
+      locality: Petzen
+      view_date: 2023-10-26
+      evdate: &event_date 1822-10-21
+      entry_num: 14
+      persons:
+        - key: &decedant 'decedant'
+          given: Jobst Heinrich 
+          surname: Krückeberg 
+          gender: male
+          facts:
+            - type: death 
+              locality: Bärenbusch	      
+              date: *event_date
+              date_type: known
+            - type: approx_birth_year
+              locality: unknown
+              date: 1764-00-00
+              date_type: approx_year
+            - type: remark
+              locality: Bärenbusch
+              date: 1822-10-24
+              date_type: known
+              details: survived by his widow, 3 daughters and 1 son.
+            - type: job
+              locality: Bärenbusch
+              details: Master shoemaker
+              date: 1822-10-24
+              date_type: known 
+            - type: burial
+              date: 1822-10-24
+              date_type: known
+              locality: Petzen
+            - type: death_cause
+              date: 1822-10-21
+              date_type: known
+              locality: Bärenbusch
+              details: convulsions and hemorrhaging
+            - type: residence
+              date: 1822-10-21
+              date_type: known 
+              locality: Bärenbusch
+              address: 10

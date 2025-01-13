@@ -1,0 +1,38 @@
+.xref:index.adoc[Kirchenbücher Records]
+* xref:understand.adoc[]
+* xref:islerheide.adoc[]
+* xref:misc.adoc[]
+* xref:petzen:evesen-ortsteil-map.adoc[]
+* xref:frille:frille-area-map.adoc[]
+* xref:frille:index.adoc[Frille Kirchenbücher]
+* Bleeke 
++
+--
+include::partial$nav-bleeke.adoc[]
+--
+* Buuck 
++
+--
+include::partial$nav-buuck.adoc[]
+--
+* Kleinschmidt 
++
+--
+include::partial$nav-kleinschmidt.adoc[]
+--
+* Krückeberg 
++
+--
+include::partial$nav-krueckeberg.adoc[]
+--
+* Söst Krueckeberg
++
+--
+include::partial$nav-soest-krueckeberg.adoc[]
+--
+* Weiland 
++
+--
+include::partial$nav-weiland.adoc[]
+--
+

@@ -1,0 +1,254 @@
+= Land and Land Related Record Repositories
+
+== Genealogy Center
+
+The link:https://genealogycenter.info[Genealogy Center] has the land records on 35mm microfilm as well as
+other land-related volumes like map books.
+
+=== Land Records
+
+To navigate to the Land Records, follow this path: link:https://www.genealogycenter.info/search_microtext.php[Mircotext Catalog] -> 
+**Record Type** -> **Indiana** and **Land Records**. 
+
+After removing the results for counties other than **Allen** and **Adams**, you get:
+
+[[genealogy-center-microtext-land]]
+[caption="Genealogy Center mircotext land records"]
+[cols="3,5,1,2,2",frame="ends",grid="rows"]
+|===
+|County |Name |# of Items |Media |Filed Under:
+
+|*General
+|https://www.genealogycenter.info/detail_mttype.php?mtid=8514&searchstate=Indiana&searchco=[Documents
+Relating to Land in Indiana Reserved to Francis Godfroy a Miami Indian]
+|1 |35mm Film |Native American
+
+|*General
+|https://www.genealogycenter.info/detail_mttype.php?mtid=1266&searchstate=Indiana&searchco=[Indiana
+Land Office Records] |22 |35mm Film |Indiana
+
+|*General
+|https://www.genealogycenter.info/detail_mttype.php?mtid=1660&searchstate=Indiana&searchco=[Indianapolis
+Land Office Records 1820-1875] |3 |35mm Film |Indiana
+
+|*General
+|https://www.genealogycenter.info/detail_mttype.php?mtid=5500&searchstate=Indiana&searchco=[Land
+Ownership Maps of the United States] |1700 |Fiche |U. S. Special
+Collections
+
+|Allen
+|https://www.genealogycenter.info/detail_mttype.php?mtid=4720&searchstate=Indiana&searchco=[Deed
+Index 1824-1902] |4 |35mm Film |Indiana
+
+|Allen
+|https://www.genealogycenter.info/detail_mttype.php?mtid=1286&searchstate=Indiana&searchco=[Deeds
+1824-1842] |2 |35mm Film |Indiana
+
+|Allen
+|https://www.genealogycenter.info/detail_mttype.php?mtid=4721&searchstate=Indiana&searchco=[Deeds
+1824-1901 (Books A-Y&#44; 26-160)] |56 |35mm Film |Indiana
+
+|Allen
+|https://www.genealogycenter.info/detail_mttype.php?mtid=6531&searchstate=Indiana&searchco=[Deeds
+1857-1868&#44; (Books 26-44)] |9 |35mm Film |Indiana
+
+|Allen |Mortgage Index 1829-1887 |1 |35mm Film |Indiana
+
+|Allen
+|https://www.genealogycenter.info/detail_mttype.php?mtid=4723&searchstate=Indiana&searchco=[Mortgages
+1846-1886] |18 |35mm Film |Indiana
+|===
+
+[NOTE]
+.Comments
+====
+The **Indiana Land Office Records** link will show results for:
+
+* the local land offices in **Fort Wayne** and **Indianapolis**.
+* Swamplands records.
+
+The sale of tracts of land in **Adams county** were handled by the Fort Wayne land office, which was merged (around 1850?) with the
+Indianapolis office. I believe its records were merge with the Indianapolis office.
+====
+
+=== Allen County Land Records
+
+[caption="Microtext land records: "]
+.Allen County
+[cols="1,3,2,2",%header,frame="ends",grid="all"]
+|===
+|County|Name, Number of Items|Media|Filed Under
+
+|Allen|Deed Index 1824-1902, 4|35mm Film |Indiana
+
+|Allen|Deeds 1824-1842, 2|35mm Film |Indiana
+
+|Allen|Deeds 1824-1901, (Books A-Y, 26-160), 56|35mm Film |Indiana
+
+|Allen|Deeds 1857-1868, (Books 26-44), 9|35mm Film |Indiana
+
+|Allen|Mortgage Index 1829-1887, 1|35mm Film |Indiana
+
+|Allen|Mortgages 1846-1886, 18|35mm Film |Indiana
+
+|Allen|Fort Wayne Land Office|35mm Film|Indiana
+|===
+
+=== Adams County
+
+See the general land records<<general-land-recs, above>> that includes the Fort Wayne and Indianapolis land office records (and others) 
+since the Fort Wayne district office handled Adams county land sales.
+
+The **U.S Census Agricultural Schedule for Indiana** on Microfilm. Navigation path:
+link://https:genealogycenter.info[GenealogyCenter.org] ->
+link:https://www.genealogycenter.info/search_microtext.php[microfilm catalog] -> Census Records -> Agricultural 
+
+[caption="Genealogy Center: "]
+.Agricultural Schedule microfilm for Adams CO IN
+[cols="1, 2, 3",%header,frame="ends",grid="all"]
+|===
+|Item Number|Contents|URL
+
+|0001|Adams - Cass Counties 1850|link:https://www.genealogycenter.info/detail_mtcensus.php?mtid=16082[1850 U.S. Census, Agricultural Schedule, Adams County, Indiana]
+
+|0014|Adams-Blackford Counties 1860|link:https://www.genealogycenter.info/detail_mtcensus.php?mtid=16083[1860 U.S. Census, Agricultural Schedule, Adams County, Indiana]
+
+|0028|Adams-Boone Counties 1870| link:https://www.genealogycenter.info/detail_mtcensus.php?mtid=16084[1870 U.S. Census, Agricultural Schedule, Adams County, Indiana]
+
+|0048|Adams-Allen Counties 1880|link:https://www.genealogycenter.info/detail_mtcensus.php?mtid=16085[1880 U.S. Census, Agricultural Schedule, Adams County, Indiana]
+|===
+
+=== Family Search Wiki
+
+FamilySearch wiki's describes the content of the link:https://www.familysearch.org/en/wiki/United_States_Census_Agriculture_Schedules[Non-population schedules]
+of the United States Census and where they are located.
+
+[caption="Land Records: "]
+.Adams county
+[cols="4,1,4",%header,frame="ends",grid="all"]
+|===
+|Volume|Call Number|Description
+
+|link:https://acpl.na4.iiivega.com/search/card?id=87df6615-b215-52d4-9fd4-40e5368938f7&entityType=FormatGroup[Family maps of Adams County,
+Indiana: with homesteads, roads, waterways, towns, cemeteries, railroads, and more]|977.201 AD1BO|
+
+|link:https://acpl.na4.iiivega.com/search?query=31924966[The citizen soldier] by Ripley, William T.|977.201 AD1RI|Adams County(Ind.) soldier biographies
+|===
+
+[caption="Adams County: "]
+.online sources of possible interest
+[%header,frame="ends",grid="all"]
+|===
+|Information|Source
+
+|link:https://adamscounty.maps.arcgis.com/home/index.html[Adams County GIS]|website
+
+|link:https://www.co.adams.in.us/188/Surveyors-Office[Adams CO Survey's Office]|website
+
+|link:https://www.co.adams.in.us/185/Recorders-Office[Adams CO Recorder's Office]|website
+
+|link:https://digital.library.in.gov/Record/ISL_p15078coll8-4595[Plat book of Adams Coutny, Indiana]|online digitized maps
+
+|link:http://ingenweb.org/inadams/OldCourtHouse/PlatMaps/UnionTwp/UnionIndex.html[Union Township Plat maps for 1880, 1895]|link:http://ingenweb.org/inadams[IngenWeb Adams County]
+|===
+
+== Guides to Land Record Research
+
+Book link:https://archive.org/details/landpropertyrese0000ewad[Land & Property Research in the United States by E. Wade Hone] on archive.org
+
+=== PERSI
+
+TODO: Add from PERSI page in m.research
+
+== Allen County Genealogical Society (ACGSI)
+
+The link:https://www.acgsi.org/records.php[Records section] of the link:https://acgsi.org[Allen County Genealogical Society of Indiana] has
+
+* transcriptions of the 1850-1880 Agricultural schedules
+* transcriptions of link:https://www.acgsi.org/deed/[Allen county deed index]
+* transcriptions of link:https://www.acgsi.org/tax/[tax records]
+
+=== FamilySearch wiki
+
+The location of other land records can be found on the FamilySearch wiki for
+link:https://www.familysearch.org/en/wiki/Adams_County,_Indiana_Genealogy[Adams county, Indiana]
+
+== Other
+
+The slide below appeared in a youtube lecture on land records:
+
+image::where-do-i-find-land-records.jpg[align=left,title="Where do I find land records? (Click to enlarge)",xref=image$where-do-i-find-land-records.jpg]
+
+== U.S. Census, Agricultural Schedules for Indiana
+
+The Genealogy Center located in the downtown Fort Wayne Allen County Public Library does has the U.S. Census, Indiana
+Agricultural Schedules. Other entities with available copies are also given below.
+
+=== FamilySearch Images
+
+FamilySearch has unindexed images of link:https://www.familysearch.org/search/ark:/61903/3:1:3QHN-LQLW-V7W2?view=explore&groupId=TH-7736-127051-15710-40[Agricultural Census: Indiana. Agricultural Census Records 1860, Tippecanoe-Whitley counties].
+It does not have Adams county.
+
+=== NARA
+
+NARA's link:https://www.archives.gov/research/census/nonpopulation[Nonpopulation Census Records] page states:
+
+[quote, NARA information on Agricultural Schedules]
+____
+Agricultural schedules of 1850, 1860, and 1870 provide the following
+information for each farm:
+
+Name of owner or manager Number of improved and unimproved acres Number of
+livestock owned by farmer (broken down by breed) Amount of agricultural goods
+produced during the preceding year (broken down by crop) Cash value of the
+farm, farming machinery, livestock, animals slaughtered during the past year,
+and "homemade manufactures" The 1880 schedules provide additional details, such
+as the amount of acreage used for each kind of crop, the number of poultry, and
+the number of eggs produced.
+
+Exclusions: Not every farm was included in these schedules. In 1850, for
+example, small farms that produced less than $100 worth of products annually
+were not included. By 1870, farms of less than three acres or farms that
+produced less than $500 worth of products were not included.
+____
+
+NARA's link:https://www.archives.gov/research/census/nonpopulation#state[Nonpopulation Census Schedules by State, 1820-1930] page states:
+
+[quote, NARA information on Indiana's "Nonpopulation Census Schedules by State, 1820-1930"]
+____
+**Nonpopulation Schedules Available Elsewhere**
+
+The Indiana State Archives has these nonpopulation censuses for Indiana:
+
+* Agriculture: 1850, 1860, 1870, 1880
+* Defective, Dependent, and Delinquent Classes: 1880
+* Industry/Manufacturing: 1850, 1860, 1870, 1880
+* Social Statistics: 1850, 1860, 1870
+* The Indiana State Library has these nonpopulation censuses for Indiana:
+* Mortality Schedules: 1850, 1860, 1870, 1880
+____
+
+=== Indiana States Archives
+
+The Indiana State Archiv's link:https://www.in.gov/iara/divisions/state-archives/collections/census-records/[Non-population Census Schedules] page states:
+
+[quote, Census Records comments]
+____
+The State Archives does have Special Census schedules available on microfilm in the reading room. These include:
+
+* The Agricultural Census 1850-1880
+* The Manufacturers Census 1820-1880
+* Social Statistics 1850-1880
+* Census of Defective, Dependent, and Delinquent (3-D Census) 1880
+
+State Census
+
+Although some states did conduct state sponsored enumerations, Indiana did so merely for purposes of legislative
+apportionment. Information concerning specific families does not exist in any resource at the State Archives.
+____
+
+=== Indiana State Library Microfilm of Agricultural Census
+
+This microfilm list shows by county the link:https://www.in.gov/library/files/Indiana-Special-Census.pdf[Indiana Special Census on Microfilm] available
+at the Indiana State library.
+

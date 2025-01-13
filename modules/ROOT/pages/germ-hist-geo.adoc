@@ -1,0 +1,21 @@
+= German Historical Geography
+
+== Why Jurisdictions are Important
+
+A jurisdiction is an entity, corresponding to a specific geographical area, that creates and maintains records.
+Different jurisdictions maintained different types of records at different times.
+
+Identifying jurisdictional changes helps locate what records were created for a place for which time periods, and where those
+records are found.
+
+== Understanding the Jurisdictions in the Historical "Germany" 
+
+* BYU Family History Library lecture: link:https://www.youtube.com/watch?v=uSAI9qahIV8[Understanding German Records and Jurisdictions]
+* FamilySearch video lecture: link:https://www.familysearch.org/en/help/helpcenter/lessons/german-historical-geography[German Historial Geography Identifying Jurisdictions in Germany],
+  by Daniel R. Jones. It has a handout. 
+* link:https://ggsmn.org/index.php[Germanic Genealogy Society]
+* FamilySearch link:https://www.familysearch.org/search/catalog[Catalog] uses German Empire jurisdictions
+* Germany-wide gazetteer available online: link:https://www.meyersgaz.com[Meyer’s gazetteer]
+* Google (town, country, and national level maps and information)
+* Search German Computerverein site gov.genealogy.net's: http://gov.genealogy.net/search/index[Historic Gazettter] and use its link:http://gov.genealogy.net/search/extended[Extended Search]
+

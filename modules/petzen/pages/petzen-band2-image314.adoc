@@ -1,0 +1,101 @@
+= 1822 Jobst Heinrich Krückeberg Death
+:page-role: doc-width
+
+== Citation
+
+The death of Jobst Heinrich Krückeberg in 1822 is recorded on <<image314, image 314, on pages 654 and 654>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+=== Pages 654 and 655
+
+Page overview:
+
+image::petzen-band2-img314-header.jpg[title="Page 654 Overview (Click to enlarge)", xref=image$petzen-band2-img314-header.jpg]
+
+Page 654:
+
+image::petzen-band2-img314-654.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)", xref=image$petzen-band2-img314-654.jpg]
+
+Page 655:
+
+image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)", xref=image$petzen-band2-img314-655.jpg]
+
+=== Transliteration and Translation of Pages 654 and 655
+
+.Transliteration of Page Header
+```text
+654   Gestorbene in Kirchspiel Petzen (Deaths in the Petzen Parish)                              im Jahr (in the year) 1822                                655
+```
+
+[NOTE]
+.Current issues with text in column two
+====
+The word Schuster(cobbler, shoemaker) is followed by two or three uncertain letters. These are followed by meister (master), but written with a the lowercase
+"m" that suggests it may be the last part of a long word, something like `Schuster[????]meister`.
+====
+
+[caption="Transliteration: "]
+.entry 14, in year 1822, for Johann Heinrich Krückeberg
+[%autowidth,frame="none"]
+|===
+s|Zahl s|Name, Stand, Religion, Gewerbe, +
+Geburts u. bisheriger Wohnort des +
+Vestorbene s|Zeit u. Ort des +
+Todes u. des +
+Begräbenises s|Ursach[e] des Todes s|Alter s|Ledig +
+oder verheÿrathet s|Hinterbliebende s|Bemerkerungen
+
+|No. |Name, Status, Religion, Trade, +
+Birth- and previous Residence of the +
+Deceased s|Time and Place of +
+Death and of the +
+Funeral[Burial] s|Cauase of Death s|Age s|Single +
+or Married s|Survivors s|Remark[s]
+
+|14
+|Jobst Heinrich Krückeberg +
+Schuster[amts?]meister aus n. 10 in +
+Bärenbusch. Luth. Conf.
+|starb d. 21ten Octbr. nachmittages +
+2 Uhr in Bärenbusch u. +
+wurde begraben d. 24tne +
+24tn Octbr. in Petzen
+|Krämpsen +
+u. Blutsturz
+|in einem Alter von +
+58 Jahren
+|Ehemann
+|hinterläßt außer seiner +
+Witve 4 Kinder, +
+näm. 3 Töchter und +
+1 Sohn
+|die Witve starb d 8. [???] +
+1849
+
+|14
+|Jobst Heinrich Krückeberg +
+Master cobbler-something from n. 10 in +
+Bärenbusch. Luth. Conf.
+|died Oct. 21st 2pm +
+in Bärenbusch and +
+was buried the 24th +
+Oct. in Petzen
+|convulsions +
+and hemorrhaging
+|at the age of +
+58 years old
+|husband
+|survived by his +
+widow 4 children, +
+namely 3 daughters and +
+1 son
+|his widow died 8 [???] +
+1849
+|===
+
+
+[bibliography]
+== References
+
+* [[[image314]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/591dfa54f9/ : 25 October 2023), path: Niedersachsen > Niedersächsisches
+Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357
+
