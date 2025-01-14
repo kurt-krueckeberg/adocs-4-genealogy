@@ -41,7 +41,11 @@ Vol. 13, Issue 3 (Oct 2002) +
 ACPL Call #: 977.2 IN2015|2002|**Indiana Genealogical Society** +
 POB 10507 +
 Fort Wayne, IN 46852
+
+|xref:attachment$Indiana_Genealogist_Sept_2002_School_enumerations_1853_of_Union_township_Adams_county_Indiana.pdf[School Enumeration, Union Township, Adams County, Indiana, 20 September 1853]|||
 |===
+
+**Test**: xref:attachment$Indiana_Genealogist_Sept_2002_School_enumerations_1853_of_Union_township_Adams_county_Indiana.pdf[School Enumeration, Union Township, Adams County, Indiana, 20 September 1853].
 
 NOTE: The article "School Enumeration, Union Township, Adams County, Indiana, 20 September 1853" mentions Charles and Henry
 Kruckenbarger.
