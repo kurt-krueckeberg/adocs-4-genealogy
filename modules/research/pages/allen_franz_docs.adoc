@@ -1,4 +1,4 @@
 = Allen Franz Documents
 
-Allen Franz apparently does genelaoyg center research for those out of town. He did this xref:attachement$Todd_Allen_Franz_email_exchange.pdf[research]
-for Todd. The resulsts are in this xref:attachement$allen_franz_research_results.pdf[pdf].
+Allen Franz apparently does genelaoyg center research for those out of town. He did this xref:attachment$Todd_Allen_Franz_email_exchange.pdf[research]
+for Todd. The resulsts are in this xref:attachment$allen_franz_research_results.pdf[pdf].
