@@ -96,7 +96,7 @@ NOTE: I have not looked at these articles yet.
 |===
 |Article Title|Periodical|Year Published|Publisher
 
-|xref:attachment$Adams_County_Trumpeter_Oct_1993__Civil_War_Soldiers_list.pdf[Civil War soldiers list, 1893] |**Adams County Trumpeter** +
+|xref:attachment$Adams_County_Trumpeter_Oct_1993_Civil_War_Soldiers_list.pdf[Civil War soldiers list, 1893] |**Adams County Trumpeter** +
 Vol. 11, Issue 3 (Oct 1993) +
 *ACPL Call #:* 977.201 Ad1hs |1993 |**Adams County Historical Society** +
 POB 262 +

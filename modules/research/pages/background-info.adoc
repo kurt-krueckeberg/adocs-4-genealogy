@@ -4,21 +4,17 @@ Background information on the research threads in this section.
 
 == WPA Historical Survey
 
-The FamilySearch Digital Library's <<wap-digital-book, The WPA Historical Survery: A Guide to the Unpublished
-Inventories, Indexes and Transcripts>> published in 1980 describes the purpose and scope of the WPA's History
-Records Survey and in which repositiers by state its results can now be found. 
+<<wap-digital-book, The WPA Historical Survery: A Guide to the Unpublished Inventories, Indexes and Transcripts>>
+published in 1980 describes the purpose and scope of the WPA's History Records Survey and in which repositiers each
+state's resulting documents can be found. It is available online in the Family Search Digital Library
+link:www.familysearch.org/library/books/idviewer/398714[here]. 
 
 xref:attachment$WPA_Historical_Records_Survey_A_Guide_to_the_Unpublished_Inventories_Indexes_and_Transcripts.pdf[The WPA Historical 
-Records Survery: A Guide to the Unpublished Inventories, Indexes and Transcripts]
+Records Survery: A Guide to the Unpublished Inventories, Indexes and Transcripts] compiled by Loretta L. Hefner.
 
 == State Archives
 
-Links for the link:https://www.in.gov/iara/[Indiana Archives and Records Administration]. 
-
-**TODO:** Look for a guide to their holdings or finding aid to their holdings, particulairly the
-School Enumerations. 
-
-See:
+link:https://www.in.gov/iara/[Indiana Archives and Records Administration (IARA)] links:
 
 * link:https://www.in.gov/iara/divisions/state-archives/[IARA main page]
 
@@ -29,9 +25,8 @@ contact information, etc.
 
 * link:https://www.in.gov/iara/divisions/state-archives/collections/vital-records/[Census & Vital Records]
 
-* link:https://www.in.gov/iara/divisions/state-archives/collections/finding-aids/[Finding Aids (includes email contact)]. This includes helpful guidance
-+
-about how to email the Indiana State Archives staff for guidance and help.
+* link:https://www.in.gov/iara/divisions/state-archives/collections/finding-aids/[Finding Aids (includes an email contact)]. This
+includes helpful guidance about how to email the Indiana State Archives staff for guidance and help.
 
 * link:https://www.in.gov/iara/divisions/state-archives/collections/finding-aids/[Search Archives Holdings]
 
