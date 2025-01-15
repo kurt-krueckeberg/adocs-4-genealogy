@@ -1,8 +1,11 @@
 = Plans
 
-== Make Scans
+== Plans for 1/15/25
 
-Scan using my phone app these documents in the Genealogy Center:
+=== Scans
+
+Use Genius Scan (or import into Genius Scan 50 megapixel photos from the Gallery), these documents in the Genealogy Center. Also try to enable 
+OCR:
 
 .Volumes to Scan
 [cols="5,1"]
@@ -23,6 +26,27 @@ Note: Allen and Adams Counties| **977.2 IN1015A**
 |Mel's book|??
 
 |Rescan the "B"s from link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records]|Call #: **977.2 N46r**
+|===
+
+=== Look up Naturalization Records
+
+Using _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ for the names listed in 
+No
+
+== Future Research Plan
+
+Find the original Indiana State xref:research:attachment$Indiana_Genealogist_Sept_2002_School_enumerations_1853_of_Union_township_Adams_county_Indiana.pdf[School Enumeration, Union Township, Adams County, Indiana, 20 September 1853]
+that appeared in the Indiana Genealogist, Vol. 13, Issue 3 (Oct 2002). This periodical's call #er in the Genealogy Center  is:
+
+
+|===
+|Periodical|Year|Publisher
+
+|**Indiana Genealogist** +
+Vol. 13, Issue 3 (Oct 2002) +
+ACPL Call #: 977.2 IN2015|2002|**Indiana Genealogical Society** +
+POB 10507 +
+Fort Wayne, IN 46852
 |===
 
 == Read and View
