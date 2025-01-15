@@ -6,6 +6,7 @@
 * xref:passenger-list-annotations.adoc[]
 * xref:schaumburg-lippe-fs-resources.adoc[]
 * xref:persi.adoc[]
+* xref:allen_franz_docs.adoc[]
 * xref:chwk-preble-land-question.adoc[]
 * xref:bleeke-allen-co.adoc[]
 * xref:johann-heinrich-krueckeberg.adoc[]
