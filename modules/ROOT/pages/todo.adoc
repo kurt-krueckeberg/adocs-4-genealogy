@@ -2,19 +2,12 @@
 
 == Plans for 1/17/25
 
-. Rescan the foreward and the relevant pages of _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_
- based on the names given at 
-link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/naturalization-adams-co-indiana.html[Naturalization Records for Adams CO]
-Use the OCR settings, so we can have machine-readable characters.
-+
-Be sure to include Koldewie
+. scan the page of link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/naturalization-adams-co-indiana.html[Naturalization Records for Adams CO]
+that has the Koldewie.
 
-. Create a table of individuals
+. Look up the filings, pleadings and final orders for the individuals in the table
 
-. Look up the filings, pleadings and final orders for the in
-
-Use Genius Scan (or import into Genius Scan 50 megapixel photos from the Gallery), these documents in the Genealogy Center. Also try to enable 
-OCR:
+. Look up the Zion Friedheim page for the 1849 baptism of ___ Bleeke
 
 .Volumes to Scan
 [cols="5,1"]
