@@ -57,7 +57,7 @@ image::kruckenberg.jpg[]
 
 [caption="Synopsis of Persons of Interest: "]
 .in Naturalization Indexes publish in the Adams County Trumper
-[%header,cols="4,2,2,1,2,2"]
+[%header,cols="4,2,2,2,2,2"]
 |===
 |Name|County|Court|Order Book|Page|Years
 
