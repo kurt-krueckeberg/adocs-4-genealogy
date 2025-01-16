@@ -1,4 +1,4 @@
 = Deed and Mortgage
 
 TODO: Add details....
-See xref:attachment$deed-and-mortgage.pdf[deed and mortgage]
+See xref:attachment$charles-dorothy-krueckeberg-mortgage-and-deed.pdf[deed and mortgage]
