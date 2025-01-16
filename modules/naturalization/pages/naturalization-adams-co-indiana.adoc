@@ -19,29 +19,31 @@ often with their surnames misspelled:
 
 === Bleeke
 
-Bleeke spelled as Blake or Blakey:
+Leona, Louisa, Mary and Sophia Blake from Adams County:
 
 image::blake-blakey.jpg[]
 
-Spelled as Bleeke:
+Christian Bleeke from Adams County:
 
 image::bleeke.jpg[]
 
 === Buuck
 
-Buuck spelled as "Book":
+Frederic and Frederick Buuck spelled as "Book":
 
 image::buuck.jpg[xref=image$buuck.jpg]
 
 === Kleinschmidt
 
-Kleinschmidt is also misspelled:
+Kleinschmidt is also misspelled. Christina Klainsmith and Christain Klanesmith:
 
-image::kleinschimdt.jpg[]
+image::klainsmith.jpg[]
+
+image::klinesmith.jpg[]
 
 === Krückeberg
 
-Also misspelled:
+Krückeberg is misspelled a Kreickeberg. Caroline, Christina, John, and John Henry Krückeberg:
 
 image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 
@@ -51,37 +53,35 @@ image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 .in Naturalization Indexes publish in the Adams County Trumper
 [%header,cols="4,2,2,1,1"]
 |===
-|Name|County|Court|Order Book|Page
+|Name|County|Court|Order Book|Page|Years
 
-|Blake, Christian|Adams|Circuit|B|180
+|Blake, Christian|Adams|Circuit|B|180|
 
-|Blake, Christian F.|Adams|Circuit|B|180
+|Blake, Christian F.|Adams|Circuit|B|180|
 
-|Blake, Christina|Adams|Circuit|B|180
+|Blake, Christina|Adams|Circuit|B|180|
 
-|Blake, Louisa|Adams|Circuit|B|180
+|Blake, Louisa|Adams|Circuit|B|180|
 
-|Blake, Sophia|Adams|Circuit|B|180
+|Blake, Mary|Adams|Circuit|B|180|
+
+|Blake, Sophia|Adams|Circuit|B|180|
 
 |Bleeke, Christian|Adams|Circuit|A|427
 
-|Blake, Sophia|Adams|Circuit|B|180
+|Book(Buuck), Conrad|Adams|Circuit|A|265|
 
-|Book(Buuck), Conrad|Adams|Circuit|A|265
+|Book(Buuck), Ernst|Adams|Circuit|A|265|
 
-|Book(Buuck), Ernst|Adams|Circuit|A|265
+|Book(Buuck), Ernst|Adams|Probate|A|436|
 
-|Book(Buuck), Ernst|Adams|Probate|A|436
+|Book(Buuck), Frederic|Adams|Circuit|A|42|
 
-|Book(Buuck), Frederic|Adams|Circuit|A|42
+|Book(Buuck), Frederick|Adams|Circuit|A|250|
 
-|Book(Buuck), Frederick|Adams|Circuit|A|250
+|Klainsmith(Kleinschmidt), Christian|Adams|Circuit|A|41|
 
-|Book(Buuck), Frederic|Adams|Circuit|C|4
-
-|Klainsmith(Kleinschmidt), Christian|Adams|Circuit|A|41
-
-|Klanesmith, Christian|Adams|Circuit|A|41
+|Klanesmith, Christian|Adams|Circuit|A|41|
 
 |Klinesmith, Christian|Adams|Circuit|A|381
 
