@@ -67,7 +67,7 @@ image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 
 |Blake, Sophia|Adams|Circuit|B|180|
 
-|Bleeke, Christian|Adams|Circuit|A|427
+|Bleeke, Christian|Adams|Circuit|A|427|
 
 |Book(Buuck), Conrad|Adams|Circuit|A|265|
 
