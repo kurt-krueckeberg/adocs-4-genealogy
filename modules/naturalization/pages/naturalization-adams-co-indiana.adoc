@@ -41,13 +41,19 @@ image::klainsmith.jpg[]
 
 image::klinesmith.jpg[]
 
+=== Koldewie
+
+**TODO:** Add Koldewie image
+
 === Krückeberg
 
 Krückeberg is misspelled a Kreickeberg. Caroline, Christina, John, and John Henry Krückeberg:
 
-image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
+image::krueckeberg.jpg[]
 
-**TODO:** double check this.
+image::kruckenberg.jpg[]
+
+== Consoliated Table
 
 [caption="Synopsis of Persons of Interest: "]
 .in Naturalization Indexes publish in the Adams County Trumper
@@ -61,13 +67,15 @@ image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 
 |Blake, Christina|Adams|Circuit|B|180|
 
+|Blake, Leona|Adams|Circuit|B|180|
+
 |Blake, Louisa|Adams|Circuit|B|180|
 
 |Blake, Mary|Adams|Circuit|B|180|
 
 |Blake, Sophia|Adams|Circuit|B|180|
 
-|Bleeke, Christian|Adams|Circuit|A|427|
+|Bleeke, Christian|Adams|Circuit|A|427| 
 
 |Book(Buuck), Conrad|Adams|Circuit|A|265|
 
