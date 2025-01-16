@@ -7,7 +7,7 @@ using OCR, so we can have machine-readable characters.
 
 2. Create a table of individuals
 
-2. Look up the filings, pleadings and final orders for the in
+3. Look up the filings, pleadings and final orders for the in
 
 
 Use Genius Scan (or import into Genius Scan 50 megapixel photos from the Gallery), these documents in the Genealogy Center. Also try to enable 
