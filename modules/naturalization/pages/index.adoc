@@ -185,6 +185,24 @@ Other documents that may also appear:
 * Oath of Allegiance
 * Certificate of Arrival
 
+.Categories of Naturalizatioin Records and Where they are located 
+****
+The foreword to  _An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts_ explains what
+exactly is found in Court Order Books versus the naturalization documents:
+
+[quote, Foreword to _An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts_]
+____
+Before the 1950s candidate could file the necessary paperwork in any court from the federal
+level down to the local level. Thus, researchers looking for naturalization records must be
+aware of the categories of naturalization records and where they are located. Currently in
+Indiana, naturalization records fall into two categories: **naturalization proceeding notes
+in court order books, which are notes abiyt court proceedings jotted don by court clerks and
+which indexed in this volume;** and "naturalization documents", which are manuscript items
+such as forms, certificates, and bound naturalization books, which are located at the Indiana
+State Archives.
+____
+****
+
 === What the Declaration of Intent Did 
 
 The Declaration of Intention did not make you a U.S. citizen. But declarants could be <<history-declaration-of-intention, conscripted into
