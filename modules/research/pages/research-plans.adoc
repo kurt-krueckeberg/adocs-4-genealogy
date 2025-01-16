@@ -5,6 +5,8 @@
 The PDF of xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts].
 Genealogy Center. Call #er: **977.2 IN1015A**
 
+From it create a table that verifies what was in the Adams County Trumpeter Article mentioned just below.
+
 The relevant names were first found in this article found using a PERSI search for article about Adams County, Indiana, which 
 returned these two Adams Country Trumpeter articles from 1988 and 1989: xref:attachment$Adams_County_Trumpeter_Oct_1988_April_1989_Naturalization_list_of_Individuals.pdf[Naturlization List for Adams CO Indiana]
 
