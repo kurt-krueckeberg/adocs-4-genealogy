@@ -1,34 +1,43 @@
 = Naturalization Records, Adams CO IN
 
-The October 1988 issue of the Adams County Trumpeter in an article on naturalization records explained the role 
-the naturalization index as part of the xref:research:wpa-hrs.adoc[WPA Historical Survery]
- 
-[quote, Naturalization, Adams County Trumpeter, October 1988]
-____
-The US Department of Justice sponsored a nationwide project from October, 1941, to April, 1942, to locate and index these
-records. We are fortunate that all 92 counties in the state of Indiana participated in the project which was administered by
-the Division of Community Services Programs, Works Projects Administration. War effort superseded completion of the project
-nationwide. The completed index survey files were found in the late seventies in the archives division of the Indiana State
-Library. The family history section of the Indiana Historical Society became interested in the files and in 1981 published
-“An Index to Indiana Naturalization Records Founded Various Order Books of the 92 Local Courts Prior to 1970” close quote a
-copy is still available for $10 to members and $20 to non-members from the Indiana Historical Society….
-____
+The images below are excerpts from _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ An Index to pre-1907 court order books for Indiana County Courts_
+published by the Indiana Historical Society, Family History Section, in 2001.
 
 The index gives:
 
-1. the person's name
-2. the name of the court order book, and
-3. the page number within the book.
+1. person's name
+2. county name
+3. name of court
+4. volume (of court order book)
+5. page number within the volume
+6. Years
 
-Among others, these names of interest appeared in the October 1988 and the 
+For Adams County, Indiana, these names of interest appeared in the _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ An Index to pre-1907 court order books for Indiana County Courts_
+often with their surnames misspelled:
 
-image::blake-blakey.jpg[xref=image$blake-blakey.jpg]
+== Blake and Blakey
 
-image::bleeke.jpg[xref=image$bleeke.jpg]
+image::blake-blakey.jpg[title="Blake, Blakey, Bleeke in Adams Co (Click to enlarge)",Adxref=image$blake-blakey.jpg]
+
+== Bleeke
+
+image::bleeke.jpg[title="Bleeke in Adams Co (Click to enlarge)",xref=image$bleeke.jpg]
+
+== Buuck
+
+Buuck is spelled as "Book"
 
 image::buuck.jpg[xref=image$buuck.jpg]
 
+== Kleinschmidt
+
+Kleinschmidt is also misspelled
+
 image::kleinschimdt.jpg[xref=image$kleinschimdt.jpg]
+
+== Krückeberg
+
+Also misspelled
 
 image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 
@@ -37,7 +46,7 @@ image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 .in Naturalization Indexes publish in the Adams County Trumper
 [%header,cols="4,2,1,1"]
 |===
-|Name|Court|Order Book|Page
+|Name|County|Court|Order Book|Page
 
 |Blake, Christian|Circuit|B|180
 
