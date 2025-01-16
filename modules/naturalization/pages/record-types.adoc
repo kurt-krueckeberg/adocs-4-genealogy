@@ -1,0 +1,36 @@
+= Naturalization Record Types
+
+Naturalization occurred in the courts, and notes of the naturalization proceeding were
+jotted down by court clerks in court order books. How this worked is explaned in the
+foreword to _An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts_.
+
+[quote, page v of Foreword to An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts]
+____
+Each time a immigrant took a step in the naturalization proces, a court clerk made a notation in an
+order book of the court for which he or she served. The note is called a "filing" or a "pleading"
+if it states that an immigrant files a delcaration of intention to become a citizen or a petition
+for naturalization; the note is called a "final order" if it states that a judge officially
+ordered that an immigrant is a legal citizen. Clerks of the circuit courts in Indiana counties
+retain the order books that contain these filings, pleadings, and final orders.
+____
+
+How do you go about locating copies of these naturaliation filings, pleadings and final orders?
+
+[quote, page vi of Foreword to An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts]
+____
+In order to obtain a copy of one of the notes, a researcher must know which county to contact.
+The easiest way to begin this research is to consult the index in this volume, "An Index to 
+Naturalization Records in Pre-1907 Order Books of Indiana County Courts."...Next to each immigrant's
+name is the county where the immigrant completed a step of the naturalization process, type type
+of court order book (superior, common pleas, probate, or circuit) that contains the filing, pleading
+or final order, the volume(s) and year(s) of the order book and the page(s) where the note is
+located in the order book. If a researcher finds a ancestor listed in this index, he or she should
+call or visit the circuit court for the county indicated and **ask the circuit court clerk to 
+check both the Civil AND Probate order books for the type of the court listed (Superior, Common
+Pleas, Probate or Circuit). State the volume and year(s) of the order book and the page(s) or the
+filing, pleading or final order. (In order to avoid confusion, DO NOT ask for "naturalization
+records.")
+____
+
+TODO: Complete this by rescanning using Genius Scan as 12Megapixles and using OCR to generated
+machine-readable text.

@@ -1,5 +1,5 @@
 .xref:index.adoc[]
-* xref:documents-vs-proceedings.adoc[]
+* xref:record-types.adoc[]
 * xref:census-naturalization.adoc[] 
 * xref:finding-aids.adoc[]
 * xref:naturalization-adams-co-indiana.adoc[]
