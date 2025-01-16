@@ -1,15 +1,16 @@
-= Research Plans
+= Genealogy Research Priorities
 
 == Adams CO, Indiana, Naturalization Records
 
-Use Genius Scan (or import into Genius Scan 50 megapixel photos from the Gallery), this volume in the Genealogy Center, scanning those relevant
-names from Allen and Adams Counties. Also try to enable OCR when scanning: +
-_An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_. Call #er: **977.2 IN1015A**.
+Pdf of xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts].
+Genealogy Center. Call #er: **977.2 IN1015A**
 
-The relevant names can be found in the xref:attachment$Adams_County_Trumpeter_Oct_1988_April_1989_Naturalization_list_of_Individuals.pdf[Naturlization List for Adams CO Indiana]
-from the Adams County Trumpeter, Oct 1988 and April 1989.
+The relevant names were first found in this article found using a PERSI search for article about Adams County, Indiana, which 
+returned these two Adams Country Trumpeter articles from 1988 and 1989: xref:attachment$Adams_County_Trumpeter_Oct_1988_April_1989_Naturalization_list_of_Individuals.pdf[Naturlization List for Adams CO Indiana]
 
-Then look for the naturalization papers in the Family Search online link:https://www.familysearch.org/search/catalog/1150012[Adams' County Court Order books] and any other named courts.
+Next, using the first PDF above, look up the naturalization papers--declaration of intention and declaration of citizenship--in
+the Family Search online link:https://www.familysearch.org/search/catalog/1150012[Adams' County Court Order books] and any other
+named courts.
 
 == Adams County, Indiana Index of Names of Persons & Firms
 
