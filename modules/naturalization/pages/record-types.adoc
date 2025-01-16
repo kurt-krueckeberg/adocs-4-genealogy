@@ -1,9 +1,12 @@
 = Naturalization Record Types
 
-Naturalization occurred in the courts, and notes of the naturalization proceeding were
-jotted down by court clerks in court order books. How this worked is explaned in the
-foreword to xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of
-Indiana County Courts].
+Naturalization occurred in the courts, and the court clerks jotted down notes of the
+naturalization proceeding in the court order books. How this worked is worked is explained 
+in the foreword to xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of
+Indiana County Courts]. These notes are called a **filing** or a **pleaing** if the immigrant
+files a **declaration of intention** (to become a citizen) or a **petition for naturalization**.
+The note is called a **final order** if the judge offically ordered that the immigrant is now
+a legal citizen. 
 
 [quote, page v of Foreword to An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts]
 ____
@@ -16,13 +19,15 @@ retain the order books that contain these filings, pleadings, and final orders.
 ____
 
 How do you go about locating copies of these naturaliation filings, pleadings and final orders?
+As further explained, one must consult the volume _An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts_,
+locate the county, the type of court order book and its page number.
 
 [quote, page vi of Foreword to An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts]
 ____
 In order to obtain a copy of one of the notes, a researcher must know which county to contact.
 The easiest way to begin this research is to consult the index in this volume, "An Index to 
 Naturalization Records in Pre-1907 Order Books of Indiana County Courts."...Next to each immigrant's
-name is the county where the immigrant completed a step of the naturalization process, type type
+name is the county where the immigrant completed a step of the naturalization process, the type
 of court order book (superior, common pleas, probate, or circuit) that contains the filing, pleading
 or final order, the volume(s) and year(s) of the order book and the page(s) where the note is
 located in the order book. If a researcher finds a ancestor listed in this index, he or she should
