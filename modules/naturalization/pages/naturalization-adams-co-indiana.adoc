@@ -22,6 +22,17 @@ The index gives:
 
 Among others, these names of interest appeared in the October 1988 and the 
 
+image::blake-blakey.jpg[xref=image$blake-blakey.jpg]
+
+image::bleeke.jpg[xref=image$bleeke.jpg]
+
+image::buuck.jpg[xref=image$buuck.jpg]
+
+image::kleinschimdt.jpg[xref=image$kleinschimdt.jpg]
+
+image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
+
+
 [caption="Synopsis of Persons of Interest: "]
 .in Naturalization Indexes publish in the Adams County Trumper
 [%header,cols="4,2,1,1"]
