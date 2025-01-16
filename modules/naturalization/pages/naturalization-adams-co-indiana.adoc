@@ -83,24 +83,24 @@ image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 
 |Klanesmith, Christian|Adams|Circuit|A|41|
 
-|Klinesmith, Christian|Adams|Circuit|A|381
+|Klinesmith, Christian|Adams|Circuit|A|381|
 
-|Koldewie, Ludwick|Adams|Circuit|D|314
+|Koldewie, Ludwick|Adams|Circuit|D|314|
 
-|Kreickeberg, Carolina|Adams|Circuit|B|526
+|Kreickeberg, Carolina|Adams|Circuit|B|526|
 
-|Kreickeberg, Christian|Adams|Circuit|B|526
+|Kreickeberg, Christian|Adams|Circuit|B|526|
 
-|Kreickeberg, John|Adams|Circuit|D|317
+|Kreickeberg, John|Adams|Circuit|D|317|
 
-|Kreickeberg, John Henry|Adams|Circuit|B|526
+|Kreickeberg, John Henry|Adams|Circuit|B|526|
 
-|Kreickeberg, Phillip|Adams|Circuit|B|526
+|Kreickeberg, Phillip|Adams|Circuit|B|526|
 
-|Kreickeberg, Charles|Adams|Circuit|C|13
+|Kreickeberg, Charles|Adams|Circuit|C|13|
 
-|Kritzman, Henry|Adams|Circuit|D|342
+|Kritzman, Henry|Adams|Circuit|D|342|
 
-|Kruckenberg, Charles|Adams|Circuit|Y|74
+|Kruckenberg, Charles|Adams|Circuit|Y|74|
 |===
 
