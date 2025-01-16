@@ -2,9 +2,9 @@
 
 == Naturalization Indexes 
 
-_An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_,
-Indiana Historical Society, Indianapolis, 2001, is the 2nd edition of the early _An
-index to Indiana naturalization records found in various order books of the ninety-two
+xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization
+Records In pre-1907 Order Books of Indiana County Courts], published by the Indiana Historical Society, Indianapolis, 2001,
+is the 2nd edition of the early _An index to Indiana naturalization records found in various order books of the ninety-two
 local courts prior to 1907_, Indiana Historical Society, Indianapolis, 1981.
 
 Its contents are described on the
@@ -28,11 +28,13 @@ ____
 The index includes:
 
 1. the **person's name**, 
-2. the **name of the court order book**, and
-3. the **page number within the book**.
+2. the county
+3. the **name of the court order book**, and
+4. the **page number within the book**.
+5. the years
 
-The table shows libraries that have _An Index to Naturalization Records In pre-1907 Order Books of Indiana County
-Courts_.
+The table shows libraries that have xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization
+Records In pre-1907 Order Books of Indiana County Courts]:
 
 [caption="Repositories with: "]
 .An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts
@@ -73,8 +75,8 @@ The Genealogy Center call number is: **977.2 N46r**.
 
 === Background History
 
-The content _An Index to Naturalization Records In pre-1907 Order Books of
-Indiana County Courts_ derives from the work of the Work Progress
+The content of  xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization
+Records In pre-1907 Order Books of Indiana County Courts] derives from the work of the Work Progress
 Administration's Historical Records Survery, which among other things indexed
 Declaration of Intentions and Petition to Naturalize found in court order
 books. The article <<naturalization-article, _Naturalization_, Adams County

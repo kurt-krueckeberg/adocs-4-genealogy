@@ -2,7 +2,8 @@
 
 Naturalization occurred in the courts, and notes of the naturalization proceeding were
 jotted down by court clerks in court order books. How this worked is explaned in the
-foreword to _An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts_.
+foreword to xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of
+Indiana County Courts].
 
 [quote, page v of Foreword to An Index to Naturalization Record in pre-1907 Order Books of Indiana County Courts]
 ____
@@ -32,5 +33,3 @@ filing, pleading or final order. (In order to avoid confusion, DO NOT ask for "n
 records.")
 ____
 
-TODO: Complete this by rescanning using Genius Scan as 12Megapixles and using OCR to generated
-machine-readable text.

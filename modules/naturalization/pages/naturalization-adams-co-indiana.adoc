@@ -1,45 +1,51 @@
 = Naturalization Records, Adams CO IN
 
-The images below are excerpts from _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ An Index to pre-1907 court order books for Indiana County Courts_
+The images below are excerpts taken from _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_,
 published by the Indiana Historical Society, Family History Section, in 2001.
 
 The index gives:
 
 1. person's name
-2. county name
-3. name of court
+2. county name (abbreviated)
+3. name of court (abbreviated)
 4. volume (of court order book)
 5. page number within the volume
 6. Years
 
+== Persons of Interest
+
 For Adams County, Indiana, these names of interest appeared in the _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ An Index to pre-1907 court order books for Indiana County Courts_
 often with their surnames misspelled:
 
-== Blake and Blakey
+=== Bleeke
 
-image::blake-blakey.jpg[title="Blake, Blakey, Bleeke in Adams Co (Click to enlarge)",Adxref=image$blake-blakey.jpg]
+Bleeke spelled as Blake or Blakey:
 
-== Bleeke
+image::blake-blakey.jpg[]
 
-image::bleeke.jpg[title="Bleeke in Adams Co (Click to enlarge)",xref=image$bleeke.jpg]
+Spelled as Bleeke:
 
-== Buuck
+image::bleeke.jpg[]
 
-Buuck is spelled as "Book"
+=== Buuck
+
+Buuck spelled as "Book":
 
 image::buuck.jpg[xref=image$buuck.jpg]
 
-== Kleinschmidt
+=== Kleinschmidt
 
-Kleinschmidt is also misspelled
+Kleinschmidt is also misspelled:
 
-image::kleinschimdt.jpg[xref=image$kleinschimdt.jpg]
+image::kleinschimdt.jpg[]
 
-== Krückeberg
+=== Krückeberg
 
-Also misspelled
+Also misspelled:
 
 image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
+
+**TODO:** double check this.
 
 [caption="Synopsis of Persons of Interest: "]
 .in Naturalization Indexes publish in the Adams County Trumper
