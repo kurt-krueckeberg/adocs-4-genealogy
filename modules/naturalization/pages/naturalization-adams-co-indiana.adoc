@@ -48,55 +48,55 @@ image::krueckeberg.jpg[xref=image$krueckeberg.jpg]
 |===
 |Name|County|Court|Order Book|Page
 
-|Blake, Christian|Circuit|B|180
+|Blake, Christian|Adams|Circuit|B|180
 
-|Blake, Christian F.|Circuit|B|180
+|Blake, Christian F.|Adams|Circuit|B|180
 
-|Blake, Christina|Circuit|B|180
+|Blake, Christina|Adams|Circuit|B|180
 
-|Blake, Louisa|Circuit|B|180
+|Blake, Louisa|Adams|Circuit|B|180
 
-|Blake, Sophia|Circuit|B|180
+|Blake, Sophia|Adams|Circuit|B|180
 
-|Bleeke, Christian|Circuit|A|427
+|Bleeke, Christian|Adams|Circuit|A|427
 
-|Blake, Sophia|Circuit|B|180
+|Blake, Sophia|Adams|Circuit|B|180
 
-|Book(Buuck), Conrad|Circuit|A|265
+|Book(Buuck), Conrad|Adams|Circuit|A|265
 
-|Book(Buuck), Ernst|Circuit|A|265
+|Book(Buuck), Ernst|Adams|Circuit|A|265
 
-|Book(Buuck), Ernst|Probate|A|436
+|Book(Buuck), Ernst|Adams|Probate|A|436
 
-|Book(Buuck), Frederic|Circuit|A|42
+|Book(Buuck), Frederic|Adams|Circuit|A|42
 
-|Book(Buuck), Frederick|Circuit|A|250
+|Book(Buuck), Frederick|Adams|Circuit|A|250
 
-|Book(Buuck), Frederic|Circuit|C|4
+|Book(Buuck), Frederic|Adams|Circuit|C|4
 
-|Klainsmith(Kleinschmidt), Christian|Circuit|A|41
+|Klainsmith(Kleinschmidt), Christian|Adams|Circuit|A|41
 
-|Klanesmith, Christian|Circuit|A|41
+|Klanesmith, Christian|Adams|Circuit|A|41
 
-|Klinesmith, Christian|Circuit|A|381
+|Klinesmith, Christian|Adams|Circuit|A|381
 
-|Koldewie, Ludwick|Circuit|D|314
+|Koldewie, Ludwick|Adams|Circuit|D|314
 
-|Kreickeberg, Carolina|Circuit|B|526
+|Kreickeberg, Carolina|Adams|Circuit|B|526
 
-|Kreickeberg, Christian|Circuit|B|526
+|Kreickeberg, Christian|Adams|Circuit|B|526
 
-|Kreickeberg, John|Circuit|D|317
+|Kreickeberg, John|Adams|Circuit|D|317
 
-|Kreickeberg, John Henry|Circuit|B|526
+|Kreickeberg, John Henry|Adams|Circuit|B|526
 
-|Kreickeberg, Phillip|Circuit|B|526
+|Kreickeberg, Phillip|Adams|Circuit|B|526
 
-|Kreickeberg, Charles|Circuit|C|13
+|Kreickeberg, Charles|Adams|Circuit|C|13
 
-|Kritzman, Henry|Circuit|D|342
+|Kritzman, Henry|Adams|Circuit|D|342
 
-|Kruckenberg, Charles|Circuit|Y|74
+|Kruckenberg, Charles|Adams|Circuit|Y|74
 |===
 
 
