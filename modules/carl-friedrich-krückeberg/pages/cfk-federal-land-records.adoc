@@ -1,7 +1,4 @@
 = Federal Land Records for CF Krückeberg
-// Land Record for Carl Friedrich Krückeberg
-
-TODO: The state of Indiana land records are still missing.
 
 // Mel sent the following scanned pages that concern land records that are from (perhaps) Harry Frederick Krueckeberg's volume
 // link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=1706792[Ancestral roots and family branches : ancestor and descendant reports on the families of the Krueckebergs, Vollmers, Shanks, with photographs, by Harry Krueckeberg]
