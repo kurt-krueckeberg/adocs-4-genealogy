@@ -3,9 +3,12 @@
 == Plans for 1/17/25
 
 . scan the page of link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/naturalization-adams-co-indiana.html[Naturalization Records for Adams CO]
-that has the Koldewie.
+that has the Koldewie. Double check that the Koldewie entry in the table at `m/naturalization/pages/naturalization-adams-co-indianal.adoc` is correct.
 
-. Look up the filings, pleadings and final orders for the individuals in the table
+. Next, look up the filings, pleadings and final orders for the individuals in the table
+
+. Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts**, which explains the actual naturlalization
+documents (if any exist) reside with the Indiana State Archives. Request these.
 
 . Look up the Zion Friedheim page for the 1849 baptism of ___ Bleeke
 
