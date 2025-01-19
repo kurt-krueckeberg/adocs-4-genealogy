@@ -1,4 +1,5 @@
 * Carl Friedrich Krückeberg
 ** xref:carl-friedrich-krückeberg:immigration.adoc[]
-** xref:carl-friedrich-krückeberg:cfk-land-records.adoc[]
+** xref:carl-friedrich-krückeberg:cfk-federal-land-records.adoc[]
+** xref:carl-friedrich-krückeberg:cfk-state-land-records.adoc[]
 ** xref:carl-friedrich-krückeberg:census.adoc[]
