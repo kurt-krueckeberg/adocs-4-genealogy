@@ -6,7 +6,11 @@ image::Charles_Kikenbury_swap_lands_purchase_land_patent_indiana.jpg[title="Indi
 
 Images from the PDF of xref:attachment$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana.pdf[title="mortgage between State of Indiana and Charles and Dorothy Krückeberg]. 
 
-image::charles-dorothy-krueckeberg-mortgage-with-state-of-indiana-img1.jpg[title="1st image (click to enlarge)",xref=image$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana-img1.jpg
+TEST:
+
+This should be the first image
+
+image::charles-dorothy-krueckeberg-mortgage-with-state-of-indiana-img1.jpg[title="1st image (click to enlarge)",xref=image$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana-img1.jpg]
 
 image::charles-dorothy-krueckeberg-mortgage-with-state-of-indiana-img2.jpg[title="2nd image (click to enlarge)",xref=image$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana-img2.jpg]
 
