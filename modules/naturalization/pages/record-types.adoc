@@ -2,7 +2,7 @@
 
 Naturalization occurred in the courts, and the court clerks jotted down notes of the
 naturalization proceeding in the court order books. How this worked is worked is explained 
-in the foreword to xref:attachment$An_Index_to_Naturalization_Records_In_pre-1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of
+in the foreword to xref:attachment$Foreword_from_An_Index_to_Naturalzation_Records_in_pre_1907_Order_Books_of_Indiana_County_Courts.pdf[An Index to Naturalization Records In pre-1907 Order Books of
 Indiana County Courts]. These notes are called a **filing** or a **pleaing** if the immigrant
 files a **declaration of intention** (to become a citizen) or a **petition for naturalization**.
 The note is called a **final order** if the judge offically ordered that the immigrant is now
