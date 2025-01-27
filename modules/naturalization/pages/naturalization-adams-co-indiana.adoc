@@ -53,9 +53,11 @@ image::klinesmith.jpg[]
 
 Krückeberg is misspelled a Kreickeberg. Caroline, Christina, John, and John Henry Krückeberg:
 
-image::krueckeberg.jpg[]
+image::kreickeberg.jpg[]
 
-image::kruckenberg.jpg[]
+image::Charles_Krickeberg.jpg[]
+
+image::Charles_Kruckenberg.jpg[]
 
 == Consoliated Table
 
@@ -112,6 +114,8 @@ image::kruckenberg.jpg[]
 |Kreickeberg, Charles|Adams|Circuit|C|13|
 
 |Kritzman, Henry|Adams|Circuit|D|342|
+
+|Krickenberg, Charles|Adams|Circuit|C|13|
 
 |Kruckenberg, Charles|Adams|Circuit|Y|74|
 |===
