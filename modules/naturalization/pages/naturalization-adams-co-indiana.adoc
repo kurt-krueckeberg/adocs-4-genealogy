@@ -113,8 +113,6 @@ image::Charles_Kruckenberg.jpg[]
 
 |Kreickeberg, Charles|Adams|Circuit|C|13|
 
-|Kritzman, Henry|Adams|Circuit|D|342|
-
 |Krickenberg, Charles|Adams|Circuit|C|13|
 
 |Kruckenberg, Charles|Adams|Circuit|Y|74|
