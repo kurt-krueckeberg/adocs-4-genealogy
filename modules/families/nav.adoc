@@ -1,6 +1,7 @@
 .Family Backgrounds
 * xref:persons-firms-index.adoc[]
 * xref:bleeke.adoc[] 
+** xref:new-bleeke-facts.adoc[]
 * xref:buuck.adoc[]
 * xref:weiland.adoc[]
 * xref:krueckeberg.adoc[]
