@@ -1,7 +1,7 @@
 = WPA Naturalization Index for Adams CO IN
 
-The images below are excerpts taken from _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_,
-published by the Indiana Historical Society, Family History Section, in 2001.
+The images below are excerpts taken from _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_(Genealogy
+Center call #er: 977.2 In1015a), published by the Indiana Historical Society, Family History Section, in 2001.
 
 Its xref:attachment$Foreword_from_An_Index_to_Naturalzation_Records_in_pre_1907_Order_Books_of_Indiana_County_Courts.pdf[foreword]
 explains what was recorded in court Order Books versus the naturalization documents that the prospective citizen obtained, as well as
@@ -118,3 +118,11 @@ image::Charles_Kruckenberg.jpg[]
 |Kruckenberg, Charles|Adams|Circuit|Y|74|
 |===
 
+== Adams County Court Order Books
+
+FamilySearch.org has the link:https://www.familysearch.org/en/search/catalog/1150012[Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court], but they are only viewable at FamilySearch affliated libraries or LDS Family History Centers. These are relevant volumes
+ for 
+those individuals listed above that are in _An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_
+
+* Adams County Circuit Court Order Book index, v. A-B (1836-post 1920)
+* Adams County Circuit Court Order Book index, v. C (Feb 1853-Feb 1864) - The beginning pages have an index
