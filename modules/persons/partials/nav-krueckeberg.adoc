@@ -1,7 +1,7 @@
 * Carl Friedrich Krückeberg
-** xref:carl-friedrich-krückeberg:immigration.adoc[]
-** xref:carl-friedrich-krückeberg:cfk-federal-land-records.adoc[]
-** xref:carl-friedrich-krückeberg:cfk-state-land-records.adoc[]
-** xref:carl-friedrich-krückeberg:census.adoc[]
+** xref:krückeberg:cfk-immigration.adoc[]
+** xref:krückeberg:cfk-federal-land-records.adoc[]
+** xref:krückeberg:cfk-state-land-records.adoc[]
+** xref:krückeberg:census.adoc[]
 * Karl Heinrich Wilhelm Krückeberg 
-** xref:karl-heinrich-wilhelm-krueckeberg:chw_krueckeberg_naturalization_oath_nov_4_1856.adoc[]
+** xref:krückeberg:chw_krueckeberg_naturalization_oath_nov_4_1856.adoc[]
