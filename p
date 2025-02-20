@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+rm -rf public
+# Create site and copy customization to ./public folder
+npx antora local-playbook.yml 
+# asciidoctor -a stylesheet=/home/kurt/asciidoctor-skins/css/boot-cerulean.css todo.adoc -o public/genealogy/1.0/todo.html
+cp  css/kurt-customizations.css public/_/css/
+cp  fonts/* public/_/font/

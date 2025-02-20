@@ -6,12 +6,12 @@ which are only viewable at:
 * a link:https://www.familysearch.org/en/centers/about[FamilySearch Center].
 * a link:https://www.familysearch.org/en/affiliates/about[FamilySearch affiliate library].
 
-The index information below is found in found in the <<imageNumberTODO1, front the civil order book Y>>, where Carl Heinrich Wilhelm 
-Krückeberg's name is misspelled _Kruckenberg, Charles_
+//The index information below is found in found in the <<imageNumberTODO1, front the civil order book Y>>, where Carl Heinrich Wilhelm 
+//Krückeberg's name is misspelled _Kruckenberg, Charles_
 
-image::Kruckenberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_Y_front_index.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Kruckenberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_Y_front_index.jpg]
+//image::Kruckenberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_Y_front_index.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Kruckenberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_Y_front_index.jpg]
 
-It shows that the filing for his court appearance occurrs on page 74 of Civil Order Book Y. This is found on <<imageNumberTODO2, image number TO_BE_ADDED, page 74>>
+//It shows that the filing for his court appearance occurrs on page 74 of Civil Order Book Y. This is found on <<imageNumberTODO2, image number TO_BE_ADDED, page 74>>
 
 image::Kruckenberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_Y_pages_74-75.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Kruckenberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_Y_pages_74-75.jpg]
 
