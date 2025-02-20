@@ -1,0 +1,22 @@
+=  Carl Friedrich Krückeberg Naturalization
+
+These images are from the FamilySearch collection of link:https://www.familysearch.org/en/search/catalog/1150012[Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court],
+which are only viewable at: 
+
+* a link:https://www.familysearch.org/en/centers/about[FamilySearch Center].
+* a link:https://www.familysearch.org/en/affiliates/about[FamilySearch affiliate library].
+
+The index information below is found in found in the front the civil order book, where Johann Heinrich
+Krückeberg's name is misspelled _Kreickeberg, John Henry_.
+
+image::Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg]
+
+//It shows that the filing for his court appearance occurrs on page 113 of Civil Order Book C. This is found on <<imageNumberTODO, image number TO_BE_ADDED, page 526>>.
+
+//image::Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg].
+
+[bibliography]
+== References
+
+* [[[imageNumberTODO]]] "FamilySearch", unindexed collection of images, _FamilySearch_ (https://www.familysearch.org/TODO:Get_complete_url/ : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records > 
+Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court > Circuit Court civil order book, v. C-D, Aug. 1853-June 1873 > Image TO_BE_ADDED of TOTAL_TO_BE_ADDED 
