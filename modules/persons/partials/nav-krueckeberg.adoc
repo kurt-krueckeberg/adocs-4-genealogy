@@ -6,6 +6,7 @@
 ** xref:krückeberg:census.adoc[]
 * Karl Heinrich Wilhelm Krückeberg 
 ** xref:krückeberg:chw_krueckeberg_naturalization_oath_nov_4_1856.adoc[]
+** xref::krückeberg:chw_krueckeberg_naturalization_1890.adoc[]
 * Johann Heinrich Krückeberg
 ** xref:krückeberg:johann-heinrich-krueckeberg-naturalization.adoc[]
 ** xref:krückeberg:census.adoc[]
