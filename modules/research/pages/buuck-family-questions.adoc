@@ -3,7 +3,7 @@
 
 == Is 'Fredrick Buck' the 'Ernst Friedrich Buuck'?
 
-A **Fredrick Buck** of Adams county, Indiana, was awarded a xref:land-records:attachment$Buck_Frederick_Land_Patent_Adams_CO_IN.pdf[Land Patent]:
+A **Fredrick Buck** of Adams county, Indiana, was awarded a xref:federal-land-records:attachment$Buck_Frederick_Land_Patent_Adams_CO_IN.pdf[Land Patent]:
 
 [quote, Award of land patent to Frederick Buck of Adams county, Indiana]
 .Frederick Buck awarded land patent
