@@ -10,11 +10,11 @@ which are only viewable at:
 The index information below is found in found in the <<imageNumberTODO1, front the civil order book>>, where Johann Heinrich
 Krückeberg's name is misspelled _Kreickeberg, John Henry_.
 
-image::Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_B_front_index.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_B_front_index.jpg]
+image::Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_B_front_index.jpg[align=left,title="Index information (Click to enlarge)",xref=image$Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_B_front_index.jpg]
 
 It shows that the filing for his court appearance occurrs on page 526 of Civil Order Book B. This is found on <<imageNumberTODO2, image number TO_BE_ADDED, page 526>>.
 
-image::Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_Volumes_C-D_Aug_1853-June_1873_page_526.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_Volumes_C-D_Aug_1853-June_1873_page_526.jpg]
+image::Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_Volumes_C-D_Aug_1853-June_1873_page_526.jpg[align=left,title="Page 526 of Civil Order Book B (Click to enlarge)",xref=image$Kreickeberg_John_Henry_Adams_County_Circuit_Court_Civil_Order_Book_Volumes_C-D_Aug_1853-June_1873_page_526.jpg]
 
 [bibliography]
 == References

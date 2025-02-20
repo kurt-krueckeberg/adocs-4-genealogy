@@ -10,11 +10,12 @@ which are only viewable at:
 The index information below is found in found in the front the civil order book, where Johann Heinrich
 Krückeberg's name is misspelled _Krickeberg, Charles_.
 
-image::Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg]
+image::Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg[align=left,title="Index information (Click to enlarge)",xref=image$Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg]
 
 It shows that the filing for his court appearance occurrs on page 13 of Civil Order Book C. This is found on <<imageNumberTODO, image number TO_BE_ADDED, page 13>>.
+                                                                                                                                                             
+image::Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg[align=left,title="Page 13 of Civil Order Book C (Click to enlarge)",xref=image$Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg]
 
-image::Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg].
 
 [bibliography]
 == References
