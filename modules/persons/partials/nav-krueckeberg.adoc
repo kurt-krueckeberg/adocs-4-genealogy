@@ -10,5 +10,5 @@
 ** xref:krückeberg:carl-heinrich-wilhelm/chw_krueckeberg_naturalization_oath_nov_4_1856.adoc[]
 ** xref:krückeberg:carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890.adoc[]
 * Johann Heinrich Krückeberg
-* xref:petzen:petzen-band2-image91.adoc[1806 Baptism]
+** xref:petzen:petzen-band2-image91.adoc[1806 Baptism]
 ** xref:krückeberg:johann-heinrich/johann-heinrich-krueckeberg-naturalization.adoc[]
