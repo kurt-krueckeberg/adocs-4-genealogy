@@ -1,45 +1,46 @@
 = North German Lutheran Church
 
-The digitized records of the North German Lutheran Church are part of the German Americana Collection of the Archives and
-Rare Books Library of the University of Cincinnati. It is located on the 8th Floor of Blegen Library on the University of
-Cincinnati's campus.
+The records of the North German Lutheran Church reside in the Archive and Rare Book Collection Library at University of Cincinnati
+They are part of the Third German Protestant Church Records, which is in the Archival and Manuscript Collection,
+of the German Americana collection, of the Archive and Rare Book Collection Library.
 
 North German Lutheran Church Records:
  
-* link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third Protestant Church Records] contains the North German
-* Lutheran Church records for the
-Bleekes.  + Records of the **North German Lutheran Church:** + **
-link:https://drc.libraries.uc.edu/bitstreams/83425bc0-062e-4bbf-8bdd-82edfcbcfcec/download[Volume 1 of the Church
-records for the North German Lutheran Church] + **Description:** Volume 1 of the Church records for the German
-Evangelical Lutheran Reformed Church, which includes baptisms, confirmations, marriages, and deaths. There are 298
-pages, including 2 pages of narrative reports.  **
-link:https://drc.libraries.uc.edu/bitstreams/f954b301-e3a7-493a-bc15-d421115e7ba1/download[Volume 2 of the Church
-records for the North German Lutheran Church]. + **Description:** Includes minutes, and 332 pages of narrative reports.
-** link:https://drc.libraries.uc.edu/bitstreams/d6bc1940-a055-474b-8e20-3dfee220e7cc/download[Volume 3 of the Church
-records for the North German Lutheran Church] + **Description:** covers marriages and confirmations. There are 121
-pages.  ** link:https://drc.libraries.uc.edu/bitstreams/5077149f-ded4-46f6-95fd-0ab707908ecc/download[Volume 4 of the
-German church records]. + **Description:** Includes records of baptisms, with 368 register pages, 2 pages of narrative
-reports, and 1 page of ephemera.  **
-link:https://drc.libraries.uc.edu/bitstreams/bb87fe22-dd8f-4a95-89fb-c18b2932e518/download[Volume 5 of the German church
-records from the North German Lutheran Church, including reports of deaths]. + **Description:** This volume is 209 pages
-long.
+* link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third Protestant Church Records] contains the North German Lutheran Church records for the
+Bleekes.
++
+Records of the **North German Lutheran Church:**
++
+** link:https://drc.libraries.uc.edu/bitstreams/83425bc0-062e-4bbf-8bdd-82edfcbcfcec/download[Volume 1 of the Church records for the North German Lutheran Church] +
+**Description:** Volume 1 of the Church records for the German Evangelical Lutheran Reformed Church, which includes baptisms,
+confirmations, marriages, and deaths. There are 298 pages, including 2 pages of narrative reports.
+** link:https://drc.libraries.uc.edu/bitstreams/f954b301-e3a7-493a-bc15-d421115e7ba1/download[Volume 2 of the Church records for the North German Lutheran Church]. +
+**Description:** Includes minutes, and 332 pages of narrative reports.
+** link:https://drc.libraries.uc.edu/bitstreams/d6bc1940-a055-474b-8e20-3dfee220e7cc/download[Volume 3 of the Church records for the North German Lutheran Church] +
+**Description:** covers marriages and confirmations. There are 121 pages.
+** link:https://drc.libraries.uc.edu/bitstreams/5077149f-ded4-46f6-95fd-0ab707908ecc/download[Volume 4 of the German church records]. +
+**Description:** Includes records of baptisms, with 368 register pages, 2 pages of narrative reports, and 1 page of ephemera.
+** link:https://drc.libraries.uc.edu/bitstreams/bb87fe22-dd8f-4a95-89fb-c18b2932e518/download[Volume 5 of the German church records from the North German Lutheran Church, including reports of deaths]. +
+**Description:** This volume is 209 pages long.
 
-Other links related to North German Lutheran Church:
+Other links relate to North German Lutheran Church:
 
 * link:https://www.in.gov/library/finding-aid/L188_Moellmann_Family_Collection.pdf[Moellman family collection
-L188] from + + Rare Books and Manuscripts + 140 North Senate Avenue + Indianapolis, Indiana, 46204 + 317-232-3671
-* link:https://sites.google.com/site/ucwalks/points-of-interest/third-protestant-memorial-church[Third Protestant
-* Memorial Church] background, from +
+L188] from +
++
+Rare Books and Manuscripts +
+140 North Senate Avenue +
+Indianapolis, Indiana, 46204 +
+317-232-3671
+* link:https://sites.google.com/site/ucwalks/points-of-interest/third-protestant-memorial-church[Third Protestant Memorial Church] background, from
 UC Historical Walking Tour
 * link:[Genealogy of Some German Evangelical Churches in Cincinnati, Ohio
-Compiled from Cincinnati City Directories and various Church Records and Histories by Robert C. Rau 10 Feb 1992] from:
-Hamilton County, Ohio, Genealogical Soceity's website.
-* An article entitled “History of the German Evangelical Churches in Cincinnati,” by Robert C. Rau, appeared in the
-* March 1989 issue of _The
+Compiled from Cincinnati City Directories and various Church Records and Histories by Robert C. Rau 10 Feb 1992] from: Hamilton County, Ohio,
+Genealogical Soceity's website.
+* An article entitled “History of the German Evangelical Churches in Cincinnati,” by Robert C. Rau, appeared in the March 1989 issue of _The
 German Immigrant_  March 1989.
 * link:https://ohiomemory.org/digital/collection/p15005coll31/id/39130/[Migrating Germans Found St. Peter's United
-* Church of Christ]
-
+Church of Christ]
 
 NOTE: The records of the predecessor to the North German Lutheran Church was St. Peter's United Protestant Church. 
 It later became a Church of Christ.
