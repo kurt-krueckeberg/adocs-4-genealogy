@@ -1,9 +1,27 @@
 = North German Lutheran Church
 
-TODO: write up
+The records of the North German Lutheran Church reside in the Archive and Rare Book Collection Library at University of Cincinnati
+They are part of the records of the Third German Protestant Church Records, which is within in the Archival and Manuscript Collection,
+of the German Americana collection, of the Archive and Rare Book Collection Library.
 
+North German Lutheran Church Records:
+ 
 * link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third Protestant Church Records] contains the North German Lutheran Church records for the
 Bleekes.
++
+Records of the **North German Lutheran Church:**
++
+** Volume 1? **NOTE:** I haven't found a link to such a volume
+** link:https://drc.libraries.uc.edu/bitstreams/f954b301-e3a7-493a-bc15-d421115e7ba1/download[Volume 2 of the Church records for the North German Lutheran Church]. Includes minutes, and 332 pages of narrative reports.
+** link:https://drc.libraries.uc.edu/bitstreams/d6bc1940-a055-474b-8e20-3dfee220e7cc/download[Volume 3 of the Church records for the North German Lutheran Church covering marriages and confirmations].
+There are 121 pages.
+** link:https://drc.libraries.uc.edu/bitstreams/5077149f-ded4-46f6-95fd-0ab707908ecc/download[Volume 4 of the German church records].
+Includes records of baptisms, with 368 register pages, 2 pages of narrative reports, and 1 page of ephemera.
+** link:https://drc.libraries.uc.edu/bitstreams/bb87fe22-dd8f-4a95-89fb-c18b2932e518/download[Volume 5 of the German church records from the North German Lutheran Church, including reports of deaths].
+This volume is 209 pages long.
+
+Other links relate to North German Lutheran Church:
+
 * link:https://www.in.gov/library/finding-aid/L188_Moellmann_Family_Collection.pdf[Moellman family collection
 L188] from +
 +
