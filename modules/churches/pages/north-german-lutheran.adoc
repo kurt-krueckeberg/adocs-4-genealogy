@@ -11,8 +11,9 @@ Bleekes.
 +
 Records of the **North German Lutheran Church:**
 +
-** Volume 1? +
-**NOTE:** I haven't found a link to such a volume
+** link:https://drc.libraries.uc.edu/bitstreams/83425bc0-062e-4bbf-8bdd-82edfcbcfcec/download[Volume 1 of the Church records for the North German Lutheran Church] +
+**Description:** Volume 1 of the Church records for the German Evangelical Lutheran Reformed Church, which includes baptisms,
+confirmations, marriages, and deaths. There are 298 pages, including 2 pages of narrative reports.
 ** link:https://drc.libraries.uc.edu/bitstreams/f954b301-e3a7-493a-bc15-d421115e7ba1/download[Volume 2 of the Church records for the North German Lutheran Church]. +
 **Description:** Includes minutes, and 332 pages of narrative reports.
 ** link:https://drc.libraries.uc.edu/bitstreams/d6bc1940-a055-474b-8e20-3dfee220e7cc/download[Volume 3 of the Church records for the North German Lutheran Church] +
