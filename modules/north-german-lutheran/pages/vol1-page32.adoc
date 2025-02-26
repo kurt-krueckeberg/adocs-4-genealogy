@@ -1,20 +1,23 @@
 = North German Lutheran, Volume 1, Page 32 
+:page-role: doc-width
+
+//== Citation
+
+//The baptism record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
+
+image::vol1-page32.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$vol1-page32.jpg]
 
 [NOTE]
 .Some comments
 ====
 Key Points:
 
-* Abbreviations seem to have been used for the first names of the parents, likely to save space
+* Abbreviations have been used for the first names of the parents, likely to save space
 since they had so many. 
 * I don't know what the symbols after the father's name mean. The first is a single character that
 looks like a sort of sideways loop). It is followed a two-character abbreviattion. This seems to
-refer to the wife since it is immediately followed by `geb.` `geb.` is almost certainly an abbreviation for `geboren` (born),
-referring to the maiden name of the wife (the surname she was born with). There may be a legend of some
-sort at the start of the volume that explains this mysterious abbreviation/symbols.
-
-The "symbols" or abbreviations following the father's name might be clarified earlier in the volume, where
-a legend might appear?
+refer to the wife since it is immediately followed by `geb.`  (geboren) referring to the maiden name
+of the wife.  There may be a legend at the start of the volume?
 ====
 
 The page heading is:
@@ -27,8 +30,8 @@ The page heading is:
 |===
 |No.|Name.|Eltern.|geboren (born)|getauft.(baptize)
 
-|24.|Emilie|Joh. Hei[n]r. Phil. Bleke +
-[unknown abbreviation] geb. +
+|24.|Emilie|Joh. Hei[n]r. Phil. Bleke [symbols] geb. +
+Schr
 [Gav.] [C]hritine Luise Sch[r]ie[????] Bleke|11|19 +
 März (March)
 |===
