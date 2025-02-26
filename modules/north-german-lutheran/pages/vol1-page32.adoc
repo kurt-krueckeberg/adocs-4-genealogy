@@ -28,9 +28,9 @@ The page heading is:
 |No.|Name.|Eltern.|geboren (born)|getauft.(baptize)
 
 m|24. l|Emilie l|Joh. Heinr. Phil. Bleke [symbols] geb.
-                        Schrie[we]
+        Schrie[we]
 [Gav.] [C]hristine Luise  Bleke l|11 l|19
-März (March)
+März
 |===
 
 [bibliography]
