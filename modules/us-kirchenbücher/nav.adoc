@@ -1,5 +1,4 @@
 .US Kirchenbücher Records
-* xref:frille:index.adoc[Frille Kirchenbücher]
 * Bleeke 
 +
 --
