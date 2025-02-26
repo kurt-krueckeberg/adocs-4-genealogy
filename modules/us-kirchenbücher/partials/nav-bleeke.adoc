@@ -1,2 +1,1 @@
-.Cincinnati
-* xref:north-german-lutheran:vol1-page32.adoc
+* xref:north-german-lutheran:vol1-page32.adoc[]

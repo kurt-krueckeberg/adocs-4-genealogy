@@ -1,2 +1,2 @@
-.North German Lutheran
+.North German Lutheran, Cincinnati
 * xref:vol1-page32.adoc[]

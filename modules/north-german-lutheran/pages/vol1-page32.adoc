@@ -1,19 +1,29 @@
 = North German Lutheran, Volume 1, Page 32 
 
+[NOTE]
+.Some comments
+====
+Key Points:
+
 * Abbreviations seem to have been used for the first names of the parents, likely to save space
 since they had so many. 
-* I don't know what the symbols after the father's name mean. The first is a single character (sort of
-a aidways loop) followed a two-character abbreviattion. It might refer to his wife
-since it is immediately followed by `geb.` `geb.` is almost certainly an abbreviation for `geboren` (born),
+* I don't know what the symbols after the father's name mean. The first is a single character that
+looks like a sort of sideways loop). It is followed a two-character abbreviattion. This seems to
+refer to the wife since it is immediately followed by `geb.` `geb.` is almost certainly an abbreviation for `geboren` (born),
 referring to the maiden name of the wife (the surname she was born with). There may be a legend of some
 sort at the start of the volume that explains this mysterious abbreviation/symbols.
 
+The "symbols" or abbreviations following the father's name might be clarified earlier in the volume, where
+a legend might appear?
+====
+
 The page heading is:
 
-`32.) Taufen. (Baptism)          1837`
+`32.) Taufen. (Baptisms)          1837`
 
 [caption="page 32 of volume of: "]
 .Nord deutschlische lutheranische Kirche (North German Lutheran Church)
+[cols="1,2,5,1,1"]
 |===
 |No.|Name.|Eltern.|geboren (born)|getauft.(baptize)
 
