@@ -1,1 +1,2 @@
+.xref:north-german-lutheran:index.adoc[]
 * xref:north-german-lutheran:vol1-page32.adoc[]

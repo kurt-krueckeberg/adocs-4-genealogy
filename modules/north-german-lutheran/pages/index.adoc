@@ -1,11 +1,16 @@
 = North German Lutheran Church, Cincinnati
 
-== German Americana Collection
+== History
 
-The link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German Americana Collection]
-contains a digital copy of the records of the link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third German Protestant Church Records].
-This includes the records of the prior parent church(es??), the North German Lutheran ???
+The history of the North German Lutheran Church is outlined on the Hamilton County, Ohion, Genealogical Society's webste in the  
+article link:https://hcgsohio.org/upload/files/Local%20Records/Church%20Records/Rau_GENEALOGY_OF_SOME_GERMAN_EVANGELICAL_Churches_in_Cincy_and_history.pdf[Genealogy
+of Some German Evangelical Churches in Cincinnati, Ohio] by Robert C. Rau.
 
+TODO: Add excerpts here. 
 
-include attachemtn to RAu PDF fund on the Hamilton County Genealogical Society webiste.
+== Digital Records
+
+PDFs of the church registers of the North German Lutheran Church are part of the link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third
+German Protestant Church Records] of the link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German
+Americana Collection] of the link:https://libraries.uc.edu/libraries/arb.html[Archives and Rare Books Library] at University of Cincinnati.
 
