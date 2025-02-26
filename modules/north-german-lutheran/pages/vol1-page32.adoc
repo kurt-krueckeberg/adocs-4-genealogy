@@ -27,8 +27,8 @@ The page heading is:
 |===
 |No.|Name.|Eltern.|geboren (born)|getauft.(baptize)
 
-|24.|Emilie|Joh. Hei[n]r. Phil. Bleke [symbols] geb. +
-Schrie[????] +
+m|24.|Emilie|Joh. Heinr. Phil. Bleke [symbols] geb. +
+Schrie[we] +
 [Gav.] [C]hritine Luise  Bleke|11|19 +
 März (March)
 |===

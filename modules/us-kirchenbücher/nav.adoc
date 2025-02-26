@@ -1,5 +1,5 @@
 .U.S. Kirchenbücher Records
-* North German Lutheran Church
+* xref:north-german-lutheran:index.adoc[]
 ** Bleeke
 +
 --
