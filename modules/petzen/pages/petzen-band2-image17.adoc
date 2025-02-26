@@ -33,7 +33,7 @@ image::petzen-band2-img17-right.jpg[align=left,title="Click to englarge",xref=im
 
 [NOTE] 
 A proclamation or **Marriage Banns** was an announcements of an impending marriage between two individuals.
-See xref:kirchenbücher:understand.adoc#understanding-marriage-banns-or-proclamations[Understanding Marriage Banns and Proclamations].
+See xref:german-kirchenbücher:understand.adoc#understanding-marriage-banns-or-proclamations[Understanding Marriage Banns and Proclamations].
 
 [source, text]
 .Header for pages 28 and 29

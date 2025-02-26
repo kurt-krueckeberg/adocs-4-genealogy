@@ -1,0 +1,25 @@
+= Page 32 Volume 1 
+
+* Abbreviations seem to have been used for the first names of the parents, likely to save space
+since they had so many. 
+* I don't know what the symbols after the father's name mean. The first is a single character (sort of
+a aidways loop) followed a two-character abbreviattion. It might refer to his wife
+since it is immediately followed by `geb.` `geb.` is almost certainly an abbreviation for `geboren` (born),
+referring to the maiden name of the wife (the surname she was born with). There may be a legend of some
+sort at the start of the volume that explains this mysterious abbreviation/symbols.
+
+The page heading is:
+
+`32.) Taufen. (Baptism)          1837`
+
+[caption="page 32 of volume of: "]
+.Nord deutschlische lutheranische Kirche (North German Lutheran Church)
+|===
+|No.|Name.|Eltern.|geboren (born)|getauft.(baptize)
+
+|24.|Emilie|Joh. Hei[n]r. Phil. Bleke +
+[unknown abbreviation] geb. +
+[Gav.] [C]hritine Luise Sch[r]ie[????] Bleke|11|19 +
+März (March)
+|===
+

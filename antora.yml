@@ -19,5 +19,7 @@ nav:
   - modules/related-trees/nav.adoc
   - modules/research/nav.adoc
   - modules/probate/nav.adoc
-  - modules/kirchenbücher/nav.adoc
+  - modules/german-kirchenbücher/nav.adoc
+  - modules/us-kirchenbücher/nav.adoc
+  - modules/persons/nav.adoc
   - modules/persons/nav.adoc
