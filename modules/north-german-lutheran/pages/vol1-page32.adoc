@@ -3,7 +3,7 @@
 
 //== Citation
 
-//The baptism record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
+The baptism record is on <<page32, page 32, of volume 1>>, of the North German Lutheran Church of Cincinnati.
 
 image::vol1-page32.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$vol1-page32.jpg]
 
@@ -33,3 +33,9 @@ Schrie[????] +
 März (March)
 |===
 
+[bibliography]
+== References
+
+* [[[page32]]] First German Lutheran Church. Title of Register Volume. Vol. [number]. Location: The Archives and Rare Books Library, University of Cincinnati. Accessed [date]. [URL].
+
+Example: St. John’s Lutheran Church. Kirchenbuch 1840–1880. Vol. 2. Cincinnati: The Archives and Rare Books Library, University of Cincinnati. Accessed February 26, 2025. https://example.com/download.pdf.
