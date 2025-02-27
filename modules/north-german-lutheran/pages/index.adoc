@@ -16,17 +16,18 @@ of Some German Evangelical Churches in Cincinnati, Ohio] written by Robert C. Ra
 .Möllmann pastor of  North German Lutheran Church in Cincinnati
 [quote, Robert C. Rau, Genealogy of Some German Evangelical Churches in Cincinnati, Ohio]
 ____
-... in 1837, after a heated vote, Wilhehn Moellmann, from Osnabrück, was elected to fill the preacher's office. He
+in 1837, after a heated vote, Wilhehn Moellmann, from Osnabrück, was elected to fill the preacher's office. He
 immediately discovered the great difficulties in the congregation, and wanted to resign. However, in the year 1838 a
 solution was finally achieved. After several meetings it was decided to separate into two different congregations, with
 the one group now being the South Germans, who would keep the old church building, and the other group being the North
 Germans, who would receive a sum of money. Pastor Moellmann went with the North Germans, and this group, the third
 German congregation in Cincinnati, took the name **North German Lutheran Church.** As early as 1839-40 they erected a
 church on Walnut Street between 8th and 9th Streets. The South German group, who now called F. M. Raschig as pastor,
-took the name "German Protestant St. John's Church."
+took the name **German Protestant St. John's Church**.
 ____
 
-The aforementioned xref:churches:immanuel/jhp-bleeke.adoc[biography] of Johann Heinrich Philip Bleeke mentions that:
+The aforementioned xref:churches:immanuel/jhp-bleeke.adoc[biography] of Johann Heinrich Philip Bleeke mentions the
+names of two pastors in Cincinnati, Möllmann and Lauer:
 
 * his son Carl Fridrich Wilhelm, born 30 November 1825, was: "confirmiert um Ostern 1840 on Past. Möllmann in
 Cincinati[sic] (confirmed at Easter 1840 by pastor Möllmann in Cincinnati". 
@@ -34,16 +35,23 @@ Cincinati[sic] (confirmed at Easter 1840 by pastor Möllmann in Cincinnati".
 
 == Digial Records of North German Lutheran Church
 
-PDFs of the church registers of the North German Lutheran Church are part of the link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third
-German Protestant Church Records] of the link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German
-Americana Collection] of the link:https://libraries.uc.edu/libraries/arb.html[Archives and Rare Books Library] at University of Cincinnati.
+PDFs of the church registers of the North German Lutheran Church are part of
+the link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third German
+Protestant Church Records] of the
+link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German
+Americana Collection] of the
+link:https://libraries.uc.edu/libraries/arb.html[Archives and Rare Books
+Library] at University of Cincinnati.
 
-One of the repositories listed on the link:https://hcgsohio.org/cpage.php?pt=50[Records Repositories] page of the
+An important repository listed on the link:https://hcgsohio.org/cpage.php?pt=50[Records Repositories] page of the
 Hamiliton County Genealogical Society's link:https://hcgsohio.org/[website] is the
-link:https://libraries.uc.edu/libraries/arb.html[Archives and Rare Books Library] at University of Cincinnati.  The
-library's link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German Americana Collection] has
-a digitized records (in the form of PDFs) of the link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third German
-Protestant Church Records], the erstwhhile the North German Lutheran Church. 
+link:https://libraries.uc.edu/libraries/arb.html[Archives and Rare Books Library] at University of Cincinnati.
+
+It has a
+link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German
+Americana Collection] that includes digitized records (in the form of PDFs) of the
+link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third German Protestant
+Church Records], the erstwhile North German Lutheran Church: 
 
 [quote, Robert C. Rau, Genealogy of Some German Evangelical Churches in Cincinnati, Ohio]
 ____
