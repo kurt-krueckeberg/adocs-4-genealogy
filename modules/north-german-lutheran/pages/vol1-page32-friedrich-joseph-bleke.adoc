@@ -24,7 +24,7 @@ The page heading is: `32.) Taufen. (Baptisms)          1837`
 
 m|23. l|Friedrich Joseph l|Carl Friedr. Bleke [symbols] geb.
         Niemans
-Gev.[abbreviation of: Gevatterin] [C]hristian Friedr.  Bleke l|12 l|19 
+Gev.[abbreviation of: Gevatterin] [C]hristian Friedr.Bleke l|12 l|19 
 März
 |===
 
@@ -36,7 +36,7 @@ März
 
 m|24. l|Friedrich Josephl|Carl Freidrich Bleke [symbols] geb.
         Nieman
-baptismal sponsor [C]hristian Friedrich  Bleke l|12 l|19 
+baptismal sponsor [C]hristian Friedrich Bleke l|12 l|19 
 March
 |===
 
