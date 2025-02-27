@@ -1,8 +1,6 @@
 = Emilie Bleke Baptism 1837
 :page-role: doc-width
 
-//== Citation
-
 The baptism record is on <<page32, page 32, of volume 1>>, of the North German Lutheran Church of Cincinnati.
 
 image::vol1-page32.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$vol1-page32.jpg]
@@ -12,9 +10,8 @@ image::vol1-page32.jpg[align=left,title="Page and column headings (Click to enla
 ====
 Key Points:
 
-* Abbreviations have been used for the first names of the parents, likely to save space
+* Abbreviations have been used for the first names of the parents to save space
 since they had so many. 
-* The symbols after the father's name mean need explanation. There may be a legend at the start of the volume?
 ====
 
 The page heading is:
@@ -22,20 +19,31 @@ The page heading is:
 `32.) Taufen. (Baptisms)          1837`
 
 [caption="page 32 of volume of: "]
-.Nord deutschlische lutheranische Kirche (North German Lutheran Church)
+.Nord deutschlische lutheranische Kirche
 [cols="1,2,5,1,1"]
 |===
-|No.|Name.|Eltern.|geboren (born)|getauft.(baptize)
+|No.|Name.|Eltern.|geboren|getauft
 
 m|24. l|Emilie l|Joh. Heinr. Phil. Bleke [symbols] geb.
         Schrie[we]
-[Gav.] [C]hristine Luise  Bleke l|11 l|19
+Gev. [C]hristine Luise  Bleke l|11 l|19 
 März
 |===
+
+[caption="page 32 of volume of: "]
+.North German Lutheran Church
+[cols="1,2,5,1,1"]
+|===
+|No.|Name|Parents|born|baptized
+
+m|24. l|Emilie l|Joh. Heinr. Phil. Bleke [symbols] geb.
+        Schrie[we]
+baptismal sponsor [C]hristine Luise  Bleke l|11 l|19 
+March
+|===
+
 
 [bibliography]
 == References
 
-* [[[page32]]] First German Lutheran Church. Title of Register Volume. Vol. [number]. Location: The Archives and Rare Books Library, University of Cincinnati. Accessed [date]. [URL].
-
-Example: St. John’s Lutheran Church. Kirchenbuch 1840–1880. Vol. 2. Cincinnati: The Archives and Rare Books Library, University of Cincinnati. Accessed February 26, 2025. https://example.com/download.pdf.
+* [[[page32]]] First German Lutheran Church, Cincinnati, Ohio. Kirchenbuch 18XX-18XX. Volume 1. Location: The Archives and Rare Books Library, University of Cincinnati. Accessed 25 February 2025. [URL].
