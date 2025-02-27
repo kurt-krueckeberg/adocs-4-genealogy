@@ -25,4 +25,4 @@
 ** link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
 * xref:zion.adoc[]
 * xref:st-cosmos.adoc[]
-* xref:north-german-lutheran.adoc[]
+* xref:1830s-lutheran-churches-cincinnati.adoc[]
