@@ -43,9 +43,8 @@ link:https://libraries.uc.edu/libraries/arb.html[Archives and Rare Books Library
 
 An important repository listed on the link:https://hcgsohio.org/cpage.php?pt=50[Records Repositories] page of the Hamiliton County
 Genealogical Society's link:https://hcgsohio.org/[website] is the link:https://libraries.uc.edu/libraries/arb.html[Archives and
-Rare Books Library] at University of Cincinnati.
-
-It has a link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German Americana Collection] that includes
+Rare Books Library] at University of Cincinnati.  It has a
+link:https://libraries.uc.edu/libraries/arb/collections/german-americana.html[German Americana Collection] that includes
 digitized records (in the form of PDFs) of the link:https://drc.libraries.uc.edu/handle/2374.UC/753627[Third German Protestant
 Church Records], the erstwhile North German Lutheran Church: 
 
