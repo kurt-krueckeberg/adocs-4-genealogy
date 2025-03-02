@@ -5,7 +5,7 @@ Deutsche Evangelisch-Lutherische und Reformierte Kirche (German Evangelical Luth
 congreation split, at which time they joined those who formed a new church, the new Norddeutsche Evangelisch-Lutherische Kirche
 von Cincinnati (North German Lutheran Church of Cincinnati), which built a new church building [footnote  Rau].
 
-image::north-german-lutheran:vol2-page17.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$north-german-lutheran:vol2-page17.jpg]
+image::north-german-lutheran:vol2-page17.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=:north-german-lutheran:image$vol2-page17.jpg]
 
 == Discovery of Bleekes Cincinnati Church
 
