@@ -1,10 +1,11 @@
 = Deutsche Evangelisch-Lutherische und Reformierte Kirche
 
 The families of brothers Carl Friedrich Bleeke (1794-1853) and Johann Heinrich Philip Bleeke (1797-1883) were members of the
-Deutsche Evangelisch-Lutherische und Reformierte Kirche (German Evangelical Lutheran and Reformed Church). On December 1838 [display below
-the front page of vol2 here]
-congreation split, at which time they joined those who formed a new church, the new Norddeutsche Evangelisch-Lutherische Kirche von
-Cincinnati (North German Lutheran Church of Cincinnati), which built a new church building [footnote  Rau].
+Deutsche Evangelisch-Lutherische und Reformierte Kirche (German Evangelical Lutheran and Reformed Church). On December 1838
+congreation split, at which time they joined those who formed a new church, the new Norddeutsche Evangelisch-Lutherische Kirche
+von Cincinnati (North German Lutheran Church of Cincinnati), which built a new church building [footnote  Rau].
+
+image::north-german-lutheran:vol2-page17.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$north-german-lutheran:vol2-page17.jpg]
 
 == Discovery of Bleekes Cincinnati Church
 
