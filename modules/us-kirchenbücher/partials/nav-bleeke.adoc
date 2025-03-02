@@ -1,3 +1,4 @@
 .xref:german-evangelical-lutheran-and-reformed-church:index.adoc[]
-* xref:german-evangelical-lutheran-and-reformed-church:vol1-page32-emilie-bleke.adoc[]
-* xref:german-evangelical-lutheran-and-reformed-church:vol1-page32-friedrich-joseph-bleke.adoc[]
+* xref:german-evangelical-lutheran-and-reformed-church:vol1-page42-emilie-bleke.adoc[]
+* xref:german-evangelical-lutheran-and-reformed-church:vol1-page42-friedrich-joseph-bleke.adoc[]
+* xref:german-evangelical-lutheran-and-reformed-church:vol1-page172-carl-friedrich-wilhelm-bleeke.adoc[]
