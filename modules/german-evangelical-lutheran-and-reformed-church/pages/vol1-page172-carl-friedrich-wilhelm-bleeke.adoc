@@ -19,8 +19,8 @@ On the Sunday following Easter (Quasimodogeniti), 1840
 ____
 
 
-[caption="transliteration of: "]
-.page 172 of PDF
+[caption="Transliteration of: "]
+.Page 172 of PDF
 [cols="1,1",frame="none"]
 |===
 |I Knaben|II Mädchen
@@ -28,8 +28,8 @@ ____
 l|3. Carl, Friedr. Wilh. Bleeke.|
 |===
 
-[caption="translation of: "]
-.page 172 of PDF
+[caption="Translation of: "]
+.Page 172 of PDF
 [cols="1,1",frame="none"]
 |===
 |I boys|II girls
