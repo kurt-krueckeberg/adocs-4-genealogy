@@ -6,11 +6,18 @@ Deutsche Evangelisch-Lutherische und Reformierte Kirche (North German Lutheran C
 
 image::vol1-page172.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$vol1-page172.jpg]
 
-The page heading is:
+The page heading:
 ____
-  Confimanden
+  Confirmanden
 Am Sontag Quasimodogeniti, 1840
 ____
+
+Its translation:
+____
+  Confirmaed
+On the Sunday following Easter (Quasimodogeniti), 1840
+____
+
 
 [caption="transliteration of: "]
 .page 172 of PDF
