@@ -1,7 +1,7 @@
 = H. Bleeke on Committee
 
-The transliteration of the text from <<page24, page4>> of vol2 of the ...
-This is the first volume of the Nord evangelische deutsche Kirche (North German Lutheran Church).
+Below is the transliteration of the text from <<page24, page4>> of the Kirchenbuch of the North German Lutheran Church(Norddeutsche Lutherische Kirche)
+for the years 1838-1855.
  
 ____
 4. Ltt. G.
@@ -51,3 +51,72 @@ Art für die Gemeinde zu bauen.
 5. Daß die Bau-Committee die Kirche nach dem besten Risse fertigen lasse
 Fr. W. Hellmich.     Bultmann.
 ____
+
+Below is the translation:
+
+____
+Resolved to have two offering bags made from silk velvet; Wellmann and Niemann are the commissioners.
+
+Resolved that next Sunday, 2 o'clock in the afternoon, a general congregational meeting be held.
+
+Resolved. to appoint a committee to inspect the books and the treasury; Comm. is Hellmich, Bunte, Simmermann and Blecke.
+
+Resolved that the debtors of the municipality from the year 1838 will be asked to pay next Sunday by the preacher
+
+Read out and approved.
+
+F von Seggern
+
+
+Meeting of the North German Lutheran Congregation of Cincinnati, Feb. 3, 1839
+
+Presid[ent]. Hellmich.
+
+Secr[etary]. Bultmainn.
+
+
+The treasurer's account was audited by the latter committee and all found to be in proper condition.
+
+
+
+A committee was elected to consult with the church council as to the most expedient way to get our new church building under contract.
+
+church building under contract.
+
+Members of the committee:
+1. Gerh. Winckelmann,
+2. Victor Wulfeck.
+3. H. Bolte
+4. Knost
+5. F. Pruce
+
+C. Wiechers.
+
+This committee and the church council have unanimously decided, together with the whole congregation
+
+1. that Greene should be accepted as the first builder (namely free of charge).
+
+2. that a building committee of 3 men be elected by the congregation.
+
+
+Members of the committee 1. V. Wulfeck
+
+                 2. Kleier,
+
+                 3. pr. Koch.
+
+3. that the Lau-Committee and the church council should have the authority to build the church in the best way for the congregation.
+
+4. that the wages of the building-committe be fixed at §1, 62 12.
+
+5. that the building committee shall have the church built according to the best plan
+
+W. Hellmich.  Bultmann.
+____
+
+[bibliography]
+== References
+
+* [[[page24]]] North German Lutheran Church, 1838-1855, Kirchenbuch 1838-1855.
+(http://hdl.handle.net/2374.UC/753630 : 25 February 2025), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant
+Church Records > North German Lutheran Church, 1838-1855 >  page 24 of PDF
