@@ -3,6 +3,12 @@
 ** Bleeke
 +
 --
-include::partial$nav-bleeke.adoc[]
+include::partial$nav-bleeke-vol1.adoc[]
+--
+* North German Lutheran Church
+** Bleeke
++
+--
+include::partial$nav-bleeke-vol2.adoc[]
 --
 
