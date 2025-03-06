@@ -14,20 +14,25 @@ The FamilySearch Tree-IDS [??TODO????].
 
 image::petzen-band1a-img200.jpg[align=left,title='Ilse Margarehta Krückeberg, right page of image 220, first entry (Click to enlarge)',xref=image$petzen-band1a-img200.jpg]
 
-[caption="Transliteration and Translation: "]
-.1759 Baptism of Ilse Margaretha Krückeberg
-[cols="m",frame="none",options="noheading"]
-|===
-l|1759                  Getaufte (Baptisms)
+.Transliteration of 1759 Baptism of Ilse Margaretha Krückeberg
+[quote]
+____
+1759                  Getaufte
 
-|d 16 Sept. Ilse Margaretha Krückebergs +
+d 16 Sept. Ilse Margaretha Krückebergs +
 des Johann Heinrich Krückebergs zu Berenbusch +
-Tochter getauft. Gev[atterin] 3 Mädgens,  Wiesen, Engeltungs um
+Tochter getauft. Gev[atterin] 3 Mädgens,  Wiesen, Engeltungs [um/un]
+____
  
-|On 16 Sept. Ilse Margaretha Krückeberg the daughter of +
+.Translation of 1759 Baptism of Ilse Margaretha Krückeberg
+[quote]
+____
+1759                  Getaufte
+
+16^th^ Sept. Ilse Margaretha Krückeberg the daughter of +
 Johann Heinrich Krückebergs at Berenbusch +
 was baptized. Sponsors 3 Mädgens, Wiesen, Engelking [un/um]
-|===
+____
 
 
 [bibliography]
