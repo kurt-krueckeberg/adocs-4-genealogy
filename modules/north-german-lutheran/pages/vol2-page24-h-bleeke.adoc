@@ -2,8 +2,9 @@
 
 Below is the transliteration of the text from <<page24, page 24>> of the Kirchenbuch of the North German Lutheran Church (Norddeutsche Lutherische Kirche)
 of Cincinnati for the years 1838-1855.
- 
-[quote, page 24 transliteration]
+
+.Transliteration
+[quote, Kirchenbuch of Norddeutsche Lutherische Kirch(North German Lutheran Church) page 24] 
 ____
 `4.` Ltt. G.
 Beschl[ossen]. zwei Opferbeutel machen zu lassen, und zwar aus Seidene Sammet; Comm. hierzu ist Wellmann und Niemann.
@@ -55,8 +56,8 @@ ____
 
 Below is the translation:
 
-
-[quote, page 24 translation]
+.Translation
+[quote, Kirchenbuch of Norddeutsche Lutherische Kirch(North German Lutheran Church) page 24] 
 ____
 Resolved to have two offering bags made from silk velvet; Wellmann and Niemann are the commissioners.
 
