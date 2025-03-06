@@ -5,7 +5,7 @@
 --
 include::partial$nav-bleeke-vol1.adoc[]
 --
-* North German Lutheran Church
+* Norddeutsche Lutherische Kirche
 ** Bleeke
 +
 --
