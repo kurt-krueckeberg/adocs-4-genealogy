@@ -3,8 +3,9 @@
 Below is the transliteration of the text from <<page24, page4>> of the Kirchenbuch of the North German Lutheran Church(Norddeutsche Lutherische Kirche)
 for the years 1838-1855.
  
+[quote, page 24 transliteration]
 ____
-4. Ltt. G.
+`4.` Ltt. G.
 Beschl[ossen]. zwei Opferbeutel machen zu lassen, und zwar aus Seidene Sammet; Comm. hierzu ist Wellmann und Niemann.
 
 Besch[lossen]. daß nächsten Sonntag, 2 Uhr Nachm[ittag]., eine allgemeine Gemeinde-Versammlung gehalten werde.
@@ -30,30 +31,32 @@ Es wurde eine Comm. erwählt, sich mit dem Kirchenrathe zu berathschlagen, welch
 Kirchengebäude unter Contrakt zu bekommen.
  
 Mitglieder der Comm. 1. Gerh. Winckelmann,
-2. Victor Wulfeck.
-3. H. Bolte
-4. Knost
-5. F. Pruce
-C. Wiechers.
+`2.` Victor Wulfeck.
+`3.` H. Bolte
+`4.` Knost
+`5.` F. Pruce
+`C.` Wiechers.
 
 Diese Committe und der Kirchenrath haben einstimmig beschlossen, sammt
 der ganzen Gemeinde
-1. Daß Greene als erster Baumeister (nämlich unentgeltlich) angenommen werden soll.
-2. daß eine Bau-Committer von 3 Mann erwählt werde von der Gemeinde.
+`1.` Daß Greene als erster Baumeister (nämlich unentgeltlich) angenommen werden soll.
+`2.` daß eine Bau-Committer von 3 Mann erwählt werde von der Gemeinde.
 
 Mitgleider der Committe 1. V. Wulfeck
                  2. Kleier,
                  3. Pr. Koch.
 
-3. Daß die Lau-Committe und der Kirchenrath die Vollmacht haben soll, die Kirche auf die beste
+`3.` Daß die Lau-Committe und der Kirchenrath die Vollmacht haben soll, die Kirche auf die beste
 Art für die Gemeinde zu bauen.
-4. daß der Lohn der Bau-Comm. festgesetzt werde auf §1, 62 12.
-5. Daß die Bau-Committee die Kirche nach dem besten Risse fertigen lasse
+`4.` daß der Lohn der Bau-Comm. festgesetzt werde auf §1, 62 12.
+`5.` Daß die Bau-Committee die Kirche nach dem besten Risse fertigen lasse
 Fr. W. Hellmich.     Bultmann.
 ____
 
 Below is the translation:
 
+
+[quote, page 24 translation]
 ____
 Resolved to have two offering bags made from silk velvet; Wellmann and Niemann are the commissioners.
 
@@ -74,44 +77,37 @@ Presid[ent]. Hellmich.
 
 Secr[etary]. Bultmainn.
 
-
 The treasurer's account was audited by the latter committee and all found to be in proper condition.
-
-
 
 A committee was elected to consult with the church council as to the most expedient way to get our new church building under contract.
 
-church building under contract.
-
 Members of the committee:
-1. Gerh. Winckelmann,
-2. Victor Wulfeck.
-3. H. Bolte
-4. Knost
-5. F. Pruce
+`1.` Gerh. Winckelmann,
+`2.` Victor Wulfeck.
+`3.` H. Bolte
+`4.` Knost
+`5.` F. Pruce
 
-C. Wiechers.
+`C.` Wiechers.
 
 This committee and the church council have unanimously decided, together with the whole congregation
 
-1. that Greene should be accepted as the first builder (namely free of charge).
+`1.` that Greene should be accepted as the first builder (namely free of charge).
 
-2. that a building committee of 3 men be elected by the congregation.
+`2.` that a building committee of 3 men be elected by the congregation.
 
 
 Members of the committee 1. V. Wulfeck
+                 `2.` Kleier,
+                 `3.` pr. Koch.
 
-                 2. Kleier,
+`3.` that the Lau-Committee and the church council should have the authority to build the church in the best way for the congregation.
 
-                 3. pr. Koch.
+`4.` that the wages of the building-committe be fixed at §1, 62 12.
 
-3. that the Lau-Committee and the church council should have the authority to build the church in the best way for the congregation.
+`5.` that the building committee shall have the church built according to the best plan
 
-4. that the wages of the building-committe be fixed at §1, 62 12.
-
-5. that the building committee shall have the church built according to the best plan
-
-W. Hellmich.  Bultmann.
+`W.` Hellmich.  Bultmann.
 ____
 
 [bibliography]
