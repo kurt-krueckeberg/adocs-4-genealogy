@@ -12,20 +12,16 @@ image::petzen-band1a-img310-left.jpg[align=left,title='Sophie Maria Krückeberg 
 [NOTE]
 No page number is written on this page.
 
-[caption="Transliteration and Translation: "]
-.1755 Confirmation Sophie Maria Krückeberg from Berenbusch 
-[cols="<m",frame="none"]
-|===
-^|                   Confirmati (Confirmed) 1755
+[quote, Transliteration and Translation of 1755 Confirmation of Sophie Maria Krückeberg from Berenbusch]
+____
+                   Confirmati (Confirmed) 1755
 
-|Anna Ilse Margarethe Harmenings Röcke
+Anna Ilse Margarethe Harmenings Röcke +
+Anna Elisabeth Röseners Röcke +
+Sophie Maria Krückeberg aus Berenbusch +
+Charlotte Dieckmans (Einliegers) Röcke
+____
 
-|Anna Elisabeth Röseners Röcke
-
-s|Sophie Maria Krückeberg aus Berenbusch
-
-|Charlotte Dieckmans (Einliegers) Röcke
-|===
 
 === Citation
 
