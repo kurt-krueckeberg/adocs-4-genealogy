@@ -1,64 +1,29 @@
 = Bleeke, page 25, volume 2
 
 für Älteste:
-2
-85 St.
-3
-I.B. Wellmann
-4
-2. H. Ohe
-5
-99-
-6
-3. H. Bleecke
-7
-88. St.
-8
-4. H. Wiemann
-9
+
+1. B. Wellmann 85 St.
+2. H. Ohe 16-
+3. H. Bleecke 99-
+4. H. Wiemann 88. St.
+
 für Vorsteher
-10
-K. Burchelt, 1078t.
-11
-68 St.
-12
-1. Mehrhoff
-13
-6. Steinkamp. 76.
-14
--61
-15
-2. Weber
-16
-7. D. Meyer 114.
-17
-18
-25.
-19
-3. Knost
-20
-35.
-21
-8. Wulfeck
-22
-4. Niemann - 85.
-23
+1. Mehrhoff 68 St.  5. K. Burchelt, 107 St.
+2. Weber    61-     6. Steinkamp.    76-.
+3. Knost    25-     7. D. Meyer     114-
+4. Niemann - 85.    8. Wulfeck       35-
+
 Nach Mehrheit der Stimmen sind daher nachstehende Personen zu Kirchen-
-24
 räthen erwählt worden:
-25
+
 für Trustees:
-26
+
 F. v. Seggern,
-27
 D. Timmermann.
-28
 F. H. Wellmann,
-29
 L. Wehmer
-30
 H. Havekotte
-31
+
 Iin Älteste:
 32
 H. Bleecke
