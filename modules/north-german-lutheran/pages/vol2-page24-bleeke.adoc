@@ -2,7 +2,9 @@
 :page-role: doc-width
 
 Below is the transliteration, followed by its translation, of the text from <<page24, page 24>> of the Kirchenbuch of the North German Lutheran Church (Norddeutsche Lutherische Kirche)
-of Cincinnati for the years 1838-1855.
+of Cincinnati for the years 1838-1855, which is shown below:
+
+image::vol2-page24-bleeke_upscaled_2x.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$vol2-page24-bleeke_upscaled_2x.jpg]
 
 .Transliteration
 [quote, Kirchenbuch of Norddeutsche Lutherische Kirch(North German Lutheran Church) page 24] 
