@@ -1,0 +1,26 @@
+= Blecke, page 20
+:page-role: doc-width
+
+Below is the transliteration, followed by its translation, of the text from <<page20, page 20>> of the Kirchenbuch of the North German Lutheran Church (Norddeutsche Lutherische Kirche)
+of Cincinnati for the years 1838-1855, which is shown below:
+
+image::vol2-page20.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$vol2-page20.jpg]
+
+.Transliteration
+[quote, Kirchenbuch of Norddeutsche Lutherische Kirch(North German Lutheran Church) page 20] 
+____
+____
+
+Below is the translation:
+
+.Translation
+[quote, Kirchenbuch of Norddeutsche Lutherische Kirch(North German Lutheran Church) page 20] 
+____
+____
+
+[bibliography]
+== References
+
+* [[[page20]]] North German Lutheran Church, 1838-1855, Kirchenbuch 1838-1855.
+(http://hdl.handle.net/2374.UC/753630 : 20 February 2020), path: The Archives and Rare Books Library, University of Cincinnati > Third German Protestant
+Church Records > North German Lutheran Church, 1838-1855 >  page 20 of PDF
