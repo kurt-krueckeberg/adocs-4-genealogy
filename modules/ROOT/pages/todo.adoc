@@ -35,8 +35,13 @@ Note: Allen and Adams Counties| **977.2 IN1015A**
 
 === Look up Naturalization Records
 
-1. Look up any of those listed link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/adams-co-wpa-naturaliztion-index.html[here] that I still want to research.
-2. Provide citations for those I have looked up, specifically the image number from the unindex collection of Adams Coubnty Court Records.
+1. Look up the Bleekes and Buucks and Kleinschmidts listed link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/adams-co-wpa-naturaliztion-index.html[here]
+that I still want to research. 
+2. Provide citations for those I have looked up, specifically the image number from the unindex collection of Adams Coubnty Court Records:
+* Krueckebergs:
+** https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/johann-heinrich/johann-heinrich-krueckeberg-naturalization.html[Johann Heinrich] 
+** https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/carl-friedrich/cfk-naturalization.html[Carl Friedrich]
+** https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890.html[Carl Heinrich Wilhelm]
 
 == Future Research Plan
 
