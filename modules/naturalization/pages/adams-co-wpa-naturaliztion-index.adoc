@@ -47,7 +47,7 @@ image::klinesmith.jpg[]
 
 === Koldewie
 
-**TODO:** Add Koldewie image
+image::koldewie.jpg[]
 
 === Krückeberg
 
