@@ -9,7 +9,7 @@ documents (if any exist) reside with the Indiana State Archives. Request these.
 
 . Scan there volumes
 +
-Volumes to Scan
+.Volumes to Scan
 [cols="5,1"]
 |===
 |Name|Call #
@@ -27,6 +27,7 @@ Volumes to Scan
 |Rescan the "B"s from link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records]|Call #: **977.2 N46r**
 |===
 
+[start=4]
 . Look up Naturalization Records
 +
 1. Look up the Bleekes, Buuck, Koldwie and Kleinschmidts listed link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/adams-co-wpa-naturaliztion-index.html[here]
