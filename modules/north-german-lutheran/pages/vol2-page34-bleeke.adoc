@@ -1,6 +1,6 @@
 = Bleeke, page 34
 
-....
+____
 7. Simmermann & Dzierzanowsky: zwischen Elmg Hlam,
 8. Bleecke & Meerhoff: zwischen Plum & Western-Row,
 9. Wellmann & Bultmann: zwischen Western Kow & John-Street,
@@ -39,4 +39,4 @@ Monat.
 Einnahme N 385, 72-
 Ausgabe.
 916, 15.
-....
+____
