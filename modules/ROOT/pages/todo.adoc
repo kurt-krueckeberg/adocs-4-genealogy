@@ -7,6 +7,8 @@ documents (if any exist) reside with the Indiana State Archives. Request these.
 
 . Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
 +
+.Look up confirmation records for these children
+[cols="4,1,4"]
 |===
 |Child|Birth Order|Pastor who confirmed them
 
