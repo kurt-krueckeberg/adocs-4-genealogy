@@ -1,11 +1,6 @@
 = Plans
 
-== Plans for 1/17/25
-
-. scan the page of link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/naturalization-adams-co-indiana.html[Naturalization Records for Adams CO]
-that has the Koldewie. Double check that the Koldewie entry in the table at `m/naturalization/pages/naturalization-adams-co-indianal.adoc` is correct.
-
-. Next, look up the filings, pleadings and final orders for the individuals in the table
+== Current Plans
 
 . Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts**, which explains the actual naturlalization
 documents (if any exist) reside with the Indiana State Archives. Request these.
@@ -21,9 +16,6 @@ documents (if any exist) reside with the Indiana State Archives. Request these.
 
 |Adams County, Indiana Index of Names of Persons & of Firms| **977.201 Ad1aa**
 
-|_An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts_ +
-Note: Allen and Adams Counties| **977.2 IN1015A**
-
 |Adams CO Trumpeter, October 1988|**977.201 Ad1hs**
 
 |A Little History of the Krueckeberg Home place, 1849-2013|**929.2 K933KD**
@@ -33,11 +25,12 @@ Note: Allen and Adams Counties| **977.2 IN1015A**
 |Rescan the "B"s from link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records]|Call #: **977.2 N46r**
 |===
 
-=== Look up Naturalization Records
-
+. Look up Naturalization Records
++
 1. Look up the Bleekes, Buuck, Koldwie and Kleinschmidts listed link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/adams-co-wpa-naturaliztion-index.html[here]
 that I still want to research. 
 2. Provide image number for the these Krueckebergs:
++
 * https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/johann-heinrich/johann-heinrich-krueckeberg-naturalization.html[Johann Heinrich] 
 * https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/carl-friedrich/cfk-naturalization.html[Carl Friedrich]
 * https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890.html[Carl Heinrich Wilhelm]
