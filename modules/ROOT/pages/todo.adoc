@@ -7,7 +7,9 @@ documents (if any exist) reside with the Indiana State Archives. Request these.
 
 . Look up the Zion Friedheim page for the 1849 baptism of ___ Bleeke
 
-.Volumes to Scan
+. Scan there volumes
++
+Volumes to Scan
 [cols="5,1"]
 |===
 |Name|Call #
