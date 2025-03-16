@@ -5,7 +5,19 @@
 . Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts**, which explains the actual naturlalization
 documents (if any exist) reside with the Indiana State Archives. Request these.
 
-. Look up the Zion Friedheim page for the 1849 baptism of ___ Bleeke
+. Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
++
+|===
+|Child|Birth Order|Pastor who confirmed them
+
+|Christine Maria Bleeke| 5^th^|Pastor Sihler of St. Paul
+
+|Christine Sophie Eleonore Bleeke| 6^th^|Pastor Sihler of St. Paul. 
+
+|Marie Lousiie Eleonore Bleeke| 7^th^ | Pastor Jäbker in Adams County.
+|===
++
+See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke]
 
 . Scan there volumes
 +
