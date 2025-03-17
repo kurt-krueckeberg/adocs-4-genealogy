@@ -2,6 +2,7 @@
 * xref:persons-firms-index.adoc[]
 * xref:bleeke.adoc[] 
 ** xref:new-bleeke-facts.adoc[]
+* xref:koldewei.adoc[]
 * xref:buuck.adoc[]
 * xref:weiland.adoc[]
 * xref:krueckeberg.adoc[]
