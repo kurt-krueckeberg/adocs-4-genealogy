@@ -7,7 +7,6 @@ A somewhat short list of the earliest volumes:
 
 [caption="Genealogy Center Volumes for: "]
 .Zion Lutheran, Friedheim, relevant volumes
-[cols="5,1"]
 |===
 |Title|Description|Call #er
 
@@ -23,7 +22,7 @@ Indiana, Zion Evangelical Lutheran Church, Friedheim, record book, 1883-1888]|Ar
 |link:https://www.familysearch.org/library/books/records/item/212203-adams-county-indiana-zion-evangelical-lutheran-church-friedheim-record-book-1883-1888[Adams County,
 Indiana, Zion Evangelical Lutheran Church, Friedheim, record book, 1883-1888]|FamilySearch copy|online
 
-|Adams County, Indiana Zion Evangelical Lutheran Church Friedheim record book, 1839-1878|Church records and register, 129 unnumber pages|977.201 Ad1adho
+|Adams County, Indiana, Zion Evangelical Lutheran Church Friedheim record book, 1839-1878|Church records and register, 129 unnumber pages|977.201 Ad1adho
 
 |Adams County, Indiana Zion Evangelical Lutheran Church -- Friedheim record book, 1879-1926|leaves 64-336|977.201 Ad1adid
 
