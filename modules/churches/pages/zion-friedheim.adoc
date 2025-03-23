@@ -1,0 +1,34 @@
+= Zion Evangelical Lutheran Church, Friedheim
+
+A complete listing of Genealogy Center volumes for link:https://acpl.polarislibrary.com/polaris/search/searchresults.aspx?ctx=24.1033.0.0.5&type=Keyword&term=Zion%20Friedheim&by=KW&sort=RELEVANCE&limit=TOM=*%20AND%20AB=24&query=&page=0&searchid=2[Zion,
+Friedheim].
+
+A somewhat short list of the earliest volumes:
+
+[caption="Genealogy Center Volumes for: "]
+.Zion Lutheran, Friedheim, relevant volumes
+[cols="5,1"]
+|===
+|Title|Description|Call #er
+
+|link:https://www.genealogycenter.info/search_adamszionfriedheim.php[Zion Lutheran-Friedheim Cemetery, Adams County, Indiana] name search|Searchable Genealogy +
+Center Database`|online
+
+|link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=1405600[	
+Zion Friedheim Lutheran Church, 1838-2013 : a 21st century parish with a 1st century faith]|web link and book |977.202 D35zfl
+
+|link:Adams County, Indiana, Zion Evangelical Lutheran Church, Friedheim, record book [1883-1888]|book|977.201 Ad1z
+
+|link:https://archive.org/details/adamscountyindia00fort[Adams County,
+Indiana, Zion Evangelical Lutheran Church, Friedheim, record book, 1883-1888]|Archive.org copy|online
+
+|link:https://www.familysearch.org/library/books/records/item/212203-adams-county-indiana-zion-evangelical-lutheran-church-friedheim-record-book-1883-1888[Adams County,
+Indiana, Zion Evangelical Lutheran Church, Friedheim, record book, 1883-1888]|FamilySearch copy|online
+
+|Adams County, Indiana Zion Evangelical Lutheran Church Friedheim record book, 1839-1878]|Church records and register, 129 unnumber pages|977.201 Ad1adho
+
+|Adams County, Indiana Zion Evangelical Lutheran Church -- Friedheim record book, 1879-1926|leaves 64-336|977.201 Ad1adid 
+
+|Adams County, Indiana, Zion Evangelical Lutheran Church -- Friedheim record book commencing 1866|27 pages|977.201 Ad1adi
+|===
+

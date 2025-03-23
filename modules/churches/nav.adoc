@@ -23,6 +23,6 @@
 *** xref:immanuel/david-bibelheimer.adoc[]
 ** xref:immanuel/pastors-at-immanuel.adoc[Pastors]
 ** link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
-* xref:zion.adoc[]
+* xref:zion-friedheim.adoc[]
 * xref:st-cosmos.adoc[]
 * xref:1830s-lutheran-churches-cincinnati.adoc[]
