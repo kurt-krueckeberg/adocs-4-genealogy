@@ -30,7 +30,7 @@ You have to register for an online Arcinsys account, in order to
 . submit requests for access at archives or
 . order archival items for access. 
 
-You can do so link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?request_locale=en[here]
+You can do so link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?request_locale=en[here].
 
 == Relevant Transcribed Frille Church Registers
 
