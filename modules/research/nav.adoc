@@ -5,6 +5,7 @@
 * xref:indiana-courts.adoc[]
 * xref:passenger-list-annotations.adoc[]
 * xref:schaumburg-lippe-fs-resources.adoc[]
+* xref:bueckeburg-bleeke-research.adoc[]
 * xref:persi.adoc[]
 * xref:allen_franz_docs.adoc[]
 * xref:chwk-preble-land-question.adoc[]

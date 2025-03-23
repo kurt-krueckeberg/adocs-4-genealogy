@@ -1,0 +1,10 @@
+= Ortsfamilienbücher
+
+A online list is at https://ofb.genealogy.net/[ofb.genealogy.net]. You can click on the link for
+the town, city or village. The left-hand navigation on the ensuring page will provide listing:
+
+* Complete List of Surnames
+* Places of Birth
+* Places of Death
+* Marriage places
+* Places of life

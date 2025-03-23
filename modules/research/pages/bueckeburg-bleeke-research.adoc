@@ -1,0 +1,79 @@
+= Kirchenbuchabschriften in Bückeburg Regional Archive
+
+The Lower Saxony State Archives (Niedersachsensächisches Landesarchiv) is divided into regional departments. The Bückeburg
+regional department has records relevant to the Krückebergs and Bleekes (and Weilands, etc).
+
+The official link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g1722&page=1&reload=true&sorting=41[church registers]
+(Kirchenbücher) are located there, but these have been digitized and made publically available for a subscription on the Protestant
+Church Portal www.archion.de, and most of the registers for Petzen have been examined and the Krueckeberg (and some Weiland) entries
+found and placed on this website. The same is true for the the Bleeke entries from the Frille church registers.
+
+However, the Bückeburg regional archive also has a collection of link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g462569&page=1&reload=true&sorting=41[Kirchenbuchabschriften],
+transcribed church registers. While there are none for Petzen, there are several volumes for Frille. All done by someone named
+Manfred Pöhler.
+
+To view these--and hopefully get copies of relevant pages about the Bleekes--one has to visit in person; however, before doing so,
+you have to request the volumes you wish to view and the give the date of your intended visit.
+
+One assumes the Kirchenbuchabschriften transcriptions are from the old German script into contemporary German.
+Some of the transcriptions are only available in paper form, others in digital and paper form.
+
+Below is a list of relevant Frille volumes that might yield a lot more information about the Johann Heinrich Philipp Bleeke
+(whose surname was sometimes spelled Blecke in the church registers) and his brother Carl Friedrich Bleeke.
+
+It is also important to make sure that the Bückeburg archive is open on the day one visits.
+
+== Register on Arcinsys
+
+You have to register for an online Arcinsys account, in order to
+. save archival items into an online personal memo list
+. submit requests for access at archives or
+. order archival items for access. 
+
+You can do so link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?request_locale=en[here]
+
+== Relevant Transcribed Frille Church Registers
+
+[caption="Bückeburg State Archive: "]
+.Volumes to Research for Bleekes
+|===
+|Identifier|Description **Translation**|Life Span
+
+|NLA BU, S 8, Frille Absch. Nr. 1 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514254[Taufregister der ev. luth. Kirche Frille] +
+**Frille Baptisms register** |1664 - 1803
+
+|NLA BU, S 8, Frille Absch. Nr. 2|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514262[Tauf- und Konfirmationsregister der ev. luth. Kirche Frille] +
+**Baptisms and Confirmations Register**|1695-1756; 1664-1799
+
+|NLA BU, S 8, Frille Nr. 7 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514262[Taufregister der ev. luth. Kirche Frille] +
+**Frille Baptisms Register**|1805 - 1935
+
+|NLA BU, S 8, Frille Nr. 4 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514269[Eheberedungen und Heiratsregister der ev. luth. Kirche Frille] +
+**Frille Marriage Vows and Marriages Register** |1664 - 1799  
+
+|NLA BU, S 8, Frille Nr. 6 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514279[Eheberedungen Frille] +
+**Frille Marriage Vows Register**|1757 - 1813
+
+|NLA BU, S 8, Frille Nr. 8 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[Heiratsregister der ev. luth. Kirche Frille] +
+**Frille Marriage Register**|1805 - 1852
+
+|NLA BU, S 8, Frille Nr. 8 |https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[Heiratsregister der ev. luth. Kirche Frille] +
+**Marriage Register**|1805-1852
+
+|NLA BU, S 8, Frille Nr. 9 |Heiratsregister der ev. luth. Kirche Frille +
+**Frille Marriages Register**|1853 - 1906
+
+|NLA BU, S 8, Frille Nr. 10 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[Sterberegister der ev. luth. Kirche Frille] +
+**Frille Deaths Register**|1664 - 1804
+
+|NLA BU, S 8, Frille Nr. 5 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[Konfirmations- und Sterberegister der ev.
+luth. Kirche Frille] +
+**Frille Confirmations and Deaths Register**|1664 - 1898
+
+|NLA BU, S 8, Frille Absch. Nr. 3 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267[Konfirmationsregister der ev. luth.
+Kirche Frille] +
+**Frille Confirmations Register**|1808 - 1898
+
+|NLA BU, S 8, Frille Nr. 11 | link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[Sterberegister der ev. luth. Kirche Frille] +
+**Deaths Register**|1805-1960
+|===
