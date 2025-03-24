@@ -5,7 +5,7 @@ regional department has records relevant to the Krückebergs and Bleekes (and We
 
 The official link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g1722&page=1&reload=true&sorting=41[church registers]
 (Kirchenbücher) are located there, but these have been digitized and made publically available for a subscription on the Protestant
-Church Portal www.archion.de, and most of the registers for Petzen have been examinedm, the Krueckeberg (and some Weiland) entries
+Church Portal www.archion.de, and most of the registers for Petzen have been examined, the Krueckeberg (and some Weiland) entries
 found and put on xref:german-kirchenbücher:index.adoc[here]. The same is true for the the Bleeke entries found in the Frille church
 registers.
 
