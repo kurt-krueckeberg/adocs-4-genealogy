@@ -1,32 +1,37 @@
 = Kirchenbuchabschriften in Bückeburg Regional Archive
 
-The Lower Saxony State Archives (Niedersachsensächisches Landesarchiv) is divided into regional departments. The Bückeburg
-regional department has records relevant to the Krückebergs and Bleekes (and Weilands, etc).
+The Petzen and Frille Kirchenbücher are housed in the Bückeburg regional
+deparment of the Lower Saxony State Archives (Niedersächsiches Landesarchiv).
+Some volumes are also publically available on the Protestant church portal
+link:https://www.archion.de[Archion] (for a subscription); for example,
+Kirchenbücher for the Frille parish up to the year 1804 are available, for
+Petzen up to the year 1827; however, Bückeberg has a more up-to-date collection
+of
+link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g462569&page=1&reload=true&sorting=41[Kirchenbuchabschriften],
+transcribed church registers. While there are none for Petzen, there are
+several volumes of Frille Kirchenabschriften that extend well beyond 1804.
 
-The official link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g1722&page=1&reload=true&sorting=41[church registers]
-(Kirchenbücher) are located there, but these have been digitized and made publically available for a subscription on the Protestant
-Church Portal www.archion.de, and most of the registers for Petzen have been examined, the Krueckeberg (and some Weiland) entries
-found and put on xref:german-kirchenbücher:index.adoc[here]. The same is true for the the Bleeke entries found in the Frille church
-registers.
+They likely contain the original confirmation and marriage records for Johann
+Heinrich Philipp Bleeke and his brother Carl Friedrich, as well as the original
+birth and baptism records for their children born in Germany, and the original
+confirmation records of those children confirmed before they emigrated to the
+United States. These transcribed church registers are no doubt also in
+contemporary German and not the old Kurrentschrift handwriting, making them
+much easier to read.
 
-However, the Bückeburg regional archive also has a collection of link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g462569&page=1&reload=true&sorting=41[Kirchenbuchabschriften],
-transcribed church registers. While there are none for Petzen, there are several volumes for Frille. All authored by someone named
-Manfred Pöhler.
+Sadly there are no transcribed church registers for Petzen.
 
-To view these--and get copies of relevant pages about the Bleekes--it is necessary to visit in person; however, before doing so,
-you have to request the volumes you wish to view and choose the date you intend to visit.
+Below is a list of the relevant Frille volumes that likely will yield more
+information about the Johann Heinrich Philipp Bleeke (whose surname was
+sometimes spelled Blecke in the church registers) and his brother Carl
+Friedrich Bleeke.
 
-One assumes the Kirchenbuchabschriften transcriptions are from the old German script into contemporary German.
-Some of the transcriptions are only available in paper form, others in digital and paper form.
-
-Below is a list of relevant Frille volumes that might yield a lot more information about the Johann Heinrich Philipp Bleeke
-(whose surname was sometimes spelled Blecke in the church registers) and his brother Carl Friedrich Bleeke.
-
-NOTE: It is also important to make sure that the Bückeburg archive is open on the day one visits.
+NOTE: It is also important to make sure that the Bückeburg archive is open on
+the day one visits.
 
 == Register on Arcinsys
 
-You have to register for an online Arcinsys account, in order to
+You have to register for an online Arcinsys account in order to
 
 . save archival items into an online personal memo list
 . submit requests for access at archives or
@@ -79,3 +84,4 @@ Kirche Frille] +
 of your intended visit.|NLA BU, S 8, Frille Nr. 11 | link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[Sterberegister der ev. luth. Kirche Frille] +
 **Deaths Register**|1805-1960
 |===
+
