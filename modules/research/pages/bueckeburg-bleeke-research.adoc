@@ -4,9 +4,9 @@ The Petzen and Frille Kirchenbücher are housed in the Bückeburg regional
 deparment of the Lower Saxony State Archives (Niedersächsiches Landesarchiv).
 Some volumes are also publically available on the Protestant church portal
 link:https://www.archion.de[Archion] (for a subscription); for example,
-Kirchenbücher for the Frille parish up to the year 1804 are available, for
-Petzen up to the year 1827; however, Bückeberg has a more up-to-date collection
-of
+Kirchenbücher for the Frille parish up to the year 1804 are available, and 
+for Petzen up to the year 1827; however, Bückeberg has a more up-to-date
+collection of
 link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g462569&page=1&reload=true&sorting=41[Kirchenbuchabschriften],
 transcribed church registers. While there are none for Petzen, there are
 several volumes of Frille Kirchenabschriften that extend well beyond 1804.
