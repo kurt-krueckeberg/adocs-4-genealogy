@@ -43,7 +43,6 @@ This table summarizes the Lutheran ceremonies that occurred for JHP Bleeke's chi
 
 [caption="Religiöse Zeremonien für: "]
 .Kinder von JHP Bleeke und
-[cols="1,1,1,3,3,2"]
 |===
 |Name|Geburtstag|Getauft|Taufpathe|Konfirmiert|Tod
 
@@ -53,13 +52,13 @@ This table summarizes the Lutheran ceremonies that occurred for JHP Bleeke's chi
 
 |Carl Fridrich| 17 Juli 1823|20 Juli 1823|Christian Fridrich Bleeke|11 Mai 1825|?
 
-|Carl Fridrich Wilhelm|30 Nov. 1825|4 December 1825|Fridrich Meier und Christi an Bleeke|Ostern 1840 von Past. Möllmann in Cincinati.|
+|Carl Fridrich Wilhelm|30 Nov. 1825|4 Dec. 1825|Fridrich Meier und Christi an Bleeke|Ostern 1840 von Past. Möllmann in Cincinati.|
 
 |Christine Maria|11 August 1828|17 Aug. 1828|Anna Sophie Schwier und Maria Meier|1842 von Past. Sihler, Ft. Wayne|
 
-|Christine Sophie Eleonore|13 Aug. 1832|21 August 1831|Christine Bleeke|1845 von Past. Sihler, Ft. Wayne, Ind.|
+|Christine Sophie Eleonore|13 Aug. 1832|21 Aug. 1831|Christine Bleeke|1845 von Past. Sihler, Ft. Wayne, Ind.|
 
-|Marie Louise Eleonore|15 Nov. 1833|24 November 1833|Louise Schwier und Marie Bleeke|1848 von Past. Jäbker in Adams Co., Ind.|
+|Marie Louise Eleonore|15 Nov. 1833|24 Nov. 1833|Louise Schwier und Marie Bleeke|1848 von Past. Jäbker in Adams Co., Ind.|
 
 |Emilie|11 März 1837 in Cincinnati|[??] 1837 in Cincinati von Pastor Lauer|Christine Bleeke||8 Sept. 1838 in Cincinnati.
 |===
