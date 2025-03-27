@@ -1,4 +1,5 @@
 = Kirchenbuchabschriften in Bückeburg Regional Archive
+:page-role: doc-width
 
 The Petzen and Frille Kirchenbücher are housed in the Bückeburg regional
 deparment of the Lower Saxony State Archives (Niedersächsiches Landesarchiv).
