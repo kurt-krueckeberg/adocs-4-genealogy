@@ -29,7 +29,7 @@ children based on his Immanuel Lutheran, Decatur, xref:churches:immanuel/jhp-ble
 
 [caption="Religiöse Zeremonien für: "]
 .Kinder von JHP Bleeke und
-[cols="1,^1,^1,1,1,1"
+[cols="1,^1,^1,1,1,1"]
 |===
 |Name|Geburtstag|Getauft|Taufpathe|Konfirmiert|Tod
 
