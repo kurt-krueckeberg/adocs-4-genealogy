@@ -39,6 +39,30 @@ You have to register for an online Arcinsys account in order to
 
 You can do so link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?request_locale=en[here].
 
+This table summarizes the Lutheran ceremonies that occurred for JHP Bleeke's children based on his Immanuel Lutheran, Decautur, xref:churches:immanuel/jhp-bleeke.adoc[biography]
+
+[caption="Religiöse Zeremonien für: "]
+.Kinder von JHP Bleeke und
+|===
+|Name|Geburtstag|Getauft|Taufpathe|Konfirmiert|Tod
+
+|Carl Heinrich| 27 April 1 1818| 30 April 1818| Fridrich Schwie|Sonntag nach Ostern 1832|25 März 1839.
+
+|Christian Fridrich|7 Mai 1821|13 Mai 1821|Carl Fridrich Bleeke|Judica Sonntag 1835|?
+
+|Carl Fridrich| 17 Juli 1823|20 Juli 1823|Christian Fridrich Bleeke|11 Mai 1825|?
+
+|Carl Fridrich Wilhelm|30 November 1825|4 December 1825|Fridrich Meier und Christi an Bleeke|Ostern 1840 von Past. Möllmann in Cincinati.|
+
+|Christine Maria|11 August 1828|17 August 1828|Anna Sophie Schwier und Maria Meier|1842 von Past. Sihler, Ft. Wayne|
+
+|Christine Sophie Eleonore|13 August 1832|21 August 1831|Christine Bleeke|1845 von Past. Sihler, Ft. Wayne, Ind.|
+
+|Marie Louise Eleonore|15 November 1833|24 November 1833|Louise Schwier und Marie Bleeke|1848 von Past. Jäbker in Adams Co., Ind.|
+
+|Emilie|11 März 1837 in Cincinnati|[??] 1837 in Cincinati von Pastor Lauer|Christine Bleeke||8 Sept. 1838 in ihrem Geburtsort Cincinnati.
+|===
+
 == Relevant Transcribed Frille Church Registers
 
 [caption="Bückeburg State Archive: "]
