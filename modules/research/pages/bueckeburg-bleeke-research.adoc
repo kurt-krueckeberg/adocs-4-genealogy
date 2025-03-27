@@ -1,5 +1,9 @@
-= Kirchenbuchabschriften in Bückeburg Regional Archive
+= Kirchenbuch Entries for Bleeke Children
 :page-role: doc-width
+
+== Background
+
+=== Frille Kirchenbuchabschriften in Bückeburg
 
 The Petzen and Frille Kirchenbücher are housed in the Bückeburg regional
 deparment of the Lower Saxony State Archives (Niedersächsiches Landesarchiv).
@@ -20,25 +24,8 @@ United States. These transcribed church registers are no doubt also in
 contemporary German and not the old Kurrentschrift handwriting, making them
 much easier to read.
 
-Below is a list of the relevant Frille volumes that likely will yield more
-information about the Johann Heinrich Philipp Bleeke (whose surname was
-sometimes spelled Blecke in the church registers) and his brother Carl
-Friedrich Bleeke.
-
-NOTE: It is also important to make sure that the Bückeburg archive is open on
-the day one visits.
-
-== Register on Arcinsys
-
-You have to register for an online Arcinsys account in order to
-
-. save archival items into an online personal memo list
-. submit requests for access at archives or
-. order archival items for access. 
-
-You can do so link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?request_locale=en[here].
-
-This table summarizes the Lutheran ceremonies that occurred for JHP Bleeke's children based on his Immanuel Lutheran, Decautur, xref:churches:immanuel/jhp-bleeke.adoc[biography]
+This table summarizes the Lutheran ceremonies that occurred for JHP Bleeke's
+children based on his Immanuel Lutheran, Decatur, xref:churches:immanuel/jhp-bleeke.adoc[biography]
 
 [caption="Religiöse Zeremonien für: "]
 .Kinder von JHP Bleeke und
@@ -62,7 +49,12 @@ This table summarizes the Lutheran ceremonies that occurred for JHP Bleeke's chi
 |Emilie|11 März 1837 in Cincinnati|[??] 1837 in Cincinati von Pastor Lauer|Christine Bleeke||8 Sept. 1838 in Cincinnati.
 |===
 
-== Relevant Transcribed Frille Church Registers
+== Relevant Frille Kirchenabschriften
+
+Below is a list of the relevant Frille volumes that likely will yield more
+information about the Johann Heinrich Philipp Bleeke (whose surname was
+sometimes spelled Blecke in the church registers) and his brother Carl
+Friedrich Bleeke.
 
 [caption="Bückeburg State Archive: "]
 .Volumes to Research for Bleekes
@@ -107,4 +99,17 @@ Kirche Frille] +
 of your intended visit.|NLA BU, S 8, Frille Nr. 11 | link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[Sterberegister der ev. luth. Kirche Frille] +
 **Deaths Register**|1805-1960
 |===
+
+== Registering on Arcinsys
+
+You have to register for an online Arcinsys account in order to
+
+. save archival items into an online personal memo list
+. submit requests for access at archives or
+. order archival items for access. 
+
+You can do so link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?request_locale=en[here].
+
+NOTE: It is also important to make sure that the Bückeburg archive is open on
+the day one visits.
 
