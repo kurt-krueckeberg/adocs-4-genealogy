@@ -39,7 +39,7 @@ Immanuel Lutheran, Decatur, xref:churches:immanuel/jhp-bleeke.adoc[biography].
 Those ceremonies that took place after about 1836 would have occurred in the U.S.
 +
 [caption="Religiöse Zeremonien für: "]
-.Kinder von JHP Bleeke und
+.Kinder von JHP Bleeke
 [cols="1,^1,^1,1,1,1"]
 |===
 |Name|Geburtstag|Getauft|Taufpathe|Konfirmiert|Tod
