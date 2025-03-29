@@ -1,5 +1,8 @@
 = Federal Land Records Overview
 
+TODO: Make this a  subsection
+TODO: Add info in this link:https://youtu.be/jF0YlWkNcok?si=MLiYXf10Tx4TXwqp[Craig Scott video]
+
 When individuals successfully completed the purchase of land in the Public Domain land states (of Ohio, Indiana, Illinois, Michigan,
 Florida, Wisconsin, Alabama, Mississippi, Louisiana, Minnesota, Iowa, Missouri, and Arkansas), they were awarded a Land Patent by
 the federal General Land Office in Washington D.C. This represented the first deed. The process of applying to buy federal land
