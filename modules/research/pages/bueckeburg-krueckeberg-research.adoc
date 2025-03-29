@@ -4,7 +4,8 @@
 .Volume on Krückebergs in Berenbusch
 [cols="1,3,^1"]
 |===
-|Identifier|Denotation|Date Range
+|Archive +
+Identifier|Denotation|Date Range
 
 |NLA BU, K 2, A Nr. 1237|Die dem Colon Krückeberg Nr. 10 zu Berenbusch aus-
 gewiesenen Plätze zur Vergrößerung seines +
