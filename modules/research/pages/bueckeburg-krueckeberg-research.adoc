@@ -1,6 +1,7 @@
 = Krückebergs of Berenbusch in Bückeburg Archive of Lower Saxoy State Archive 
 
-Krückebergs of Berenbusch in Bückeburg Archive of Lower Saxoy State Archive of Lower Saxony 
+There are two references to the Krückebergs at Number 10 Berenbusch in the Bückeburg regional deparment of the Niedersäches Landesarchiv
+(Lower Saxoy State Archives), and there are two other reference to individuals with the surname Krückeberg.
 
 [caption="Bückeburg department of Lower Saxoy State Archives: "]
 .Volumes on Krückebergs from Berenbusch
@@ -18,7 +19,9 @@ dargeliehenes Kapital von 200 Reichstaler Crt. +
 [Capital of 200 Reichstaler (imperial currency) Crt. lent to farmer Krückeberg No. 10
 in Berenbusch from the chamber treasury]|1841 - 1845
 
-|NLA BU, L 122, F Nr. 354|Konkurs des Jobst Krückeberg [in Bückeburg]|1725 - 1725	
+|NLA BU, L 122, F Nr. 354|Konkurs des Jobst Krückeberg (in Bückeburg) +
+[Bankruptcy of Jobst Krückeberg (in Bückeburg)]|1725 - 1725	
 
-|NLA BU, L 20, C Nr. 98|Testament der Witwe Hauptmännin Krückeberg|1793 - 1793	  	   
+|NLA BU, L 20, C Nr. 98|Testament der Witwe Hauptmännin Krückeberg +
+[Will of the widow Hauptmännin Krückeberg]|1793 - 1793	  	   
 |===
