@@ -93,7 +93,7 @@ Friedrich Bleeke.
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[NLA BU, S 8, Frille Nr. 8]|Heiratsregister der ev. luth. Kirche Frille +
 **Marriage Register**|1805-1852
 
-|NLA BU, S 8, Frille Nr. 9 |Heiratsregister der ev. luth. Kirche Frille +
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction.action?detailid=v10514287[NLA BU, S 8, Frille Nr. 9]|Heiratsregister der ev. luth. Kirche Frille +
 **Frille Marriages Register**|1853 - 1906
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[NLA BU, S 8, Frille Nr. 10]|Sterberegister der ev. luth. Kirche Frille] +
