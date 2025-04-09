@@ -1,10 +1,10 @@
-= Carl Friedrich Bleeke Federal Land Patents
+= Carl Friedrich Bleeke Federal Land Patent
 :page-role: doc-width
 
 Carl Friedrich Bleeke was awarded a land patents from the U.S. Federal Government.
 on 10 November 1840
 
-Below is <<patent232487 Land Patent certificate number 23247>> awarded to Carl Friedrich Bleeke for 80
+Below is <<patent232487, Land Patent certificate number 23247>> awarded to Carl Friedrich Bleeke for 80
 acres. The land description is:
 
 [quote, land patent text]
