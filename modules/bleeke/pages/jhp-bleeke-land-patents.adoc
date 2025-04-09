@@ -4,19 +4,31 @@
 Johann Heinrich Bleeke was awarded two land patents from the U.S. Federal Government.
 on 10 November 1840. The first was for 160 acres. The second for 40 acres.
 
-Below is Land Patent certificate number 23246 awarded to Johann Heinrich Philipp Bleeke for
+Below is <<patent23246, Land Patent certificate number 23246>> awarded to Johann Heinrich Philipp Bleeke for 160
+acres. The land description is:
 
 [quote, land patent text]
 ____
-The Northwest quarter of section 21 in township 28 north, of range 15 East, in the district of land subject to sale at Fort Wayne Indiana, containing 160 acres.
+The Northwest quarter of section 21, in Township 28 North, of Range 15 East, in the district Of land Subject to Sale at Fort Wayne Indiana, containing 160 acres.
 ____
 
 image::LandPatentCertificate-Bleeke-JHP-23248-year-1840.jpg[align=left,title="JHP Bleeke Land Patent for 160 acres (click twice to enlarge)",xref=image$LandPatentCertificate-Bleeke-JHP-23248-year-1840.jpg]
 
+Below is <<patent23248, Land Patent certificate number 23248>> awarded to Johann Heinrich Philipp Bleeke for 40
+acres. The land description is:
 
+[quote, land patent text]
+____
+The Northwest quarter of the Northwest quarter of section 21, in Township 28 North, of Range 15 East, in the District of lands Subject to sale at Fort Wayne Indiana, containing 40 acres
+____
 
 image::LandPatentCertificate-Bleeke-JHP-23246-year-1840.jpg[align=left,title="JHP Bleeke Land Patent for 40 acres (click twice to enlarge)",xref=image$LandPatentCertificate-Bleeke-JHP-23246-year-1840.jpg]
 
 
+[bibliography]
+== References
+
+* [[[patent23246]]] 
+* [[[patent23248]]] 
 
 TODO: Add citation
