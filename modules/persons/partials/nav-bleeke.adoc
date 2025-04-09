@@ -1,2 +1,3 @@
 * xref:bleeke:bleeke-land-records.adoc[]
 * xref:bleeke:jhp-bleeke-land-patents.adoc[]
+* xref:bleeke:carl-friedrich-bleeke-land-patent.adoc[]
