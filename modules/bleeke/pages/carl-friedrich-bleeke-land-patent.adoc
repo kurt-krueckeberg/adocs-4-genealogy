@@ -2,10 +2,9 @@
 :page-role: doc-width
 
 Carl Friedrich Bleeke was awarded a land patents from the U.S. Federal Government.
-on 10 November 1840
-
-Below is <<patent232487, Land Patent certificate number 23247>> awarded to Carl Friedrich Bleeke for 80
-acres. The land description is:
+on 10 November 1840 to 80 acres of land in section 21 of Township 28 North, Range 15 East (
+Union township).  Below is <<patent232487, Land Patent certificate number 23247>> awarded to 
+him. The land description is:
 
 [quote, land patent text]
 ____
@@ -21,4 +20,4 @@ image::LandPatent-Bleeke-Carl-Friedrich-born-1794.jpg[align=left,title="C.F. Ble
 
 * [[[patent23247]]] General Land Office Records, U.S. Department of the Interior, Bureau of Land Management, searchable database with PDFs (link:++https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630__.160&docClass=STA&sid=txmd0a1c.q1j++[Patent
 23247] : 9 April 2025),
-path: Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian),dRange 15 East, Section 21 > Accession Nr: `IN3630__.160`	
+path: Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian), Range 15 East, Section 21 > Accession Nr: `IN3630__.160`	
