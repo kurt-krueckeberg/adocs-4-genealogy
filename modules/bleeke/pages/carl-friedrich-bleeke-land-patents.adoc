@@ -1,29 +1,24 @@
 = Carl Friedrich Bleeke Federal Land Patents
 :page-role: doc-width
 
-Carl Friedrich  leeke was awarded two land patents from the U.S. Federal Government.
-on 10 November 1840. The first was for 160 acres. The second for 40 acres.
+Carl Friedrich Bleeke was awarded a land patents from the U.S. Federal Government.
+on 10 November 1840
 
-Below is <<patent23246, Land Patent certificate number 23246>> awarded to Johann Heinrich Philipp Bleeke for 160
+Below is <<patent232487 Land Patent certificate number 23247>> awarded to Carl Friedrich Bleeke for 80
 acres. The land description is:
 
 [quote, land patent text]
 ____
-The Northwest quarter of section 21, in Township 28 North, of Range 15 East, in the district Of land Subject to Sale at Fort Wayne Indiana, containing 160 acres.
+The East half of the South West quarter of section twenty one, in Township twenty eight North, of Range 15 East, in the District Of lands
+Subject to Sale at Fort Wayne Indiana, containing Eighty acres.
 ____
 
-image::XXXXX.jpg[align=left,title="JHP Bleeke Land Patent for 160 acres (click twice to enlarge)",xref=image$XXXXX.jpg]
+image::LandPatent-Bleeke-Carl-Friedrich-born-1794.jpg.jpg[align=left,title="C.F. Bleeke Land Patent for 80 acres (click twice to enlarge)",xref=image$LandPatent-Bleeke-Carl-Friedrich-born-1794.jpg]
 
-Below is <<patent23248, Land Patent certificate number 23248>> awarded to Carl Friedrich Bleeke for XX
-acres. The land description is:
-
-[quote, land patent text]
-____
-
-____
 
 [bibliography]
 == References
 
-* [[[patentXXXX]]] General Land Office Records, U.S. Department of the Interior, Bureau of Land Management, searchable database with PDFs (link:++XXXX++[Patent XXXX] : 9 April 2025),
-path: Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian),dRange 15 East, Section 21 > Accession Nr: `XXXX`	
+* [[[patent23247]]] General Land Office Records, U.S. Department of the Interior, Bureau of Land Management, searchable database with PDFs (link:++https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630__.160&docClass=STA&sid=txmd0a1c.q1j++[Patent
+23247] : 9 April 2025),
+path: Search Documents > State "Indiana"; Search Criteria: Township 28 North (of 2^nd^ Prime Meridian),dRange 15 East, Section 21 > Accession Nr: `IN3630__.160`	
