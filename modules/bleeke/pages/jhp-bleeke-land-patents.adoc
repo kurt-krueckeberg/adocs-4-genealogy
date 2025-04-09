@@ -24,8 +24,6 @@ ____
 
 image::LandPatentCertificate-Bleeke-JHP-23246-year-1840.jpg[align=left,title="JHP Bleeke Land Patent for 40 acres (click twice to enlarge)",xref=image$LandPatentCertificate-Bleeke-JHP-23246-year-1840.jpg]
 
-test link. link:https://glorecords.blm.gov/details/patent/default.aspx?accession=IN3630__.159&docClass=STA&sid=vyeovsy3.ogb[Test]
-
 [bibliography]
 == References
 
