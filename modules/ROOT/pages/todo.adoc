@@ -19,9 +19,9 @@ and income down.
 explains whether actual naturlalization indexes or registers exist in the counties. Looks also in "Guide to Naturalization
 Records of the United States."
 
-.Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
-+
-.Look up confirmation records for these children
+Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
+
+. Look up confirmation records for these children
 [cols="4,1,4"]
 |===
 |Child|Birth Order|Pastor who confirmed them
@@ -35,7 +35,7 @@ Records of the United States."
 +
 See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke]
 
-.Scan there volumes
+. Scan there volumes
 +
 .Volumes to Scan
 [cols="4,1"]
