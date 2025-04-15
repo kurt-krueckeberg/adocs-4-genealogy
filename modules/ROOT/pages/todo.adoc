@@ -15,10 +15,11 @@ and income down.
 
 == Current Plans
 
-. Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts**, which explains the actual naturlalization
-documents (if any exist) reside with the Indiana State Archives. Request these.
+. Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts** to see if it
+explains whether actual naturlalization indexes or registers exist in the counties. Looks also in "Guide to Naturalization
+Records of the United States."
 
-. Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
+.Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
 +
 .Look up confirmation records for these children
 [cols="4,1,4"]
@@ -34,7 +35,7 @@ documents (if any exist) reside with the Indiana State Archives. Request these.
 +
 See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke]
 
-. Scan there volumes
+.Scan there volumes
 +
 .Volumes to Scan
 [cols="4,1"]
