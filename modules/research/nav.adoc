@@ -2,6 +2,7 @@
 * xref:background-info.adoc[]
 * xref:wpa-hrs.adoc[]
 * xref:adams-co-pl.adoc[]
+* xref:school-enumerations-indiana.adoc[]
 * xref:indiana-courts.adoc[]
 * xref:passenger-list-annotations.adoc[]
 * xref:schaumburg-lippe-fs-resources.adoc[]
