@@ -15,13 +15,14 @@ and income down.
 
 == Current Plans
 
-. Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts** to see if it
+* Re-read forward to **An Index to Naturalization Records In pre-1907 Order Books of Indiana County Courts** to see if it
 explains whether actual naturlalization indexes or registers exist in the counties. Looks also in "Guide to Naturalization
 Records of the United States."
 
 Find Confirmation church records for these children of JHP Bleeke who were confirmed in Indiana:
 
-. Look up confirmation records for these children
+* Look up confirmation records for these children. See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke].
+
 [cols="4,1,4"]
 |===
 |Child|Birth Order|Pastor who confirmed them
@@ -32,11 +33,9 @@ Find Confirmation church records for these children of JHP Bleeke who were confi
 
 |Marie Lousiie Eleonore Bleeke| 7^th^ | Pastor Jäbker in Adams County.
 |===
-+
-See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke]
 
-. Scan there volumes
-+
+* Scan there volumes
+
 .Volumes to Scan
 [cols="4,1"]
 |===
@@ -55,9 +54,8 @@ See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke]
 |Rescan the "B"s from link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=371236[Research in Indiana courthouses: judicial and other records]|Call #: **977.2 N46r**
 |===
 
-[start=4]
-. Look up Naturalization Records
-+
+* Look up Naturalization Records
+
 1. Look up the Bleekes, Buuck, Koldwie and Kleinschmidts listed link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/adams-co-wpa-naturaliztion-index.html[here]
 that I still want to research. 
 2. Provide the citation image numbers for the these Krueckeberg naturalization filings:
