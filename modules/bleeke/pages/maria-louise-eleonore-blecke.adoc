@@ -13,7 +13,7 @@ The middle of the page reads
 .Confirmation of Mädchen in 1848
 [cols="1,4",frame=none,grid=none]
 |===
-<|Geboren ^|Confirmation 1847 d. 28 März Namen
+<|Geboren <|Confirmation 1847 d. 28 März Namen
 
 2+<|Mädchen
 
@@ -29,7 +29,7 @@ The middle of the page reads
 
 |13 Sepbr 1834|6.) Karoline Wilhelmine Kleinschmidt
 
-2+|...
+2+|(following entries omitted)
 |===
 
 NOTE: The "i" at the end of "Juli" is actually the "y" with an umlaut above it, which I dob't know how to reproduce.
