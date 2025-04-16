@@ -21,19 +21,6 @@ See xref:research:school-enumerations-indiana.adoc[Krückeberg and Bleekes in 19
 explains whether actual naturlalization indexes or registers exist in the counties. Looks also in "Guide to Naturalization
 Records of the United States."
 
-* Look up confirmation records for these children, who were confirmed in Indiana. See xref:churches:immanuel/jhp-bleeke.adoc[children of JHP Bleeke].
-+
-[cols="4,1,4"]
-|===
-|Child|Birth Order|Pastor who confirmed them
-
-|Christine Maria Bleeke| 5^th^|Pastor Sihler of St. Paul
-
-|Christine Sophie Eleonore Bleeke| 6^th^|Pastor Sihler of St. Paul. 
-
-|Marie Lousiie Eleonore Bleeke| 7^th^ | Pastor Jäbker in Adams County.
-|===
-
 * Scan there volumes
 +
 .Volumes to Scan
