@@ -11,11 +11,11 @@ xref=image$Maria_Louise_Eleonore_Blecke_Confirmation_Record.jpg]
 The middle of the page reads
 
 .Confirmation of Mädchen in 1848
-[frame=none. grid=none]
+[cols="1,4",frame=none,grid=none]
 |===
 <|Geboren ^|Confirmation 1847 d. 28 März Namen
 
-2+|Mädchen
+2+<|Mädchen
 
 |16 Mai 1835|1.) Sophie Louise Wilhelmine Witten
 
