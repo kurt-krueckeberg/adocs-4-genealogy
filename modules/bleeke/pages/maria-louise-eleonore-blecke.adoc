@@ -1,0 +1,43 @@
+= Maria Louise Eleonore Blecke Confirmation Record
+:page-role: doc-width
+
+Below is the <<confirmation-zion-friedheim, confirmation record for Maria Louise Eleonore Blecke>>, daughter of Johann Heinrich Philip Bleeke.
+Her surname is spelled **Blecke** in the **Zion Evangelical Lutheran Church Friedheim, 1839-1878, church register**.
+The church is located in Preble township, Adams County, Indiana.
+
+image::Maria_Louise_Eleonore_Blecke_Confirmation_Record.jpg[align=left,title="C.F. Bleeke Land Patent for 80 acres (click twice to enlarge)",
+xref=image$Maria_Louise_Eleonore_Blecke_Confirmation_Record.jpg]
+
+The middle of the page reads
+
+.Confirmation of Mädchen in 1848
+[frame=none. grid=none]
+|===
+<|Geboren ^|Confirmation 1847 d. 28 März Namen
+
+2+|Mädchen
+
+|16 Mai 1835|1.) Sophie Louise Wilhelmine Witten
+
+|25 Juli 1835|2.) Sophie Louise Gallmeier
+
+|28 Juli 1834|3.) Louise Auguste Emile Vahlsing
+
+|18 Juli 1834|4.) Catarina Dorothea Wefel
+
+|15 Novbr. 1834|5.) Maria Louise Leon Blecke
+
+|13 Sepbr 1834|6.) Karoline Wilhelmine Kleinschmidt
+
+2+|...
+|===
+
+NOTE: The "i" at the end of "Juli" is actually the "y" with an umlaut above it, which I dob't know how to reproduce.
+
+
+[bibliography]
+== References
+
+* [[[confirmation-zion-friedheim]]] Scan of the original church register for years 1839-1878 of Zion Lutheran Church
+Friedheim. Title: "Adams County, Indiana Zion Evangelical Lutheran Church Friedheim record book, 1839-1878", Genealogy Center
+call number: 977.201 Ad1adho.
