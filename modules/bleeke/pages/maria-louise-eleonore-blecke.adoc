@@ -15,24 +15,22 @@ The middle of the page reads
 |===
 <|Geboren <|Confirmation 1847 d. 28 März Namen
 
-2+<|Mädchen
+^|Mädchen|
 
-|16 Mai 1835|1.) Sophie Louise Wilhelmine Witten
+|16 Maÿ 1835|1.) Sophie Louise Wilhelmine Witten
 
-|25 Juli 1835|2.) Sophie Louise Gallmeier
+|25 Julÿ 1835|2.) Sophie Louise Gallmeier
 
-|28 Juli 1834|3.) Louise Auguste Emile Vahlsing
+|28 Julÿ 1834|3.) Louise Auguste Emile Vahlsing
 
-|18 Juli 1834|4.) Catarina Dorothea Wefel
+|18 Julÿ 1834|4.) Catarina Dorothea Wefel
 
 |15 Novbr. 1834|5.) Maria Louise Leon Blecke
 
 |13 Sepbr 1834|6.) Karoline Wilhelmine Kleinschmidt
 
-2+|(following entries omitted)
+2+|(The two following entries were omitted) 
 |===
-
-NOTE: The "i" at the end of "Juli" is actually the "y" with an umlaut above it, which I dob't know how to reproduce.
 
 
 [bibliography]
