@@ -43,13 +43,6 @@ Records of the United States."
 
 * Look up Naturalization Records the Bleekes, Buuck, Koldwie and Kleinschmidts listed link:https://docs.krueckeberg.org/genealogy/1.0/naturalization/adams-co-wpa-naturaliztion-index.html[here]
 
-* Provide the citation image numbers for the these Krueckeberg naturalization filings, which I have already added to the 
-Persons section:
-+
-* https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/johann-heinrich/johann-heinrich-krueckeberg-naturalization.html[Johann Heinrich] 
-* https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/carl-friedrich/cfk-naturalization.html[Carl Friedrich]
-* https://docs.krueckeberg.org/genealogy/1.0/kr%C3%BCckeberg/carl-heinrich-wilhelm/chw_krueckeberg_naturalization_1890.html[Carl Heinrich Wilhelm]
-
 == Future Research Plan
 
 Find the original Indiana State xref:research:attachment$Indiana_Genealogist_Sept_2002_School_enumerations_1853_of_Union_township_Adams_county_Indiana.pdf[School Enumeration, Union Township, Adams County, Indiana, 20 September 1853]

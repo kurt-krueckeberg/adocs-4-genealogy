@@ -18,6 +18,7 @@
 * xref:familienschein-original.adoc[]
 * xref:school-enumerations-indiana.adoc[]
 * xref:carl-friedrich-krueckeberg-naturalization.adoc[]
+* xref:missing-naturalization-img-numbers.adoc[]
 * xref:bleeke-children-confirmations.adoc[]
 * xref:allen_franz_docs.adoc[]
 //* xref:todds-research-report.adoc[]
