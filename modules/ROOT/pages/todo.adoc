@@ -5,7 +5,9 @@ TODO: Add this info: link:https://youtu.be/jF0YlWkNcok?si=MLiYXf10Tx4TXwqp[Paten
 
 TODO: Add history on population explosion: there was a huge increase in population and prices went up
 and income down.
+== Contact Indiana State Archives for School Enumeration File for Adams County
 
+See xref:research:school-enumerations-indiana.adoc[Krückeberg and Bleekes in 19th Century Indiana School Enumerations].
 
 == Illegitimacy, Engagements, Weddings, marriage contracts and divorces in 19th century Germany
 
