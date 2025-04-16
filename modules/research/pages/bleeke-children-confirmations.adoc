@@ -4,12 +4,14 @@ Look up confirmation records for these children, who were confirmed in Indiana. 
 
 [cols="4,1,4"]
 |===
-|Child|Birth Order|Pastor who confirmed them
+|Child|Birth Order|Pastor who confirmed them|Task Completed
 
-|Christine Maria Bleeke| 5^th^|Pastor Sihler of St. Paul
+|Christine Maria Bleeke| 5^th^|Pastor Sihler of St. Paul|No
 
-|Christine Sophie Eleonore Bleeke| 6^th^|Pastor Sihler of St. Paul. 
+|Christine Sophie Eleonore Bleeke| 6^th^|Pastor Sihler of St. Paul.|No
 
-|Marie Lousiie Eleonore Bleeke| 7^th^ | Pastor Jäbker in Adams County.
+a|Marie Lousiie Eleonore Bleeke| 7^th^ | Pastor Jäbker in Adams County.|Yes +
+see xref:bleeke:maria-lousia-eleonore-blecke.adoc[Confirmation of Maria Louisa
+Eeleonore Blecke]
 |===
 
