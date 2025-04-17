@@ -14,5 +14,5 @@ Look up confirmation records for these children, who were confirmed in Indiana. 
 See below. 
 |===
 
-NOTE: See the confirmation for xref:bleeke:maria-lousie-eleonore-bleeke.adoc[Maria Louise Eleonore Bleeke].
+NOTE: See the confirmation for xref:bleeke:maria-louise-eleonore-bleeke.adoc[Maria Louise Eleonore Bleeke].
 
