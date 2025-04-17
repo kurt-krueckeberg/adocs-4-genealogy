@@ -1,4 +1,4 @@
 * xref:bleeke:bleeke-land-records.adoc[]
 * xref:bleeke:jhp-bleeke-land-patents.adoc[]
 * xref:bleeke:carl-friedrich-bleeke-land-patent.adoc[]
-* xref:bleeke:maria-louise-eleonore-blecke.adoc[]
+* xref:bleeke:maria-louise-eleonore-bleeke.adoc[]
