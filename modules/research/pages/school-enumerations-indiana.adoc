@@ -1,24 +1,45 @@
 = Krückeberg and Bleekes in 19^th^ Century Indiana School Enumerations
 
-See the **School Enumerataions** section in this Indiana State Library,
-Genealogy Division, article on
-xref:attachment$school-enumeration-Union-township-indiana-20-September-1853.pdf[Indiana
-State Censuses and Alternate Enumerations]. While the article does not properly
-show that Adams County, Indiana, did maintain a school enumeration, the
-existence of the an Adams County school enumerations was mentioned in an
-article in the Indiana Genealogist, Vol.  13, Issue 3 (Oct 2002).
+The article by the Genealogy Division of the Indiana State Library article link:https://blog.library.in.gov/using-school-records-in-genealogy/#:~:text=Usually%2C%20households%20without%20children%20were,section%20of%20the%20microfilm%20collection[Using School
+Records in Genealogy] explains how Indiana School Enumerations can be used:
+
+[quote, Using School Records in Genealogy]
+____
+These records are a useful source for genealogy researchers because they cover
+time periods that are not always well-documented by other records.  Because
+school enumerations were conducted more frequently than the censuses, these
+records can document when ancestors moved from one place to another and also
+provide the names of children who may have been born after one census and died
+before the next census.  Also, if a county conducted a school enumeration in
+the late 1880s or early 1890s, the records can be used as a replacement for the
+1890 Census, which was destroyed by water damage resulting from a fire.
+Finally, since Indiana did not have birth certificates until 1882, and such
+records were not mandatory until 1907, school enumerations can be used to help
+establish parent-child relationships.
+
+The Genealogy Division currently has a display featuring school enumeration
+records from around the state.  Our books containing these records may be found
+in our online catalog.  We also have some school enumerations on microfilm in
+the genealogy section of the microfilm collection.
+____
+
+See also the **School Enumerataions** section in this xref:attachment$school-enumeration-Union-township-indiana-20-September-1853.pdf[Indiana
+State Censuses and Alternate Enumerations] summary
+While the summary does not list school enumerations from Adams County, Indiana,
+the existence of Adams County school enumerations in 1853 was mentioned in the article
+xref:attachment$Indiana_Genealogist_Sept_2002_School_enumerations_1853_of_Union_township_Adams_county_Indiana.pdf[School
+Days, School Days] from the Indiana Genealogist, Vol.  13, Issue 3 (Oct 2002).
+
+It excerpts mid 19^th^ century school enumeration for Adams
+County, and it explains that "school record files" are held at the Indiana
+State Archives and "researchers may obtain the complete list (of those in Adams
+County) from the AArchives staff." 
 
 The head of household of those in Union township, Adams County, Indiana--the
 Bleekes, Krückebergs, and others--who had children in school were noted in an
 Indiana School Enumeration along with their child's name. 
 
-This Indiana Genealogist article
-xref:attachment$Indiana_Genealogist_Sept_2002_School_enumerations_1853_of_Union_township_Adams_county_Indiana.pdf[School
-Days, School Days] excerpts mid 19^th^ century school enumeration for Adams
-County, and it explains that "school record files" are held at the Indiana
-State Archives and "researchers may obtain the complete list (of those in Adams
-County) from the AArchives staff." The article's call number in the Genealogy
-Center is below:
+The article's call number in the Genealogy Center is below:
 
 [cols="4,1,4"]
 |===
@@ -30,4 +51,8 @@ ACPL Call #: 977.2 IN2015|2002|**Indiana Genealogical Society** +
 POB 10507 +
 Fort Wayne, IN 46852
 |===
+
+== Contacting the Indiana State Library Staff
+
+See their link:https://www.in.gov/library/collections-and-services/ask-a-librarian/?_gl=1*mi2r30*_ga*MjA4MjY3MjI3NC4xNzQzNzcyNTk1*_ga_VKE2YRE37R*MTc0NTE3MjI1OC4zLjEuMTc0NTE3MjI2MC41OC4wLjA[Ask a Librarian] page.
 
