@@ -52,7 +52,7 @@ POB 10507 +
 Fort Wayne, IN 46852
 |===
 
-== Contacting the Indiana State Library Staff
+== Contacting the Indiana State Archives Staff
 
-See their link:https://www.in.gov/library/collections-and-services/ask-a-librarian/?_gl=1*mi2r30*_ga*MjA4MjY3MjI3NC4xNzQzNzcyNTk1*_ga_VKE2YRE37R*MTc0NTE3MjI1OC4zLjEuMTc0NTE3MjI2MC41OC4wLjA[Ask a Librarian] page.
+The contact page for the the Indiana Archive and Records Administration is link:https://www.in.gov/iara/contact-us/[here].
 
