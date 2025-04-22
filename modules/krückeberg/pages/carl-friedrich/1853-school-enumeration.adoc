@@ -12,7 +12,7 @@ who is **Males between 5 and 13**.
 .First Four Entries of page 4
 |===
 |Names Parents & Guardians|Number of children +
-in the family|Males between 5 and 13|Males between 13 and 21|Females between 5 and 13|Females between 13 and 21|
+in the family|Males between 5 and 13|Males between 13 and 21|Females between 5 and 13|Females between 13 and 21|School
 
 |Isiaah Sivem|4|2|2|0|0|No. 5
 |Charles Krickenbarger|1|1|0|0|0|No. 5
