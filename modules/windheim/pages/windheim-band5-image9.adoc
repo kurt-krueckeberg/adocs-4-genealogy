@@ -22,7 +22,7 @@ The baptism record is on <<image9, image 9, pages ??>>, of the Windheim Kirchenb
      1836 Geborene und Getaufte (1833 Births and Baptisms)            im Jahre 1836 achtzehnhundert sechs und dreißig 
 ----
 
-image::windheim-band5-img9-left.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$windheim-band5-img9-left.jpg]
+image::windheim-band5-img9-left.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 The translitration of old German script into contemporary latin-based German is below.
 

@@ -10,11 +10,11 @@ Carl Fridrich Bleeke's marriage in 1792 to Anne Marie Rieckmann is on <<image202
 
 Overview of pages 52 and 53 showing the marriages of two Bleekes:
 
-image::frille-band2-img202-52-53.jpg[align=left,title='Overview of marriages of Carl Fridrich Bleeke, p. 52, and Christian Fridrich Bleeke, p. 53 (Click to englarge)',xref=image$frille-band2-img202-52-53.jpg]
+image::frille-band2-img202-52-53.jpg[align=left,title='Overview of marriages of Carl Fridrich Bleeke, p. 52, and Christian Fridrich Bleeke, p. 53 (Click to englarge)',link=self]
 
 View of marriage of Carl Fridrich Bleeke, page 52 (of the pages devoted to listing marriages):
 
-image::frille-band2-img202-52.jpg[align=left,title='Marriage of \[possible 1st initial\] Carl Fridrich Bleeke (Click to englarge)',xref=image$frille-band2-img202-52.jpg]
+image::frille-band2-img202-52.jpg[align=left,title='Marriage of \[possible 1st initial\] Carl Fridrich Bleeke (Click to englarge)',link=self]
 
 === Transliteration and Translation
 

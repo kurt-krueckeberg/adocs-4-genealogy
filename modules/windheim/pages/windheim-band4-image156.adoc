@@ -24,7 +24,7 @@ Top of the page header:
      1833 Geborene und Getaufte im (1831 Births and Baptisms in the)            Kirchspiel Windheim - 1831 (in the parish Windheim 1831) 153
 ----
 
-image::windheim-band4-img156.jpg[align=left,title="Birth of Christine Sophie Charlotte Buuck(Click to enlarge)",xref=image$windheim-band4-img156.jpg]
+image::windheim-band4-img156.jpg[align=left,title="Birth of Christine Sophie Charlotte Buuck(Click to enlarge)",link=self]
 
 The translitration of old German script into contemporary latin-based German is below.
 

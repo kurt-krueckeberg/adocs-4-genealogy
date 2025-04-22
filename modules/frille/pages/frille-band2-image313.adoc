@@ -8,7 +8,7 @@ The death of Johann Fridirch Bleecke occurred on 22 April 1795. It is <<image313
 
 == Images
 
-image::frille-band2-img313-185.jpg[align=left,title='Burial entry for Johann Fridrich Bleeke (Click to englarge)',xref=image$frille-band2-img313-185.jpg]
+image::frille-band2-img313-185.jpg[align=left,title='Burial entry for Johann Fridrich Bleeke (Click to englarge)',link=self]
 
 === Transliteration and Translation
 

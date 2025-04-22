@@ -10,11 +10,11 @@ It is on <<image152, image 152>>. The birth and baptism year appears on page 283
 
 The baptism year of 1800 is written on the top of page 275 (of the baptism pages), which on image 148:
 
-image::frille-band2-img148-275.jpg[align=left,title='Getaufte 1800, page 275, image 148 (Click to englarge)',xref=image$frille-band2-img148-275.jpg]
+image::frille-band2-img148-275.jpg[align=left,title='Getaufte 1800, page 275, image 148 (Click to englarge)',link=self]
 
 The baptism entry fo Christian Friderich Bleeke is on page 283 (of the baptism pages), which is on image 152:
 
-image::frille-band2-img152-283.jpg[align=left,title='Baptism of Christian Friderich Bleeke, 70^th^ of 1800 (Click to englarge)',xref=image$frille-band2-img152-283.jpg]
+image::frille-band2-img152-283.jpg[align=left,title='Baptism of Christian Friderich Bleeke, 70^th^ of 1800 (Click to englarge)',link=self]
 
 === Transliteration and Translation
 

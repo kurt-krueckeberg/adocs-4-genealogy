@@ -41,7 +41,7 @@ _Kirchspiel_ is the term that describes the _Ortschaften_, the surrounding villa
 Approximately 70 Volkening births are listed in the birth index, and of these, three girls have *"Anne (Anna)** and the abbreviation of **Marg.** as given names.
 Two have the adjacent pair of given names: "Anne Marg.":
 
-image::anne-m-volkening-index.jpg[title="Prospective Anne Margarethers (Click to englarge), xref=image$anne-m-volkening-index.jpg]
+image::anne-m-volkening-index.jpg[title="Prospective Anne Margarethers (Click to englarge), link=self]
 
 === The Three "Anne" and "Marg" Considered
  
@@ -69,7 +69,7 @@ We now examine the birth records of each.
 
 **Citation:** The image below is of the birth record for Anna Cathrina Ilse Margreta Volkening. It is appears on <<image16, image 16, page 26 (of births), entry 6>>.
 
-image::frille-band2-img16-26.jpg[title="Anne Catherine Ilse Marg. Volkening (Click to enlarge)",xref=image$frille-band2-img16-26.jpg]
+image::frille-band2-img16-26.jpg[title="Anne Catherine Ilse Marg. Volkening (Click to enlarge)",link=self]
 
 .Transliteration and Translation, image 16, page 26 (of births), entry 6
 ```text
@@ -91,7 +91,7 @@ image::frille-band2-img16-26.jpg[title="Anne Catherine Ilse Marg. Volkening (Cli
 
 **Citation:** The image below of the birth record for Anna Engel Margreta Volkening is of <<image23, image 23, page 41, entry 47>>.
 
-image::frille-band2-img23-41.jpg[title="Anne Catherine Ilse Margareta Volkening (Click to enlarge)",xref=image$frille-band2-img23-41.jpg]
+image::frille-band2-img23-41.jpg[title="Anne Catherine Ilse Margareta Volkening (Click to enlarge)",link=self]
 
 .Transliteration and Translation, image 23, page 41 (of births), entry 47
 ```text
@@ -111,7 +111,7 @@ image::frille-band2-img23-41.jpg[title="Anne Catherine Ilse Margareta Volkening 
 
 **Citation:** The image below is the birth record for Anna Engel Margreta Volkening that appears on <<image24, image 24, page 43, entry 61>>.
 
-image::frille-band2-img24-43.jpg[title="Anne Catherine Ilse Margareta Volkening (Click to enlarge)",xref=image$frille-band2-img24-43.jpg]
+image::frille-band2-img24-43.jpg[title="Anne Catherine Ilse Margareta Volkening (Click to enlarge)",link=self]
 
 [NOTE]
 .Comments on `+` sign
@@ -151,7 +151,7 @@ We now examine their respective birth records.
 
 **Citation:** The image below of the birth record for Anna Margreta Volkening is from <<image41, image 41, page 77, entry 39>>.
 
-image::frille-band2-img41-77.jpg[title="Anne Margarethe Volkening, image 41, page 77 (Click to enlarg)",xref=image$frille-band2-img41-77.jpg]
+image::frille-band2-img41-77.jpg[title="Anne Margarethe Volkening, image 41, page 77 (Click to enlarg)",link=self]
 
 .Transliteration and Translation, image 41, page 77 (of births), entry 39
 ```text
@@ -171,7 +171,7 @@ Pr.[meaning of "Pr." yet uncertain] Father: Jobst Henrich Vockening.
 
 **Citation:** The image below of the birth record for Anna Margarthe Elisabeth Volkening is from <<image50, image 50, page 93, entry 14>>.
 
-image::frille-band2-img50-93.jpg[title="Anne Margarethe Elisabeth Volkening, image 50, page 93 (Click to enlarg)",xref=image$frille-band2-img50-93.jpg]
+image::frille-band2-img50-93.jpg[title="Anne Margarethe Elisabeth Volkening, image 50, page 93 (Click to enlarg)",link=self]
 
 [NOTE]
 .Latin word uxores
@@ -259,16 +259,16 @@ Cathrine Engel Margreta Volkening, these marriage were found:
 * The marriage of Anna Catherine Ilse Margaretha Volkening aus Papinghausen (from Papainghausen) to Christian Fridrich Bals aus Frille (from Frille), on
 21 September 1788, is on <<image198, image 198, page 44 of the marriage pages, entry 4>>:
 
-image::frille-band2-img198-44.jpg[titel="Marriage of Anna Catherine Ilse Margaretha Volkening(Click to enlarge)",xref=image$frille-band2-img198-44.jpg]
+image::frille-band2-img198-44.jpg[titel="Marriage of Anna Catherine Ilse Margaretha Volkening(Click to enlarge)",link=self]
 
 * The marriage of Anne Engel Marg. Volkening to Anthon Fridrich Bö[sc/h/uncertain], on 21 January 1787, is found on <<image197, image 197, page 43, entry 1>, is found on <<image197, image 197, page 43, entry 1>>.
 
-image::frille-band2-img197-43.jpg[titel="Marriage of Anna Engel Margaretha Volkening(Click to enlarge)",xref=image$frille-band2-img197-43.jpg]
+image::frille-band2-img197-43.jpg[titel="Marriage of Anna Engel Margaretha Volkening(Click to enlarge)",link=self]
 
 In 1794, the same year as the birth of Carl Fridrich Bleeke (son of Christian Friedrich and Anne Margaretha Volkening) a child was born to Anne Cath. Ilse Marg.
 Volkening and Carl Friederich Bals. This birth is found on <<image121, image 121, page 225 of the births, entry 1>>:
 
-image::frille-band2-img121-225.jpg[title="Birth in 1794 of a son of Anna Cath. Ilse. Marg. nee Volkening Bals (Click to englarge)",xref=image$frille-band2-img121-225.jpg]
+image::frille-band2-img121-225.jpg[title="Birth in 1794 of a son of Anna Cath. Ilse. Marg. nee Volkening Bals (Click to englarge)",link=self]
 
 We presently don't know the birth date of Christian Fridrich Bleeke. No Christian Fridrich Bleeke birth
 is listed in the birth index for the years 1758 to 1804. Thus, either he was much older around age 35 (or older) and his birth is

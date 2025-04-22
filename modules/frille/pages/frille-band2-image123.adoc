@@ -10,11 +10,11 @@ on image 123 of 388.
 
 The birth year `1794` is written in the upper right corner of image 121: 
 
-image::frille-band2-img121-225.jpg[align=left,title='Page giving baptism year for Carl Fridrich Bleeke (Click to englarge)',xref=image$frille-band2-img121-225.jpg]
+image::frille-band2-img121-225.jpg[align=left,title='Page giving baptism year for Carl Fridrich Bleeke (Click to englarge)',link=self]
 
 The birth and baptism of Carl Fridrich Bleeke is recorded on entry number 38 on <<image123, page 229>> (of the baptism pages).
  
-image::frille-band2-img123-229.jpg[align=left,title='Baptism of Carl Fridrich Bleeke, 46^th^ of 1797 (Click to englarge)',xref=image$frille-band2-img123-229.jpg]
+image::frille-band2-img123-229.jpg[align=left,title='Baptism of Carl Fridrich Bleeke, 46^th^ of 1797 (Click to englarge)',link=self]
 
 === Transliteration and Translation
 

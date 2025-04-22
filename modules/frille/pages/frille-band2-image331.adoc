@@ -8,7 +8,7 @@ The death of Carl Fridirch Bleecke occurred on 1 January 1800. It is <<image331,
 
 == Images
 
-image::frille-band2-img331.jpg[align=left,title='Death entry for Carl Fridrich Bleecke (Click to englarge)',xref=image$frille-band2-img331.jpg]
+image::frille-band2-img331.jpg[align=left,title='Death entry for Carl Fridrich Bleecke (Click to englarge)',link=self]
 
 === Transliteration and Translation
 

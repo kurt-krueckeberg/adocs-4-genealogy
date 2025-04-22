@@ -3,4 +3,4 @@
 
 **TODO**: Add some text.
 
-image::frille-area-map.jpg[title="Frille and its surrounding villages (Click to enlarge),xref=image$frille-area-map.jpg]
+image::frille-area-map.jpg[title="Frille and its surrounding villages (Click to enlarge),link=self]

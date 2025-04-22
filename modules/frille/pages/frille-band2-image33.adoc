@@ -8,7 +8,7 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, 
 
 == Images
 
-image::frille-band2-img33-61.jpg[align=left,title='Page giving baptism year for Maria Eleonore Bleeke (Click to englarge)',xref=image$frille-band2-img33-61.jpg]
+image::frille-band2-img33-61.jpg[align=left,title='Page giving baptism year for Maria Eleonore Bleeke (Click to englarge)',link=self]
 
 === Transliteration and Translation
 

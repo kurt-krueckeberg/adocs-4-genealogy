@@ -18,7 +18,7 @@ The baptism record is on <<image182, image 182, pages 178 and 179,>> of the Wind
 
 The image below shows the page and column headings for pages 178 and 179:
 
-image::windheim-band4-header-img182.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$windheim-band4-header-img182.jpg]
+image::windheim-band4-header-img182.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 [,text]
 .This is the transliteration of the top-most header that spans pages 178 and 179
@@ -28,11 +28,11 @@ image::windheim-band4-header-img182.jpg[align=left,title="Page and column headin
 
 The registerd information extends across both the left and right page. The left page image is below:
 
-image::windheim-band4-img182-left-side.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$windheim-band4-img182-left-side.jpg]
+image::windheim-band4-img182-left-side.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 And this is the right page, page 179:
 
-image::windheim-band4-img182-right-side.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$windheim-band4-img182-right-side.jpg]
+image::windheim-band4-img182-right-side.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 The translitration of old German script into contemporary latin-based German is below.
 

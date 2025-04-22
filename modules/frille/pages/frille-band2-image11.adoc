@@ -10,11 +10,11 @@ Frille "Verzeichnis der Getauften, Getrauten, Gestorbenen (Register of Baptism, 
 
 The baptism and birth year of `1760` is written on page 13  (of the baptism pages), just below the middle of the page, on image 9:
 
-image::frille-band2-img9-13.jpg[align=left,title='Page giving baptism year for Charlotte Loyse Heinriette Bleeke (Click to englarge)',xref=image$frille-band2-img9-13.jpg]
+image::frille-band2-img9-13.jpg[align=left,title='Page giving baptism year for Charlotte Loyse Heinriette Bleeke (Click to englarge)',link=self]
 
 The birth and baptism of Charlotte Loyse(Louise) Heinriette Bleeckeis recorded on entry number 33 on <<image11, page 16>> (of the baptism pages).
  
-image::frille-band2-img11-16.jpg[align=left,title='Baptism of  (Click to englarge)',xref=image$frille-band2-img11-16.jpg]
+image::frille-band2-img11-16.jpg[align=left,title='Baptism of  (Click to englarge)',link=self]
 
 === Transliteration and Translation
 
