@@ -13,3 +13,4 @@
 * Johann Heinrich Krückeberg
 ** xref:petzen:petzen-band2-image91.adoc[1806 Baptism]
 ** xref:krückeberg:johann-heinrich/johann-heinrich-krueckeberg-naturalization.adoc[]
+** xref:krückeberg:johann-heinrich/1853-school-enumeration.adoc[]
