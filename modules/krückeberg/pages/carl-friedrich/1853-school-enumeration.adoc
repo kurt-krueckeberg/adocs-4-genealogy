@@ -6,7 +6,18 @@ the head of the household, who is listed under "Names Parents & Guardians".
 The entire four page, handwritten school enumeration for Union township, Adams County, Indiana can be
 downloaded xref:shared-surname-assets:attachment$AdamsUnionTwpSchoolEnum1853.pdf[here].
 
-The entry for "Charles Krickebnbarger" is found on the 4^th^ page. He has a total of one child in school **No. 5**,
+The entry for "Charles Krickenbarger" is found on the 4^th^ page. He has a total of one child in school **No. 5**,
 who is **Males between 5 and 13**.
+
+.First Four Entries of page 4
+|===
+|Names Parents & Guardians|Number of children +
+in the family|Males between 5 and 13|Males between 13 and 21|Females between 5 and 13|Females between 13 and 21
+
+|Isiaah Sivem|4|2|2|0|0|No. 5
+|Charles Krickenbarger|1|1|0|0|0|No. 5
+|William Wilam|2|1|0|1|0|No. 5
+|Henry Krickenbarger|2|0|0|0|2|No. 5
+|===
 
 image::shared-surname-assets:page4-AdamsUnion1853SchoolEnum.jpg[title="Charles Krickebarger in 1853 Indiana School Enumeration (Click to enlarge)",link=self]
