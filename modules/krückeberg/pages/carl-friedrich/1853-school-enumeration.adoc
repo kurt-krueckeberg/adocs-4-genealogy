@@ -10,5 +10,5 @@ downloaded xerf:shared-surname-assets:attachment$AdamsUnionTwpSchoolEnum1853.pdf
 The entry for "Charles Krickebnbarger" is found on the 4^th^ page. He has **1** **Males between
 5 and 13** in school **No. 5**
 
-image::shared-surname-assets:page4-AdamsUnion1853SchoolEnum.jpg[title="Charles Krickebarger in 1853 Indiana School Enumeration (Click to enlarge)",
-xref=shared-surname-assets:page4-AdamsUnion1853SchoolEnum.jpg]
+image::shared-surname-assets:page4-AdamsUnion1853SchoolEnum.jpg[title="Charles Krickebarger in 1853 Indiana School Enumeration (Click to enlarge)",link=self]
+//xref=shared-surname-assets:image$page4-AdamsUnion1853SchoolEnum.jpg]
