@@ -1,4 +1,7 @@
 * xref:bleeke:bleeke-land-records.adoc[]
-* xref:bleeke:jhp-bleeke-land-patents.adoc[]
-* xref:bleeke:carl-friedrich-bleeke-land-patent.adoc[]
-* xref:bleeke:maria-louise-eleonore-bleeke.adoc[]
+* Johann Heinrich Philipp Bleeke
+** xref:bleeke:jhp-bleeke-land-patents.adoc[]
+* Carl Friedrich Bleeke
+** xref:bleeke:carl-friedrich/carl-friedrich-bleeke-land-patent.adoc[]
+* Maria Louise Eleonore Bleeke
+** xref:bleeke:maria-louise-eleonore/confirmation.adoc[]
