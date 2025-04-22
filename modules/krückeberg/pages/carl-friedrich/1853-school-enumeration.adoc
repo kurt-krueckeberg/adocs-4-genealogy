@@ -5,7 +5,7 @@ and female children in the family who were either between the ages of 5 and 13 o
 ages 13 and 21. 
 
 The entire four page, handwritten school enumeration for Union township, Adams County, Indiana is
-downloaded xerf:shared-surname-assets:attachment$AdamsUnionTwpSchoolEnum1853.pdf[here].
+downloaded xref:shared-surname-assets:attachment$AdamsUnionTwpSchoolEnum1853.pdf[here].
 
 The entry for "Charles Krickebnbarger" is found on the 4^th^ page. He has **1** **Males between
 5 and 13** in school **No. 5**
