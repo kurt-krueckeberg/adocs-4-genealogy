@@ -12,11 +12,11 @@ Both entries occur in <<image45, image 45, on entries 67>>, respectively.
 Below is an overview of both pages 84 and 85, showing page 84 covers 1788 and page 85 covers the year 1789, starting with the 
 month of January for the first entry of page 85.
 
-image::petzen-band2-img45-overview.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img45-overview.jpg]
+image::petzen-band2-img45-overview.jpg[align=left,title="Click to enlarge",link=self]
 
 Below are entries 6 from page 85, year 1789.
 
-image::petzen-band2-img45-85.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img45-85.jpg]
+image::petzen-band2-img45-85.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of entry 6
 ----

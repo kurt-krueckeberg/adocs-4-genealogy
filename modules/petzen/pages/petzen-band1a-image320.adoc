@@ -9,7 +9,7 @@ The FamilySearch Tree-ID for Johann Heinrich Krückeberg is [??TODO????].
 
 == Image
 
-image::petzen-band1a-img320.jpg[align=left,title='Marriage Entry 3',xref=image$petzen-band1a-img320.jpg]
+image::petzen-band1a-img320.jpg[align=left,title='Marriage Entry 3',link=self]
 
 == Transliteration and Translation
 

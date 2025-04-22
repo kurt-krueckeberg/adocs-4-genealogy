@@ -7,7 +7,7 @@ The birth of a stillborn son of Heinrich Wilhelm Weiland is entry 17 on <<image1
 
 == Image, Transliteration and Translation
 
-image::petzen-band2-img133.jpg[title="Stillborn son of Friedrich Wilhelm Weiland entry 1 (Click to enlarge)", xref=image$petzen-band2-img133.jpg]
+image::petzen-band2-img133.jpg[title="Stillborn son of Friedrich Wilhelm Weiland entry 1 (Click to enlarge)",link=self]
 
 [caption="Transliteration and Translation: "]
 .Pages 260-261 Stillborn Weiland

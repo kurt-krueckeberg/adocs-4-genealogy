@@ -11,7 +11,7 @@ The FamilySearch Tree-ID for Carl Krückeberg is [??TODO????].
 
 == Image 313
 
-image::petzen-band1a-img313.jpg[align=left,title='Carl Krückeberg Confirmed 1764 (Click to enlarge)',xref=image$petzen-band1a-img313.jpg]
+image::petzen-band1a-img313.jpg[align=left,title='Carl Krückeberg Confirmed 1764 (Click to enlarge)',link=self]
 
 [NOTE]
 No page numbers are written on these confirmation entries.

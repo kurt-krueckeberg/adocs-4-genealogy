@@ -12,9 +12,9 @@ The FamilySearch Tree-IDS [??TODO????].
 
 == Image, Its Transliteration and Translation
 
-image::petzen-band1a-img220-overview.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',xref=image$petzen-band1a-img220-overview.jpg]
+image::petzen-band1a-img220-overview.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',link=self]
 
-image::petzen-band1a-img220-left.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',xref=image$petzen-band1a-img220-left.jpg]
+image::petzen-band1a-img220-left.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',link=self]
 
 .Comments on the significant wording change in these baptismal entries
 ****

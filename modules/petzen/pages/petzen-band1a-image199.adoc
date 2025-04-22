@@ -10,7 +10,7 @@ The baptism of Jobst Heinrich Weiland is on <<image199, image 199, left page, fi
 
 The FamilySearch Tree-IDS [??TODO????].
 
-image::petzen-band1a-img199.jpg[align=left,title='Jobst Heinrich Weiland, image 199, left page (Click to enlarge)',xref=image$petzen-band1a-img199.jpg]
+image::petzen-band1a-img199.jpg[align=left,title='Jobst Heinrich Weiland, image 199, left page (Click to enlarge)',link=self]
 
 
 [caption="Transliteration and Translation: "]

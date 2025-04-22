@@ -19,15 +19,15 @@ The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich Weilan
 
 Overview:
 
-image::petzen-band2-img125-overview.jpg[title="Overview of pages 244-245 (Click to enlarge)", xref=image$petzen-band2-img125-overview.jpg]
+image::petzen-band2-img125-overview.jpg[title="Overview of pages 244-245 (Click to enlarge)",link=self]
 
 Page 244:
 
-image::petzen-band2-img125-244.jpg[title="Entry 31, page 244 portion(Click to enlarge)", xref=image$petzen-band2-img125-244.jpg]
+image::petzen-band2-img125-244.jpg[title="Entry 31, page 244 portion(Click to enlarge)",link=self]
 
 Page 245:
 
-image::petzen-band2-img125-245.jpg[title="Entry 31, page 245 portion(Click to enlarge)", xref=image$petzen-band2-img125-245.jpg]
+image::petzen-band2-img125-245.jpg[title="Entry 31, page 245 portion(Click to enlarge)",link=self]
 
 [IMPORTANT]
 .Ambiguous Date at the End of the Father's Information

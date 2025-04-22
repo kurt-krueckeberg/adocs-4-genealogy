@@ -7,7 +7,7 @@ The birth and baptism of Louise Dorothee Weiland is on <<image115, image 115, pa
 
 == Pages 224 and 225
 
-image::petzen-band2-img115.jpg[title="Louise Dorothee Weiland 1811, pp. 224-225(Click to enlarge)", xref=image$petzen-band2-img115.jpg]
+image::petzen-band2-img115.jpg[title="Louise Dorothee Weiland 1811, pp. 224-225(Click to enlarge)",link=self]
 
 [caption="Transliteration and Translation: "]
 .Dorothee Louise Weiland

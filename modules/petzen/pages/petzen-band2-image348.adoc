@@ -11,13 +11,13 @@ The marriage record is on <<image348, image 348, on pages 722 and 723>> of Petze
 
 The header and column headings for pages 722 and 723:
 
-image::petzen-band2-img348-heading.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$petzen-band2-img348-heading.jpg]
+image::petzen-band2-img348-heading.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 The marriage record:
 
-image::petzen-band2-img348-722.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img348-722.jpg]
+image::petzen-band2-img348-722.jpg[align=left,title="Click to enlarge",link=self]
 
-image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img348-723.jpg]
+image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self]
 
 [,text]
 .Pages 722 and 723 header

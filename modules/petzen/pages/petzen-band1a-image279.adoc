@@ -15,9 +15,9 @@ The FamilySearch Tree-IDS [??TODO????].
 [NOTE]
 This is an overview of the left page. No page numbers are written on either the left or right pages.
 
-image::petzen-band1a-img279-overview.jpg[align=left,title='Left page overview of image 279 (Click to enlarge)',xref=image$petzen-band1a-img279-overview.jpg]
+image::petzen-band1a-img279-overview.jpg[align=left,title='Left page overview of image 279 (Click to enlarge)',link=self]
 
-image::petzen-band1a-img279-entry2.jpg[align=left,title='Johanna Sophie Charlotte Krückeberg, entry 2, left page of image 279 (Click to enlarge)',xref=image$petzen-band1a-img279-entry2.jpg]
+image::petzen-band1a-img279-entry2.jpg[align=left,title='Johanna Sophie Charlotte Krückeberg, entry 2, left page of image 279 (Click to enlarge)',link=self]
 
 [caption="Transliteration and Translation: "]
 .1782 Baptsim of Johanna Sophie Charolotte Krückeberg

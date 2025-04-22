@@ -8,7 +8,7 @@
 92                                 Getauft(Baptized) 1790
 ----
 
-image::petzen-band2-img49.jpg[align=left,title="Twins Hans Heinrich and Carolina Weiland 1790 (Click to enlarge)",xref=image$petzen-band2-img49.jpg]
+image::petzen-band2-img49.jpg[align=left,title="Twins Hans Heinrich and Carolina Weiland 1790 (Click to enlarge)",link=self]
 
 [NOTE]
 Petzen is evidently spelled here as _Penzen_

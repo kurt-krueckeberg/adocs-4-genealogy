@@ -17,19 +17,19 @@ Jobst Heinrich Weiland was married on September 21, 1808.
 
 The complete heading spans acroos both the left and right sides of pages 28 and 29. Below is the heading of page 28 and its column headings
 
-image::petzen-band2-img17-top-left.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img17-top-left.jpg]
+image::petzen-band2-img17-top-left.jpg[align=left,title="Click to enlarge",link=self]
 
 Below are the right hand portion of the page header and its colums headings from page 29:
 
-image::petzen-band2-img17-top-right.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img17-top-right.jpg]
+image::petzen-band2-img17-top-right.jpg[align=left,title="Click to enlarge",link=self]
 
 The marriage is entry three. The page 28 protion:
 
-image::petzen-band2-img17-left.jpg[align=left,title="Clik to enlarge",xref=image$petzen-band2-img17-left.jpg]
+image::petzen-band2-img17-left.jpg[align=left,title="Clik to enlarge",link=self]
 
 The continuation of marriage entry onto page 29:
 
-image::petzen-band2-img17-right.jpg[align=left,title="Click to englarge",xref=image$petzen-band2-img17-right.jpg]
+image::petzen-band2-img17-right.jpg[align=left,title="Click to englarge",link=self]
 
 [NOTE] 
 A proclamation or **Marriage Banns** was an announcements of an impending marriage between two individuals.

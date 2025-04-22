@@ -10,15 +10,15 @@ The death of Johann Heinrich Krückeberg Death in 1822 is found on <<image313, i
 
 Header and Column Headings:
 
-image::petzen-band2-img313-header.jpg[title="Page 652 Overview (Click to enlarge)", xref=image$petzen-band2-img313-header.jpg]
+image::petzen-band2-img313-header.jpg[title="Page 652 Overview (Click to enlarge)",link=self]
 
 Page 652:
 
-image::petzen-band2-img313-652.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)", xref=image$petzen-band2-img313-652.jpg]
+image::petzen-band2-img313-652.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)",link=self]
 
 Page 653: 
 
-image::petzen-band2-img313-653.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)", xref=image$petzen-band2-img313-653.jpg]
+image::petzen-band2-img313-653.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)",link=self]
 
 === Transliteration and Translation of Pages 652 and 653
 

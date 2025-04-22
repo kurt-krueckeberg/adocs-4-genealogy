@@ -7,9 +7,9 @@ In 1804 Fridrich Wilhem Weyland married Caroline Luise Lauen and Fridrich Weylan
 
 The marriage is found on <<image13, image 13, page 20, entry 7,>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-image::petzen-band2-img13-heading.jpg[align=left,title="Page Header for Fridrich Wilhelm Weyland Marriage",xref=image$petzen-band2-img13-heading.jpg]
+image::petzen-band2-img13-heading.jpg[align=left,title="Page Header for Fridrich Wilhelm Weyland Marriage",link=self]
 
-image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyland Marriage",xref=image$petzen-band2-img13.jpg]
+image::petzen-band2-img13.jpg[align=left,title="Entry for Fridrich Wilhelm Weyland Marriage",link=self]
 
 [caption="Transliteration: "]
 .Marriage entry 3

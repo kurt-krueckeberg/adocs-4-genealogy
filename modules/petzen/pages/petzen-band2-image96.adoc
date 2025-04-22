@@ -10,13 +10,13 @@ Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gest
 
 Overview:
 
-image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)", xref=image$petzen-band2-img96-overview.jpg]
+image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)",link=self]
 
 === Baptism Entry 22
 
-image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)", xref=image$petzen-band2-img96-186.jpg]
+image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)",link=self]
 
-image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)", xref=image$petzen-band2-img96-187.jpg]
+image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)",link=self]
 
 === Page Header
 

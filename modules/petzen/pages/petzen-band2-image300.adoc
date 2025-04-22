@@ -9,15 +9,15 @@ The death of  Philippine Dorothee Krückeberg in 1819 is found on <<image300, im
 
 Header and column headings:
 
-image::petzen-band2-img300-overview.jpg[title="Page 626 Overview (Click to enlarge)", xref=image$petzen-band2-img300-overview.jpg]
+image::petzen-band2-img300-overview.jpg[title="Page 626 Overview (Click to enlarge)",link=self]
 
 Page 626:
 
-image::petzen-band2-img300-626.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)", xref=image$petzen-band2-img300-626.jpg]
+image::petzen-band2-img300-626.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)",link=self]
 
 Page 627:
 
-image::petzen-band2-img300-627.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)", xref=image$petzen-band2-img300-627.jpg]
+image::petzen-band2-img300-627.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)",link=self]
 
 === Transliteration and Translation of Pages 626 and 627
 

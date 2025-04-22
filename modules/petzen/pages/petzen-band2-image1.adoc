@@ -10,7 +10,7 @@ This is the <<Image1, first image on Archion>> of the Petzen Kirchenbuch II 1785
 Cover of _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 der Kirchengemeinde Petzen_
 (Petzen Church Parish Register 1785-1827 of Baptized, Confirmed, Married and Deceased), 1785-1827
 
-image::petzen-band2-cover.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-cover.jpg]
+image::petzen-band2-cover.jpg[align=left,title="Click to enlarge",link=self]
 
 === Transliteration and Translation
 

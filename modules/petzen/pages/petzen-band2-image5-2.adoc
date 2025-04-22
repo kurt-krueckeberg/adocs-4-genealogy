@@ -11,11 +11,11 @@ The marriage is on <<image5, page 5, entry 10>> of Petzen Kirchenbuch volume "Ve
 
 Header spans page 4 and 5:
 
-image::petzen-band2-img5-header.jpg[align=left,title='Page Header for Entries 8, 10 and 13',xref=image$petzen-band2-img5-header.jpg]
+image::petzen-band2-img5-header.jpg[align=left,title='Page Header for Entries 8, 10 and 13',link=self]
 
 The marriages of Johann Heinrich Kruckeberg and Jobst Heinrich Weiland are recorded are on pages 4 and 5 on entries 8 and 10:
 
-image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',xref=image$petzen-band2-img5-1.jpg]
+image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=self]
 
 [NOTE]
 .Use of the `+` symbol and `Jfr` abbreviation

@@ -9,11 +9,11 @@ The marriage record is on <<image27, image 27, on pages 48 and 49>> of Petzen Ki
 
 Page 48 portion:
 
-image::petzen-band2-img27-left-2.jpg[id="image27-left-2",align=left,title="Click to enlarge",xref=image$petzen-band2-img27-left-2.jpg]
+image::petzen-band2-img27-left-2.jpg[id="image27-left-2",align=left,title="Click to enlarge",link=self]
 
 Page 49 portion:
 
-image::petzen-band2-img27-right-2.jpg[id="image27-right-2",align=left,title="Click to enlarge",xref=image$petzen-band2-img27-right-2.jpg]
+image::petzen-band2-img27-right-2.jpg[id="image27-right-2",align=left,title="Click to enlarge",link=self]
 
 [NOTE]
 .Comments on German words used in this entry

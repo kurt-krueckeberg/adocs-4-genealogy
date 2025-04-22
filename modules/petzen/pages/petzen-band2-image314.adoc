@@ -9,15 +9,15 @@ The death of Jobst Heinrich Krückeberg in 1822 is recorded on <<image314, image
 
 Page overview:
 
-image::petzen-band2-img314-header.jpg[title="Page 654 Overview (Click to enlarge)", xref=image$petzen-band2-img314-header.jpg]
+image::petzen-band2-img314-header.jpg[title="Page 654 Overview (Click to enlarge)",link=self]
 
 Page 654:
 
-image::petzen-band2-img314-654.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)", xref=image$petzen-band2-img314-654.jpg]
+image::petzen-band2-img314-654.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)",link=self]
 
 Page 655:
 
-image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)", xref=image$petzen-band2-img314-655.jpg]
+image::petzen-band2-img314-655.jpg[title="Johann Heinrich Krückeberg (Click to enlarge)",link=self]
 
 === Transliteration and Translation of Pages 654 and 655
 

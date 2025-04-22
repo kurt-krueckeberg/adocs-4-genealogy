@@ -12,7 +12,7 @@ The FamilySearch Tree-ID for Friderich Weiland is [??TODO????].
 
 === Image 
 
-image::petzen-band2-img3-weiland.jpg[align=left,title='Marriage Entry 3',xref=image$petzen-band2-img3-weiland.jpg]
+image::petzen-band2-img3-weiland.jpg[align=left,title='Marriage Entry 3',link=self]
 
 === Transliteration and Translation
 

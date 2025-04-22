@@ -15,9 +15,9 @@ Carl Friedrich Gottlieb Krückeberg is in the FamilySearch Tree link:https://www
 [NOTE]
 This is an overview of the right page. No page numbers are written on either the left or right pages.
 
-image::petzen-band1a-img264-overview.jpg[align=left,title='Left page overview of image 264 (Click to enlarge)',xref=image$petzen-band1a-img264-overview.jpg]
+image::petzen-band1a-img264-overview.jpg[align=left,title='Left page overview of image 264 (Click to enlarge)',link=self]
 
-image::petzen-band1a-img264-entry15.jpg[align=left,title='Carl Friderich Gottlieb Kruckeberg, entry 15, right page of image 264 (Click to enlarge)',xref=image$petzen-band1a-img264-entry15.jpg]
+image::petzen-band1a-img264-entry15.jpg[align=left,title='Carl Friderich Gottlieb Kruckeberg, entry 15, right page of image 264 (Click to enlarge)',link=self]
 
 .Comments on entry 15
 ****

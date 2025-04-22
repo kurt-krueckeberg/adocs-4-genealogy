@@ -3,7 +3,7 @@
 
 == Christine Maria Weiland 1789
 
-image::petzen-band2-img46-87.jpg[align=left,title="Christin Maria Weiland Baptism, page 87 (Click to enlarge)",xref=image$petzen-band2-img46-87.jpg]
+image::petzen-band2-img46-87.jpg[align=left,title="Christin Maria Weiland Baptism, page 87 (Click to enlarge)",link=self]
 
 .Transliteration and Translation
 ```text

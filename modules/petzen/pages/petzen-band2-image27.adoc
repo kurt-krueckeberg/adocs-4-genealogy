@@ -11,11 +11,11 @@ The marriage record is on <<image27, image 27, on pages 48 and 49>> of Petzen Ki
 
 Heading page 48:
 
-image::petzen-band2-img27-left-1.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img27-left-1.jpg]
+image::petzen-band2-img27-left-1.jpg[align=left,title="Click to enlarge",link=self]
 
 Heading page 49:
 
-image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img27-right-1.jpg]
+image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",link=self]
 
 [caption="Transliteration 1: "]
 .Marriage entry No. 1.

@@ -7,7 +7,7 @@ The birth of Caroline Sophie Weiland is entry 4 on <<image99, image 99, pages 19
 
 === Image, Transliteration and Translation
 
-image::petzen-band2-img99.jpg[title="Baptism of Carline Sophie Weiland in 1808 (Click to enlarge)", xref=image$petzen-band2-img99.jpg]
+image::petzen-band2-img99.jpg[title="Baptism of Carline Sophie Weiland in 1808 (Click to enlarge)",link=self]
 
 [NOTE]
 .Challenges in this entry

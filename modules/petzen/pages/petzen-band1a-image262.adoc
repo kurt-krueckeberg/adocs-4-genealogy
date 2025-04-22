@@ -8,7 +8,7 @@ Sophia Margaretha Weiland's baptism is on <<image262, image 262, right page, ent
 
 The FamilySearch Tree-IDS [??TODO????].
 
-image::petzen-band1a-img262-1779.jpg[align=left,title="Sophia Margaretha Weiland's baptism (Click to enlarge)",xref=image$petzen-band1a-img262-1779.jpg]
+image::petzen-band1a-img262-1779.jpg[align=left,title="Sophia Margaretha Weiland's baptism (Click to enlarge)",link=self]
 
 [caption="Transliteration and Translation: "]
 .1779 Baptism of Sophia Margaretha Weiland

@@ -11,9 +11,9 @@ This is the <<Image28,28th image on Archion>> of Petzen Kirchenbuch volume 2.
 
 The page header spans both pages 50 and 51.
 
-image::petzen-band2-img28-left.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img28-left.jpg]
+image::petzen-band2-img28-left.jpg[align=left,title="Click to enlarge",link=self]
 
-image::petzen-band2-img28-right.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img28-right.jpg]
+image::petzen-band2-img28-right.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration of page header
 ```text

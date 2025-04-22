@@ -9,7 +9,7 @@ The FamilySearch Tree-ID for Jobst Heinrich Krückeberg is [??TODO????].
 
 == Jobst Heinrich Krückeberg Confirmation 1778
 
-image::petzen-band1a-img319.jpg[align=left,title='Marriage Entry 3',xref=image$petzen-band1a-img319.jpg]
+image::petzen-band1a-img319.jpg[align=left,title='Marriage Entry 3',link=self]
 
 [NOTE]
 No page number is written on this page.

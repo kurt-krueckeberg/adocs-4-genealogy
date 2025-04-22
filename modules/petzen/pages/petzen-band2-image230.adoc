@@ -36,11 +36,11 @@ But for now, the plan is finish recording the rest of the church registers Krüc
 
 Overview:
 
-image::petzen-band2-img230-overview.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge), xref=image$petzen-band2-img230-overview.jpg]
+image::petzen-band2-img230-overview.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
 
 Page 485, entry 16:
 
-image::petzen-band2-img230-entry16.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge), xref=image$petzen-band2-img230-entry16.jpg]
+image::petzen-band2-img230-entry16.jpg[[title="Croemer/Krückeberg begraben 1794 (Click to enlarge),link=self]
 
 [NOTE]
 .Comments

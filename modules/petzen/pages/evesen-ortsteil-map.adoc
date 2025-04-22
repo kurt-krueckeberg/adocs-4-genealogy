@@ -17,4 +17,4 @@ surrounding villages like:
 
 It also shows the `Aue`, which branches off from (or flows into) the `Weser` river at Petershaben.
 
-image::evesen-ortsteile.jpg[title="Evesen and its surrounding villages (Click to enlarge),xref=image$evesen-ortsteile.jpg]
+image::evesen-ortsteile.jpg[title="Evesen and its surrounding villages (Click to enlarge),link=self]

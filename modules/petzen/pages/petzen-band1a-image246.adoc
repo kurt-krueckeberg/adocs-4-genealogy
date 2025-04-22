@@ -9,7 +9,7 @@ The FamilySearch Tree-IDS [??TODO????].
 
 == Image 246 
 
-image::petzen-band1a-img246.jpg[align=left,title='Anna Christina Maria Kruckeberg, entry 10, right-hand page of image 246 (Click to enlarge)',xref=image$petzen-band1a-img246.jpg]
+image::petzen-band1a-img246.jpg[align=left,title='Anna Christina Maria Kruckeberg, entry 10, right-hand page of image 246 (Click to enlarge)',link=self]
 
 [caption="Transliteration and Translation: "]
 .1775 Baptism of Anna Christina Maria Kruckeberg

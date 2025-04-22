@@ -8,9 +8,9 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
 == Image 259
 
-image::petzen-band1a-img259-overview.jpg[align=center,title='Overview (Click to enlarge)',xref=image$petzen-band1a-img259-overview.jpg]
+image::petzen-band1a-img259-overview.jpg[align=center,title='Overview (Click to enlarge)',link=self]
 
-image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christina Weiland in 1778 (Click to enlarge)',xref=image$petzen-band1a-img259.jpg]
+image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christina Weiland in 1778 (Click to enlarge)',link=self]
 
 [NOTE]
 `Isabein` is a short form of Elisabeth

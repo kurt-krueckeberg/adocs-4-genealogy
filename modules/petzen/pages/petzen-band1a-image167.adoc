@@ -9,7 +9,7 @@ literation.
 
 The baptism entry is found on <<image-vo1a-167, image 167, year 1744, fourth entry for January>>.
 
-image::petzen-band1a-img167.jpg[title="Unknown Krückeberg (Click to enlarge)",xref=image$petzen-band1a-img167.jpg]
+image::petzen-band1a-img167.jpg[title="Unknown Krückeberg (Click to enlarge)",link=self]
 
 [NOTE]
 .The word before "Johann Heinrich"?

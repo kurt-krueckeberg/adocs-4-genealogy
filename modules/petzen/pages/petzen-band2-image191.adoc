@@ -9,7 +9,7 @@ The confirmation of Carl Friedrich Gottlieb Krückeberg is on <<image191-407, pa
 
 Image 191, on page 407, shows Carl Friedrich Gottlieb Kruckeberg's confirmation as entry 3 among those confirmed in 1792:
 
-image::petzen-band2-img191-407.jpg[title="Carl Friedrich Gottlieb Kruckeberg, Confirmatin 1789, on page 407 (Click to enlarge)", xref=image$petzen-band2-img191-407.jpg]
+image::petzen-band2-img191-407.jpg[title="Carl Friedrich Gottlieb Kruckeberg, Confirmatin 1789, on page 407 (Click to enlarge)",link=self]
 
 [NOTE]
 _Dominica_ 's meaning uncertain at present.

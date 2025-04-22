@@ -12,11 +12,11 @@ On 2 August 1790, Johann Heinrich Krückeberg from Berenbusch No 10 married Anna
 
 Header:
 
-image::petzen-band2-img5-header.jpg[align=left,title='Page Header for Entries 8, 10 and 13',xref=image$petzen-band2-img5-header.jpg]
+image::petzen-band2-img5-header.jpg[align=left,title='Page Header for Entries 8, 10 and 13',link=self]
 
 The marriage of Johann Heinrich Kruckeberg is recorded are on page 5 on entry 8:
 
-image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',xref=image$petzen-band2-img5-1.jpg]
+image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=self]
 
 [NOTE]
 .`Jfr` abbreviation

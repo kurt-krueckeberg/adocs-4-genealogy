@@ -10,11 +10,11 @@ Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 Page overview:
 
-image::petzen-band2-img192-overview.jpg[title="Overview of Confirmation in 1795, page 407 (Click to enlarge)", xref=image$petzen-band2-img192-overview.jpg]
+image::petzen-band2-img192-overview.jpg[title="Overview of Confirmation in 1795, page 407 (Click to enlarge)",link=self]
 
 Image 192, page 409, shows Johanne Söphie Carlotte Krückeberg confirmation, entry 2 at the bootom of the image, among those girls from Schaumburg confirmed in 1795:
 
-image::petzen-band2-img192-409.jpg[title="Johanne Söphie Carlotte Krückeberg confirmation in 1795, on page 407, etnry 2 (Click to enlarge)", xref=image$petzen-band2-img192-409.jpg]
+image::petzen-band2-img192-409.jpg[title="Johanne Söphie Carlotte Krückeberg confirmation in 1795, on page 407, etnry 2 (Click to enlarge)",link=self]
 
 [caption="Transliteration: "]
 .Transliteration page 405, entry 2

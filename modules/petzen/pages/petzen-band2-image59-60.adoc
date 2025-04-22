@@ -11,15 +11,15 @@ This entry appears on <<image59-113,image 59, page 113>>, and the top of <<image
 
 Header:
 
-image::petzen-band2-img59-header.jpg[align="left",title="Click to enlarge",xref=image$petzen-band2-img59-header.jpg]
+image::petzen-band2-img59-header.jpg[align="left",title="Click to enlarge",link=self]
 
 Page 113:
 
-image::petzen-band2-img59-113.jpg[align="left",title="Click to enlarge",xref=image$petzen-band2-img59-113.jpg]
+image::petzen-band2-img59-113.jpg[align="left",title="Click to enlarge",link=self]
 
 PAge 114:
 
-image::petzen-band2-img60-114.jpg[align="left",title="Click to enlarge",xref=image$petzen-band2-img60-114.jpg]
+image::petzen-band2-img60-114.jpg[align="left",title="Click to enlarge",link=self]
 
 .Transliteration of page 113 header, entry 16
 ```text

@@ -17,7 +17,7 @@ Philippine. The sponsor was Philippine Maria Beuken of Meinsen.
 
 This entry of the birth of Philippine Louise Weiland, in 1785, occurs on the left hand page, page 62.
 
-image::petzen-band2-img34.jpg[align=left,title='Click to enlarge',xref=image$petzen-band2-img34.jpg]
+image::petzen-band2-img34.jpg[align=left,title='Click to enlarge',link=self]
 
 [caption="Transliteration: "]
 .Baptism entry no. 29 for Philippine Louise Weiland
@@ -53,7 +53,7 @@ This entry of the stillborth of the son of Johann Heinrich Weiland, in 1785, occ
 
 === Image 34, page 63, entry 38
 
-image::petzen-band2-img34-right.jpg[align=left,title='Click to enlarge',xref=image$petzen-band2-img34-right.jpg]
+image::petzen-band2-img34-right.jpg[align=left,title='Click to enlarge',link=self]
 
 [caption="Transliteration: "]
 .Baptism entry no. 38 for the stillborn son of Johann Heinrich Weiland

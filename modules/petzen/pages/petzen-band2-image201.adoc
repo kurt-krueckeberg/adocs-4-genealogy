@@ -8,15 +8,15 @@ Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 Page 201 overview:
 
-image::petzen-band2-img201-overview.jpg[[title="Philippine Louise Krückeberg Confirmation 1806 (Click to enlarge)", xref=image$petzen-band2-img201-overview.jpg]
+image::petzen-band2-img201-overview.jpg[[title="Philippine Louise Krückeberg Confirmation 1806 (Click to enlarge)",link=self]
 
 === Pages 426 and 427 
 
 .Page 426
-image::petzen-band2-img201-426.jpg[[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)", xref=image$petzen-band2-img201-426.jpg]
+image::petzen-band2-img201-426.jpg[[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)",link=self]
 
 .Page 427
-image::petzen-band2-img201-427.jpg[[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)", xref=image$petzen-band2-img201-427.jpg]
+image::petzen-band2-img201-427.jpg[[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)",link=self]
 
 [caption="Transliteration and translation: "]
 .Page Header, Column Heading and Entry 13

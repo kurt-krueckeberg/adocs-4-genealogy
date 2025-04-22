@@ -18,7 +18,7 @@ Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a 
 |266         Births in the Parish of Petzen                              in the Year 1815                        267
 |===
 
-image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)", xref=image$petzen-band2-img137.jpg]
+image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)",link=self]
 
 [caption="Transliteration and Translation: "]
 .Heinrich Wilhelm Weiland Baptism and Birth

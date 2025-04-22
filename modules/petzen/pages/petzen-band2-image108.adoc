@@ -7,7 +7,7 @@ The birth and baptism of Wilhelmine Leonore Weiland is on <<image108, image 108,
 
 == Pages 201 and 211
 
-image::petzen-band2-img108.jpg[title="Wilhelmine Leonore Weiland  pp. 210-211 (Click to enlarge)", xref=image$petzen-band2-img108.jpg]
+image::petzen-band2-img108.jpg[title="Wilhelmine Leonore Weiland  pp. 210-211 (Click to enlarge)",link=self]
 
 [caption="Transliteration and Translation: "]
 .Wilhelmine Leonore Weiland

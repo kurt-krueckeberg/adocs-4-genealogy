@@ -9,7 +9,7 @@ The baptism of Friderich Wilhelm Weiland is on <<image253, image 253>> of the Pe
 
 The baptismal record is shown below:
 
-image::petzen-band1a-img253.jpg[title="Overview of pages 244-245 (Click to enlarge)", xref=image$petzen-band1a-img253.jpg]
+image::petzen-band1a-img253.jpg[title="Overview of pages 244-245 (Click to enlarge)",link=self]
 
 == Text of Entry
 

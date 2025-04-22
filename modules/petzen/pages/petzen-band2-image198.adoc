@@ -9,11 +9,11 @@ The confirmation of Philippine Caroline Christine Krückeberg Confirmation in 18
 
 Page overview:
 
-image::petzen-band2-img198-overview.jpg[[title="Philippine Caroline Christine Krückeberg Confirmation 1805 (Click to enlarge), xref=image$petzen-band2-img198-overview.jpg]
+image::petzen-band2-img198-overview.jpg[[title="Philippine Caroline Christine Krückeberg Confirmation 1805 (Click to enlarge),link=self]
 
-image::petzen-band2-img198-420.jpg[title="Philippine Caroline Christine Krückeberg Confirmationm page 420 portion (Click to enlarge), xref=image$petzen-band2-img198-420.jpg]
+image::petzen-band2-img198-420.jpg[title="Philippine Caroline Christine Krückeberg Confirmationm page 420 portion (Click to enlarge),link=self]
 
-image::petzen-band2-img198-421.jpg[title="Philippine Caroline Christine Krückeberg Confirmationm page 420 portion (Click to enlarge), xref=image$petzen-band2-img198-421.jpg]
+image::petzen-band2-img198-421.jpg[title="Philippine Caroline Christine Krückeberg Confirmationm page 420 portion (Click to enlarge),link=self]
 
 [caption="Transliteration: "]
 .Transliteration of Column Headers and Entry 13

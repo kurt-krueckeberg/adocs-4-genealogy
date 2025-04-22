@@ -9,15 +9,15 @@ The death of Johann Hen. Krückeberg in 1805 is found on <<image243, image 243, 
 
 Page header and column headings:
 
-image::petzen-band2-img243-overview.jpg[title="Page 512 Overview (Click to enlarge)", xref=image$petzen-band2-img243-overview.jpg]
+image::petzen-band2-img243-overview.jpg[title="Page 512 Overview (Click to enlarge)",link=self]
 
 Page 512:
 
-image::petzen-band2-img243-512.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)", xref=image$petzen-band2-img243-512.jpg]
+image::petzen-band2-img243-512.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
 Page 513:
 
-image::petzen-band2-img243-513.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)", xref=image$petzen-band2-img243-513.jpg]
+image::petzen-band2-img243-513.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
 === Transliteration and Translation of Pages 512 and 513
 

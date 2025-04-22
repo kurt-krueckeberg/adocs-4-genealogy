@@ -11,11 +11,11 @@ This marriage is found on <<image339, image 339, on pages 704 and 705>> in the P
 
 Page heading on page 704:
 
-image::petzen-band2-img339-704.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img339-704.jpg]
+image::petzen-band2-img339-704.jpg[align=left,title="Click to enlarge",link=self]
 
 Page 705 heading portion:
 
-image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img339-705.jpg]
+image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",link=self]
 
 [,text]
 .Transliteration of pages 704 and 705 header

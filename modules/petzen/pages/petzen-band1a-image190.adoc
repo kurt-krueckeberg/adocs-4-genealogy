@@ -13,7 +13,7 @@ The FamilySearch Tree-IDS [??TODO????]
 
 == Image 190 and Its Transliteration and Translation
 
-image::petzen-band1a-img190-right.jpg[align=left,title='Anna Maria Weiland, image 190, right page (Click to enlarge)',xref=image$petzen-band1a-img190-right.jpg]
+image::petzen-band1a-img190-right.jpg[align=left,title='Anna Maria Weiland, image 190, right page (Click to enlarge)',link=self]
 
 [caption="Transliteration and Translation: "]
 .1754 Baptism of Anna Maria Weiland

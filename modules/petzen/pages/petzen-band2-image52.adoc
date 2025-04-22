@@ -7,7 +7,7 @@ This baptism is recorded on <<image52, image 52 on Archion>> of Petzen Kirchenbu
 
 == Header page 98
 
-image::petzen-band2-img52-header.jpg[align=left,title='Click to enlarge',xref=image$petzen-band2-img52-header.jpg]
+image::petzen-band2-img52-header.jpg[align=left,title='Click to enlarge',link=self]
 
 .Transliteration and translation of header of page 98, image 52
 ----
@@ -16,7 +16,7 @@ image::petzen-band2-img52-header.jpg[align=left,title='Click to enlarge',xref=im
 
 == Entry of Baptism
 
-image::petzen-band2-img52-left.jpg[align=left,title='Click to enlarge',xref=image$petzen-band2-img52-left.jpg]
+image::petzen-band2-img52-left.jpg[align=left,title='Click to enlarge',link=self]
 
 .Transliteration and translation of entry 12, baptism of Friderich Wilhelm Krückeberg
 ----

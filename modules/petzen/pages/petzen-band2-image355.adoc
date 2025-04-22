@@ -11,15 +11,15 @@ The marriage record is on <<image355, image 355, pages 736 and 737,>> of the Pet
 
 The image below shows the page and column headings for pages 736 and 737:
 
-image::petzen-band2-img355-header.jpg[align=left,title="Page and column headings (Click to enlarge)",xref=image$petzen-band2-img355-header.jpg]
+image::petzen-band2-img355-header.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 === Marriage Record
 
 The marriage record is entry #8 on poages 736 and 737.
 
-image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (Click to enlarge)",xref=image$petzen-band2-img355-736.jpg]
+image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (Click to enlarge)",link=self]
 
-image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",xref=image$petzen-band2-img355-737.jpg]
+image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",link=self]
 
 [,text]
 .Transliteration of pages 736 and 737 header

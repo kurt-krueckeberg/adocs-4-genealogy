@@ -7,7 +7,7 @@ The marriage of Johann Heinrich TODO: finish
 
 The marriage entry is found on <<image-vo1b-52, image 52, year 1761, 14 June 1761>> of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
-image::petzen-band1b-img52.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",xref=image$petzen-band1b-img52.jpg]
+image::petzen-band1b-img52.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
 
 ```text
           Copuliert                                                                  1761

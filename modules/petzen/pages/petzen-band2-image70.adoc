@@ -10,9 +10,9 @@ The entries spans across both pages 134 and 135.
 
 Header:
 
-image::petzen-band2-img70-header-134.jpg[title="Header page 134 portion (Click to enlarge)", xref=image$petzen-band2-img70-header-134.jpg]
+image::petzen-band2-img70-header-134.jpg[title="Header page 134 portion (Click to enlarge)",link=self]
 
-image::petzen-band2-img70-header-135.jpg[title="Header page 135 portion (Click to enlarge)", xref=image$petzen-band2-img70-header-135.jpg]
+image::petzen-band2-img70-header-135.jpg[title="Header page 135 portion (Click to enlarge)",link=self]
 
 .Transliteration of header for pages 134-135
 ```text
@@ -21,9 +21,9 @@ image::petzen-band2-img70-header-135.jpg[title="Header page 135 portion (Click t
 
 === Image of pages 134 and 135, entry 12
 
-image::petzen-band2-img70-134.jpg[title="page 134. Click to enlarge", xref=image$petzen-band2-img70-134.jpg]
+image::petzen-band2-img70-134.jpg[title="page 134. Click to enlarge",link=self]
 
-image::petzen-band2-img70-135.jpg[title="page 135. Click to enlarge", xref=image$petzen-band2-img70-135.jpg]
+image::petzen-band2-img70-135.jpg[title="page 135. Click to enlarge",link=self]
 
 [NOTE]
 Aldag may be Ahldag. Ahldag appears very often. Aldag may only appear here and thus have been

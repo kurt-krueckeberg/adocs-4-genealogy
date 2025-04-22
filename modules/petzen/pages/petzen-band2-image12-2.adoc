@@ -10,7 +10,7 @@ The marriage occurred on April 11, 1802. It is <<image12, entry 10 on page 19 of
 The entries on the top of page 19 continue those begun in the middle of page 18 for the year 1802 (starting with entry 1 for Hans Heinrich Pohler). The date of the
 marriage is actually given on the page 18 above entry 6 as **Am 11 April ("on 11 April")**
 
-image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",xref=image$petzen-band2-img12-right1.jpg]
+image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",link=self]
 
 [caption="Transliteration and Translation 2: "]
 .Johann Heinrich Krückeberg Marriage entry number 10, page 19:
