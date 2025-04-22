@@ -1,9 +1,10 @@
 * Carl Friedrich Krückeberg
 ** xref:petzen:petzen-band2-image96.adoc[1807 Baptism]
 ** xref:krückeberg:carl-friedrich-familie-immigration.adoc[]
-** xref:krückeberg:carl-friedrich/cfk-federal-land-records.adoc[]
-** xref:krückeberg:carl-friedrich/cfk-state-land-records.adoc[]
-** xref:krückeberg:carl-friedrich/cfk-naturalization.adoc[]
+** xref:krückeberg:carl-friedrich/1853-school-enumeration.adoc[]
+** xref:krückeberg:carl-friedrich/federal-land-records.adoc[]
+** xref:krückeberg:carl-friedrich/state-land-records.adoc[]
+** xref:krückeberg:carl-friedrich/naturalization.adoc[]
 ** xref:krückeberg:census.adoc[]
 * Karl Heinrich Wilhelm Krückeberg 
 ** xref:krückeberg:carl-friedrich-familie-immigration.adoc[]
