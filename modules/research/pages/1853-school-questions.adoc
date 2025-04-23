@@ -1,7 +1,7 @@
 = Which Schools did Bleeke and Krückeberrg Children Attend in 1853
 
 * **Question**: Why are the children of "Christian F. Bleakey" and "John H. Bleakey" going to different
-schools. The Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
+schools? The Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
 while the children of "Charles Krickenbarger" and "Henry Krickenbargor" go to
-xref:krückeberg:1853-school-enumeration.adoc[Krückeberg children at school No. 5]
+xref:krückeberg:1853-school-enumeration.adoc[Krückeberg children at school No. 5]?
 * **Question**: Which schools are **school No. 4** and **school No. 5**?
