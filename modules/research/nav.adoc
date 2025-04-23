@@ -16,7 +16,7 @@
 * xref:research-plans.adoc[]
 * xref:naturalization-research-plan.adoc[]
 * xref:familienschein-original.adoc[]
-* xref:1853-school-enumeration-questions.adoc[]
+* xref:1853-school-questions.adoc[]
 * xref:carl-friedrich-krueckeberg-naturalization.adoc[]
 * xref:missing-naturalization-img-numbers.adoc[]
 * xref:bleeke-children-confirmations.adoc[]
