@@ -5,5 +5,5 @@ children of "Charles Krickenbarger" and "Henry Krickenbargor" going to school "N
 +
 See:
 ** xref:bleeke:1853-school-enumeration.adoc[Bleeke children at school No. 4]
-** xref:krückeberg:1853-school-enumerations.adoc[Krückeberg children at school No. 5]
+** xref:krückeberg:1853-school-enumeration.adoc[Krückeberg children at school No. 5]
 * Q: Which schools are **No. 4** and **No. 5**?
