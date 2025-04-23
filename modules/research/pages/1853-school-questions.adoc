@@ -1,7 +1,7 @@
 = Which Schools did Bleeke and Krückeberrg Children Attend in 1853
 
-* **Question**: In 1853 the children of "Christian F. Bleakey" and "John H. Bleakey" attend a different
-school than the children of "Charles Krickenbarger" and "Henry Krickenbargor"--why? 
+* **Question**: In 1853 the children of "Christian F. Bleakey" and "John H. Bleakey" attend different
+schools than the children of "Charles Krickenbarger" and "Henry Krickenbargor"--but why? 
 According to the 1853 Indiana School Enumeration, the Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
 while the children of "Charles Krickenbarger" and "Henry Krickenbargor" go to
 xref:krückeberg:1853-school-enumeration.adoc[school No. 5]?
@@ -9,3 +9,22 @@ xref:krückeberg:1853-school-enumeration.adoc[school No. 5]?
 Was school No. 4 simply closer to the Bleekes and school No. 5 closer to the
 Krückebergs?
 * **Question**: Which schools were (perhaps still are)  **school No. 4** and **school No. 5**?
+
+**Answer:**
+
+The link:https://archive.org/details/snowshistoryofad00snow/page/n344/mode/1up[history of Union township],
+on p 166, of Snow's History of Adams County, Indiana, describes the history of the earliest schools.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
