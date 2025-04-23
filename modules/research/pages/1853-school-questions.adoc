@@ -4,4 +4,4 @@
 schools. The Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
 while the children of "Charles Krickenbarger" and "Henry Krickenbargor" go to
 xref:krückeberg:1853-school-enumeration.adoc[Krückeberg children at school No. 5]
-* Q: Which schools are **school No. 4** and **school No. 5**?
+* **Question**: Which schools are **school No. 4** and **school No. 5**?
