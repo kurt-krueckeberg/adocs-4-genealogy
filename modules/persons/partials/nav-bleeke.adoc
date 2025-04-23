@@ -5,6 +5,6 @@
 * Carl Friedrich Bleeke
 ** xref:bleeke:1853-school-enumeration.adoc[]
 * Christian Friedrich Bleeke
-** xref:bleeke:christian-friedrich-1800/
+** xref:bleeke:1853-school-enumeration.adoc[]
 * Maria Louise Eleonore Bleeke
 ** xref:bleeke:maria-louise-eleonore/confirmation.adoc[]
