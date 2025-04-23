@@ -1,7 +1,11 @@
 = Which Schools did Bleeke and Krückeberrg Children Attend in 1853
 
-* **Question**: Why are the children of "Christian F. Bleakey" and "John H. Bleakey" going to different
-schools? According to the 1853 Indiana School Enumeration, the Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
+* **Question**: In 1853 the children of "Christian F. Bleakey" and "John H. Bleakey" attend different
+schools than the children of "Charles Krickenbarger" and "Henry Krickenbargor"--but why? Was it simply
+According to the 1853 Indiana School Enumeration, the Bleeke children go to school xref:bleeke:1853-school-enumeration.adoc[school No. 4]
 while the children of "Charles Krickenbarger" and "Henry Krickenbargor" go to
 xref:krückeberg:1853-school-enumeration.adoc[school No. 5]?
-* **Question**: Which schools are **school No. 4** and **school No. 5**?
++
+Perhaps school No. 4 was simply closer to the Bleekes than school No. 5, which was closer to the
+Krückebergs?
+* **Question**: Which schools were (perhaps still are)  **school No. 4** and **school No. 5**?
