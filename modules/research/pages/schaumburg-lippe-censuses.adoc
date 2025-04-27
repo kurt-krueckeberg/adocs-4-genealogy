@@ -2,6 +2,6 @@
 
 See FamilySearch wiki page on link:https://www.familysearch.org/de/wiki/Deutschland_Volksz%C3%A4hlungen[German Censuses]
 
-The search string below returned 30 pages of results. The first couples pages have "Volkszählunmg" in the "Denotation" column.
+The search string below returned 30 pages of results. The first couples pages have "Volkszählung" in the "Denotation" column.
 
 link:https://www.arcinsys.niedersachsen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=&rechercheBean.defaultfield_widget=Volksz%C3%A4hlung+OR+Bev%C3%B6lkerung+OR+Zollabrechnung&rechercheBean.von=1830&rechercheBean.bis=1850&rechercheBean.einfacheSucheRadioName=links&__checkbox_rechercheBean.hasdigi=true[https://www.arcinsys.niedersachsen.de/arcinsys/einfachsuchen.action?pageName=einfachesuche&methodName=einfach&rechercheBean.defaultfield=&rechercheBean.defaultfield_widget=Volksz%C3%A4hlung+OR+Bev%C3%B6lkerung+OR+Zollabrechnung&rechercheBean.von=1830&rechercheBean.bis=1850&rechercheBean.einfacheSucheRadioName=links&__checkbox_rechercheBean.hasdigi=true]

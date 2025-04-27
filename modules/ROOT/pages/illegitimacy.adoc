@@ -11,5 +11,5 @@ appeared in Popluation Studies, Mar., 1967, Vol. 20, No. 3 (Mar. 1967), pp. 279-
 NOTE: I purchased access to this copyrighted article. It is available in the `attachments` folder named *Knodel-LawMarriageIllegitimacy-1967.pdf*. To make it
 downloadable add this cross reference to `r/p/illegitimacy.adoc`:
 
-`xref:attachment$Knodel-LawMarriageIllegitimacy-1967.pdf[John Knodel article]`
+`xref:background:attachment$Knodel-LawMarriageIllegitimacy-1967.pdf[John Knodel article]`
 ====
