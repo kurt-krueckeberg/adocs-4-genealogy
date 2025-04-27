@@ -1,5 +1,6 @@
 .Research Threads
 * xref:background-info.adoc[]
+* xref:schaumburg-lippe-census.adoc[]
 * xref:OrtsFamilienBücher.adoc[]
 * xref:wpa-hrs.adoc[]
 * xref:adams-co-pl.adoc[]
