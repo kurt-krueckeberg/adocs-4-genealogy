@@ -50,9 +50,9 @@ Anerbe::
 
 [caption="Transliteration and translation: "]
 .Marriage entry No. 8.
-[%autowidth,%header,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-s|Zahl s|Name, Stand, Religion +
+|Zahl |Name, Stand, Religion +
 u. Eltern des Bräutigams s|Name, Religion +
 Geburt u. Wohnort +
 der Brat s|Zeit u. Ort + 
@@ -61,14 +61,6 @@ der Kopulation s|der kopu +
 lirende +
 Prädiger s|Kopulations +
 Zeugen s|Bemerkungen
-
-s|No. s|Name, Occupation, Religion, +
-Parents des Bräutigums s|Name, Religion +
-Birth place and Residence +
-of the Bride s|Time and Place +
-of the Proclamation s|Time and Place +
-of the Marriage s|The offi- +
-ciating Minister s|Marriage Witnesses s|Remarks
 
 |8. 
 |Junggeselle Johann Heinrich +
@@ -89,6 +81,19 @@ zu Petzen proclamiert den +
 |in Gegenwart +
 der Gemein
 |[empty]
+|===
+
+[caption="Translation: "]
+.Marriage entry No. 8.
+[%header,%autowidth,frame="none"]
+|===
+s|No. s|Name, Occupation, Religion, +
+Parents des Bräutigums s|Name, Religion +
+Birth place and Residence +
+of the Bride s|Time and Place +
+of the Proclamation s|Time and Place +
+of the Marriage s|The offi- +
+ciating Minister s|Marriage Witnesses s|Remarks
 
 |8.
 |Bachelor Johann Heinrich +
@@ -110,6 +115,7 @@ and 6^th^ of Aug.
 of the parish
 |[empty]
 |===
+
 
 
 [bibliography]
