@@ -22,7 +22,7 @@ image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",link=s
 [%autowidth, frame="none"]
 |===
 8+l|
-48                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                    im Jahr (in the year) 1812                      49
+48                Copulierte im Kirchspiel Petzen                     im Jahr 1812                      49
 
 s|Zahl s|Name, Stand, Religion +
 u. Eltern des Bräutigams s|Name, Religion +
