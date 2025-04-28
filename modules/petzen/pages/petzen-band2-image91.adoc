@@ -97,14 +97,14 @@ aus Meinsen
 9+l|
 176         Baptisms in the Petzen Parish                            in the year 1806                            177
 
-|N.|Child's Name|Num.|Birth time +
- and Place|Baptism Time and +
- Place of the Child|Name, Re- +
+ s|N. s|Child's Name s|Num. s|Birth time +
+ and Place s|Baptism Time and +
+ Place of the Child s|Name, Re- +
  ligion and Birth place +
- of the Father |Name, Religion +
+ of the Father  s|Name, Religion +
  and Birth Place +
- of the Mother|Parent's +
- Residence|Baptismal Witnesses +
+ of the Mother s|Parent's +
+ Residence s|Baptismal Witnesses +
  of the Child
 
 |22
