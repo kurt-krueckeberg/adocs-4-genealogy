@@ -36,11 +36,12 @@ The date following the name of the father, his address and religion is apparentl
 This seems to be the date of his death, and it is likely prefixed with **ges** for _getstorben(deceased)_.
 ====
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Carloline Dorothee Krückeberg and Ernst Heinrich Weiland Baptisms and Births
 [%autowidth,frame="none",options="noheader"]
 |===
-9+<l|244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
+9+<l|
+244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
 
 s|Zahl s|Name des Kindes s|Zahl s|Geburtzeit +
 u. Geburtsort s|Taufzeit +
@@ -51,16 +52,6 @@ u. Geburtsort der +
 Mutter s|Wohnort + 
 der +
 Eltern s|Taufzeugen
-
-s|Number s|Child's Name s|Number s|Birth time +
-and Place s|Baptism Time +
-and +
-Place s|Name, Job, Religion +
-and Birth place of Father s|Name, Religion +
-and Birth Place of +
-Mother s|Residence + 
-of +
-Parents s|Baptism Witnesses
 
 |31
 |Caroline Dorothee +
@@ -87,6 +78,45 @@ in Bärenbusch
 |Marie Dorothee Deerbergs aus +
 n. 6 und Caroline Charolitte +
 Sieckmeiern aus n. 4 in Evesen.
+
+|32
+|Ernst Heinrich Weiland
+|das 4ten Kind +
+u. 3ten Sohn
+|ist geboren d. 15ten +
+Decbr. Morgens 2 Uhr +
+in Röcke
+|u. wurde getaugt +
+d. 20. Decbr. in der +
+Kirche zu Petzen
+|Friedrich Wilhelm +
+Weiland, Schuster auf n. 31 +
+in Röcke, Luth. Conf.
+|Caroline Louise +
+geb. Lauen aus Röcke +
+Luth Conf. N:18
+|wohnen +
+auf n. 3[or: 31] +
+in Röcke
+|Johann Tönnies Wöbking n. 4 +
+in Röcke
+|===
+
+[caption="Translation: "]
+.Carloline Dorothee Krückeberg and Ernst Heinrich Weiland Baptisms and Births
+[%autowidth,frame="none",options="noheader"]
+|===
+9+<l|244         Geboren im Kirchspiele Petzen (Births in the Parish of Petzen)                           im Jahr 1812                            245
+
+s|Number s|Child's Name s|Number s|Birth time +
+and Place s|Baptism Time +
+and +
+Place s|Name, Job, Religion +
+and Birth place of Father s|Name, Religion +
+and Birth Place of +
+Mother s|Residence + 
+of +
+Parents s|Baptism Witnesses
 
 |31
 |Caroline Dorothee +
@@ -116,28 +146,6 @@ Sieckmeiern from n. 4 in Evesen.
 
 |32
 |Ernst Heinrich Weiland
-|das 4ten Kind +
-u. 3ten Sohn
-|ist geboren d. 15ten +
-Decbr. Morgens 2 Uhr +
-in Röcke
-|u. wurde getaugt +
-d. 20. Decbr. in der +
-Kirche zu Petzen
-|Friedrich Wilhelm +
-Weiland, Schuster auf n. 31 +
-in Röcke, Luth. Conf.
-|Caroline Louise +
-geb. Lauen aus Röcke +
-Luth Conf. N:18
-|wohnen +
-auf n. 3[or: 31] +
-in Röcke
-|Johann Tönnies Wöbking n. 4 +
-in Röcke
-
-|32
-|Ernst Heinrich Weiland
 |the 4^th^ child +
 and 3^rd^ son
 |Born on +
@@ -158,7 +166,6 @@ in Röcke
 |Johann Tönnies Wöbking n. 4 +
 in Röcke
 |===
-
 
 [bibliography]
 == References
