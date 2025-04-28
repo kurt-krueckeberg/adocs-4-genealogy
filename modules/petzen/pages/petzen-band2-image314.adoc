@@ -35,21 +35,14 @@ The word Schuster(cobbler, shoemaker) is followed by two or three uncertain lett
 
 [caption="Transliteration: "]
 .entry 14, in year 1822, for Johann Heinrich Krückeberg
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-s|Zahl s|Name, Stand, Religion, Gewerbe, +
+|Zahl |Name, Stand, Religion, Gewerbe, +
 Geburts u. bisheriger Wohnort des +
-Vestorbene s|Zeit u. Ort des +
+Vestorbene |Zeit u. Ort des +
 Todes u. des +
-Begräbenises s|Ursach[e] des Todes s|Alter s|Ledig +
-oder verheÿrathet s|Hinterbliebende s|Bemerkerungen
-
-|No. |Name, Status, Religion, Trade, +
-Birth- and previous Residence of the +
-Deceased s|Time and Place of +
-Death and of the +
-Funeral[Burial] s|Cauase of Death s|Age s|Single +
-or Married s|Survivors s|Remark[s]
+Begräbenises |Ursach[e] des Todes |Alter |Ledig +
+oder verheÿrathet |Hinterbliebende |Bemerkerungen
 
 |14
 |Jobst Heinrich Krückeberg +
@@ -70,6 +63,22 @@ näm. 3 Töchter und +
 1 Sohn
 |die Witve starb d 8. [???] +
 1849
+|===
+
+
+[bibliography]
+== References
+
+[caption="Translation: "]
+.entry 14, in year 1822, for Johann Heinrich Krückeberg
+[%header,%autowidth,frame="none"]
+|===
+|No. |Name, Status, Religion, Trade, +
+Birth- and previous Residence of the +
+Deceased s|Time and Place of +
+Death and of the +
+Funeral[Burial] s|Cauase of Death s|Age s|Single +
+or Married s|Survivors s|Remark[s]
 
 |14
 |Jobst Heinrich Krückeberg +
@@ -92,9 +101,6 @@ namely 3 daughters and +
 1849
 |===
 
-
-[bibliography]
-== References
 
 * [[[image314]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/591dfa54f9/ : 25 October 2023), path: Niedersachsen > Niedersächsisches
 Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357
