@@ -47,7 +47,7 @@ The subsequent words in the column are currently uncertain.
 .Johann Heinrich Krückeberg Baptism
 [%autowidth,frame="none"]
 |===
-l9+|
+9+l|
 ....
 176         Getaufte im Kirchspiele Petzen (Baptisms in the Parish of Petzen)                      im Jahr (in the year) 1806                            177
 ....
