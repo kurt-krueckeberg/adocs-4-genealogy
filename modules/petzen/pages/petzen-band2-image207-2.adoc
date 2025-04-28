@@ -25,7 +25,19 @@ Geburtsort +
 des +
 Kindes s|Bermerkungen
 
-|No. |Name of the Child s|Name of the Father Vaters s|Name of the Mother Mutter s|Dwelling of the +
+|28|Christine Louise Krückeberg|Johann Heinrich Krückeberg|Anne Sophie geb. Crömers|Evesen n. 19|d. 26. Aprl. 1798|
+
+|28|Christine Louise Krückeberg|Johann Heinrich Krückeberg|Anne Sophie born Crömers|Evesen n. 19|26th Apr. 1798|
+|===
+
+[caption="German Translation: "]
+.page 438 entries 20 and 28
+[%autowidth,frame="none"]
+|===
+7+l|
+438   List of those confirmed on Sunday Quasimodogeniti 1811 in the                  Church at Petzen from [Leÿß?/Leüß?] Schaumburg Lippe   439
+
+s|No. s|Name of the Child s|Name of the Father Vaters s|Name of the Mother Mutter s|Dwelling of the +
 Father and the +
 Mother s|Birth time and +
 Place +
@@ -36,6 +48,7 @@ Childs s|Remarks
 
 |28|Christine Louise Krückeberg|Johann Heinrich Krückeberg|Anne Sophie born Crömers|Evesen n. 19|26th Apr. 1798|
 |===
+
 
 
 [bibliography]
