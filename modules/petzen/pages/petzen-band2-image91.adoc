@@ -94,7 +94,8 @@ aus Meinsen
 .Johann Heinrich Krückeberg Baptism
 [%autowidth,frame="none"]
 |===
-9+l|176         Baptisms in the Parish of Petzen                      in the year 1806                            177
+9+l|
+176         Baptisms in the Parish of Petzen                      in the year 1806                            177
 
 |N.|Child's Name|Num.|Birth time +
  and Place|Baptism Time and +
