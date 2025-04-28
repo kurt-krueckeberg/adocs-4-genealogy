@@ -31,14 +31,14 @@ Does the colon in the 2^nd^ column function like a hyphen?
 
 [caption="Transliteration: "]
 .entry 1, in year 1819, for Philippine Dorothee Krückeberg
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-s|Zahl s|Name, Stand, Religion, Gewerbe, +
+|Zahl |Name, Stand, Religion, Gewerbe, +
 Geburts u. bisheriger Wohnort des +
-Gestorbene s|Zeit u. Ort des +
+Gestorbene |Zeit u. Ort des +
 Todes u. des +
-Begräbenises s|Ursach[e] des Todes s|Alter s|Ledig +
-oder verheÿrathet s|Hinterbliebende s|Bemerkerung
+Begräbenises |Ursach[e] des Todes |Alter |Ledig +
+oder verheÿrathet |Hinterbliebende |Bemerkerung
 
 |No. |Name, Status, Religion, Trade, +
 Birth place and previous Residence of the +
@@ -68,6 +68,18 @@ ihrem Ehemann, eine +
 einzige Tochter, welche +
 verheÿrathet ist 
 |[empty]
+|===
+
+[caption="Translation: "]
+.entry 1, in year 1819, for Philippine Dorothee Krückeberg
+[%header,%autowidth,frame="none"]
+|===
+|No. |Name, Status, Religion, Trade, +
+Birth place and previous Residence of the +
+Deceased |Time and Place of +
+Death and of the +
+Funeral[Burial] |Cauase of Death |Age |Single +
+or Married s|Survivors |Remark[s]
 
 |8
 |Philippine Dorothee Krücke- +
@@ -91,6 +103,7 @@ survived by an only daughter,
 who is married
 |[empty]
 |===
+
 
 
 [bibliography]
