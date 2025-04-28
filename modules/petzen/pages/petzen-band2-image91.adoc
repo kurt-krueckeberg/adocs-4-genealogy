@@ -48,7 +48,6 @@ The subsequent words in the column are currently uncertain.
 [%autowidth,frame="none"]
 |===
 9+l|
-[literal]
 176         Getaufte im Kirchspiele Petzen (Baptisms in the Parish of Petzen)                      im Jahr (in the year) 1806                            177
 
 s|N. s|Name des Kindes s|Zahl s|Geburtzeit +
