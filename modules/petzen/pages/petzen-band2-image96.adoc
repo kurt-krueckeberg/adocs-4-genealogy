@@ -35,7 +35,7 @@ is uncertain.
 
 [caption="Transliteration: "]
 .Carl Friedrich Krückeberg Baptism
-[cols="1,2,2,2,2,3,3,3,3",frame="none"]
+[%header,cols="1,2,2,2,2,3,3,3,3",frame="none"]
 |===
 |N.|Name des Kindes |Zahl |Geburtzeit +
 u. Geburtsort |Taufzeit und +
@@ -77,7 +77,7 @@ aus Bärenbusch
 
 [caption="Translation: "]
 .Carl Friedrich Krückeberg Baptism
-[cols="1,2,2,2,2,3,3,3,3",frame="none"]
+[%header,cols="1,2,2,2,2,3,3,3,3",frame="none"]
 |===
 |N. |Child's Name|Number|Time of Birth +
 and Birth Place|Child's Time of Baptism and +

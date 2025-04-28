@@ -59,16 +59,6 @@ der Mutter s|Wohnort +
 der Eltern s|Taufzeugen +
 des Kindes
 
-|N.|Child's Name|Num.|Birth time +
- and Place|Baptism Time and +
- Place of the Child|Name, Re- +
- ligion and Birth place +
- of the Father |Name, Religion +
- and Birth Place +
- of the Mother|Parent's +
- Residence|Baptismal Witnesses +
- of the Child
-
 |22
 |Johan Heinrich Krückeberg
 |das 4ten Kind +
@@ -97,6 +87,21 @@ Gottlieb Krückeberg +
 Einlieger in Bärenbush +
 C Friedrich Tegtmeier +
 aus Meinsen
+|===
+
+[caption="Translation: "]
+.Johann Heinrich Krückeberg Baptism
+[%autowidth,frame="none"]
+|===
+|N.|Child's Name|Num.|Birth time +
+ and Place|Baptism Time and +
+ Place of the Child|Name, Re- +
+ ligion and Birth place +
+ of the Father |Name, Religion +
+ and Birth Place +
+ of the Mother|Parent's +
+ Residence|Baptismal Witnesses +
+ of the Child
 
 |22
 |Johan Heinrich Krückeberg
