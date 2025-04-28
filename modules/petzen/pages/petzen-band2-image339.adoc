@@ -23,27 +23,19 @@ image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",link=self
 704                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)            im Jahr (in year) 1816                      705
 ----
 
-[caption="Transliteration 1: "]
+[caption="Transliteration: "]
 .Marriage entry No. 1.
 [%header,cols="1,3,3,3,2,2,2,1",frame="none"]
 |===
-s|Zahl s|Name, Stand, Religion +
-u. Eltern des Bräutigams s|Name, Religion +
+|Zahl |Name, Stand, Religion +
+u. Eltern des Bräutigams |Name, Religion +
 Geburt u. Wohnort +
-der Brat s|Zeit u. Ort + 
-der Proclamation s|Zeit u. Ort +
-der Kopulation s|der kopu +
+der Brat |Zeit u. Ort + 
+der Proclamation |Zeit u. Ort +
+der Kopulation |der kopu +
 lirende +
-Prädiger s|Kopulations +
-Zeugen s|Bemerkungen
-
-s|No. s|Name, Occupation, Religion, +
-Parents of the Groom s|Name, Religion +
-Birth place and Residence +
-of the Bride s|Time and Place +
-of the Proclamation s|Time and Place +
-of the Marriage s|The offi- +
-ciating Minister s|Marriage Witnesses s|Remarks
+Prädiger |Kopulations +
+Zeugen |Bemerkungen
 
 |8
 |Jungeselle Johann Hein- +
@@ -73,6 +65,19 @@ der Confitenten +
 u. des zeiten +
 Küsters Crömer
 |[empty]
+|===
+
+[caption="Translation: "]
+.Marriage entry No. 1.
+[%header,cols="1,3,3,3,2,2,2,1",frame="none"]
+|===
+|No. |Name, Occupation, Religion, +
+Parents of the Groom |Name, Religion +
+Birth place and Residence +
+of the Bride |Time and Place +
+of the Proclamation |Time and Place +
+of the Marriage |The offi- +
+ciating Minister |Marriage Witnesses |Remarks
 
 |8
 |Bachelor Johann Hein- +
@@ -102,6 +107,7 @@ and of the current +
 parish clerk Crömer
 |[empty]
 |===
+
 
 
 [bibliography]
