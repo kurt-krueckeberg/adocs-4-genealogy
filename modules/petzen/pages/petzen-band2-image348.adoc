@@ -27,25 +27,17 @@ image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self
 
 [caption="Transliteration 1: "]
 .Marriage entry No. 6.
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-s|Zahl s|Name, Stand, Religion +
-u. Eltern des Bräutigams s|Name, Religion +
+|Zahl |Name, Stand, Religion +
+u. Eltern des Bräutigams |Name, Religion +
 Geburt u. Wohnort +
-der Brat s|Zeit u. Ort + 
-der Proclamation s|Zeit u. Ort +
-der Kopulation s|der kopu +
+der Brat |Zeit u. Ort + 
+der Proclamation |Zeit u. Ort +
+der Kopulation |der kopu +
 lirende +
-Prädiger s|Kopulations +
-Zeugen s|Bemerkungen
-
-s|No. s|Name, Occupation, Religion, +
-Parents des Bräutigums s|Name, Religion +
-Birth place and Residence +
-of the Bride s|Time and Place +
-of the Proclamation s|Time and Place +
-of the Marriage s|The offi- +
-ciating Minister s|Marriage Witnesses s|Remarks
+Prädiger |Kopulations +
+Zeugen |Bemerkungen
 
 |6.
 |Wittwer Friedrich Wilhelm +
@@ -67,6 +59,20 @@ Prediger Stille
 |in Gegenwart +
 der Beichtenden
 |[empty]
+|===
+
+
+[caption="Translation 1: "]
+.Marriage entry No. 6.
+[%header,%autowidth,frame="none"]
+|===
+|No. |Name, Occupation, Religion, +
+Parents des Bräutigums |Name, Religion +
+Birth place and Residence +
+of the Bride |Time and Place +
+of the Proclamation |Time and Place +
+of the Marriage |The offi- +
+ciating Minister |Marriage Witnesses |Remarks
 
 |6.
 |Widower Friedrich Wilhelm +
@@ -89,7 +95,6 @@ pastor Stille
 of the confessing
 |[empty]
 |===
-
 
 [bibliography]
 == References
