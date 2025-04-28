@@ -39,21 +39,14 @@ Leibzüchter(in):: life-annuitant (H); person living on a Leibzucht or life esta
 
 [caption="Transliteration: "]
 .entry 1, in year 1822, for Johann Heinrich Krückeberg
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-s|Zahl s|Name, Stand, Religion, Gewerbe, +
+|Zahl |Name, Stand, Religion, Gewerbe, +
 Geburts u. bisheriger Wohnort des +
-Vestorbene s|Zeit u. Ort des +
+Vestorbene |Zeit u. Ort des +
 Todes u. des +
-Begräbenises s|Ursaches Todes s|Alter s|Ledig +
+Begräbenises |Ursaches Todes |Alter |Ledig +
 oder verheÿrathet s|Hinterbliebende s|Bemerkerungen
-
-|No. |Name, Status, Religion, Trade, +
-Birth- and previous Residence of the +
-Deceased |Time and Place of +
-Death and of the +
-Funeral[Burial] |Cauase of Death |Age |Single +
-or Married |Survivors |Remark[s]
 
 |5
 |Johann Heinrich Krückeberg, Leib- +
@@ -68,6 +61,18 @@ März in Petzen
 |Wittver
 |hinterläßt 2 Söhne
 |
+|===
+
+[caption="Translation: "]
+.entry 1, in year 1822, for Johann Heinrich Krückeberg
+[%header,%autowidth,frame="none"]
+|===
+|No. |Name, Status, Religion, Trade, +
+Birth- and previous Residence of the +
+Deceased |Time and Place of +
+Death and of the +
+Funeral[Burial] |Cauase of Death |Age |Single +
+or Married |Survivors |Remark[s]
 
 |5
 |Johann Heinrich Krückeberg, life-annuitant: +
@@ -83,6 +88,7 @@ March in Petzen
 |survived by 2 sons
 |
 |===
+
 
 
 [bibliography]
