@@ -32,30 +32,22 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
 .Marriage entry No. 3.
 [%autowidth,frame="none",%header]
 |===
- s|Zahl s|Name, Stand, Religion + 
-und Eltern des Bräutigams s|Name, Religion +
+|Zahl |Name, Stand, Religion + 
+und Eltern des Bräutigams |Name, Religion +
 Geburt u. Wohnort +
-der Brat s|Zeit und Ort +
-der Proclamation s|Zeit u. Ort +
-der Kopulation s|der kopu +
+der Brat |Zeit und Ort +
+der Proclamation |Zeit u. Ort +
+der Kopulation |der kopu +
 lirende +
-Prädiger s|Kopulations +
-Zeugen s|Bemerkungen
-
-|No.|Name, Occupation, Religion, +
-Parents des Bräutigums|Name, Religion +
-Birth place and Residence +
-of the Bride|Time and Place +
-of the Proclamation|Time and Place +
-of the Marriage|The offi- +
-ciating Minister|Marriage Witnesses|Remarks
+Prädiger |Kopulations +
+Zeugen |Bemerkungen
 
 |3.
 |Junggeselle Friedrich Wil- +
 helm Raulting, [Sohn] des verstor- +
-benen Bener[Benner] Albert Raulting n. 13 +
+benen Albert Raulting n. 13 +
 in Bärenbusch hinlerlaßener? +
-Sohn und [Anerbe?] Luth. Conf. + 
+Sohn und [Anerbe?]. Luth. Conf. + 
 und jetzt 23 Jahre alt +
 geb. 13.7.88 gestr. 5.12.59
 |Jungfrua Marie Phi- +
@@ -77,13 +69,26 @@ der Beichentende +
 des Küster +
 Crömer
 |[empty of text] 
+|===
+
+[caption="Translation 2: "]
+.Marriage entry No. 3.
+[%autowidth,frame="none",%header]
+|===
+|No.|Name, Occupation, Religion, +
+Parents des Bräutigums|Name, Religion +
+Birth place and Residence +
+of the Bride|Time and Place +
+of the Proclamation|Time and Place +
+of the Marriage|The offi- +
+ciating Minister|Marriage Witnesses|Remarks
 
 |3.
 |Bachelor Friedrich Wil- +
-helm Raulting, the surviving son of the deceased +
-cooper Albert Raulting n. 13 +
+helm Raulting, son of the deceased +
+Albert Raulting n. 13 +
 in Bärenbusch +
-[who inherits (as sole survivor) by law the estate?] Luth. Conf. +
+surviving sone and heir. Luth. Conf. +
 and now 23 years old +
 born 7/13/88 died 12/5/59
 |Maiden Marie Phi-  +
@@ -106,6 +111,7 @@ and of the parish clerk/sacristan +
 Crömer
 |[empty of text]
 |===
+
 
 
 [bibliography]
