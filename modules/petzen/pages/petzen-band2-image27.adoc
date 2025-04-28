@@ -17,12 +17,14 @@ Heading page 49:
 
 image::petzen-band2-img27-right-1.jpg[align=left,title="Click to enlarge",link=self]
 
-[caption="Transliteration 1: "]
+[caption="Transliteration: "]
 .Marriage entry No. 1.
 [%autowidth, frame="none"]
 |===
-8+l|48                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                    im Jahr (in the year) 1812                      49
- s|Zahl s|Name, Stand, Religion +
+8+l|
+48                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                    im Jahr (in the year) 1812                      49
+
+s|Zahl s|Name, Stand, Religion +
 u. Eltern des Bräutigams s|Name, Religion +
 Geburt u. Wohnort +
 der Brat s|Zeit u. Ort + 
@@ -31,14 +33,6 @@ der Kopulation s|der kopu +
 lirende +
 Prädiger s|Kopulations +
 Zeugen s|Bemerkungen
-
-|No.|Name, Occupation, Religion, +
-Parents des Bräutigums|Name, Religion +
-Birth place and Residence +
-of the Bride|Time and Place +
-of the Proclamation|Time and Place +
-of the Marriage|The offi- +
-ciating Minister|Marriage Witnesses|Remarks
 
 |1 
 |Junggeselle Friedrich  +
@@ -66,6 +60,23 @@ Nille
 der versammelten +
 Gemeinde
 |[empty]
+|===
+
+
+[caption="Translation: "]
+.Marriage entry No. 1.
+[%autowidth, frame="none"]
+|===
+8+l|
+48                Marriages in the Parish Petzen                     in the year 1812                      49
+
+s|No. s|Name, Occupation, Religion, +
+Parents des Bräutigums s|Name, Religion +
+Birth place and Residence +
+of the Bride s|Time and Place +
+of the Proclamation s|Time and Place +
+of the Marriage s|The offi- +
+ciating Minister s|Marriage Witnesses s|Remarks
 
 |1.
 |Bachelor Friedrich  +
