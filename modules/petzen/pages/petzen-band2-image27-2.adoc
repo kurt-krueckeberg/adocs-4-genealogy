@@ -30,9 +30,9 @@ be the adjective form used for a male survior: ein hinterlassener Sohn (a surviv
 
 [caption="Transliteration 2: "]
 .Marriage entry No. 3.
-[%autowidth,frame="none",%header]
+[%header,%autowidth,frame="none"]
 |===
-|Zahl |Name, Stand, Religion + 
+|Zahl |Name, Stand, Religion +
 und Eltern des Bräutigams |Name, Religion +
 Geburt u. Wohnort +
 der Brat |Zeit und Ort +
@@ -73,7 +73,7 @@ Crömer
 
 [caption="Translation 2: "]
 .Marriage entry No. 3.
-[%autowidth,frame="none",%header]
+[%header,%autowidth,frame="none"]
 |===
 |No.|Name, Occupation, Religion, +
 Parents des Bräutigums|Name, Religion +
