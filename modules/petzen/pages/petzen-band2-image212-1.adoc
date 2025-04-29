@@ -1,9 +1,10 @@
 = 1820 Johann Heinrich Krückeberg Confirmation
+:page-role: doc-width
 
 The confirmation of Johann Heinrich Krückeberg is on <<image212, image 212>>, on page 448. His name appears in the 
 top-right column of confirmed **Knaben** (boys). He is listed first.
 
-== Page 448, top-right Column
+== Page 448, Knaben Listed in Top-right Column
 
 image::petzen-band2-img212-1.jpg[title="First entry, top right column of Knaben, page 448 (Click to enlarge)",link=self]
 
