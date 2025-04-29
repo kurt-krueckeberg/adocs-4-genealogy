@@ -10,12 +10,6 @@ Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)",link=self]
 
-=== Baptism Entry 20
-
-image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)",link=self]
-
-image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)",link=self]
-
 === Page Header
 
 [caption="Transliteration and translation: "]
@@ -26,6 +20,16 @@ image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enl
 |186         Getaufte im Kirchspiele Petzen (Baptisms in the Parish of Petzen)          im Jahr 1807                            187
 
 |===
+
+== Baptism Entry 20
+
+=== Entry 20 Page 186
+
+image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)",link=self]
+
+=== Entry 20 Page 187
+
+image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)",link=self]
 
 [NOTE]
 In the last column, the residence village of Hans Heinrich Wilharm may start with an "O". The last character on the preceding line
