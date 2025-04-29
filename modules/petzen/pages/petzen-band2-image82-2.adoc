@@ -6,9 +6,8 @@ The birth is recorded on image 71, of pages <<image71-136, 136>> and  <<image71-
 
 == The Birth of April Appears on the Bottom of Page 135
 
-The birth month `April` appears near the bottom of page 70 and spans the two columns of `geb[oren]. | get[auft].`,
-that is, `born | baptized`. The entries at the top of page 71 continue the births in the month of April, until a
-new month is again written in these two colums.
+The birth month `April` appears near the bottom of page 70 between entries 18 and 19. It spans the two columns of `geb[oren]. | get[auft].`,
+that is, `born | baptized`. The entries at the top of page 71 continue the births in the month of April.
 
 image::petzen-band2-img70-135-bottom.jpg[title="Bottom of page 135 showing April (Click to enlarge)",link=self]
 
