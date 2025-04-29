@@ -45,14 +45,14 @@ The citations comply with the format described in  link:https://www.evidenceexpl
 They will follow the pattern (more than one is shown in the article) illustrated at the bottom of the article. This is the pattern or template 
 that will be used:
 
-```text
+....
 "German Protestant Church Registers Portal Archion.de", Verzeichnis der
 Getauften und Konfirmierten der Kirchengemeinde Petzen, 1641-1784, Archion
 (http://www.archion.de/p/c362c408ee/: 30 October 2023), path: Niedersachsen:
 Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
 Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
 Konfirmierten 1641-1784, image 313 of 322
-```
+....
 
 === Tables and Their Relationships
 
