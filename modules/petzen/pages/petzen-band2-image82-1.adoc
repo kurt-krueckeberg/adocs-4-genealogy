@@ -1,10 +1,11 @@
 = 1803 Sophie Caroline Krückeberg Birth
 :page-role: doc-width
 
-The birth is recorded on <<image82-158-entry23, image 82, entry 23, on page 158>> and  <<image82-159-entry23, image 82, entry 23, on page 159>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The birth is recorded on <<image82-158-entry23, image 82, entry 23, on page 158>> and
+<<image82-159-entry23, image 82, entry 23, on page 159>> of the Petzen Kirchenbuch 
+"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-The birth entries spans across both pages 158 and 159.
-The birth month of **`Jul`** is written on page 159 slightly above the text of entry 22.
+The birth entries spans across both pages 158 and 159. The birth month of **`Jul`** is written on page 159 slightly above the text of entry 22.
 
 == Overview of Pages 158 and 159
 
@@ -17,9 +18,11 @@ image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to 
 [NOTE]
 .Abbreviations in the Header
 ====
-The word before **Schumb Lipp** is uncertain. Is it an administrative term, either governmental or religious?
+The word before **Schumb Lipp** is uncertain. It might be an administrative term, either governmental or religious.
 ====
 ****
+
+== Transliteration and Translation of Page Header for Pages 158 and 159
 
 [caption="Transliteration: "]
 .page header
