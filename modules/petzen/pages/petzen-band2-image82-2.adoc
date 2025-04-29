@@ -1,8 +1,8 @@
 = 1789 Christine Louise Krückeberg Birth
 :page-role: doc-width
 
-The birth is recorded on image 71, of pages <<image71-136, 136>> and  <<image71-137, 137>> of the Petzen Kirchenbuch 
-"Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The birth month April appears near the bottom of page 70, between entries 18 and 19. It spans the columns for **born** and
+**baptized**: **geb[oren]. | get[auft]**. The entries at the top of page 71 continue the births in April
 
 == The Birth of April Appears on the Bottom of Page 135
 
