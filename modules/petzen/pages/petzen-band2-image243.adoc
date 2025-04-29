@@ -25,32 +25,62 @@ image::petzen-band2-img243-overview.jpg[title="Page 512 Overview (Click to enlar
 
 image::petzen-band2-img243-512.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
-=== Page 513 Entry 8
+== Page 513 Entry 8
 
 image::petzen-band2-img243-513.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
 == Transliteration and Translation of Pages 512 and 513
 
 [NOTE]
-.Notes on challenges in this entry
+.Challenges in this entry
 ====
 There is something written between lines 7 and 8: `[G/Ha]mür_risf/risch]  (Luth Conf)`
 
 What was the father's occupation? The remarks -- if transliterated accurately -- say he was a **Maurer**, a mason, while the second colomn
-  has **colon**, meaning farmer.
+has **colon**, farmer.
 ====
 
 [caption="Transliteration: "]
 .entry 8 for Joh: Hen: Krickeberg
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-s|Zahl s|Name, Rel: Ge?: Eltern, Geburt u. bisher[iger] +
-Wohort de  Gestorbene s|Zeit u. Ort des +
+|Zahl |Name, Rel: Ge?: Eltern, Geburt u. bisher[iger] +
+Wohort de  Gestorbene |Zeit u. Ort des +
 Todt u, Begräb +
-niss??? s|Ursache +
-des Totes s|Alter s|Ledig oder +
-verheÿrathet s|Hinterbliebende s|[untitled]
+niss??? |Ursache +
+des Totes |Alter |Ledig oder +
+verheÿrathet |Hinterbliebende |[untitled]
 
+|No. |Name, Rel: Ge?: Parents, birth:and up to now +
+Residence of Deceased |Time and Place +
+of Death, Burial/ +
+Funeral |Cause +
+of Death |Age |Single or +
+Married |Survivors |[untitled]
+
+|8          
+|Joh: Hen: Krickeberg colon: n 19 in +
+Evesen, Sohn des Joh Hen Kruckeberg +
+in Berenb: n 10 u. der Christine Rösener +
+aus Evesen [????] Kruckeb:
+|d 18ten März ge +
+storb, begrab: +
+d 21ten
+|blutsturz
+|38 Jarhe
+|verheÿrathet
+| Eine Wittve u. 3 Kinder
+| [?? ????] [ein] +
+ stiller treuer +
+ fleißiger Maurer +
+[ein] recht nütz- +
+ liches Mitglied der Gemeinde
+|===
+
+[caption="Translation: "]
+.entry 8 for Joh: Hen: Krickeberg
+[%header,%autowidth,frame="none"]
+|===
 |No. |Name, Rel: Ge?: Parents, birth:and up to now +
 Residence of Deceased |Time and Place +
 of Death, Burial/ +
