@@ -31,28 +31,31 @@ The word before **Schumb Lipp** is uncertain. It might be an administrative term
 |===
 |158                                        1803                                  1803                               159
     Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den im[rest uncertain] Schumb Lipp  Dorfschaften  
+|===
+
+[caption="Translation: "]
+.page header
+[cols="l",%autowidth,frame="none",options="noheader"]
+|===
+|158                                        1803                                  1803                               159
     Births from the [uncertain] Schaumburg-Lippe Villages                       Births from the  [uncertain] Schaumburg-Lippe Villages      
 |===
 
-== Pages 158 and 159
-
-Birth entry 23:
+== Birth Entry 23 Page 158
 
 image::petzen-band2-img82-entry23-158.jpg[title="Entry 23, page 158 portion (Click to enlarge)",link=self]
 
+== Birth Entry 23 Page 159
+
 image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Click to enlarge)",link=self]
+
+== Transliteration and Translation of Entry 23
 
 [caption="Transliteration: "]
 .birth of Sophie Caroline Krückeberg in 1803
-[%header,%autowidth.stretch,frame="none"]
+[%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
 |===
-10+l|158                                        1803                                  1803                               159
-    Geborene aus den [uncertain] Schumb Lipp  Dorfschaften             Geborene aus den [uncertain] Schumb Lipp  Dorfschaften  
-    Births from the [uncertain] Schaumburg-Lippe Villages                       Births from the  [uncertain] Schaumburg-Lippe Villages      
-
-s|No s|Namen des Kindes s|Namen des Vaters s|Stand s|Dorfschaft s|N s|Namen der Mutter s|gebo. s|get. s|Namen der Gewattern 
-
-|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
+|No |Namen des Kindes |Namen des Vaters |Stand |Dorfschaft |N |Namen der Mutter |gebo. |get. |Namen der Gewattern 
 
 |23
 |Sophie Caroline
@@ -64,6 +67,13 @@ s|No s|Namen des Kindes s|Namen des Vaters s|Stand s|Dorfschaft s|N s|Namen der 
 |Jul 21
 |Jul 31
 |Soph: Ernestine Wilharm aus Evesen
+|===
+
+[caption="Translation: "]
+.birth of Sophie Caroline Krückeberg in 1803
+[%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
+|===
+|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
 
 |23
 |Sophie Caroline
