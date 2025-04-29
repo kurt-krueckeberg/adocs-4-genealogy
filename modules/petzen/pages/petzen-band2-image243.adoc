@@ -3,19 +3,19 @@
 
 == Citation
 
-The death of Johann Hen. Krückeberg in 1805 is found on <<image243, image 243, pages 512 and 513>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The death of Johann Hen. Krückeberg in 1805 is recorded on <<image243, image 243,
+pages 512 and 513>>, entry 8, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-=== Pages 512 and 513
-
-Page header and column headings:
+=== Pages 512 and 513 Overview
 
 image::petzen-band2-img243-overview.jpg[title="Page 512 Overview (Click to enlarge)",link=self]
 
-Page 512:
+=== Page 512 Header and Column Headings
 
 image::petzen-band2-img243-512.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
-Page 513:
+=== Page 513 Header and Column Headings
 
 image::petzen-band2-img243-513.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
