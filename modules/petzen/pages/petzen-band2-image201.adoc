@@ -43,7 +43,7 @@ image::petzen-band2-img201-427.jpg[title="Philippine Louise Leonore Krückeberg 
 == Transliteration and Translation of Entry 12
 
 [caption="Transliteration: "]
-.Page Header, Column Heading and Entry 12
+.Column Heading and Entry 12
 [%header,cols="1,4,4,4,3,3,3",frame="none"]
 |===
 |Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des +
@@ -67,7 +67,7 @@ geb Krömers Nr. 19 in Evesen +
 |===
 
 [caption="Translation: "]
-.Page Header, Column Heading and Entry 12
+.Column Heading and Entry 12
 [%header,cols="1,4,4,4,3,3,3",frame="none"]
 |===
 |No. |Name of Child |Name of Father |Name of Mother |Residence of +
