@@ -3,23 +3,22 @@
 
 == Citation
 
-This marriage occurred on March 13, 1803. It is on <<image12, image 12, page 19, entry 4>> in the Petzen Kirchenbuch volume "Verzeiches der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+This marriage occurred on March 13, 1803. It is on <<image12, image 12, page 19, entry 4>> of the Petzen Kirchenbuch
+"Verzeiches der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",link=self]
 
-== Page 19
+== Transliteration and Translation of Page 19, Entry 4
 
 [NOTE]
 The first date abbreviation below Carl Fried. Krückeberg's name which is quite small appears to be _geb_; however, many other such
 abbreviations on the page are _get_. Thus, it could be _get_.
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
-[%autowidth,frame="none"]
+[%header,cols="1,5,3,3,5,3,1",frame="none"]
 |===
-s|Zahl s| Nahmen des Bräutigams s| Ortschaft s| Sh s| Nahmen der Braut s| Ortschaft s| N.:
-
-|Number | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.
+|Zahl | Nahmen des Bräutigams | Ortschaft| Sh | Nahmen der Braut| Ortschaft| N.:
 
 |4
 |   am 13ten Marz
@@ -33,6 +32,13 @@ get. 18.4.79 gest. 13.5.38
  get. 4.5.83 gest. 16.12.40
 |Evesen
 |11
+|===
+
+[caption="Translation: "]
+.Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
+[%header,cols="1,5,3,3,5,3,1",frame="none"]
+|===
+|Number | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.
 
 |4
 |on 13th March +
