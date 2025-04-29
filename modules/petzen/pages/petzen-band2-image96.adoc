@@ -3,8 +3,8 @@
 
 == Citation
 
-The birth and baptism of Carl Friedrich Krückeberg is <<image96-186, on image 96, pages 186 and 187>> in the Petzen
-Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The birth and baptism of Carl Friedrich Krückeberg is <<image96-186, on image 96, pages 186 and 187, entry 20,>> of the Petzen
+Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 == Pages 186 and 187 
 
@@ -12,7 +12,7 @@ Overview:
 
 image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)",link=self]
 
-=== Baptism Entry 22
+=== Baptism Entry 20
 
 image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)",link=self]
 
