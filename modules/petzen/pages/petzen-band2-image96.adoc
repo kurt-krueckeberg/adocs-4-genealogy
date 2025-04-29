@@ -10,24 +10,33 @@ Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 
 image::petzen-band2-img96-overview.jpg[title="Overview of pages 186-187 (Click to enlarge)",link=self]
 
-=== Page Header
+== Page Header
 
-[caption="Transliteration and translation: "]
-.Pages 186 and 187 of Volume: **Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827** +
+[caption="Transliteration: "]
+.Header for Pages 186 and 187 of Volume **Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827** +
 (Register of baptized, confirmed, married and deceased persons 1785-1827)
 [%autowidth, %header, frame="none"]
 |===
-|186         Getaufte im Kirchspiele Petzen (Baptisms in the Parish of Petzen)          im Jahr 1807                            187
+l|
+186         Getaufte im Kirchspiele Petzen                      im Jahr 1807                            187
 
 |===
 
-== Baptism Entry 20
+[caption="Translation: "]
+.Header for Pages 186 and 187 of Volume **Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827** +
+(Register of baptized, confirmed, married and deceased persons 1785-1827)
+[%autowidth, %header, frame="none"]
+|===
+l|
+186         Baptisms in the Parish of Petzen                   in the Year 1807                          187
 
-=== Entry 20 Page 186
+|===
+
+== Entry 20 Page 186
 
 image::petzen-band2-img96-186.jpg[title="Entry 20, page 186 portion(Click to enlarge)",link=self]
 
-=== Entry 20 Page 187
+== Entry 20 Page 187
 
 image::petzen-band2-img96-187.jpg[title="Entry 20, page 187 portion(Click to enlarge)",link=self]
 
