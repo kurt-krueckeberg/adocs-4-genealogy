@@ -6,16 +6,16 @@ top left column of confirmed **Knaben** or boys. He is listed third.
 
 == Page 449, Top-left List of Knaben
 
-image::petzen-band2-img212-2.jpg[title="First entry, top right column of Knaben, page 448 (Click to enlarge)",link=self]
+image::petzen-band2-img212-2.jpg[title="First entry, top-right column of Knaben, page 448 (Click to enlarge)",link=self]
 
 == Transliteration and Translation
 
 **Quasimodogeniti** is the 2^nd^ Sunday after Easter.
 
-.Header for page 448
+.Transliteration of Header for page 449
 ```text
-[????] der am Sonntage Quasidmodgeniti
-1821 Confirmierten Kinder - aus dem [Schule?]
+Verzeichnis der am Sonntage Quasidmodgeniti
+1821 Confirmierten Kinder - aus dem Schaum.
 ```
 
 .Knaben (boys) listed in top left list of page 449
@@ -27,10 +27,10 @@ Knaben
 3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
 ```
 
-.Header for page 448
+.Translation of Header for page 448
 ```text
-[????] Children confirmed  
-1821 - from the [Schule?]
+Register (or listing) of children confirmed  
+1821 - from Schaumb.
 ```
 
 .Knaben (boys) listed in top left list of page 449
