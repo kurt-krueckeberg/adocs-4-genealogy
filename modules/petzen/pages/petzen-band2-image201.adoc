@@ -22,22 +22,37 @@ image::petzen-band2-img201-426.jpg[title="Philippine Louise Leonore Krückeberg 
 
 image::petzen-band2-img201-427.jpg[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)",link=self]
 
+== Transliteration and Translation of Header for Pages 426 and 427
+
+[caption="Transliteration: "]
+.Header for Pages 426 and 427
+|===
+7+l|
+426   Register der am Sonntage Quasimodogeniti  1806         in der Kirche zu Petzen Konfirmirten Kinder      427
+
+|===
+
+[caption="Translation: "]
+.Header for Pages 426 and 427
+|===
+7+l|
+426   Register of Confirmed Children on the Sunday Quadimodogeniti 1806           in the Church at Petzen     427
+
+|===
+
 == Transliteration and Translation of Entry 12
 
 [caption="Transliteration: "]
 .Page Header, Column Heading and Entry 12
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-7+l|
-426    Register der am Sonntage Quasimodogeniti  1806         in der Kirche zu Petzen Konfirmirten Kinder      427
-
-s|Zahl s|Namen des Kindes s|Name des Vaters s|Name der Mutter s|Wohnort des +
+|Zahl |Namen des Kindes |Name des Vaters |Name der Mutter |Wohnort des +
 Vaters oder +
-der Mutter s|Geburtszeit +
+der Mutter |Geburtszeit +
 u. +
 Geburtsort +
 des +
-Kindes s|Bemerkungen
+Kindes |Bemerkungen
 
 |12
 |Philippine Louise Leonore +
@@ -53,18 +68,15 @@ geb Krömers Nr. 19 in Evesen +
 
 [caption="Translation: "]
 .Page Header, Column Heading and Entry 12
-[%autowidth,frame="none"]
+[%header,%autowidth,frame="none"]
 |===
-7+l|
-426   Register of Confirmed Children on the Sunday Quadimodogeniti 1806           in the Church at Petzen     427
-
-s|No. s|Name of Child s|Name of Father s|Name of Mother |Residence of +
+|No. |Name of Child |Name of Father |Name of Mother |Residence of +
 Father or +
-Mother s|Birth time +
+Mother |Birth time +
 and +
 Birth place +
 of the +
-Child s|Remarks
+Child |Remarks
 
 |12
 |Philippine Louise Leonore +
