@@ -8,13 +8,13 @@ top-right column of confirmed **Knaben** (boys). He is listed first.
 
 image::petzen-band2-img212-1.jpg[title="First entry, top right column of Knaben, page 448 (Click to enlarge)",link=self]
 
-== Transliterations
+== Transliteration and Translation
 
 **Quasimodogeniti** is the 2^nd^ Sunday after Easter.
 
 .Transliteration of Header for page 448
 ```text
-der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem [Schule?]
+der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem  Schaumb.
 ```
 
 .Transliteration of right column at the top of page 448
@@ -28,11 +28,9 @@ Knaben
 2. Carl Heinrich Alldag. aus Evesen 
 ```
 
-== Translation
-
 .Translation of Header for page 448
 ```text
-The children confirmed on Sonday Quasidmodgeniti 1818 - from the [Schule?]
+The children confirmed on Sonday Quasidmodgeniti 1818 - from Schaumb[urg]
 ```
 
 .Translation of right column at the top of page 448
