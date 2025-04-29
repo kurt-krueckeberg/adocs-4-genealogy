@@ -22,8 +22,10 @@ image::petzen-band2-img201-426.jpg[title="Philippine Louise Leonore Krückeberg 
 
 image::petzen-band2-img201-427.jpg[title="Philippine Louise Leonore Krückeberg Confirmationm page 420 portion (Click to enlarge)",link=self]
 
+== Transliteration and Translation of Entry 12
+
 [caption="Transliteration: "]
-.Page Header, Column Heading and Entry 13
+.Page Header, Column Heading and Entry 12
 [%autowidth,frame="none"]
 |===
 7+l|426    Register der am Sonntage Quasimodogeniti  1806   in der Kirche zu Petzen Konfirmirten Kinder      427
@@ -36,7 +38,7 @@ Geburtsort +
 des +
 Kindes s|Bemerkungen
 
-|13
+|12
 |Philippine Louise Leonore +
 Krückebergs
 |Johann Heinrich Krückeberg
@@ -49,7 +51,7 @@ geb Krömers Nr. 19 in Evesen +
 |===
 
 [caption="Translation: "]
-.Page Header, Column Heading and Entry 13
+.Page Header, Column Heading and Entry 12
 [%autowidth,frame="none"]
 |===
 7+l|426   Register of Confirmed Children on the Sunday Quadimodogeniti (2nd Sunday after Easter) 1806  in the Church at Petzen     427
@@ -62,7 +64,7 @@ Birth place +
 of the +
 Child|Remarks
 
-|13
+|12
 |Philippine Louise Leonore +
 Krückeberg
 |Johann Heinrich Krückeberg
