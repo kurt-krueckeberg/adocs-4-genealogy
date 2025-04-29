@@ -26,8 +26,7 @@ The dates of her marriage and death, written below her name, have been displayed
 
 [caption="Transliteration: "]
 .birth of Christine Louise Krückeberg in 1798
-//[%autowidth.stretch,%header,frame="none"]
-[%header,%autowidth.stretch,frame="none"]
+[%header,cols="1,5,5,1,1,5,1,1,5",frame="none"]
 |===
 |An +
 zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb.|get.|Namen der Gevatt[ron]
@@ -55,7 +54,7 @@ zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb
 
 [caption="Translation: "]
 .birth of Anne Christine Eleonore Krückeberg in 1798
-[%header,%autowdith,frame="none"]
+[%header,cols="1,5,5,1,1,5,1,1,5",frame="none"]
 |===
 |On +
 No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Names of godparents
