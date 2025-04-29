@@ -12,8 +12,8 @@ image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",link=se
 
 [NOTE]
 ====
-Below Carl Fried. Krückeberg's name, written quite small, appears to be the abbreviation `geb` for **geboren (born)**;\
-however, many other such abbreviations on the page are clearly `get`, **getauft (baptized)**, so it must be `get`.
+Below Carl Fried. Krückeberg's name, written quite small, appears to be the abbreviation **geb** for **geboren (born)**;
+however, many other such abbreviations on the page are clearly **get**, meaning **getauft (baptized)**, so it must be `get`.
 ====
 
 [caption="Transliteration: "]
