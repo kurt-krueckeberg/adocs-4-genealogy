@@ -3,11 +3,12 @@
 
 == Citation
 
-The confirmation of Philippine Louise Leonore Krückeberg Confirmation in 1806 is on <<image201-entry12, pages 426 and 427>>, entry 12,
-of the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The confirmation of Philippine Louise Leonore Krückeberg Confirmation on
+Quasimodogeniti 1806 is entry 12, on <<image201-entry12, pages 426 and 427>>, of
+the Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827".
 
-Page 201 overview:
-
+.Header for Pages 426 and 427
 image::petzen-band2-img201-overview.jpg[title="Philippine Louise Krückeberg Confirmation 1806 (Click to enlarge)",link=self]
 
 === Pages 426 and 427 
