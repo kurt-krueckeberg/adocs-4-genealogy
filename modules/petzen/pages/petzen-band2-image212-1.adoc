@@ -14,7 +14,7 @@ image::petzen-band2-img212-1.jpg[title="First entry, top right column of Knaben,
 
 .Transliteration of Header for page 448
 ```text
-der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem  Schaumb.
+der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem Schaumb.
 ```
 
 .Transliteration of right column at the top of page 448
