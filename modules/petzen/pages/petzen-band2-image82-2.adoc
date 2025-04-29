@@ -72,7 +72,7 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Philipp:geb: Werkmeister
 |7
 |11
-|F Kruckeberg u[nd] Weyland aus Berenb[usch].
+|[A?] Kruckeberg u[nd] Weyland aus Berenb[usch].
 |===
 
 [caption="Translation: "]
@@ -90,7 +90,7 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Philipp:geb: Werkmeister
 |7
 |11
-|F Kruckeberg u[nd] Weyland from Berenb[usch].
+|[A?] Kruckeberg u[nd] Weyland from Berenb[usch].
 |===
 
 
