@@ -3,10 +3,11 @@
 
 == Citation
 
-The birth is recorded on <<image81-156, image 81 of page 156 and page 157>> of Petzen Kirchenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". The birth entries
-spans across both pages 156 and 157. 
+The birth is recorded on image 81 on pages <<image81-156, 156 and 157>> of the
+Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827". The birth entries spans across both pages 156 and 157. 
 
-== Pages 156 and 157
+== Header for Pages 156 and 157
 
 The birth month of **`Jan`** is written on page 157 above the entries.
 
@@ -14,32 +15,37 @@ image::petzen-band2-img81-156-header.jpg[title="Header page 156 portion (Click t
 
 image::petzen-band2-img81-157-header.jpg[title="Header page 157 portion(Click to enlarge)",link=self]
 
+== Transliteration and Translation of header for pages 156 and 157
+
+.Transliteration
+```text
+156                                           1802 u[nd] 1803                                  1802 u[nd] 1803                       157
+Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus den [in?] gepf[????]ten Schaumb: Lipp: Dorfschaften
+```
+
+.Translation
+```test
+156                                           1802 and 1803s                                     1802 and 1803                       157
+Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births in the [ministered-to?] Schaumburg Lippe villages
+```
+
 === Birth Entry 4
 
 image::petzen-band2-img81-156.jpg[title="Entry 4, page 156 portion (Click to enlarge)",link=self]
 
 image::petzen-band2-img81-157.jpg[title="Entry 4, page 157 portion(Click to enlarge)",link=self]
 
-.Transliteration of header for pages 156-157
-```text
-156                                           1802 u[nd] 1803                                  1802 u[nd] 1803                       157
-Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus den [in?] gepf[????]ten Schaumb: Lipp: Dorfschaften
-
-156                                           1802 and 1803s                                     1802 and 1803                       157
-Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births in the [ministered-to?] Schaumburg Lippe villages
-```
-
 [IMPORTANT]
 **`aus Meinsen`** is written small below the name of Christine Ph: Techtmeÿer. It is not obvious if this
 applies to her or the person in the entry following.
 
+== Transliteration and Translation of Birth Entry 4
+
 [caption="Transliteration: "]
 .birth of Sophie Wilhelmine in 1803
-[%autowidth,%header,frame="none"]
+[%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
 |===
 |No|Namen des Kindes|Namen des Vaters|Stand|Dorfschaft|Nr|Namen der Mutter|geb.|get.|Namen der Taufzeugen
-
-|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
 
 |4
 |Sophie Wilhelmine
@@ -52,6 +58,13 @@ applies to her or the person in the entry following.
 |24
 |30
 |Fr Carol[ine] Aldag n. 4 Evesen
+|===
+
+[caption="Translation: "]
+.birth of Sophie Wilhelmine in 1803
+[%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
+|===
+|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
 
 |4                                  
 |Sophie Wilhelmine                  
@@ -60,11 +73,12 @@ applies to her or the person in the entry following.
 |Berenb[usch].                            
 |10                                 
 |Christine Ph[ilippine] Techtmeÿer +
-     aus Meinsen                    
+     from Meinsen                    
 |24                                 
 |30                                 
 |Fr Carol[ine] Aldag n. 4 Evesen    
 |===
+
 
 
 [bibliography]
