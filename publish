@@ -8,6 +8,5 @@ cp  fonts/* public/_/font/
 
 # Copy ./public contents to appropriate Nginx folder.
 sudo rm -rf /var/www/krueckeberg.org/docs/*
-sudo cp -r public/* /var/www/krueckeberg.org/docs/
-sudo cp -r public/_ /var/www/krueckeberg.org/docs/
+sudo cp -r public /var/www/krueckeberg.org/docs
 sudo /var/www/setup
