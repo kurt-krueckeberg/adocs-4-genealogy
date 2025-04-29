@@ -5,5 +5,5 @@ cp  css/kurt-customizations.css public/_/css/
 cp  fonts/* public/_/font/
 sudo rm -rf /var/www/krueckeberg.org/docs/*
 sudo cp -r public /var/www/krueckeberg.org/docs
-chown -R root:www-data /var/www/krueckeberg.org/docs
-chmod -R g+w /var/www/krueckeberg.org/docs
+sudo chown -R root:www-data /var/www/krueckeberg.org/docs
+sudo chmod -R g+w /var/www/krueckeberg.org/docs
