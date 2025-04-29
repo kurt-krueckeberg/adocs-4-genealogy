@@ -33,11 +33,11 @@ Register (or listing) of children confirmed
 1821 - from Schaumb.
 ```
 
-.Knaben (boys) listed in top left list of page 449
+.Translation of Knaben (boys) listed in top left list of page 449
 ```text
 Boys 
 
-1. Victor Friedrich Stille aus Petzen
+1. Victor Friedrich Stille from Petzen
 2. Friedrich Christian Brandt Petzen
 3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
 ```
