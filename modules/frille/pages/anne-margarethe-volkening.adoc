@@ -72,7 +72,7 @@ We now examine the birth records of each.
 image::frille-band2-img16-26.jpg[title="Anne Catherine Ilse Marg. Volkening (Click to enlarge)",link=self]
 
 .Transliteration and Translation, image 16, page 26 (of births), entry 6
-```text
+....
      getaufte 1762 [shown above entry 1 at top of page]
 
 6) d 7ten Febr: Anna Cathrina Ilse Margreta Volkenings
@@ -84,7 +84,7 @@ image::frille-band2-img16-26.jpg[title="Anne Catherine Ilse Marg. Volkening (Cli
      from Päpinghausen. Father Tönnies Volkening. Mother Ilse
      Margreta Rösener. Sponsoers. Anna Cathrina Loysa Lang[en?], Anna
      Cathrine Elisabeth Röseners u. Anna Chrisina Röseners
-```
+....
 
 
 ==== Anne Engel Margret Volkening Birth Record
@@ -94,7 +94,7 @@ image::frille-band2-img16-26.jpg[title="Anne Catherine Ilse Marg. Volkening (Cli
 image::frille-band2-img23-41.jpg[title="Anne Catherine Ilse Margareta Volkening (Click to enlarge)",link=self]
 
 .Transliteration and Translation, image 23, page 41 (of births), entry 47
-```text
+....
       1764 getaufte [the year appears on image 21, in the lower middle of the right hand page.
                      part of the page]
 
@@ -105,7 +105,7 @@ image::frille-band2-img23-41.jpg[title="Anne Catherine Ilse Margareta Volkening 
 47) On Sep 9th: Anna Engel Margreta Volkening in front of the
     forest on Ro[???]hofe [Hof=farm, plural: Höfe] Father: Johan Christian Volkening. Mother: Charlotte
     Philippina Dörmans. Sponsors: Tield Bitterwegs [uxohe?]
-```
+....
 
 ==== Anne Catherina Ilse Marg. Volkening, "the younger", Birth Record
 
@@ -118,7 +118,7 @@ image::frille-band2-img24-43.jpg[title="Anne Catherine Ilse Margareta Volkening 
 The `+` sign denotes a death and its associated date, here the year 1767.
 
 .Transliteration and Translation of image 24, page 43, entry 61
-```text
+....
       1764 getaufte [the year appears on image 24, page 43, entry 61, in the middle of the lower
                      part of the page]
 
@@ -131,7 +131,7 @@ The `+` sign denotes a death and its associated date, here the year 1767.
 died   from [Erthel?] Father: Jost Heinrich Volkening Mother: Anna 
 1767   Cathrina [Rösener/Röhrners] Sponsors: 1) Anna Cathrine Margreta 
        Volkenings 2) Ann Sophia Elisabeth Volkenings
-```
+....
 
 ==== Summary of Above Findings 
 
@@ -154,7 +154,7 @@ We now examine their respective birth records.
 image::frille-band2-img41-77.jpg[title="Anne Margarethe Volkening, image 41, page 77 (Click to enlarg)",link=self]
 
 .Transliteration and Translation, image 41, page 77 (of births), entry 39
-```text
+....
      getaufte 1770 [shown on image 39, bottom center of page 73]
 
 39) Eodem Anna Margartha Volckenings s[abbreviation for aus] Leteln. P. Jobst
@@ -165,7 +165,7 @@ Pr. Henrich Vockening. M. Anna Cath. Röseners. S. Anna
 Pr.[meaning of "Pr." yet uncertain] Father: Jobst Henrich Vockening.
     Mother: Anna Cath. Rösener
     Sponsors: Anna Margaretha Volckening.
-```
+....
 
 ==== Anna Margarthe Elisabeth Volkening
 
@@ -184,7 +184,7 @@ The latin word **uxores** appears in this birth record. It is defined as:
 ====
 
 .Transliteration and Translation, image 50, page 93 (of births), entry 14
-```text
+....
      getaufte 1773 [as shown at top of page 92]
 
 14) d. 7ten Mart. Anna Margaretha Elisabeth Volke
@@ -196,7 +196,7 @@ Pr.     nings aus Aminghausen. P. Christian Fried. Volkening.
 Pr.[meaning yet uncertain]   Father: Christian Friedrich. Volkening.
        Mother: Anna Margartha Hahn[en suffix]. 
        Sponsors: The wives (uxores = wives) of Johann Hinrich Volkening and Hinrich Jebben.
-```
+....
 
 ==== Summary of Final Two **Anne Marg.**'s
 
