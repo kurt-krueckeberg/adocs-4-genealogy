@@ -17,9 +17,15 @@ image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to 
 [sidebar]
 ****
 [NOTE]
-.Abbreviations in the Header
+.Abbreviations Used in the Header
 ====
-The word before **Schumb Lipp** is uncertain. It might be an administrative term, either governmental or religious.
+By comparing this page with prior pages, it is clear the page header contains two words that are an abbreviation of the
+adjective form for the principality of Schauburg-Lippe: **Schaumburg-Lippischen**.
+
+These two words come immediately before **Dortschaften**. They are hurried written as: **Schumb Lipp**
+
+The word before this two-word abbreviation is uncertain. It likely refers to the general area of villages that belonged to the Petzen parish.
+Perhaps it is its administrative term, either governmental or religious. 
 ====
 ****
 
@@ -41,11 +47,11 @@ The word before **Schumb Lipp** is uncertain. It might be an administrative term
     Births from the [uncertain] Schaumburg-Lippe Villages               Births from the  [uncertain] Schaumburg-Lippe Villages      
 |===
 
-== Birth Entry 23 Page 158
+== Birth Entry 23, Page 158
 
 image::petzen-band2-img82-entry23-158.jpg[title="Entry 23, page 158 portion (Click to enlarge)",link=self]
 
-== Birth Entry 23 Page 159
+== Birth Entry 23, Page 159
 
 image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Click to enlarge)",link=self]
 
