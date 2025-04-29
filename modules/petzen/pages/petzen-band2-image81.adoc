@@ -9,8 +9,6 @@ Gestorbenen 1785-1827". The birth entries spans across both pages 156 and 157.
 
 == Header for Pages 156 and 157
 
-The birth month of **`Jan`** is written on page 157 above the entries.
-
 image::petzen-band2-img81-156-header.jpg[title="Header page 156 portion (Click to enlarge)",link=self]
 
 image::petzen-band2-img81-157-header.jpg[title="Header page 157 portion(Click to enlarge)",link=self]
@@ -29,9 +27,13 @@ Geborene aus den [im?]gepf[???]ten Schaub: Lipp: Dorfschaften      Geborene aus 
 Births in the [ministered-to?] Schaumb[urg] Lippe villages               Births in the [ministered-to?] Schaumburg Lippe villages
 ```
 
-=== Birth Entry 4
+=== Birth Entry 4 Page 156
 
 image::petzen-band2-img81-156.jpg[title="Entry 4, page 156 portion (Click to enlarge)",link=self]
+
+=== Birth Entry 4 Page 157
+
+The birth month of **`Jan`** is written on page 157 above the entries.
 
 image::petzen-band2-img81-157.jpg[title="Entry 4, page 157 portion(Click to enlarge)",link=self]
 
