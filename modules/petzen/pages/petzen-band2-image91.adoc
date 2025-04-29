@@ -1,7 +1,9 @@
 = 1806 Johann Heinrich Krückeberg Baptism
 :page-role: doc-width
 
-The baptism of Johann Heinrich Krückeberg is entry 22 on <<image91-176, page 176>> and <<image91-177, page 177>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The baptism of Johann Heinrich Krückeberg is entry 22 on pages <<image91-176, 176>>
+and <<image91-177, 177>> of Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827".
 
 == Pages 176 and 177
 
@@ -20,7 +22,7 @@ image::petzen-band2-img91-overview.jpg[title="Overview of pages 176-177 (Click t
 .Pages 176-177 Header
 [%autowidth, frame="none", options="noheader"]
 |===
-|176         Baptisms in the Parish of Petzen                              in the Year 1806                                   177
+|176         Baptisms in the Parish of Petzen                              in the Year 1806                       177
 |===
 
 === Entry 22
@@ -32,8 +34,9 @@ image::petzen-band2-img91-177.jpg[title="Entry 22, page 177 portion(Click to enl
 [IMPORTANT]
 .Comments on father's column
 ====
-The last line in the column for the father is smudged. The first word could be two words. The "d" in old German script
-does not typically connect to the next letter: notice "Friedrich" in the last column.
+The last line in the column for the father is smudged. The first word could be
+two words. The "d" in old German script does not typically connect to the next
+letter: notice "Friedrich" in the last column.
 
 Therefore the first word in the last line could be two words. Guesses are:
 
