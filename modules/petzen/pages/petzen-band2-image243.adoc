@@ -7,24 +7,29 @@ The death of Johann Hen. Krückeberg in 1805 is recorded on <<image243, image 24
 pages 512 and 513>>, entry 8, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-=== Pages 512 and 513 Overview
+== Pages 512 and 513 Overview
 
 image::petzen-band2-img243-overview.jpg[title="Page 512 Overview (Click to enlarge)",link=self]
 
-=== Page 512 Header and Column Headings
+== Transliteration and Translation of Header for Pages 512 and 513
+
+```text
+512   Gestorbene in Kirchspiel Petzen                                        Schumb. Lipp. [???] in Jahr the 1805                    512
+```
+
+```text
+512   Deaths in the Petzen Parish                                            Schumb. Lipp. [???] in the year 1805                    512
+```
+
+== Page 512 Entry 8
 
 image::petzen-band2-img243-512.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
-=== Page 513 Header and Column Headings
+=== Page 513 Entry 8
 
 image::petzen-band2-img243-513.jpg[title="Joh: Hen: Krickeberg (Click to enlarge)",link=self]
 
-=== Transliteration and Translation of Pages 512 and 513
-
-.Transliteration of Page Header
-```text
-512   Gestorbene in Kirchspiel Petzen (Deaths in the Petzen Parish)          Schumb. Lipp. [???] in Jahr (in the year) 1805                    512
-```
+== Transliteration and Translation of Pages 512 and 513
 
 [NOTE]
 .Notes on challenges in this entry
