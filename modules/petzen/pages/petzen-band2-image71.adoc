@@ -10,30 +10,37 @@ in April (until later on a new month is again written in these two colums).
 
 image::petzen-band2-img70-135-bottom.jpg[title="Bottom of page 135 showing April (Click to enlarge)",link=self]
 
-== Birth Entry 24 on Pages 136-137
+== Birth Entry 24 on Page 136
 
 image::petzen-band2-img71-136.jpg[title="Header and first three entries, page 136 portion (Click to enlarge)",link=self]
 
+== Birth Entry 24 on Page 137
+
 image::petzen-band2-img71-137.jpg[title="Header and first three entries, page 137 portion(Click to enlarge)",link=self]
+
+== Transliteration and Translation of Header for Pages 136 and 137
 
 .Transliteration of header for pages 136-137
 ```text
-136                           Gebohrne(births)                       im Jahr (in year) 1798               137
+136                           Gebohrne                               im Jahr 1798                        137
+```
+
+.Translation of header for pages 136-137
+```text
+136                           Births                                 in year 1798                         137
 ```
 
 [NOTE]
+====
 The dates of her marriage and death, written below her name, have been displayed separately
+====
 
 [caption="Transliteration: "]
 .birth of Christine Louise Krückeberg in 1798
-[%header,%autowidth.stretch,frame="none"]
+[%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
 |An +
 zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb.|get.|Namen der Gevatt[ron]
-
-|22 8+|[remainder of line not shown. Not relevant]
-
-|23 8+|[remainder of line not shown. Not relevant]
 
 |24
 |Christine Louise Krückeberg   
@@ -54,7 +61,7 @@ zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb
 
 [caption="Translation: "]
 .birth of Anne Christine Eleonore Krückeberg in 1798
-[cols="1,3,3,1,2,3,1,1,3",header,frame="none"]
+[%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
 |On +
 No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Names of godparents
