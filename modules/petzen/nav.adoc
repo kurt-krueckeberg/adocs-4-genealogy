@@ -51,7 +51,7 @@
 ** xref:petzen-band2-image300.adoc[]
 ** xref:petzen-band2-image313.adoc[]
 ** xref:petzen-band2-image212-1.adoc[]
-** xref:petzen-band2-image212-1.adoc[]
+** xref:petzen-band2-image212-2.adoc[]
 ** xref:petzen-band2-image314.adoc[]
 ** xref:petzen-band2-image348.adoc[]
 ** xref:petzen-band2-image355.adoc[]
