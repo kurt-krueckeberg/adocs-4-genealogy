@@ -12,7 +12,7 @@ image::petzen-band2-img207-entry28.jpg[[title="Christine Louise Krückeberg Conf
 == Transliterations and Translations
 
 [caption="German Transliteration: "]
-.page 438 entries 20 and 28
+.page 438 entry 28
 [%autowidth,frame="none"]
 |===
 7+l|438   Verzeichnis der am Sonntage Quasimodogeniti 1811 in der          Kirche zu Petzen Confirmirten aus dem [Leÿß?/Leüß?] Schaumb. Lipp.   439
@@ -28,7 +28,7 @@ Kindes s|Bermerkungen
 |===
 
 [caption="German Translation: "]
-.page 438 entries 20 and 28
+.page 438 entry 28
 [%autowidth,frame="none"]
 |===
 7+l|
