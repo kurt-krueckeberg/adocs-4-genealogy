@@ -3,7 +3,7 @@
 
 == Citation
 
-This marriage occurred on March 13, 1803. It is on <<image12, image 12, page 19, entry 4>> of the Petzen Kirchenbuch
+This marriage occurred on March 13, 1803. It is on <<image12, image 12, page 19, entry 4>>, of the Petzen Kirchenbuch
 "Verzeiches der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",link=self]
