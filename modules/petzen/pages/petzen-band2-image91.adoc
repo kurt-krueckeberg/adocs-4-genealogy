@@ -9,7 +9,7 @@ Getrauten und Gestorbenen 1785-1827".
 
 image::petzen-band2-img91-overview.jpg[title="Overview of pages 176-177 (Click to enlarge)",link=self]
 
-=== Header for Pages 176 and 177
+== Transliteration and Translation of Header for Pages 176 and 177
 
 [caption="Transliteration: "]
 .Pages 176-177 Header
@@ -25,11 +25,11 @@ image::petzen-band2-img91-overview.jpg[title="Overview of pages 176-177 (Click t
 |176         Baptisms in the Parish of Petzen                              in the Year 1806                       177
 |===
 
-=== Entry 22, Page 176
+== Entry 22, Page 176
 
 image::petzen-band2-img91-176.jpg[title="Entry 22, page 176 portion(Click to enlarge)",link=self]
 
-=== Entry 22, Page 177
+== Entry 22, Page 177
 
 image::petzen-band2-img91-177.jpg[title="Entry 22, page 177 portion(Click to enlarge)",link=self]
 
@@ -47,6 +47,8 @@ Therefore the first word in the last line could be two words. Guesses are:
 
 The subsequent words in the column are currently uncertain.
 ====
+
+== Transliteration and Translation of Entry 22
 
 [caption="Transliteration: "]
 .Johann Heinrich Krückeberg Baptism
