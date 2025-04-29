@@ -65,14 +65,14 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 
 |40
 |Christine Philippine
-|Carl Friedrich Krückeberg
-|[Hausherr?]
+|Carl Fried: Krückeberg
+|Einlieger
 |Evesen
 |
 |Philipp:geb: Werkmeister
-|21
-|31
-|Soph: Ernestine Wilharm aus Evesen
+|7
+|11
+|F Kruckeberg u[nd] Weyland aus Berenb[usch].
 |===
 
 [caption="Translation: "]
@@ -83,14 +83,14 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 
 |40
 |Christine Philippine
-|Joh Heinr: Krückeberg
-|[landlord?]
+|Carl Fried: Krückeberg
+|free agricultural laborer
 |Evesen
-|19
-|Catha:Soph:born: Krömer
-|21
-|31
-|Sophie Ernestine Wilharm from Evesen
+|
+|Philipp:geb: Werkmeister
+|7
+|11
+|F Kruckeberg u[nd] Weyland from Berenb[usch].
 |===
 
 
