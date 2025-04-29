@@ -1,0 +1,49 @@
+= 1821 Carl Friedrich Krückeberg Confirmation
+
+The confirmation of Carl Friedrich Krückeberg is on <<image212, image 212>>, on page 449. His name appears in the 
+top left column of confirmed **Knaben** or boys. He is listed third.
+
+== Page 449, Top left list of Knaben
+
+image::petzen-band2-img212-1.jpg[title="First entry, top right column of Knaben, page 448 (Click to enlarge)",link=self]
+
+== Transliteration and Translation
+
+**Quasimodogeniti** is the 2^nd^ Sunday after Easter.
+
+.Header for page 448
+```text
+[????] der am Sonntage Quasidmodgeniti
+1821 Confirmierten Kinder - aus dem [Schule?]
+```
+
+.Knaben (boys) listed in top left list of page 449
+```text
+Knaben
+
+1. Victor Friedrich Stille aus Petzen
+2. Friedrich Christian Brandt Petzen
+3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
+```
+
+.Header for page 448
+```text
+[????] Children confirmed  
+1821 - from the [Schule?]
+```
+
+.Knaben (boys) listed in top left list of page 449
+```text
+Boys 
+
+1. Victor Friedrich Stille aus Petzen
+2. Friedrich Christian Brandt Petzen
+3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
+```
+
+
+[bibliography]
+== References
+
+* [[[image212]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/de0cff4510/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 212 of 357, top of page, right column.
