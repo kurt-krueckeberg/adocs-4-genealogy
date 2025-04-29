@@ -11,8 +11,8 @@ image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",link=se
 == Transliteration and Translation of Page 19, Entry 4
 
 [NOTE]
-The first date abbreviation below Carl Fried. Krückeberg's name which is quite small appears to be _geb_; however, many other such
-abbreviations on the page are _get_. Thus, it could be _get_.
+Below Carl Fried. Krückeberg's name, written quite small, appears to be `geb`; however, since many other such
+abbreviations on the page are `get`, it must be `get` (getauft [baptized]).
 
 [caption="Transliteration: "]
 .Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
