@@ -13,34 +13,34 @@ image::petzen-band2-img212-2.jpg[title="First entry, top-right column of Knaben,
 **Quasimodogeniti** is the 2^nd^ Sunday after Easter.
 
 .Transliteration of Header for page 449
-```text
+....
 Verzeichnis der am Sonntage Quasidmodgeniti
 1821 Confirmierten Kinder - aus dem Schaum.
-```
+....
 
 .Knaben (boys) listed in top left list of page 449
-```text
+....
 Knaben
 
 1. Victor Friedrich Stille aus Petzen
 2. Friedrich Christian Brandt Petzen
 3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
-```
+....
 
 .Translation of Header for page 448
-```text
+....
 Register (or listing) of children confirmed  
 1821 - from Schaumb.
-```
+....
 
 .Translation of Knaben (boys) listed in top left list of page 449
-```text
+....
 Boys 
 
 1. Victor Friedrich Stille from Petzen
 2. Friedrich Christian Brandt Petzen
 3. Carl Friedrich Krückeberg. n. 14. Bärenbusch
-```
+....
 
 
 [bibliography]

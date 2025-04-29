@@ -52,7 +52,7 @@ Also the month of May is written in entry 14 and applies to entreis 15 and 16.
 ====
 
 .Transliteration of page 485, entry 16
-```text
+....
                                       Kruckeberg:       
 16) d 29 ist beerdigt Friedrich Wilhelm Croemer des Johann
          krückebergs [written above]
@@ -68,7 +68,7 @@ heinrich cromers from evesen no 19 and his wife
 anne catharine sophie geb. [???m?rn?] 
 his illnes was coughing[literally: the cough] and [uncertain]. his age 
 was 3 and ?/4 years.
-```
+....
 
 
 [bibliography]

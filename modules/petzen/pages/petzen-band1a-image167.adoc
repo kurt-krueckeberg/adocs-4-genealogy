@@ -19,7 +19,7 @@ for _benennen_, "to name somebody or something after, or for".
 
 .The first three entries for January 1744 were ommitted. 
 
-```text
+....
 Anno 1744
 
 [First three entries from 1744 ommitted...]
@@ -34,7 +34,7 @@ On the 19th (of January) a Krückeberg son was baptized
 named Johann Heinrich, Gevattern sind G[eorg?]
 [D/S/K???]kings  Ahldags. [written small and raised above the line 'son'] Weiland in Behrenbusch. Waterman??
 Soh[n?] vo[n?] Nordholtz.
-```
+....
 
 [bibliography]
 == References

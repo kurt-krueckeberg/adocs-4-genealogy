@@ -15,7 +15,7 @@ image::petzen-band2-cover.jpg[align=left,title="Click to enlarge",link=self]
 === Transliteration and Translation
 
 .Transliteration
-```text
+....
 Kirchen Buch
   darin
 alle in den zur Petzen Gemeinde
@@ -27,10 +27,10 @@ Johann Wilhelm Roß zeitigen Prediger
      II
 Bückeburg    und    Nammen
 von 1785 bis 1827   von 1785 bis 1799
-```
+....
 
 .Translation
-```text
+....
 Church Register
     in which
 all the marriages, births, confimrmations and burials
@@ -41,7 +41,7 @@ Wilhelm Wilhelm Roß current preacher
    II
 Bückeburg        und    Nammen
 from 1785 to 1827       from 1785 to 1799
-```
+....
 
 [bibliography]
 == References

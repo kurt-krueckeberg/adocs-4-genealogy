@@ -10,8 +10,8 @@ This is.... <<image260, image 260, left page, entry 4>> of the  Petzen "Verzeich
 //image::petzen-band1a-img260.jpg[align=left,title='??? (Click to enlarge)',link=self]
 
 .Transliteration and Translation
-```text
-```
+....
+....
 
 [biliography]
 == References

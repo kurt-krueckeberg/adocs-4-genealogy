@@ -8,7 +8,7 @@ This is the baptism record of varl Friderich Gottlieb Krückeberg from "database
 Sophia Elonora Weiland's baptism is on <<image261, image 261, right page, entry no. 29>> from the  
 Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
 
-```text
+....
 29) d 4ten Octobr ist getauft Sophia Eleonora Weilands
     des Johann Heinrich Weilands aus Evesen No. 21 mit
     seiner Ehefrau Sophia Elisbeth geb Astrehs[????]
@@ -19,7 +19,7 @@ Petzen "Verzeichnis der Getaufte und Confirmirte, 1641-1784"
     the begotten daughter of Johann Heinrich Weiland from 
     Evesen No, 21 and his wufe Sophia Elisabeth born Astrehs[????]
     the godmother was the Sickmeier wife from Evese No. 2
-```
+....
 
 
 [biliography]

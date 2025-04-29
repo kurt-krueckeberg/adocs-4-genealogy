@@ -14,14 +14,14 @@ This entry appears on <<image55-105,image 55, page 105>> of Petzen Kirchenbuch v
 image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
 
 .Transliteration of page 105 header
-```text
+....
                         Getaufte 1792                                           105
-```
+....
 
 .Translation of page 105 header
-```text
+....
                         Baptisms 1792                                           105
-```
+....
 
 === Page 105, entry 9
 
@@ -31,7 +31,7 @@ image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=sel
 Dates noted in the left margin have been displayed separately.
 
 .Transliteration of page 105, entry 9
-```text
+....
 9) 3ten Febr ist Philippine Caroline Christine Krueckebergen
    des Jobst Heinrich Krückeberg [Sc]husters in Berenbusch No [no number]
    mit seiner Ehefrau Christine Philippine Eleonore
@@ -47,10 +47,10 @@ Dates noted in the left margin have been displayed separately.
    born Tochter. Godmothers were
      1. the alte Krückeberg [being a] grandmother.
      2. the Fahlsi[e/n]s of the Schäfers[likely surname. Not shepherd(s)] from Evensen [unclear]
-```
+....
 
 .Transliteration and translation of margin notations
-```text
+....
 1. cop. 23.2.1812
 2. cop. 11.5.34
 gest. 26.10.70
@@ -58,7 +58,7 @@ gest. 26.10.70
 1. married 2/23/1812
 2. married 5/11/1834
 died 10/26/1870
-```
+....
 
 [bibliography]
 == References

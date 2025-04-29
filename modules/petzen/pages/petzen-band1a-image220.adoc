@@ -31,13 +31,13 @@ significantly from previous baptismal entries. Unlike all previous baptismal
 entries the infant's name is not the name that appears first. To understand this,
 consider this word-for-word English substitution for the German:
 
-```text
+....
 Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus  | is here baptized Johann Heinrich Kruckeberg's from
     Berenbusch mit seiner Ehefrau Anne Christine Elisabeth | Berenbusch with his wife Anne Christine Elisabeth
     Seegers erzeugter Sohn und genan[n]t worden Johann     | Seeger's begotten son and named[known] was Johann 
     Heinrich Wilhelm von seinem Gevatter Jobst             | Heinirch Wilhelm by his godfather Jobst
     Heinrich Weiland aus Berenbusch.                       | Heinrich Weiland from Berenbusch
-```
+....
 ====
 
 ****

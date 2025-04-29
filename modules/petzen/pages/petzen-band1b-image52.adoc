@@ -9,7 +9,7 @@ The marriage entry is found on <<image-vo1b-52, image 52, year 1761, 14 June 176
 
 image::petzen-band1b-img52.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
 
-```text
+....
           Copuliert                                                                  1761
 
 d 14ten Juni Johann Heinrich Krückkeberg
@@ -17,7 +17,7 @@ d 14ten Juni Johann Heinrich Krückkeberg
 
 On 14th June [1761] Johann Heinrich Krückkeberg
   from Berenbusch married Anne Chrisine Elisabet Senger[Senger/Sneger]s from Evensen
-```
+....
 
 [bibliography]
 == References

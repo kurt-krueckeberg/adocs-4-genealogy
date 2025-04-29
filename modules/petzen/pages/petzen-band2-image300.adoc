@@ -22,9 +22,12 @@ image::petzen-band2-img300-627.jpg[title="Philippine Dorothee Krückeberg (Click
 === Transliteration and Translation of Pages 626 and 627
 
 .Transliteration of Page Header
-```text
+....
 626   Gestorbene in Kirchspiel Petzen (Deaths in the Petzen Parish)    im Jahre 1818 u. 1819 (in the years 1819 and 1819)          626
-```
+....
+//....
+//626   Gestorbene in Kirchspiel Petzen (Deaths in the Petzen Parish)    im Jahre 1818 u. 1819 (in the years 1819 and 1819)          626
+//....
 
 [NOTE]
 Does the colon in the 2^nd^ column function like a hyphen?

@@ -13,12 +13,12 @@ image::petzen-band2-img212-1.jpg[title="First entry, top right column of Knaben,
 **Quasimodogeniti** is the 2^nd^ Sunday after Easter.
 
 .Transliteration of Header for page 448
-```text
+....
 der am Sonntage Quasidmodgeniti 1818 Confirmierten Kinder - aus dem Schaumb.
-```
+....
 
 .Transliteration of right column at the top of page 448
-```text
+....
 Am Sonntag Quasimodogentiti
 1820. sind Confirmiert
 
@@ -26,15 +26,15 @@ Knaben
 
 1. Johann Heinrich Krückeberg. Bärenbusch
 2. Carl Heinrich Alldag. aus Evesen 
-```
+....
 
 .Translation of Header for page 448
-```text
+....
 The children confirmed on Sonday Quasidmodgeniti 1818 - from Schaumb[urg]
-```
+....
 
 .Translation of right column at the top of page 448
-```text
+....
 On Sunday Quasimodogentiti
 1820. were confirmed
 
@@ -42,7 +42,7 @@ Boys
 
 1. Johann Heinrich Krückeberg. Bärenbusch
 2. Carl Heinrich Alldag. from Evesen 
-```
+....
 
 
 [bibliography]

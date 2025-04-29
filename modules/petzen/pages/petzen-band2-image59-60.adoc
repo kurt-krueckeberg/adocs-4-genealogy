@@ -22,7 +22,7 @@ PAge 114:
 image::petzen-band2-img60-114.jpg[align="left",title="Click to enlarge",link=self]
 
 .Transliteration of page 113 header, entry 16
-```text
+....
 112               Getaufte (Baptisms)       1793                        Getaufe (Bpatisms)                 1793                 113
 
 16) d April: ist Philippina Eloenora Kruckenbergen
@@ -48,7 +48,7 @@ Female sponsors are [together?]
 2) Sophie Margaretha Nerge aus Meinsen
 3) Catharina Margaretha Rinne aus Evesen
 
-```
+....
 
 [bibliography]
 == References

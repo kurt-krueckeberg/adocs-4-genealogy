@@ -16,7 +16,7 @@ image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christ
 `Isabein` is a short form of Elisabeth
  
 .Transliteration adn Translation
-```text
+....
 18) d 27ten Jul: ist des Johan Christian Weilands Einlieger in
     Penzen mit seiner Ehefrau Christine Ilsabei
     geb Stediegen erzeugtes Söhnlein todtgeborhren
@@ -24,7 +24,7 @@ image::petzen-band1a-img259.jpg[align=left,title='Stillborn son of Johann Christ
 18) On 27th July the begotten little son of Johan Christian Weiland
      free agricultural laborer in Penzen and his wife Christine
     Ilsabei[n] born Stediege was stillborn
-```
+....
 
 
 [biliography]
