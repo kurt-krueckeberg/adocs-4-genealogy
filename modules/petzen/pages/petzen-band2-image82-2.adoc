@@ -32,10 +32,6 @@ The dates of her marriage and death, written below her name, have been displayed
 |An +
 zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb.|get.|Namen der Gevatt[ron]
 
-|22 8+|[remainder of line not shown. Not relevant]
-
-|23 8+|[remainder of line not shown. Not relevant]
-
 |24
 |Christine Louise Krückeberg   
 |Johann Heinrich Krückeberg
@@ -47,12 +43,6 @@ zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb
 |Sophie Charlotte Krückeberg [au]s Bärenbusch
 |===
 
-.Transliteration and translation of dates written below her name
-```text
- cop.  1.12.1816
- gest. 11.9.1878
-```
-
 [caption="Translation: "]
 .birth of Anne Christine Eleonore Krückeberg in 1798
 [%header,cols="1,5,5,1,1,5,1,1,5",frame="none"]
@@ -60,7 +50,7 @@ zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb
 |On +
 No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Names of godparents
 
-|3
+|24
 |Christine Louise Krückeberg   
 |Johann Heinrich Krückeberg
 |19
@@ -71,11 +61,12 @@ No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Name
 |Sophie Charlotte Krückeberg from Bärenbusch
 |===
 
-.Translation of dates written below her name
+.Transliteration and translation of dates written below her name
 ```text
- married  12/1/1816
- died      9/11/1878
+ cop.  1.12.1816
+ gest. 11.9.1878
 ```
+
 
 [bibliography]
 == References
