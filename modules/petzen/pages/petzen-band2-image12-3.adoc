@@ -18,7 +18,7 @@ however, many other such abbreviations on the page are clearly **get**, meaning 
 
 [caption="Transliteration: "]
 .Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
-[%header,cols="1,5,3,3,5,3,1",frame="none"]
+[%header,cols="1,5,3,1,5,3,1",frame="none"]
 |===
 |Zahl | Nahmen des Bräutigams | Ortschaft| Sh | Nahmen der Braut| Ortschaft| N.:
 
@@ -38,7 +38,7 @@ get. 18.4.79 gest. 13.5.38
 
 [caption="Translation: "]
 .Carl Friedrich Gottlieb Krückeberg Marriage in 1803, image 12, page 19, entry 4
-[%header,cols="1,5,3,3,5,3,1",frame="none"]
+[%header,cols="1,5,3,1,5,3,1",frame="none"]
 |===
 |Number | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.
 
