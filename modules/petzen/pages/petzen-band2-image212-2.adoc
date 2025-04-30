@@ -15,7 +15,7 @@ image::petzen-band2-img212-2.jpg[title="First entry, top-right column of Knaben,
 .Transliteration of Header for page 449
 ....
 Verzeichnis der am Sonntage Quasidmodgeniti
-1821 Confirmierten Kinder - aus dem Schaum.
+1821 Confirmierten Kinder - aus dem Schaumb.[Schaumburg inferred]
 ....
 
 .Knaben (boys) listed in top left list of page 449
@@ -30,7 +30,7 @@ Knaben
 .Translation of Header for page 448
 ....
 Register (or listing) of children confirmed  
-1821 - from Schaumb.
+1821 - from Schaumb.[Schaumburg inferred]
 ....
 
 .Translation of Knaben (boys) listed in top left list of page 449
