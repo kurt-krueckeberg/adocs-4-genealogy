@@ -13,8 +13,8 @@ We know from this tyepwritten document
 
 image::Familienschein-des-Auswanderers.jpg[align=left,width=1600,title='Familienschein des Auswanderers',xref=image$Familienschein-des-Auswanderers.jpg]
 
-that the Krückeberg family originated from an area near Petzen called Berenbushch. This document originated from Harry Frederick Krueckeberg who said
-(as I recall) that it was among his father's papers, and he believed his father had typed it. I obtained the copy above from Melvin Krueckeberg several
+that the Krückeberg family originated from an area near Petzen called Berenbusch. This document originated from Harry Frederick Krueckeberg who 
+believed it was among his father's papers, and he believed his father had typed it. I obtained the copy above from Melvin Krueckeberg several
 years ago.
 
 According to "The Union Township Krueckebergs (Krückeberg) From Germany to Adams County, Indiana, 1850 to June 29, 2008", by Melvin E. W. Krueckeberg,
@@ -31,14 +31,14 @@ copy of the Certificate of the Emigrant...
 Ernest Thode's _German-English Genealogical Dictionary_, defines **Familenschein** as **family records**. "Familienschein des Auswanderers"
 thus translates as: **Emigrant's Family Records**.
 
-At the bottom of the document is the name of an "official" of some sort, who is "von Bergkirchen" "from Bergkirchen". Bergkirchen is 
+At the bottom of the document is the name of an official who is "von Bergkirchen" ("from Bergkirchen"). Bergkirchen is 
 22 miles distant from Petzen.
-
-The original document (or a digital copy of it) may be available, but more leg work is needed. 
 
 === Immanuel Church Biography
 
-Similiar family vital family details are found in the Immanuel Lutheran founder's biography for xref:churches:immanuel/carl-heinrich-wilhelm-krueckeberg.adoc[Carl Heinrich Wilhelm Krückeberg].
+Similiar family vital family details are found in the Immanuel Lutheran
+founder's biography for xref:churches:immanuel/carl-heinrich-wilhelm-krueckeberg.adoc[Carl Heinrich
+Wilhelm Krückeberg].
 
 === Passenger List
 
