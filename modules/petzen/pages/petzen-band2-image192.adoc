@@ -6,18 +6,17 @@
 The confirmation of Johanne Söphie Carlotte Krückeberg, in 1795, on the 2nd Sunday after Easter, is on <<image192-409, page 409>>, entry 2, Petzen Kirchenbuch:
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-== Page 407 
+== Page 407, Knaben and Start of Mädchen 
 
-Page overview:
+The top two thirds of the page contains the complete list of all the boys (Knaben) confirmed and start of the list of
+Mädchen (girls) confirmed.
 
-image::petzen-band2-img192-overview.jpg[title="Overview of Confirmation in 1795, page 407 (Click to enlarge)",link=self]
+Johanne Söphie Carlotte Krückeberg is the 2^nd^ name on the list of Mädchen.
 
-Image 192, page 409, shows Johanne Söphie Carlotte Krückeberg confirmation, entry 2 at the bootom of the image, among those girls from Schaumburg confirmed in 1795:
-
-image::petzen-band2-img192-409.jpg[title="Johanne Söphie Carlotte Krückeberg confirmation in 1795, on page 407, etnry 2 (Click to enlarge)",link=self]
+image::petzen-band2-img192-409.jpg[title="Overview of Confirmation in 1795, page 407 (Click to enlarge)",link=self]
 
 [caption="Transliteration: "]
-.Transliteration page 405, entry 2
+.Transliteration page 409
 [%autowidth, cols="l",frame="none",grid="none"]
 |===
 >s|409
