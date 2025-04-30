@@ -22,7 +22,7 @@ antora:
   extensions:
 # Uncomment the pdf extension once 'Download" has been added to th title.
 #   - '@antora/pdf-extension'
-  - "@antora/lunr-extension"
+  - '@antora/lunr-extension'
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
