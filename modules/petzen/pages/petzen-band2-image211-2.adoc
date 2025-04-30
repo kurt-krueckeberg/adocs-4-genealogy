@@ -36,7 +36,7 @@ Mädchen
 
 Note: Entries 1-4 and those entries after #7 are ommited.
 5. Caroline Philippine Windelhacken, Petzen [?ÿ] n. 25 
-6. Christine Philippine KRückebergs. Bärenbusch n. 18
+6. Christine Philippine Krückebergs. Bärenbusch n. 18
 7. Sophie Margarethe Wilharms. Barenbusch n. 9
 ....
 
@@ -44,6 +44,6 @@ Note: Entries 1-4 and those entries after #7 are ommited.
 [bibliography]
 == References
 
-* [[[image211-447-1]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ ( : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
- Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357
+* [[[image211-447-1]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/f67951c5e7/ : 30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 211 of 357, page 447, middle
 
