@@ -30,7 +30,9 @@ image::petzen-band2-img300-627.jpg[title="Philippine Dorothee Krückeberg (Click
 //....
 
 [NOTE]
-Does the colon in the 2^nd^ column function like a hyphen?
+====
+**verheÿrathet** in contemporary German would be **verheiratet** (married).
+====
 
 [caption="Transliteration: "]
 .entry 1, in year 1819, for Philippine Dorothee Krückeberg
@@ -38,8 +40,8 @@ Does the colon in the 2^nd^ column function like a hyphen?
 |===
 |Zahl |Name, Stand, Religion, Gewerbe, +
 Geburts u. bisheriger Wohnort des +
-Gestorbene |Zeit u. Ort des +
-Todes u. des +
+Gestorbene |Zeit u.[und] Ort des +
+Todes u.[und] des +
 Begräbenises |Ursach[e] des Todes |Alter |Ledig +
 oder verheÿrathet |Hinterbliebende |Bemerkerung
 
