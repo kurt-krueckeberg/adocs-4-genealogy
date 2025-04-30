@@ -1,7 +1,7 @@
 site:
 # title: Krückeberg and Bleeke Genealogy Research Topics
   # the 404 page and sitemap files only get generated when the url property is set
-  # url: https://krueckeberg.gitlab.io/genealogy
+  url: https://docs.krueckeberg.org
   start_page: genealogy:ROOT:index.adoc
 content:
   sources:
