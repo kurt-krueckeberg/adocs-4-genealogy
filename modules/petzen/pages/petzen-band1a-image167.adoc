@@ -17,8 +17,7 @@ Due to the poor quality of the text, it is unclear word precedes "Johann Heinric
 names? It is might be **benahmsen**, with **benahmsen** likely just another form of **benamsen**, colloquial
 for _benennen_, "to name somebody or something after, or for".
 
-.The first three entries for January 1744 were ommitted. 
-
+.Transliteration
 ....
 Anno 1744
 
@@ -29,11 +28,14 @@ d. 19 dito[meaning ditto. Thus 'Januar'] Krückeberg ein Söhnlein taufen laßen
 [D/S/K???]kings Ahldags. [written very small, raised above the current line before the next word 'Sohn' followed
  by other words] Weiland in Behrenbusch. Waterman??
 Soh[n?] von Nordholtz.
+....
 
-On the 19th (of January) a Krückeberg son was baptized
+.Translation
+....
+the 19th January a Krückeberg son was baptized
 named Johann Heinrich, Godfathers are G[eorg?]
 [D/S/K???]kings  Ahldags. [written small and raised above the line 'son'] Weiland in Behrenbusch. Waterman??
-Soh[n?] of Nordholtz.
+Soh[n?] from Nordholtz.
 ....
 
 [bibliography]
