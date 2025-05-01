@@ -2,7 +2,6 @@
 
 Add this info: link:https://youtu.be/jF0YlWkNcok?si=MLiYXf10Tx4TXwqp[Patent of Deed: In and Out tables]
 
-
 Add history on population explosion: there was a huge increase in population and prices went up
 and income down.
 
@@ -79,7 +78,7 @@ Indiana Work Progress Administration|Call #er: INREF VR IN ADAMS
 |link:https://apls.evergreenindiana.org/Record/5237213[Index to supplemental record: marriage transcript, Adams County, Letters A-Z] +
 Register of marriage transcripts from the County Clerk's office in Decatur.|INREF VR IN ADAMS
 
-| link:https://apls.evergreenindiana.org/Record/5237314[Marriage License Book A, 1836-1844] +
+|link:https://apls.evergreenindiana.org/Record/5237314[Marriage License Book A, 1836-1844] +
 Adams County marriage license from 1836-1844|Call #er: INREF VR IN ADAMS
 
 |link:https://apls.evergreenindiana.org/Record/5237705[Index to census of 1870 and 1880, Adams County, IN]|Call #er: INREF CENSUS IN-AD 1870
