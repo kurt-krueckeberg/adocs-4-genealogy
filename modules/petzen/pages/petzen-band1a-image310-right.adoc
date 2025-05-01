@@ -7,7 +7,8 @@ The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the
 <<image310-right, 310^th^ image>>, the right-hand page, of **Confirmati 1757** of
 the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-== 
+== Confirmation Entry
+
 image::petzen-band1a-img310-right.jpg[align=left,title='Johann Heinrich Krückeberg Confirmed 1756 (Click to enlarge)',link=self]
 
 NOTE: No page number is written on this page.
