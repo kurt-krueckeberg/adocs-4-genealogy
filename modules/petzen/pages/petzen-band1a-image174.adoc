@@ -1,33 +1,35 @@
-=  1759 Ilse Margaretha Krückeberg Baptism
+= 1746 Anna Louisa Eleonora Krückeberg Baptism 
 :page-role: doc-width
 
 == Citation
 
-The baptism of Ilse Margaretha Krückeberg is on <<image200, image 200, right page, first entry>> of the Kfrom the  
-"database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
+The baptism appears on <<image174-left, image 174>> at the bottom of the left-hand
+page of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-The FamilySearch Tree-IDS [??TODO????].
+== Baptism Entry
 
-image::petzen-band1a-img200.jpg[align=left,title='Ilse Margarehta Krückeberg, right page of image 220, first entry (Click to enlarge)',link=self]
+The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 
+image::petzen-band2-img174-left2.jpg[align=left,title="Click to enlarge",link=self]
 
-[caption="Transliteration and Translation: "]
-.1759 Baptism of Ilse Margaretha Krückeberg
-[cols="l",frame="none"]
-|===
-<|1759                  Getaufte (Baptisms)
+.Transliteration
+....
+d. 26 Oct. Anna Louisa Eloenore Krückebergs getauft
+Pater _ _ _ Krückeberg aus Berenbusch Gevatter Röcsenbe[?]s
+Tochter aus 
+....
 
-|d 16 Sept. Ilse Margaretha Krückebergs
-des Johann Heinrich Krückebergs zu Berenbusch
-Tochter getauft. Gev[atterin] 3 Mädgens Wiesen, Engeltungs um
- 
-|On 16 Sept. Ilse Margaretha Krückeberg the daughter of 
-Johann Heinrich Krückebergs at Berenbusch
-was baptized. Sponsors 3 Mädgens Wiesen, Engelking [??]
-|===
+.Translation
+....
+26 Oct. Anna Louisa Eloenore Krückebergs baptized
+Father _ _ _ Krückeberg aus Berenbusch Gevatter Röcsenbe[?]s
+Tochter aus 
+....
 
 
 [bibliography]
 == References
 
-* [[[image200]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/aeb69c46c5/ : 2 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 200 of 322
+* [[[image174-left]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/33af16da2f/ :
+30 April 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 174 of 322, bottom entry of left-hand page
