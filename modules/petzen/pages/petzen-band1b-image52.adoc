@@ -1,11 +1,16 @@
 = 1761 Johann Heinrich Krückeberg Marriage
 :page-role: doc-width
 
-The marriage of Johann Heinrich TODO: finish
- 
-== Image 52
+== Citation
 
-The marriage entry is found on <<image-vo1b-52, image 52, year 1761, 14 June 1761>> of the Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
+The 1761 marriage of Johann Heinrich Krükkeberg from Bernbusch to Anna Christine Elisabet
+Senger from Evesen appears on <<image-vol1b-52, image 52>>, on the left-hand page (the pages
+are unnumbered).
+
+== Image 52, Top of Left Page
+
+The marriage entry is found on <<image-vo1b-52, image 52, year 1761, 14 June 1761>> of the
+Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
 
 image::petzen-band1b-img52.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
 
@@ -15,7 +20,7 @@ image::petzen-band1b-img52.jpg[title="Johann Heinrich Krückeberg Marriage(Click
 
 d 14ten Juni Johann Heinrich Krückkeberg
   aus Berenbusch mit Anne Chrisine Elisabet
- Senger[Senger/Sneger]s aus Evensen copuliert
+ Sengers aus Evensen copuliert
 ....
 
 .Translation
@@ -23,7 +28,7 @@ d 14ten Juni Johann Heinrich Krückkeberg
          Marriages                                                                   1761
 14th June Johann Heinrich Krückkeberg
   from Berenbusch married Anne Chrisine Elisabet
-  Senger[Senger/Sneger]s from Evensen
+  Senger from Evensen
 ....
 
 [bibliography]
