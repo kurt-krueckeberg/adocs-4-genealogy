@@ -10,7 +10,7 @@ page of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641
 
 The baptism is on the bottom of the left-hand page, the pages being unnumbered.
 
-image::petzen-band2-img174-left2.jpg[align=left,title="Click to enlarge",link=self]
+image::petzen-band2-img174-left.jpg[align=left,title="Click to enlarge",link=self]
 
 .Transliteration
 ....
