@@ -38,6 +38,6 @@ include::partial$nav-weiland.adoc[]
 * Under Investigation 
 +
 --
-include::partial$nav-weiland.adoc[]
+include::partial$nav-uninvestigation.adoc[]
 --
 
