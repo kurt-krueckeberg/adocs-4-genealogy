@@ -12,5 +12,10 @@ NOTE: Die von Nummer 51 beginnende Bilder sind verblasst.
 
 |5/01/2025|16-72
 
-|5/02/2025|71-117
+|5/02/2025|71-122
 |===
+
+To be processed in ~/temp:
+
+petzen-band1a-img120-bleeck.png
+petzen-band1a-img121-bleeck.png
