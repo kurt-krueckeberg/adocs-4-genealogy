@@ -136,9 +136,9 @@ from Bärenbusch
 
 .Child
 |===
-|Name|Birth Date|Baptism Date|Birth Time|Birth Order|Gender Birth Order
+|Name|Birth Date|Birth Time|Baptism Date|Birth Order|Gender Birth Order
 
-|Carl Friedrich Krückeberg|21 May 1807|24 May 1807|8 p.m.|2^nd^  child|1^st^ son
+|Carl Friedrich Krückeberg|21 May 1807|8 p.m.|24 May 1807|2^nd^  child|1^st^ son
 |===
 
 .Baptismal Witnesses
