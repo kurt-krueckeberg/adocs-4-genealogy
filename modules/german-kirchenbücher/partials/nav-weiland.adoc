@@ -24,7 +24,7 @@
 * xref:petzen:petzen-band2-image108.adoc[]
 * xref:petzen:petzen-band2-image115.adoc[]
 * xref:petzen:petzen-band2-image26.adoc[]
-* xref:petzen:petzen-band2-image125-32.adoc[]
+* xref:petzen:petzen-band2-image125-entry32.adoc[]
 * xref:petzen:petzen-band2-image28.adoc[]
 * xref:petzen:petzen-band2-image133.adoc#stillborn-daughter-of-friedrich-wilhelm-weiland-1815[1815 Stillborn daughter of Friedrich W. Weiland Birth]
 * xref:petzen:petzen-band2-image137.adoc[]
