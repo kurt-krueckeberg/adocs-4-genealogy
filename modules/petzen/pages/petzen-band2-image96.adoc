@@ -117,17 +117,39 @@ from Bärenbusch
 |===
 
 
-== Family Group
-//
-//.Father
-//|===
-//|Name|Living Place|Occupation|Birth place|Religion
-//
-//|Carl Friedrich Gottlieb|no. 14 Bärenbusch|Schneider und Einlieger +
-//(Tailor and landless tennant) |Lutheran
-//|=== 
+== Family Group Facts
 
+.Father
+|===
+|Name|Occupation|Dwelling Place|Birth place|Religion
 
+|Carl Friedrich Gottlieb|Schneider und Einlieger + (Tailor and landless tennant) |no. 14 Bärenbusch|no. 14 Bärenbusch|Lutheran
+|=== 
+
+.Mother
+|===
+|Name|Birth place|Religion
+
+|Philippinme Eleonore Bleeken|no. 11 Evesen|Lutheran
+|=== 
+
+.Child
+|===
+|Name|Birth Date|Baptism Date|Birth Time|Birth Order|Gender Birth Order
+
+|Carl Friedrich Krückeberg|21 May 1807|8 p.m.|24 May 1807|2^nd^  child|1^st^ son
+|===
+
+.Baptismal Witnesses
+|===
+|Name|Dwelling Place
+
+|Hans Heinrich Wilharm|No. 11 Evesen
+
+|Johann Heinrich Deerberg|No 0 the same place
+
+|Jobst Heinrich Krückeberg|Bärenbusch
+|===
 
 [bibliography]
 == References
