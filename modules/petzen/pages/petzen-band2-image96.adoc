@@ -123,7 +123,8 @@ from Bärenbusch
 |===
 |Name|Occupation|Dwelling Place|Birth place|Religion
 
-|Carl Friedrich Gottlieb|Schneider und Einlieger + (Tailor and landless tennant) |no. 14 Bärenbusch|no. 14 Bärenbusch|Lutheran
+|Carl Friedrich Gottlieb|Schneider und Einlieger +
+(Tailor and landless tennant) |no. 14 Bärenbusch|no. 14 Bärenbusch|Lutheran
 |=== 
 
 .Mother
