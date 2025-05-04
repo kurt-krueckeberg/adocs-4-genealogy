@@ -1,4 +1,4 @@
-= 1696 Henrich Bleecke 
+= 1710 Henrich Bleecke Baptism
 :page-role: doc-width
 
 == Citation
@@ -6,18 +6,21 @@
 The baptism of Henrich Bleecke is on <<image117, image 1117>>, left-hand page, 3^nd^ entry from the "Register of
 Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
-image::petzen-band1a-img117.png[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
+The enhanced image is below:
 
-.Trankribus Recognition
+image::petzen-band1a-img117.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
+
+.Transliteration
 ....
-Ana Jthabey Notarius Mit Kückeberg auf der Bücher
-ehelichs geheügter, Schel ein Hans Otto, getauft
-Stegattin, Notarien in Grundbühle
+den 24 Junÿ Henrich Bleecke aus/auf der
+banstans/banstau ein Sohn tauft lassen
+Nahmens Johann Henrich der Br.
+vatter war johan Notmeyer
 ....
 
 [bibliography]
 == References
 
-* [[[image89]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/d1037a9e53/ : 2 May 2025),
+* [[[image117]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9cf65653e8/ : 4 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784,
-image 117 of 322, left hand page
+image 117 of 322, left hand page, 3^rd^ entry.
