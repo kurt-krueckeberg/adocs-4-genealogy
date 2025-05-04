@@ -14,6 +14,8 @@ This is it enhanced:
 
 image::petzen-band1a-img89.png[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
 
+NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
+
 .Trankribus Recognition
 ....
 Ana Jthabey Notarius Mit Kückeberg auf der Bücher
