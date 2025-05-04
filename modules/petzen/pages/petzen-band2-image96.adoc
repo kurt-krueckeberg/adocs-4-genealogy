@@ -118,14 +118,14 @@ from Bärenbusch
 
 
 == Family Group
-
-.Father
-|===
-|Name|Living Place|Occupation|Birth place|Religion
-
-|Carl Friedrich Gottlieb|no. 14 Bärenbusch|Schneider und Einlieger +
-(Tailor and landless tennant) |Lutheran
-|=== 
+//
+//.Father
+//|===
+//|Name|Living Place|Occupation|Birth place|Religion
+//
+//|Carl Friedrich Gottlieb|no. 14 Bärenbusch|Schneider und Einlieger +
+//(Tailor and landless tennant) |Lutheran
+//|=== 
 
 
 
