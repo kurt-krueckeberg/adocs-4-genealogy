@@ -22,25 +22,16 @@ image::petzen-band2-img27-right-2.jpg[id="image27-right-2",align=left,title="Cli
 something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
 be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
 
-* **Anerbe** -- is not in Thode's German-English Genealogical Dictionary, but is defined in link:https://www.dict.cc/?s=Anerbe[dict.cc] as:
-"principal heir[to a landed estate];single heir
+* **Anerbe** -- is defined in link:https://www.dict.cc/?s=Anerbe[dict.cc] as: 
+** principal heir[to a landed estate]
+**single heir.
 +
-Anerbenrecht::
-
-"inheritance law keeping farms intact (in northern Germany and old Bavaria)." 
-
--- from Thode's German-English Genealogical Dictionary
-
-Anerbe::
-
-* "principal heir[to a landed estate]; single heir"
-
-* single heir
-
--- from link:https://www.dict.cc/?s=anerbe[Anerbe] in online dictionary link:https://dict.cc[dict.cc]
-
-Chatgpt offered this explanation
-
+**Anerbe** comes from **Anerbenrecht**, which is:
++
+"inheritance law keeping farms intact (in northern Germany and old Bavaria)." -- from Thode's German-English Genealogical Dictionary
++
+Chatgpt explained how **Anerbenrecht** operated in Schaumburg-Lippe:
++
 [quote]
 ____
 In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
@@ -58,16 +49,14 @@ settlements or other smaller arrangements ("Abfindung").
 * The Anerbe took on responsibility for supporting aging parents and sometimes
 helping siblings until they could establish themselves elsewhere.
 
-In your Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
+In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
 that:
 
 * He was the successor to a farmstead or property.
-
 * He had a certain social and financial standing in the village.
-
 * His status could affect marriage prospects, taxes, and legal responsibilities.
 ____
-
++
 * **Benner** -- Thode's defines this as: cooper.
 * **Leibzüchtner**(male)/**Leibzüchtnerin**(female) -- Thode's definition is: "person on life estate". He defines Leibzucht as: "life annuity; pension; life estate".
 ====
