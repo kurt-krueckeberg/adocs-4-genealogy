@@ -148,7 +148,7 @@ of the parish
 
 Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1826
 
-.Groom Johann Heinrich Jäger
+.Groom
 [%header,width=50%]
 |===
 |Grooms Name|Dwelling Place (on day of marriage)
@@ -156,7 +156,7 @@ Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1
 |Johann Heinrich Jäger|No. 5 Nordholz
 |===
 
-.Bride Philippine Christine Krückeberg
+.Bride
 [%header,width=50%]
 |===
 |Bride's Name|Dwelling Place (on day of marriage)
@@ -164,7 +164,7 @@ Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1
 |Philippine Christine Krückeberg|no. 18 Berenbusch
 |===
 
-.Father of Groom Johann Heinrich Jäger
+.Father of Groom
 [%header,width=50%]
 |===
 |Groom's Father|His Dwelling Place
@@ -172,7 +172,7 @@ Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1
 |Johann Heinrich Jäger|no. 5 Nordholz
 |===
 
-.Father of Bride Philippine Christine Krückeberg
+.Father of Bride
 [%header,width=50%]
 |===
 |Bride's Father|His Dwelling Place
