@@ -1,16 +1,15 @@
 = 1826 Philippine Christine Krückeberg Marriage
 :page-role: doc-width
 
-In 1826 Philippine Christine Krückeberg, daughter of Carl Friedrich Gottlieb Krückeberg, married Johann Heinrich Jäger. 
+In 1826 Philippine Christine Krückeberg, daughter of Carl Friedrich Gottlieb Krückeberg, married Johann Heinrich Jäger,
+son of Johann Heinrich Jäger. 
 
 == Citation
 
-The marriage record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
+The marriage record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
 
-== Record
-
-The image below shows the page and column headings for pages 736 and 737:
-
+.Page and Column Headings for pages 736 and 737
 image::petzen-band2-img355-header.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
 === Marriage Record
@@ -22,7 +21,7 @@ image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (
 image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",link=self]
 
 [,text]
-.Transliteration of pages 736 and 737 header
+.Transliteration Header for pages 736 and 737
 ----
 736                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                  im Jahr (in the year) 1826                      737
 ----
@@ -145,6 +144,31 @@ of the parish
 |[empty]
 |===
 
+== Family Group and Other Facts
+
+Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1826
+
+.Father of Groom Johann Heinrich Jäger
+|===
+|Name|Dwelling Place
+
+|Johann Heinrich Jäger|no. 5 Nordholz
+|===
+
+.Father of Bride Philippine Christine Krückeberg
+|===
+|Name|Dwelling Place
+
+|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
+|===
+
+
+.Groom Johann Heinrich Jäger
+|===
+|Name|Dwelling Place (on day of marriage)
+
+|Johann Heinrich Jäger|No. 5 Nordholz
+|===
 
 
 [bibliography]
