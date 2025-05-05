@@ -151,7 +151,7 @@ Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1
 .Groom
 [%header,width=50%]
 |===
-|Grooms Name|Dwelling Place (on day of marriage)
+|Groom's Name|Dwelling Place (on day of marriage)
 
 |Johann Heinrich Jäger|No. 5 Nordholz
 |===
