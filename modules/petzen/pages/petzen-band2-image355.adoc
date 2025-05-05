@@ -4,27 +4,11 @@
 In 1826 Philippine Christine Krückeberg, daughter of Carl Friedrich Gottlieb Krückeberg, married Johann Heinrich Jäger,
 son of Johann Heinrich Jäger. 
 
-== Citation
+== Family Group and Other Facts
 
-The marriage record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften,
-Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
-
-.Page and Column Headings for pages 736 and 737
-image::petzen-band2-img355-header.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
-
-=== Marriage Record
-
-The marriage record is entry #8 on poages 736 and 737.
-
-image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (Click to enlarge)",link=self]
-
-image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",link=self]
-
-[,text]
-.Transliteration Header for pages 736 and 737
-----
-736                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                  im Jahr (in the year) 1826                      737
-----
+Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1826. He was the
+Anerbe, the designated heir the family property or farmland, which gave him a certain social
+and financial standing in the village.
 
 [NOTE]
 .Meaning of **Anerbe**
@@ -75,6 +59,61 @@ that:
 ____
 
 ====
+
+.Groom
+[%header,width=50%]
+|===
+|Groom's Name|Dwelling Place (on day of marriage)
+
+|Johann Heinrich Jäger|No. 5 Nordholz
+|===
+
+.Bride
+[%header,width=50%]
+|===
+|Bride's Name|Dwelling Place (on day of marriage)
+
+|Philippine Christine Krückeberg|no. 18 Berenbusch
+|===
+
+.Father of Groom
+[%header,width=50%]
+|===
+|Groom's Father|His Dwelling Place
+
+|Johann Heinrich Jäger|no. 5 Nordholz
+|===
+
+.Father of Bride
+[%header,width=50%]
+|===
+|Bride's Father|His Dwelling Place
+
+|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
+|===
+
+
+== Citation
+
+The marriage record is on <<image355, image 355, pages 736 and 737,>> of the Petzen Kirchenbuch _Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827_.
+
+.Page and Column Headings for pages 736 and 737
+image::petzen-band2-img355-header.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
+
+=== Marriage Record
+
+The marriage record is entry #8 on poages 736 and 737.
+
+image::petzen-band2-img355-736.jpg[align=left,title="Entry portion on page 736 (Click to enlarge)",link=self]
+
+image::petzen-band2-img355-737.jpg[align=left,title="Entry portion on page 737 (Click to enlarge)",link=self]
+
+[,text]
+.Transliteration Header for pages 736 and 737
+----
+736                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)                  im Jahr (in the year) 1826                      737
+----
 
 [caption="Transliteration and translation: "]
 .Marriage entry No. 8.
@@ -142,42 +181,6 @@ and 6^th^ of Aug.
 |in the presence +
 of the parish
 |[empty]
-|===
-
-== Family Group and Other Facts
-
-Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1826
-
-.Groom
-[%header,width=50%]
-|===
-|Groom's Name|Dwelling Place (on day of marriage)
-
-|Johann Heinrich Jäger|No. 5 Nordholz
-|===
-
-.Bride
-[%header,width=50%]
-|===
-|Bride's Name|Dwelling Place (on day of marriage)
-
-|Philippine Christine Krückeberg|no. 18 Berenbusch
-|===
-
-.Father of Groom
-[%header,width=50%]
-|===
-|Groom's Father|His Dwelling Place
-
-|Johann Heinrich Jäger|no. 5 Nordholz
-|===
-
-.Father of Bride
-[%header,width=50%]
-|===
-|Bride's Father|His Dwelling Place
-
-|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
 |===
 
 
