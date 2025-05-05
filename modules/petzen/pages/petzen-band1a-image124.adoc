@@ -6,7 +6,9 @@
 The baptism of Anna Engel Bleecke is on <<image124, image 124>>, left-hand page, 3^nd^ entry from the top, of
 the "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-The enhanced image is below:
+Two enhanced images of the original are below:
+
+image::petzen-band1a-img124-alternate-left-page-bleeke.jpg[align=left,title='Anna Engel Bleecke, image 124, left page (Click to enlarge)',link=self]
 
 image::petzen-band1a-img124-left-page-bleeke.jpg[align=left,title='Anna Engel Bleecke, image 124, left page (Click to enlarge)',link=self]
 
