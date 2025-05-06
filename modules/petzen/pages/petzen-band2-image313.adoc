@@ -28,7 +28,7 @@
 |===
 
 
-.Sidebar
+.What is a Leibzüchter?
 ****
 [NOTE]
 ====
