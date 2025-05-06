@@ -9,7 +9,7 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 
 These terms often overlapped, but they are not identical:
 
-[%header,width="60%"]
+[%header,cols="1,1,3",width="60%"]
 |===
 |Term|Focus|Meaning
 
