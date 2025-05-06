@@ -10,6 +10,38 @@ Johann Heinrich Jäger married Philippine Chrisitine Krückeberg on 15 October 1
 Anerbe, the designated heir the family property or farmland, which gave him a certain social
 and financial standing in the village.
 
+.Groom
+[%header,width=50%]
+|===
+|Groom's Name|Dwelling Place (on day of marriage)
+
+|Johann Heinrich Jäger|No. 5 Nordholz
+|===
+
+.Bride
+[%header,width=50%]
+|===
+|Bride's Name|Dwelling Place (on day of marriage)
+
+|Philippine Christine Krückeberg|no. 18 Berenbusch
+|===
+
+.Father of Groom
+[%header,width=50%]
+|===
+|Groom's Father|His Dwelling Place
+
+|Johann Heinrich Jäger|no. 5 Nordholz
+|===
+
+.Father of Bride
+[%header,width=50%]
+|===
+|Bride's Father|His Dwelling Place
+
+|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
+|===
+
 [NOTE]
 .Meaning of **Anerbe**
 ====
@@ -59,38 +91,6 @@ that:
 ____
 
 ====
-
-.Groom
-[%header,width=50%]
-|===
-|Groom's Name|Dwelling Place (on day of marriage)
-
-|Johann Heinrich Jäger|No. 5 Nordholz
-|===
-
-.Bride
-[%header,width=50%]
-|===
-|Bride's Name|Dwelling Place (on day of marriage)
-
-|Philippine Christine Krückeberg|no. 18 Berenbusch
-|===
-
-.Father of Groom
-[%header,width=50%]
-|===
-|Groom's Father|His Dwelling Place
-
-|Johann Heinrich Jäger|no. 5 Nordholz
-|===
-
-.Father of Bride
-[%header,width=50%]
-|===
-|Bride's Father|His Dwelling Place
-
-|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
-|===
 
 
 == Citation
