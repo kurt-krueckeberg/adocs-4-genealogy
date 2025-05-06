@@ -35,16 +35,6 @@ Mutter s|Wohnort +
 der +
 Eltern s|Taufzeugen
 
-|Number|Child's Name|Number|Birth time +
-and Place|Baptism Time +
-and +
-Place |Name, Job, Religion +
-and Birth place of Father |Name, Religion +
-and Birth Place of +
-Mother|Residence + 
-of +
-Parents|Baptism Witnesses
-
 |37
 |Heinrich Wilehlm +
 Weiland
@@ -66,6 +56,23 @@ auf n. 20
 in Evesen
 |Johann Henrich Sieckmann +
 Einlieger in Bärenbusch
+|===
+
+[caption="Transliteration and Translation: "]
+.Heinrich Wilhelm Weiland Baptism and Birth
+[%autowidth,frame="none"]
+|===
+9+l|266         Geboren im Kirchspiele Petzen (births in Petzen church parish)               im Jahr (in the year) 1815                            267
+
+|Number|Child's Name|Number|Birth time +
+and Place|Baptism Time +
+and +
+Place |Name, Job, Religion +
+and Birth place of Father |Name, Religion +
+and Birth Place of +
+Mother|Residence + 
+of +
+Parents|Baptism Witnesses
 
 |37
 |Heinrich Wilehlm +
@@ -89,6 +96,7 @@ in Evesen
 |Johann Henrich Sieckmann +
 farm laborer in Bärenbusch
 |===
+
 
 
 [bibliography]
