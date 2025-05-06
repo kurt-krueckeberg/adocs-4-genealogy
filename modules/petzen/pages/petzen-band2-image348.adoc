@@ -3,9 +3,46 @@
 
 In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krückeberg, married Johann Heinrich Klöpper.
 
+[NOTE]
+====
+=== Taglöhner vs. Einlieger:
+These terms often overlapped, but they are not identical:
+
+[%header]
+|===
+|Term|Focus|Meaning
+
+|Taglöhner|Occupation|A person who earned wages by the day (usually manual labor)
+
+|Einlieger|Residence / social class|A person who lived as a tenant or lodger on someone else's property, usually without land
+|===
+
+So:
+
+* A man could be both a **Taglöhner** and an **Einlieger**
+
+* Taglöhner = what he did to survive
+
+* Einlieger = his place in the village structure
+
+=== In your marriage record:
+
+If the groom is listed as “Taglöhner” under Stand, that tells us:
+
+He was socially low-status, likely poor or modest in means
+
+He did not own land or a permanent business
+
+He worked for daily or seasonal wages, often in farming, construction, or other labor
+
+This was a very common status in rural German territories like Schaumburg-Lippe, especially during population growth in the early
+1800s, when there were too many people and too little land to go around.
+====
+
 == Citation
 
-The marriage record is on <<image348, image 348, on pages 722 and 723>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The marriage record is on <<image348, image 348, on pages 722 and 723>>, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 == Pages 722 and 723
 
