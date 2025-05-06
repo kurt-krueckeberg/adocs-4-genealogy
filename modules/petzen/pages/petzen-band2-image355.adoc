@@ -42,7 +42,7 @@ and financial standing in the village.
 |Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
 |===
 
-.Meaning of **Anerbe**
+.Anerbe Explained
 ****
 [NOTE]
 ====
@@ -59,8 +59,6 @@ Anerbe::
 * "principal heir[to a landed estate]; single heir"
 
 * single heir
-
--- from link:https://www.dict.cc/?s=anerbe[Anerbe] in online dictionary link:https://dict.cc[dict.cc]
 ====
 
 In 1826, in Schaumburg-Lippe, "Anerbe" had a specific legal and social meaning
@@ -78,7 +76,7 @@ settlements or other smaller arrangements ("Abfindung").
 * The Anerbe took on responsibility for supporting aging parents and sometimes
 helping siblings until they could establish themselves elsewhere.
 
-In your Kirchenbuch entry, if someone is called an "Anerbe," it likely signals
+If someone is called an "Anerbe," it likely signals
 that:
 
 * He was the successor to a farmstead or property.
@@ -87,7 +85,6 @@ that:
 
 * His status could affect marriage prospects, taxes, and legal responsibilities.
 ****
-
 
 == Citation
 
