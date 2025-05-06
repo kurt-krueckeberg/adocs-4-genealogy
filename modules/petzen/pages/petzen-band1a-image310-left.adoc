@@ -17,9 +17,9 @@ image::petzen-band1a-img310-left.jpg[align=left,title='Sophie Maria Krückeberg 
 ....
                    Confirmati 1755
 
-Anna Ilse Margarethe Harmenings Röcke +
-Anna Elisabeth Röseners Röcke +
-Sophie Maria Krückeberg aus Berenbusch +
+Anna Ilse Margarethe Harmenings Röcke
+Anna Elisabeth Röseners Röcke
+Sophie Maria Krückeberg aus Berenbusch
 Charlotte Dieckmans (Einliegers) Röcke
 ....
 
@@ -38,9 +38,9 @@ etc.).
 ....
                    Confirmed 1755
 
-Anna Ilse Margarethe Harmenings Röcke +
-Anna Elisabeth Röseners Röcke +
-Sophie Maria Krückeberg from Berenbusch +
+Anna Ilse Margarethe Harmenings Röcke
+Anna Elisabeth Röseners Röcke
+Sophie Maria Krückeberg from Berenbusch
 Charlotte Dieckmans, daughter of an Einlieger, Röcke
 ....
 
