@@ -46,7 +46,8 @@ and financial standing in the village.
 ****
 [NOTE]
 ====
-The groom is described as the "Sohn u[nd] **Anerbe** des Johann Heinrich Jäger (son an principal heir of Johann Heinrich Jäger)", defined as:
+The groom is described as the "Sohn u[nd] **Anerbe** des Johann Heinrich Jäger (son an principal heir of Johann Heinrich Jäger)".
+**Anerbe** was part of the **Anerbenrecht**:
 
 Anerbenrecht::
 
