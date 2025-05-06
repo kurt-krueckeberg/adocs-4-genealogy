@@ -89,7 +89,7 @@ image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self
 
 [caption="Transliteration 1: "]
 .Marriage entry No. 6.
-[%header,%autowidth,frame="none"]
+[%header,cols="1,5,5,4,4,4,4,2",frame="none"]
 |===
 |Zahl |Name, Stand, Religion +
 u. Eltern des Bräutigams |Name, Religion +
@@ -126,7 +126,7 @@ der Beichtenden
 
 [caption="Translation 1: "]
 .Marriage entry No. 6.
-[%header,%autowidth,frame="none"]
+[%header,cols="1,5,5,4,4,4,4,2",frame="none"]
 |===
 |No. |Name, Occupation, Religion, +
 Parents des Bräutigums |Name, Religion +
