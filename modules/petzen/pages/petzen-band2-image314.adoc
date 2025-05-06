@@ -4,6 +4,7 @@
 == Family Group and Other Facts
 
 .Decedent
+[%header,width=70%]
 |===
 |Name|Occupation|Residence|Religion
 
@@ -11,6 +12,7 @@
 |===
 
 .Decedent Facts 
+[%header,width=70%]
 |===
 |Place of Death|Time and Date|Cause of Death|Date of Burial|Place of Burial
 
@@ -18,6 +20,7 @@
 |===
 
 .Decedant Survivors
+[%header,width=50%]
 |===
 |Surivors
 
