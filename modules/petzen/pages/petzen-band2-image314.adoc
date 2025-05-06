@@ -3,7 +3,8 @@
 
 == Citation
 
-The death of Jobst Heinrich Krückeberg in 1822 is recorded on <<image314, image 314, on pages 654 and 654>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+The death of Jobst Heinrich Krückeberg in 1822 is recorded on <<image314, image 314, on pages 654 and 654>> of Petzen Kirchenbuch:
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 === Pages 654 and 655
 
@@ -95,6 +96,7 @@ namely 3 daughters and +
 |===
 
 
-* [[[image314]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/591dfa54f9/ : 25 October 2023), path: Niedersachsen > Niedersächsisches
-Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357
+* [[[image314]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/591dfa54f9/ :
+* 25 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche
+Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 314 of 357
 
