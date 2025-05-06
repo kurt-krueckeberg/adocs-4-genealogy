@@ -29,6 +29,8 @@
 
 .What is a Schusteramtsmeister?
 ****
+[NOTE]
+====
 Jobst Heinrich's occupation was a **Schusteramtsmeiter**. This is a compound German word:
 
 * **Schuster:** Shoemaker or cobbler
@@ -39,6 +41,7 @@ Jobst Heinrich's occupation was a **Schusteramtsmeiter**. This is a compound Ger
 
 Thus, “Schusteramtsmeister” translates to “Master of the Shoemakers' Guild” or more precisely,
 “Guild Master of the Shoemakers”.
+====
 
 In the 19th-century German context, especially in regions like
 Schaumburg-Lippe, craftsmen were organized into guilds (Zünfte or Ämter). These
