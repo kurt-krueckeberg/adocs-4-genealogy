@@ -1,6 +1,72 @@
 = 1822 Johann Heinrich Krückeberg Death
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Decedent
+[%header,width=70%]
+|===
+|Name|Occupation/Status|Residence|Religion
+
+|Johann Heinrich Krückeberg|Liebzüchter (see below)|no. 10 Bärenbusch|Lutheran
+|===
+
+.Decedent Facts 
+[%header,width=70%]
+|===
+|Place of Death|Time and Date|Age|Cause of Death|Date of Burial|Place of Burial
+
+|Bärenbush|21 March 1822, 10 a.m.|debility of old age|78 years, 2 mo., 3 weeks|24 March 1822|Petzen
+|===
+
+.Decedant Survivors
+[%header,width=45%]
+|===
+|Surivors
+
+|2 sons
+|===
+
+=== Explanation of Leibzüchter
+
+The term **„Leibzüchter“** is an old and regionally specific German term, particularly used in areas
+like Schaumburg-Lippe, that refers to a retired farmer who retains a life estate on a farm--someone
+who has passed the working operation of the farm to a successor (usually a son) but continues to
+live on the farm with guaranteed rights.
+
+==== Literal Breakdown
+
+* Leib = body (here meaning “for life”)
+
+* Züchter = from ziehen, meaning “to cultivate,” “to rear,” or “to manage”
+
+So, **“Leibzüchter”** literally means **“one who cultivates or resides for life”**, but idiomatically
+it refers to a **retired farmer with lifelong residence rights.**
+
+==== Precise English Translations
+
+Depending on context, you could translate Leibzüchter as:
+
+* “Retired farmer with life tenancy”
+
+* “Life tenant farmer”
+
+* “Former farm owner with lifelong residence rights”
+
+* “Retired cultivator under a life estate”
+
+==== Historical and Legal Context
+
+In traditional German rural inheritance customs, especially under Anerbenrecht, the farm was passed on intact to a single heir (the Anerbe). The parents would:
+
+* Transfer ownership of the farm, and
+
+* Retain the right to live on the property (often in a secondary house or part of the main house),
+
+* Receive support (e.g. food, firewood, clothing, care), as laid out in a Leibgeding (a written contract of lifelong support).
+
+A **Leibzüchter** was typically the father who had formally transferred the farm and now lived under the terms of the Leibgeding.
+
 == Citation
 
 The death of Johann Heinrich Krückeberg Death in 1822 is found on <<image313, image 313, on pages 652 and 652>> of Petzen Kirchenbuch volume
@@ -76,8 +142,7 @@ or Married |Survivors |Remark[s]
 
 |5
 |Johann Heinrich Krückeberg, life-annuitant: +
- person living on a Leibzucht +
- or life estate
+Retired farmer with life tenancy
 |died the 21^st^ March +
 10am in Bärenbusch, and +
 was buried 24^th^ +
