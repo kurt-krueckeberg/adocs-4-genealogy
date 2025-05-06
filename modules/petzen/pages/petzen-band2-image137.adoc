@@ -9,7 +9,7 @@ The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<image137, ima
 
 Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a Weiland baptism.
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Pages 266-267 Header
 [cols="l",frame="none",options="noheader"]
 |===
@@ -58,7 +58,7 @@ in Evesen
 Einlieger in Bärenbusch
 |===
 
-[caption="Transliteration and Translation: "]
+[caption="Translation: "]
 .Heinrich Wilhelm Weiland Baptism and Birth
 [%autowidth,frame="none"]
 |===
