@@ -27,10 +27,9 @@
 |A wife, 3 daughters and one son
 |===
 
- 
-[IMPORTANT]
-====
-Jobst Heinrich's occupation **Schusteramtsmeiter** is a compound German word:
+.What is a Schusteramtsmeister?
+****
+ Jobst Heinrich's occupation was a **Schusteramtsmeiter**. This is a compound German word:
 
 * **Schuster:** Shoemaker or cobbler
 
@@ -48,7 +47,7 @@ quality standards, and trade practices. The Amtsmeister was a senior figure
 within the guild, often elected by fellow members, responsible for
 administrative duties, overseeing apprenticeships, ensuring quality control,
 and representing the guild in municipal matters.
-====
+****
 
 == Citation
 
