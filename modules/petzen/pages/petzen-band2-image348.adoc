@@ -10,7 +10,7 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |===
 |Name|Occupation/Status|Age|Dwelling|Religion
 
-|Widower Friedrich Wilhelm Drifftmeier|day laborer|42|n. 19 Bärenbusch|Lutheran
+|Widower Friedrich Wilhelm Drifftmeier|agricultural laborer|42|n. 19 Bärenbusch|Lutheran
 |===
 
 .Bride
@@ -31,40 +31,15 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 
 
 [NOTE]
-.Taglöhner vs. Einlieger:
+.Taglöhner
 ====
 
-These terms often overlapped, but they are not identical:
+A Taglöhner was an agricultural laborer who was paid on a daily basis, who likely worked
+under a contract.
 
-[%header,cols="1,2,3",width="70%"]
-|===
-|Term|Focus|Meaning
-
-|Taglöhner|Occupation|A person who earned wages by the day (usually manual labor)
-
-|Einlieger|Residence / social class|A person who lived as a tenant or lodger on someone else's property, usually without land
-|===
-
-So:
-
-* A man could be both a **Taglöhner** and an **Einlieger**
-
-* Taglöhner = what he did to survive
-
-* Einlieger = his place in the village structure
-
-**In the marriage record:**
-
-The groom is listed as “Taglöhner” under **Stand**, that tells us:
-
-* He was socially low-status, likely poor or modest in means
-
-* He did not own land or a permanent business
-
-* He worked for daily or seasonal wages, often in farming, construction, or other labor
-
-This was a very common status in rural German territories like Schaumburg-Lippe, especially during population growth in the early
-1800s, when there were too many people and too little land to go around.
+This was a very common status in rural German territories like
+Schaumburg-Lippe, especially during population growth in the early 1800s, when
+there were too many people and too little land to go around.
 ====
 
 == Citation
