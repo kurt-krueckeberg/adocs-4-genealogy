@@ -4,8 +4,9 @@
 In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krückeberg, married Johann Heinrich Klöpper.
 
 [NOTE]
+.Taglöhner vs. Einlieger:
 ====
-=== Taglöhner vs. Einlieger:
+
 These terms often overlapped, but they are not identical:
 
 [%header]
@@ -25,15 +26,15 @@ So:
 
 * Einlieger = his place in the village structure
 
-=== In your marriage record:
+**In the marriage record:**
 
-If the groom is listed as “Taglöhner” under Stand, that tells us:
+The groom is listed as “Taglöhner” under **Stand**, that tells us:
 
-He was socially low-status, likely poor or modest in means
+* He was socially low-status, likely poor or modest in means
 
-He did not own land or a permanent business
+* He did not own land or a permanent business
 
-He worked for daily or seasonal wages, often in farming, construction, or other labor
+* He worked for daily or seasonal wages, often in farming, construction, or other labor
 
 This was a very common status in rural German territories like Schaumburg-Lippe, especially during population growth in the early
 1800s, when there were too many people and too little land to go around.
