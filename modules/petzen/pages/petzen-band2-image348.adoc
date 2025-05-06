@@ -6,6 +6,7 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 == Family Group and Other Facts
 
 .Groom
+[%header,width="70%",cols="4,2,2,2,2"]
 |===
 |Name|Occupation/Status|Age|Dwelling|Religion
 
