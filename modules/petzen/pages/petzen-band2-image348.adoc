@@ -78,7 +78,7 @@ The header and column headings for pages 722 and 723:
 
 image::petzen-band2-img348-heading.jpg[align=left,title="Page and column headings (Click to enlarge)",link=self]
 
-The marriage record:
+=== The Marriage Record
 
 image::petzen-band2-img348-722.jpg[align=left,title="Click to enlarge",link=self]
 
