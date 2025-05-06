@@ -14,17 +14,19 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |===
 
 .Bride
+[%header,width="60%",cols="4,2,2,2"]
 |===
-|Name|Age|Dwelling
+|Name|Age|Dwelling|Religion
 
-|Maiden/virgin Philippine Louise Eleonore Kruckeberg|29|n. 19 Evesen
+|Maiden/virgin Philippine Louise Eleonore Kruckeberg|29|n. 19 Evesen|Lutheran
 |===
 
 .Bride's Father
+[%header,width="60%",cols="4,2,2,2"]
 |===
-|Name|Status|Dwelling
+|Name|Status|Dwelling|Religion
 
-|Heinrich Krückeberg|deceased|n. 19 Evesen
+|Heinrich Krückeberg|deceased|n. 19 Evesen|Lutheran
 |===
 
 
