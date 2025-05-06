@@ -1,12 +1,58 @@
 = 1822 Jobst Heinrich Krückeberg Death
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Decedent
+|===
+|Name|Occupation|Residence|Religion
+
+|Jobst Heinrich Krückeberg|Guild Master of the Shoemakers|no. 10 Bärenbusch|Lutheran
+|===
+
+.Decedent Facts 
+|===
+|Place of Death|Time and Date|Cause of Death|Date of Burial|Place of Burial
+
+|Bärenbush|21 October 1822, 2 p.m.|Convulsions & Hemorrhanging|24 Oct 1822|Petzen
+|===
+
+.Decedant Survivors
+|===
+|Surivors
+
+|A wife, 3 daughters and one son
+|===
+
+ 
+[IMPORTANT]
+====
+Jobst Heinrich's occupation **Schusteramtsmeiter** is a compound German word:
+
+* **Schuster:** Shoemaker or cobbler
+
+* **Amt:** Office, guild, or administrative authority
+
+* **Meister:** Master
+
+Thus, “Schusteramtsmeister” translates to “Master of the Shoemakers' Guild” or more precisely,
+“Guild Master of the Shoemakers”.
+
+In the 19th-century German context, especially in regions like
+Schaumburg-Lippe, craftsmen were organized into guilds (Zünfte or Ämter). These
+guilds regulated the practice of their respective crafts, overseeing training,
+quality standards, and trade practices. The Amtsmeister was a senior figure
+within the guild, often elected by fellow members, responsible for
+administrative duties, overseeing apprenticeships, ensuring quality control,
+and representing the guild in municipal matters.
+====
+
 == Citation
 
 The death of Jobst Heinrich Krückeberg in 1822 is recorded on <<image314, image 314, on pages 654 and 654>> of Petzen Kirchenbuch:
 Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-=== Pages 654 and 655
+=== Death Record Pages 654 and 655 
 
 Page overview:
 
