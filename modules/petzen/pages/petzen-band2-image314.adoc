@@ -20,7 +20,7 @@
 |===
 
 .Decedant Survivors
-[%header,width=50%]
+[%header,width=45%]
 |===
 |Surivors
 
