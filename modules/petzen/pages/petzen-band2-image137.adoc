@@ -3,7 +3,9 @@
 
 == Citation
 
-The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<image137, image 137, pages 266-267>> of Petzen Kichenbuch volume "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
+The birth and baptism of Heinrich Wilhelm Weiland is entry 37 on <<image137,
+image 137, pages 266-267>> of Petzen Kichenbuch volume "Verzeichnis der
+Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 == Pages 266 and 267
 
@@ -19,6 +21,9 @@ Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a 
 |===
 
 image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)",link=self]
+
+NOTE: An **Einlieger/Einlinger** was a small farmer. (I am awaiting more information as to
+whether he was a tennant famer or might own his own land).
 
 [caption="Transliteration: "]
 .Heinrich Wilhelm Weiland Baptism and Birth
