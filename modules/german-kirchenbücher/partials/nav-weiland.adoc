@@ -14,7 +14,7 @@
 * xref:petzen:petzen-band2-image5-2.adoc[]
 * xref:petzen:petzen-band2-image6-1.adoc[]
 * xref:petzen:petzen-band2-image48.adoc[1790 Twins: Hans Heinrich and Carolina Weiland Baptism]
-* xref:petzen:petzen-bands2-image190-fwweiland.adoc[]
+* xref:petzen:petzen-band2-image190-fwweiland.adoc[]
 * xref:petzen:petzen-band2-image6-2.adoc[]
 * xref:petzen:petzen-band2-image12-1.adoc[]
 * xref:petzen:petzen-band2-image13-1.adoc[]
