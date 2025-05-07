@@ -55,6 +55,8 @@ Anerbenrecht::
 
 -- from Thode's German-English Genealogical Dictionary
 
+See German wikipedia article on https://de.wikipedia.org/wiki/Anerbenrecht[Anerbenrecht].
+
 Anerbe::
 
 * "principal heir[to a landed estate]; single heir"
