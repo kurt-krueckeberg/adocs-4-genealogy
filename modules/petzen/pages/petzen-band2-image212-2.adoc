@@ -4,6 +4,18 @@
 The confirmation of Carl Friedrich Krückeberg is on <<image212, image 212>>, on page 449. His name appears in the 
 top left column of confirmed **Knaben** or boys. He is listed third.
 
+== Family Group and Other Facts
+
+.Family Facts
+[%header,width=50%,cols="1,1,1"]
+|===
+Name|Dwelling|Approximate Age
+
+|Carl Friedrich Krückeberg|no. 14 Berenbusch|14
+|===
+
+NOTE: Confirmation happened around age 14.
+
 == Page 449, Top-left List of Knaben
 
 image::petzen-band2-img212-2.jpg[title="First entry, top-right column of Knaben, page 448 (Click to enlarge)",link=self]
