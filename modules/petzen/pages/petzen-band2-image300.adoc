@@ -55,7 +55,7 @@ oder verheÿrathet |Hinterbliebende |Bemerkerung
 |8
 |Philippine Dorothee Krücke- +
 bergs; Ehefrau des vormaligen +
-Hofmeisters auf dem Reinen: +
+Hofmeisters auf dem Reinen= +
 Neelhof Johann Heinrich +
 Krückeberg, Einlieger beÿ 13 +
 in Bärenbusch. Luth. Conf.
@@ -75,6 +75,15 @@ verheÿrathet ist
 |[empty]
 |===
 
+
+.The Meaning of the Equal Sign in This Record
+****
+NOTE: In the image, what looks like a hyphen after "Reinen" is an equal sign (albeit an abbreviated one).
+
+The meaning of the equal sign today would be equivalent to a dash. So **Reinen=Neelhof** would be in contemporarly
+English **Reinen-Neelhof**
+****
+
 [caption="Translation: "]
 .entry 1, in year 1819, for Philippine Dorothee Krückeberg
 [%header,%autowidth,frame="none"]
@@ -89,7 +98,7 @@ or Married s|Survivors |Remark[s]
 |8
 |Philippine Dorothee Krücke- +
 bergs; wife of the former +
-estate administrator of the Reinen: +
+estate administrator of the Reinen- +
 Neelhof Johann Heinrich +
 Krückeberg, agricultural laborer at +
 n. 13 in Bärenbusch. Luth. Conf. 
