@@ -35,7 +35,7 @@ include::partial$nav-soest-krueckeberg.adoc[]
 --
 include::partial$nav-weiland.adoc[]
 --
-* Under Investigation 
+* xref:petzen:underinvestigation.adoc[Under Investigation]
 +
 --
 include::partial$nav-uninvestigation.adoc[]
