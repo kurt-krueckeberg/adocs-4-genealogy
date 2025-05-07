@@ -5,17 +5,17 @@
 
 The death of  Philippine Dorothee Krückeberg in 1819 is found on <<image300, image 300, on pages 626 ad 627>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
-=== Pages 626 and 627
+== Pages 626 and 627
 
 Header and column headings:
 
 image::petzen-band2-img300-overview.jpg[title="Page 626 Overview (Click to enlarge)",link=self]
 
-Page 626:
+=== Page 626
 
 image::petzen-band2-img300-626.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)",link=self]
 
-Page 627:
+=== Page 627
 
 image::petzen-band2-img300-627.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)",link=self]
 
