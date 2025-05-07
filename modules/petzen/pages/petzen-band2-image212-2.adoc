@@ -9,7 +9,7 @@ top left column of confirmed **Knaben** or boys. He is listed third.
 .Family Facts
 [%header,width=50%,cols="1,1,1"]
 |===
-Name|Dwelling|Approximate Age
+|Name|Dwelling|Approximate Age
 
 |Carl Friedrich Krückeberg|no. 14 Berenbusch|14
 |===
