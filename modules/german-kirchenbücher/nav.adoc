@@ -38,6 +38,11 @@ include::partial$nav-weiland.adoc[]
 * xref:petzen:underinvestigation.adoc[Under Investigation]
 +
 --
+* Werkmeister
++
+--
+include::partial@nav-werkmeister.adoc[]
+--
 include::partial$nav-uninvestigation.adoc[]
 --
 
