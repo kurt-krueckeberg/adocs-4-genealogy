@@ -30,23 +30,18 @@ include::partial$nav-krueckeberg.adoc[]
 --
 include::partial$nav-soest-krueckeberg.adoc[]
 --
+* Werkmeister
++
+--
+include::partial$nav-werkmeister.adoc[]
+--
 * Weiland 
 +
 --
 include::partial$nav-weiland.adoc[]
 --
-+
---
-* Werkmeister
-+
---
-include::partial@nav-werkmeister.adoc[]
---
-+
 * xref:petzen:underinvestigation.adoc[Under Investigation]
 +
 --
 include::partial$nav-uninvestigation.adoc[]
 --
---
-
