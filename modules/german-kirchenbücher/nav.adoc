@@ -35,7 +35,6 @@ include::partial$nav-soest-krueckeberg.adoc[]
 --
 include::partial$nav-weiland.adoc[]
 --
-* xref:petzen:underinvestigation.adoc[Under Investigation]
 +
 --
 * Werkmeister
@@ -43,6 +42,11 @@ include::partial$nav-weiland.adoc[]
 --
 include::partial@nav-werkmeister.adoc[]
 --
++
+* xref:petzen:underinvestigation.adoc[Under Investigation]
++
+--
 include::partial$nav-uninvestigation.adoc[]
+--
 --
 
