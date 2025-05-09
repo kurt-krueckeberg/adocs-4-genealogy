@@ -1,0 +1,34 @@
+= 1739 Johann Wilhelm Krückeberg/Arinkenberg Baptized
+:page-role: doc-width
+
+The baptism of a Johann Wilhelm Krückeberg occurred 9 [Feb?] 1739. 
+
+== Citation
+
+The baptism entry is found on <<image157, image 157>>. It is the last entry at the bottom
+of the right-hand page (the pages being unnumbered). The year 1739 appears in the middle
+of the right page.
+
+== Baptism Record
+
+image::petzen-band1a-img157-krueckeberg.jpg[title="Unknown Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration 
+....
+9 [??] [Krückeberg/Arinkenberg] v. [? ?] ein Söhnl[ein] tauft
+lassen Johann Wilhelm ????
+sein Gevatter Valsing
+....
+
+.Translation
+....
+....
+
+
+[bibliography]
+== References
+
+* [[[image157]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/ddcc12cae4/ : 09 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+> Image 157 of 322, bottom enty on the right-hand page.
+
