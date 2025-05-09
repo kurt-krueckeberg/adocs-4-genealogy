@@ -1,0 +1,33 @@
+= 1736 Dorothea Elisabeth Krückeberg Baptized
+:page-role: doc-width
+
+The baptism of a ?? ?? Krückeberg, born in Berenbusch, occurred 29 July 1736. 
+
+== Citation
+
+The baptism entry is found on <<image152, image 152>>. It is the third entry from the top
+of the right-hand page (the pages being unnumbered). The year 1736 appears on the bottom
+entry of the prior page.
+
+== Baptism Record
+
+image::petzen-band1a-img152-krueckeberg.jpg[title="Unknown Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration 
+....
+d[en] 29 dito Krückeberg v. [? ?] ein Töchterlein tauft
+lassen Dorothea Elisabeth [Soldat? or Soldat Weiland?] Frau Gevatterin
+....
+
+.Translation
+....
+....
+
+
+[bibliography]
+== References
+
+* [[[image152]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/07af317ee9/ : 09 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+> Image 152 of 322
+
