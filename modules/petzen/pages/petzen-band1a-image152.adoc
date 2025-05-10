@@ -1,7 +1,7 @@
 = 1736 Dorothea Elisabeth Krückeberg Baptized
 :page-role: doc-width
 
-The baptism of a Dorothee Elisabeth Krückeberg occurred 29 July 1736. 
+The baptism of a Dorothea Elisabeth Krückeberg occurred 29 July 1736. 
 
 == Citation
 
@@ -11,7 +11,7 @@ entry of the prior page.
 
 == Baptism Record
 
-image::petzen-band1a-img152-krueckeberg.jpg[title="Unknown Krückeberg (Click to enlarge)",link=self]
+image::petzen-band1a-img152-krueckeberg.jpg[title="Dorothea Elisabeth Krückeberg (Click to enlarge)",link=self]
 
 .Transliteration 
 ....
