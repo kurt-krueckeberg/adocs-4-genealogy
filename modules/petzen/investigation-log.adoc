@@ -23,7 +23,7 @@ NOTE: Die von Nummer 51 beginnende Bilder sind verblasst.
 |5/09/2025|153-172 
 |===
 
-NOTE: Recheck 158-172. After 173 the image improve.
+NOTE: Recheck 155-172. After 173 the image improve.
 
 To be processed in ~/temp:
 
