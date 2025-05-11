@@ -23,21 +23,25 @@ Anno 1744
 
 [First three entries from 1744 ommitted...]
 
-d. 19 dito[meaning ditto. Thus 'Januar'] Krückeberg ein Söhnlein taufen laßen
- [benahmset = benamset = benennt = to name] Johann Heinrich, Gevatter sind G[eorg?]
-[?]rorkings Ahldags. [written very small, raised above the current line before the next word 'Sohn' followed
- by other words] Weiland in Behrenbusch. Watermanns
+d. 19 dito Krückeberg ein Söhnlein taufen laßen
+[benahmset. See note below = benamset = benennt = to name] Johann Heinrich, Gevatter sind G[eorg?]
+[Frerking/Frerkung] Ahldags. [see note below]  Weiland in Behrenbusch. Watermanns
 Soh[n?] von Nordholtz.
 ....
 
-NOTE: The surname "[?]rorking" appears on the previous image where it is clearly. Discerning its
-first leter in that image will lead to knowingthe first letter in this record.
+[NOTE]
+====
+* **dito** means **ditto** and thus the month of **Januar** (Janmuary).
+* The verb **benahmset** is apparently **benamset**, whose inifinitive is benennt meaing **to name**.
+* There are a few undecipherable words are written very small, raised above the line
+that begin before the word 'Sohn'
+====
 
 .Translation
 ....
 the 19th January a Krückeberg son was baptized
 named Johann Heinrich, Godfathers are G[eorg?]
-[?]rorkings  Ahldags. [small and written between the lines: 'son'] Weiland in Behrenbusch. Watermann's
+[Frerking/Frerkung]  Ahldag. [small and written between the lines: 'son'] Weiland in Behrenbusch. Watermann's
 son from Nordholtz.
 ....
 
