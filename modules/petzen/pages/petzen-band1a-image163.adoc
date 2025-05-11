@@ -1,0 +1,40 @@
+= 1741 Sophia Maria Krueckeberg Baptized
+:page-role: doc-width
+
+The baptism of a Johann Wilhelm Krückeberg occurred 9 [Feb?] 1739. 
+
+== Citation
+
+The baptism entry is found on <<image163, image 163>>. It is the third to last entry near the bottom
+of the left-hand page (the pages are unnumbered). It is the last entry in December of 1741, The year
+**1741** appears two pages previous.
+
+== Baptism Record
+
+image::petzen-band1a-img163.jpg[title="Sophia Maria Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration 
+....
+d 27t[en] Krueckeberg in Behrenbuschem ein Töchterlein Sophia
+Maria [genoch?] von der fr. Verwaltern Gaden
+von Höckersau getauft
+....
+
+NOTE: The month of December is written two entries above written as the abbreviation
+**Decemb**.
+
+.Translation
+....
+the 27th Krueckeberg in Behrenbuschem a little daughter Sophia
+Maria baptized [this word is undecipherable] from/of the wife of relative Gaden
+from Höckersau 
+....
+
+
+[bibliography]
+== References
+
+* [[[image163]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/ddcc12cae4/ : 10 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+> Image 163 of 322, left hand page, neabottom enty on the right-hand page.
+
