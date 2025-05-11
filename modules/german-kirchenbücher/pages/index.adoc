@@ -19,7 +19,7 @@ subscription, though.
 
 ==== The Bad and Good News
 
-The bad news is: the Frille digitalized church registers end with the
+The bad news is, the Frille digitalized church registers end with the
 year 1804, and the Petzen church registers end with 1827.
 
 However, for Frille, there are _Abschriften_ of its church registers that extend to more recent
