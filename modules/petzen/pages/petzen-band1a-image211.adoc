@@ -5,11 +5,15 @@ This is the baptism record of Jobst Krückeberg "Register of Baptism and Confirm
 
 == Citation
 
-The baptism of Jobst Heinrich Krückeberg is on <<image211, image 211, left page, first entry>> from the  
-"Register of Baptism and Confirmed of the Petzen Parish, 1641-1784"
+The baptism of Jobst Heinrich Krückeberg is on <<image211, image 211>> left page, fourth entry from the top, in the
+"Verzeichnis der Getauften und Konfirmierten 1641-1784" (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784).
 
 Jobst Heinrich Krückeberg is in the FamilySearch with Tree-ID of link:https://www.familysearch.org/tree/person/details/G8S2-DWT[G8S2-DWT]. Below is
 the header for image 211.
+
+== Baptism Record
+
+=== Page Header
 
 image::petzen-band1a-img211-header.jpg[align=left,title='Page header for image 211, left page (Click to enlarge)',link=self]
 
@@ -19,8 +23,11 @@ The page header transliteration:
 1765                  Getaufte (Baptisms)
 ----
 
+=== Baptism Entry
+
 Below is the image of the baptism record for Jobst Heinrich Krückeberg, who was born in 1765.
 
+image::petzen-band1a-img211.jpg[align=left,title='Jobst Heinrich Krückeberg Baptism (Click to enlarge)',link=self]
 
 [caption="Transliteration: "]
 .1765 Baptism of Jobst Heinrich Krückeberg
@@ -28,7 +35,7 @@ Below is the image of the baptism record for Jobst Heinrich Krückeberg, who was
 |===
 l|24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich
    Krückebergs aus Berenbusch ehelich Sohn getauft
-   Gevatter war Rösener aus Evesen im [___] [Bruch][e/n]
+   Gevatter war Rösener aus Evesen im kurzen Bruche
 |===
 
 
@@ -38,7 +45,7 @@ l|24 Mar[tz] Jobst Heinrich Krückeberg Johann Heinrich
 |===
 l|24 March Jobst Heinrich Krückeberg Johann Heinrich
    Krückeberg's from Berenbusch legitimate son baptized
-   Godfather was Rösener from Evesen in the [___] [Bruch][e/n]
+   Godfather was Rösener from Evesen in the "kurzen Bruche" [short marshland or thicket]
 |===
 
 
