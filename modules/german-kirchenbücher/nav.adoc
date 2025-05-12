@@ -6,9 +6,10 @@
 * xref:frille:frille-area-map.adoc[]
 * xref:frille:index.adoc[Frille Kirchenbücher]
 * Bleeke 
+** Frille
 +
 --
-include::partial$nav-bleeke.adoc[]
+include::partial$nav-bleeke-frille.adoc[]
 --
 * Buuck 
 +
