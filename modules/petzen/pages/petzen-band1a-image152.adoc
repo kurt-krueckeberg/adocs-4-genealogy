@@ -15,15 +15,18 @@ image::petzen-band1a-img152-krueckeberg.jpg[title="Dorothea Elisabeth Krückeber
 
 .Transliteration 
 ....
-d[en] 29 dito Krückeberg v. [? ?] ein Töchterl[ein] tauft
+d[en] 29 dito Krückeberg v. [b/ß b/ß] ein Töchterl[ein] tauft
 lassen Dorothea Elisabeth Soldat Weilands Frau Gevatterin
 ....
 
 .Translation
 ....
-The 29 January Krückeberg v. [no clue] a little daughter was
+The 29 January Krückeberg v. [Berenbusch: see note] a little daughter was
 baptized Dorothea Elisabeth Soldier Weiland's wife godmother.
 ....
+
+NOTE: If the two characters following "v. [von=of, from]" are two b's, they might be abbreviations
+for Berenbusch. 
 
 
 [bibliography]
