@@ -11,7 +11,7 @@
 --
 include::partial$nav-bleeke-frille.adoc[]
 --
-** Petzen
+** xref:bleeke-petzen.adoc[]
 +
 --
 include::partial$nav-bleeke-petzen.adoc[]
