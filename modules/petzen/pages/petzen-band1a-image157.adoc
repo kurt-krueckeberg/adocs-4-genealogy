@@ -15,13 +15,30 @@ image::petzen-band1a-img157-krueckeberg.jpg[title="Johann Wilhelm Krückeberg (C
 
 .Transliteration 
 ....
-9 [??] [Krückeberg/Arinkenberg] v. [? ?] ein Söhnl[ein] tauft
+11 [hÿ/hiÿ] [Krückeberg/Arinkenberg] v. [B.? B.?] ein Söhnl[ein] tauft
 lassen Johann Wilhelm [????] [???]
 sein Gevatter Valsing
 ....
 
+.Meaning of "hÿ" 
+****
+[NOTE]
+====
+The most likely interpretation of "hÿ" in this context is:
+ 
+**"heÿrath Leute"**, abbreviated for "heirat Leute" – meaning "married couple".
+
+So:
+* **"11 hÿ Krückeberg"** would mean:
+** "On the 11th, married couple Krückeberg
+====
+****
+
 .Translation
 ....
+11 the married couple [Krückeberg/Arinkenberg] v. [Berenbusch] ein Söhnl[ein] tauft
+lassen Johann Wilhelm [????] [???]
+sein Gevatter Valsing
 ....
 
 
