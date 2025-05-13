@@ -18,18 +18,14 @@ image::petzen-band1a-img220-left.jpg[align=left,title='Johann Heinrich Krückebe
 
 .Comments on the significant wording change in these baptismal entries
 ****
-
 [NOTE]
-.Eodem explained
+.**Eodem** explained
 ====
 `Eodem` means "on the same day" and refers to the date on the prior
 entry: 5 July 1767.
 
-
-The wording of the baptismal entries found on this page diverges
-significantly from previous baptismal entries. Unlike all previous baptismal 
-entries the infant's name is not the name that appears first. To understand this,
-consider this word-for-word English substitution for the German:
+Unlike previous baptismal entries the infant's name does not appears first. To understand this,
+below is the word-for-word English substitution of the German:
 
 ....
 Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus  | is here baptized Johann Heinrich Kruckeberg's from
@@ -39,7 +35,6 @@ Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus  | is here baptized Jo
     Heinrich Weiland aus Berenbusch.                       | Heinrich Weiland from Berenbusch
 ....
 ====
-
 ****
 
 
