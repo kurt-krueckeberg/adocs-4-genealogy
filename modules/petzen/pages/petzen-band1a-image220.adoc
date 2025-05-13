@@ -37,25 +37,25 @@ Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus  | is here baptized Jo
 ====
 ****
 
+.Transliteration of Page Header and 1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+....
+1776                  Getaufte 
 
-[caption="Transliteration and Translation: "]
-.1767 Baptism of Johann Heinrich Wilhelm Krückeberg
-[cols="l",frame="none"]
-|===
-<|1776                  Getaufte (Baptisms)
- 
 
 Eodem) ist alhier getauft Johann Heinrich Kruckebergs aus
     Berenbusch mit seiner Ehefrau Anne Christine Elisabeth
     Seegers erzeugter Sohn und genant worden Johann 
     Heinrich Wilhelm von seinem Gevatter Jobst
     Heinrich Weiland aus Berenbusch.
+....
 
-|On the same day) Johann Heinrich Krukeberg's from Berenbusch
-    and his wife Anne Christine Elisabeth Seeger's begotten
-    son was baptized and was named[called] Johann Heinrich Wilhelm
-    by his godfather Jobst Heinrich Weiland from Berenbusch.
-|===
+
+.Translation of Page Header and 1767 Baptism of Johann Heinrich Wilhelm Krückeberg
+....
+On the same day) The begotten son of Johann Heinrich Krukeberg from Berenbusch
+    and his wife Anne Christine Elisabeth Seeger was baptized and was named[called]
+    Johann Heinrich Wilhelm by his godfather Jobst Heinrich Weiland from Berenbusch.
+....
 
 
 [bibliography]
