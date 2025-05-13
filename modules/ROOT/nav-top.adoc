@@ -1,7 +1,7 @@
 :navtitle: Overview
 * xref:index.adoc[Overview]
 * xref:schaumburg-lippe-background.adoc[]
-** xref:schaumburg-lippe-marriage-approval.adoc[Marriage Approval]
+** xref:schaumburg-lippe-marriage-approval.adoc[Marriage Approval Requirements]
 * xref:genealogy-sources.adoc[]
 ** xref:germ-hist-geo.adoc[]
 ** xref:schaumburg-lippe-sources.adoc[]
