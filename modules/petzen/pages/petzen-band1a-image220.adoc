@@ -19,7 +19,7 @@ image::petzen-band1a-img220-left.jpg[align=left,title='Johann Heinrich Krückebe
 .Comments on the significant wording change in these baptismal entries
 ****
 [NOTE]
-.**Eodem** explained
+.Meaning of "Eodem" Explained
 ====
 `Eodem` means "on the same day" and refers to the date on the prior
 entry: 5 July 1767.
