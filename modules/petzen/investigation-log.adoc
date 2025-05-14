@@ -28,8 +28,10 @@ NOTE: Die von Nummer 51 beginnende Bilder sind verblasst.
 
 |5/13/2025|211-263
 
-|5/13/2025|263-280
+|5/14/2025|263-295 (note cathecisms start on image 295)
 |===
 
-TODO:To be processed in ~/temp are several Blecke/Bleke/Blecken
+TODO:
+* Start cathecisms
+* To be processed in ~/temp are several Blecke/Bleke/Blecken
 images.
