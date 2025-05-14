@@ -42,28 +42,32 @@ the death date. It is displayed separately for the sake of clarity.
 
 ****
 
-[caption="Transliteration and Translation: "]
-.1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
-[cols="l",frame="none"]
-|===
-^|Getaufte                                                               1779
+.Transliteration of 1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
+....
+Getaufte                                                               1779
+
+15)       d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
+ +        des Johann Heinrich Krückebergs aus Berenbusch
+ 13 [oct] 1838    mit seiner Ehefrau Anna Maria geb. Schekeln
+          erzeugter Sohn getauft. der Gevatter war
+          Otto Rösener Hoffmeister auf der Höckersau 
+....
+
+.Translation
+....
 Baptisms                                                                1779 
 
-|15) d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
-     des Johann Heinrich Krückebergs aus Berenbusch
-     mit seiner Ehefrau Anna Maria geb. Schetele [or: Schekele]
-     erzeugter Sohn getauft. der Gevatter war
-     Otto Rösener Hoffmeister auf der Höckersau 
 
-|15) On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
-     baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch
-     and his wife Anna Maria geb. [Schetel/Schekel][e/n].
-     The godfather was Otto Rösener estate administrator[or: child's tutor]
-     on the Höckersau [estate].
-|===
+15)         On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
+  +         baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch
+  13 [oct]  and his wife Anna Maria nee Schekeln
+            The godfather was Otto Rösener estate administrator[or: child's tutor]
+            on the Höckersau[estate].
+....
 
 
-The death date is noted in left margin; however, the month is not dicernable. It may be _Oktober_?
+NOTE: The death date is indicated by the `+` sign in left margin; however, the month is not dicernable.
+It may be _Oktober_?
 
 .Death notation in left margin:
 [cols="",frame="none", grid="none", options="noheader"]
