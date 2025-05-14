@@ -1,0 +1,7 @@
+= Immanuel Lutheran
+
+This is a suggested xref:attachment$toc-immanuel.pdf[Table of Contents] for the Immanuel Lutheran, Decatur, Indiana, Kirchenbuch.
+
+NOTE: Page 38 (two marriages from 1905) was out of place. Page 38 needs to be
+moved into position 205. After you make this adjustment, the page numbers shown
+in the "table of contents" should be correct.:

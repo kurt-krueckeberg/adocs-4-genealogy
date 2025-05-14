@@ -11,4 +11,15 @@ include::partial$nav-bleeke-vol1.adoc[]
 --
 include::partial$nav-bleeke-vol2.adoc[]
 --
+* xref:immanuel-lutheran:index.adoc[]
+//** Bleeke
+// +
+// --
+// include::partial$nav-bleeke.adoc[]
+// --
+// ** Krückeberg
+// +
+// --
+// include::partial$nav-krueckeberg.adoc[]
+// --
 
