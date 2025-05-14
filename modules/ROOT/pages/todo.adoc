@@ -1,12 +1,18 @@
 = Plans
 
-Look for the early 18th century "Kruckeberg/Kruckeberg" image -- and maybe also .adoc file -- the one that
-I am not sure is truly "us" or someone named "Kuckeberg" and whether that person's child is being baptized.
+* According to the link:https://www.online-ofb.de/famlist.php?ofb=petzen&b=A&lang=de[Gesamtliste der Famieliennamen]
+for the link:https://www.online-ofb.de/petzen/[Petzen Ortsfamilienbuck], there are no "Krückebergs".
 
-Write up what Anerbenrecht in Schaumburg-Lippe meant See ~/d/genealogy/german_society/Social_Order_17th_18th _Century.odt.
+* Look for the early 18th century "Kruckeberg/Kruckeberg" image -- and maybe there is also .adoc file -- that
+has the name "Kuckeberg" or perhaps "Kruckeberg", although I'm not sure it a Kruckeberg baptism.
 
-Add history on population explosion: there was a huge increase in population and prices went up
+* Write up what
+** Anerbenrecht in Schaumburg-Lippe meant See ~/d/genealogy/german_society/Social_Order_17th_18th _Century.odt.
+** How marriage worked
+** How serfdom worked
+** History on population explosion: there was a huge increase in population and prices went up
 and income down.
+** Holy Roman Empire history
 
 https://www.familysearch.org/de/wiki/Deutschland_Volksz%C3%A4hlungen
 
@@ -22,7 +28,7 @@ https://www.familysearch.org/de/wiki/Deutschland_Volksz%C3%A4hlungen
 explains whether actual naturlalization indexes or registers exist in the counties. Looks also in "Guide to Naturalization
 Records of the United States."
 
-* Scan there volumes
+* Scan these volumes:
 +
 .Volumes to Scan
 [cols="4,1"]
