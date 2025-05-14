@@ -19,9 +19,8 @@ image::petzen-band1a-img264-overview.jpg[align=left,title='Left page overview of
 
 image::petzen-band1a-img264-entry15.jpg[align=left,title='Carl Friderich Gottlieb Kruckeberg, entry 15, right page of image 264 (Click to enlarge)',link=self]
 
-.Comments on entry 15
+.Meaning of Hofmeister and "au" Suffix
 ****
-
 [NOTE]
 .Hofmeister defined
 ====
@@ -33,13 +32,12 @@ In the entry, Otto Rösener is the _Hofmeister auf der Hockersaue_. "Hocker Aue"
 xref:petzen-band1a-image279.adoc#johanna-sophie-charlotte-krückeberg-baptims-1782[Johanna Sophie Charlotte Kruckebergen].
 Her godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von der Hockerers Aue".
 
-Thode's German-Enlgish Genealogical Dictionary defines `-aue` as a suffix meaning `meadow`. link:https://www.dict.cc[dict.cc] define `Aue`
-as petic, old regional word meaning: `meadow[piece of low ground near a river]`petic, old regional word meaning:  
+Thode's German-Enlgish Genealogical Dictionary defines **-aue** as a suffix meaning **meadow**. link:https://www.dict.cc/?s=Aue[dict.cc] define **Aue**
+as a poetic, old regional word meaning: **meadow[piece of low ground near a river]**.
 ====
 
-NOTE: The text in the left margin for the baptism entry for Carl Friderich Gottlieb Krückeberg -- the `+` and below it a date -- denotes
+NOTE: The text in the left margin for the baptism entry for Carl Friderich Gottlieb Krückeberg -- the **&#8224;** and below it a date -- denotes
 the death date. It is displayed separately for the sake of clarity.
-
 ****
 
 .Transliteration of 1779 Baptsim of Carl Friderich Gottlieb Kruckeberg
