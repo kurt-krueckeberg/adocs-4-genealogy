@@ -1,0 +1,155 @@
+Searching for pattern: "petzen-band1a-image117\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:5:* xref:petzen:petzen-band1a-image117.adoc[]
+nav-uninvestigation.adoc:3:* xref:petzen:petzen-band1a-image117.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image120\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:1:* xref:petzen:petzen-band1a-image120.adoc[]
+nav-uninvestigation.adoc:4:* xref:petzen:petzen-band1a-image120.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image121\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:4:* xref:petzen:petzen-band1a-image121.adoc[]
+nav-uninvestigation.adoc:5:* xref:petzen:petzen-band1a-image121.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image124\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:2:* xref:petzen:petzen-band1a-image124.adoc[]
+nav-uninvestigation.adoc:6://* xref:petzen:petzen-band1a-image124.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image126\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:3:* xref:petzen:petzen-band1a-image126.adoc[]
+nav-uninvestigation.adoc:7://* xref:petzen:petzen-band1a-image126.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image140\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:1:* xref:petzen:petzen-band1a-image140.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image152\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:2:* xref:petzen:petzen-band1a-image152.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image153\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:2:* xref:petzen:petzen-band1a-image153.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image157\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:3:* xref:petzen:petzen-band1a-image157.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image163\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:4:* xref:petzen:petzen-band1a-image163.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image167\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:5:* xref:petzen:petzen-band1a-image167.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image174\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:6:* xref:petzen:petzen-band1a-image174.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image176\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:3:* xref:petzen:petzen-band1a-image176.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image180\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:7:* xref:petzen:petzen-band1a-image180.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image190\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:4:* xref:petzen:petzen-band1a-image190.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image191\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:5:* xref:petzen:petzen-band1a-image191.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image199\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:6:* xref:petzen:petzen-band1a-image199.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image200\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:10:* xref:petzen:petzen-band1a-image200.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image211\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:12:* xref:petzen:petzen-band1a-image211.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image220\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:13:* xref:petzen:petzen-band1a-image220.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image231\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:6:* xref:petzen:petzen-band1a-image231.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image243\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:7:* xref:petzen:petzen-band1a-image243.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image246\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:14:* xref:petzen:petzen-band1a-image246.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image247\.adoc"
+✅ Pattern found:
+nav-bleeke-petzen.adoc:8:* xref:petzen:petzen-band1a-image247.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image253\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:7:* xref:petzen:petzen-band1a-image253.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image259\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:8:* xref:petzen:petzen-band1a-image259.adoc#stillborn-son-of-johann-christian-weiland-1778[1778 Stillborn son of Johann Christian Weiland Birth]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image260\.adoc"
+❌ Pattern NOT found in any nav*.adoc file.
+----------------------------------------
+Searching for pattern: "petzen-band1a-image261\.adoc"
+❌ Pattern NOT found in any nav*.adoc file.
+----------------------------------------
+Searching for pattern: "petzen-band1a-image262\.adoc"
+✅ Pattern found:
+nav-weiland.adoc:9:* xref:petzen:petzen-band1a-image262.adoc#sophia-margaretha-weiland-baptism-1779[1779 Sophia Margartha Weiland Baptism]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image264\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:17:* xref:petzen:petzen-band1a-image264.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image279\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:18:* xref:petzen:petzen-band1a-image279.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image287\.adoc"
+✅ Pattern found:
+nav-werkmeister.adoc:1:* xref:petzen:petzen-band1a-image287.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image310-left\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:8:* xref:petzen:petzen-band1a-image310-left.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image310-right\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:9:* xref:petzen:petzen-band1a-image310-right.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image313\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:15:* xref:petzen:petzen-band1a-image313.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image319\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:16:* xref:petzen:petzen-band1a-image319.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image320\.adoc"
+✅ Pattern found:
+nav-krueckeberg.adoc:19:* xref:petzen:petzen-band1a-image320.adoc[]
+----------------------------------------
+Searching for pattern: "petzen-band1a-image89\.adoc"
+✅ Pattern found:
+nav-uninvestigation.adoc:2:* xref:petzen:petzen-band1a-image89.adoc[]
+----------------------------------------
