@@ -8,19 +8,26 @@ Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
 The original picture is below:
 
-image::petzen-band1a-img89-original.png[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
+image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
 
 This is it enhanced:
 
-image::petzen-band1a-img89.png[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
+image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
 
 NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
 
 .Trankribus Recognition
 ....
-Ana Jthabey Notarius Mit Kückeberg auf der Bücher
+Ana Jthabey Notarius Mit Kückeberg auf [der Bücher/auf Bückeburg]
 ehelichs geheügter, Söhnlein Hans Otto, getauft
 Stegattin, Notarien in Grundbühle
+....
+
+.Alternate
+....
+Ana Ehaber Notariens Mit Krickeberg auf dem Bäcken
+5
+Ulhelichs gehängtes, Söhnlein Hans Otto, getauft
 ....
 
 [bibliography]
