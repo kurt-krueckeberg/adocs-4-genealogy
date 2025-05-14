@@ -107,9 +107,6 @@ Searching for pattern: "petzen-band1a-image259\.adoc"
 ✅ Pattern found:
 nav-weiland.adoc:8:* xref:petzen:petzen-band1a-image259.adoc#stillborn-son-of-johann-christian-weiland-1778[1778 Stillborn son of Johann Christian Weiland Birth]
 ----------------------------------------
-Searching for pattern: "petzen-band1a-image260\.adoc"
-❌ Pattern NOT found in any nav*.adoc file.
-----------------------------------------
 Searching for pattern: "petzen-band1a-image261\.adoc"
 ❌ Pattern NOT found in any nav*.adoc file.
 ----------------------------------------
