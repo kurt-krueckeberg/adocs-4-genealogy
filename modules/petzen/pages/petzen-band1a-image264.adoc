@@ -32,8 +32,14 @@ In the entry, Otto Rösener is the _Hofmeister auf der Hockersaue_. "Hocker Aue"
 xref:petzen-band1a-image279.adoc#johanna-sophie-charlotte-krückeberg-baptims-1782[Johanna Sophie Charlotte Kruckebergen].
 Her godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von der Hockerers Aue".
 
+[NOTE]
+.Meaning of -au  or -aue Suffix
+====
 Thode's German-Enlgish Genealogical Dictionary defines **-aue** as a suffix meaning **meadow**. link:https://www.dict.cc/?s=Aue[dict.cc] define **Aue**
 as a poetic, old regional word meaning: **meadow[piece of low ground near a river]**.
+
+In this entry **"au"** occurs as the suffix in **Höckersau**, while in the
+xref:petzen-band1a-image279.adoc[1782 Johanna Sophie Charlotte Krückeberg] baptism record it appears as **aue**, **Höckersaue**.
 ====
 
 NOTE: The text in the left margin for the baptism entry for Carl Friderich Gottlieb Krückeberg -- the **&#8224;** and the date below it -- denotes

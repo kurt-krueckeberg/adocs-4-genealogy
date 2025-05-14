@@ -12,36 +12,49 @@ The FamilySearch Tree-IDS [??TODO????].
 
 == Johanna Sophie Charlotte Krückeberg Baptism 1782 
 
-[NOTE]
-This is an overview of the left page. No page numbers are written on either the left or right pages.
+NOTE: The image immediately below is an overview of the left page. No page numbers are written on either
+the left or right pages.
 
 image::petzen-band1a-img279-overview.jpg[align=left,title='Left page overview of image 279 (Click to enlarge)',link=self]
 
 image::petzen-band1a-img279-entry2.jpg[align=left,title='Johanna Sophie Charlotte Krückeberg, entry 2, left page of image 279 (Click to enlarge)',link=self]
 
-[caption="Transliteration and Translation: "]
-.1782 Baptsim of Johanna Sophie Charolotte Krückeberg
-[cols="<l",frame="none"]
-|===
-<|1781,1782      Getaufte
-1781,1782      Baptisms
+.Transliteration of 1782 Baptsim of Johanna Sophie Charolotte Krückeberg
+....
+1781,1782      Getaufte
 
-|2) d 13ten Jan[of 1782]: ist getauft Johanna Sophie Charlotte
+2) d 13ten Jan[of 1782]: ist getauft Johanna Sophie Charlotte
 Kruckenbergen des Johann Heinrich Krückeberg
 mit seiner Ehefrau Anna Maria Elisabeth
 geb.  Schäkel[e/n] erzeugte Tochter. die Gevatter[in]
 waren Johanna Sophie Margdelena
 Wilkeningen von der Hockers Aue u.
 Sophie Charlotte Röseners aus Petzen 
+....
 
-|2) on Jan 13th [of 1782] Johanna Sophie Charlotte
+.Meaning of **-aue** Suffix
+****
+[NOTE]
+====
+Thode's German-Enlgish Genealogical Dictionary defines **-aue** as a suffix meaning **meadow**.
+link:https://www.dict.cc/?s=Aue[dict.cc] define **Aue** as a poetic, old regional word meaning:
+**meadow[piece of low ground near a river]**.
+
+In this entry **"aue"** occurs as the suffix in **Höckersaue**, while in the
+xref:petzen-band1a-image264.adoc[1779 Carl Friderich Gottlieb Krückeberg] baptism record it appears as **au**, **Höckersau**.
+====
+****
+.Translation
+....
+1781,1782      Baptisms
+2) on Jan 13th [of 1782] Johanna Sophie Charlotte
 Krückenberg was baptized, the begotten daughter of 
-Johann Heinrich Krückeberg and his wife Anna Maria
-Elisabeth born Schäkele. The godmothers were
+Johann Heinrich Krückeberg, by his wife Anna Maria
+Elisabeth born Schäkeln. The godmothers were
 Johanna Sophie Margdelena Wilkeningen from the
 Hockers Aue and Sophie Charlotte Rösener
 from Petzen 
-|===
+....
 
 
 [bibliography]
