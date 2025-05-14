@@ -37,7 +37,7 @@ At the bottom of the document is the name of an official who is "von Bergkirchen
 === Immanuel Church Biography
 
 Similiar family vital family details are found in the Immanuel Lutheran
-founder's biography for xref:churches:immanuel/carl-heinrich-wilhelm-krueckeberg.adoc[Carl Heinrich
+founder's biography for xref:immanuel-lutheran:bios/carl-heinrich-wilhelm-krueckeberg.adoc[Carl Heinrich
 Wilhelm Krückeberg].
 
 === Passenger List
