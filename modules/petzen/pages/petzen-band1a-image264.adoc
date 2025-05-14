@@ -46,11 +46,11 @@ the death date. It is displayed separately for the sake of clarity.
 ....
 Getaufte                                                               1779
 
-15)       d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
- +        des Johann Heinrich Krückebergs aus Berenbusch
- 13 [oct] 1838    mit seiner Ehefrau Anna Maria geb. Schekeln
-          erzeugter Sohn getauft. der Gevatter war
-          Otto Rösener Hoffmeister auf der Höckersau 
+15)             d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
+ +              des Johann Heinrich Krückebergs aus Berenbusch
+ 13 [oct] 1838  mit seiner Ehefrau Anna Maria geb. Schekeln
+                erzeugter Sohn getauft. der Gevatter war
+                Otto Rösener Hoffmeister auf der Höckersau 
 ....
 
 .Translation
@@ -58,11 +58,11 @@ Getaufte                                                               1779
 Baptisms                                                                1779 
 
 
-15)         On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
-  +         baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch
-  13 [oct]  and his wife Anna Maria nee Schekeln
-            The godfather was Otto Rösener estate administrator[or: child's tutor]
-            on the Höckersau[estate].
+15)             On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
+ +              baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch
+ 13 [oct] 1838  and his wife Anna Maria nee Schekeln
+                The godfather was Otto Rösener estate administrator[or: child's tutor]
+                on the Höckersau[estate].
 ....
 
 
