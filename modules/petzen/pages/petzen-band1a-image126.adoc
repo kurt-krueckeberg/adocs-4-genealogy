@@ -1,1 +1,13 @@
-= 17?? TODO Bleecke Image 126
+= 1718 Anna ??? Bleeck/Bleritz Baptism
+:page-role: doc-width
+
+
+image::petzen-band1a-img126-bleeck.jpg[align=center,title='Overview (Click to enlarge)',link=self]
+
+.Transliteration
+....
+23 Eodem istr Henirch Bleeck aus Evesen Töchterlein Anna Ilhabe getauft
+Gev. Daniel Bruns, [uncertain] Hartmans aus Evesen, [uncertain] [auf]
+Bleeck aus Meißen [uncertain]
+
+....
