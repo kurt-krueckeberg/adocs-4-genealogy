@@ -1,4 +1,4 @@
-= 1696  [Ana ??? Notarius Mit Kückeberg auf der Bücher]
+= 1696  Kückeberg/Krr
 :page-role: doc-width
 
 == Citation
@@ -18,17 +18,12 @@ NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
 
 .Trankribus Recognition
 ....
-Ana Jthabey Notarius Mit Kückeberg auf [der Bücher/auf Bückeburg]
+Ana [J]abe[ÿ] Notarius, Mit Kückeberg auf [dem] [Bücher/Bückeburg]
 ehelichs geheügter, Söhnlein Hans Otto, getauft
-Stegattin, Notarien in Grundbühle
+[der 2 t Feb?]
+gevatter, Notarien in Grundbühle
 ....
 
-.Alternate
-....
-Ana Ehaber Notariens Mit Krickeberg auf dem Bäcken
-5
-Ulhelichs gehängtes, Söhnlein Hans Otto, getauft
-....
 
 [bibliography]
 == References
