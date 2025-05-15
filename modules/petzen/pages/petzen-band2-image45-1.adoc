@@ -1,11 +1,9 @@
 = 1789 Johann Heinrich Weiland Baptism 
 :page-role: doc-width
 
-== Johann Heinrich Weiland 1789
+== Citation
 
-The baptism of Johann Heinrich Weiland.
-
-Both entries occur in <<image45, image 45, on entries 67>>, respectively.
+The baptism of Johann Heinrich Weiland, on 20 September 1789, is on <<image45, image 45>>, the right page, entry #67.
 
 === Image 45, page 85, entries 6
 
@@ -14,7 +12,7 @@ month of January for the first entry of page 85.
 
 image::petzen-band2-img45-overview.jpg[align=left,title="Click to enlarge",link=self]
 
-Below are entries 6 from page 85, year 1789.
+Below is entry 6, from page 85, in the year 1789.
 
 image::petzen-band2-img45-85.jpg[align=left,title="Click to enlarge",link=self]
 
