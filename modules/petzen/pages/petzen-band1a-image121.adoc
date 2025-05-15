@@ -7,6 +7,10 @@ The baptism is found on image <<image121, 121>>, left side of the page:
 
 image::petzen-band1a-img121-bleeck.jpg[align=left,title='Henrich Bleecke, image 176, right page (Click to enlarge)',link=self]
 
+
+[biliography]
+== References
+
 * [[[image121]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/9aeae5801b : 4 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
 Verzeichnis der Getauften und Konfirmierten 1641-1784, image 117 of 322, left hand page, 3^rd^ entry.
