@@ -1,6 +1,4 @@
 .xref:petzen:underinvestigation.adoc[]
-* xref:petzen:petzen-band1a-image117.adoc[]
-* xref:petzen:petzen-band1a-image120.adoc[]
 * xref:petzen:petzen-band1a-image121.adoc[]
 //* xref:petzen:petzen-band1a-image124.adoc[]
 //* xref:petzen:petzen-band1a-image126.adoc[]
