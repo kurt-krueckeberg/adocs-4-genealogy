@@ -19,6 +19,6 @@ image::petzen-band1a-img1132-bleeck.jpg[align=center,title='Overview (Click to e
 
 
 [bibliography]
-====
+== Citations
 
-* [[image132]] (https://www.archion.de/p/8e090f5b1a/ : 15 MAy 2025)
+* [[image132]] (https://www.archion.de/p/8e090f5b1a/ : 15 May 2025)
