@@ -1,7 +1,6 @@
 = 1718 Anna ??? Bleeck/Bleritz Baptism
 :page-role: doc-width
 
-
 image::petzen-band1a-img126-bleeck.jpg[align=center,title='Overview (Click to enlarge)',link=self]
 
 .Transliteration
