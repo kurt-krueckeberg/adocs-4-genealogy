@@ -2,7 +2,7 @@
 * xref:petzen:petzen-band1a-image153.adoc[]
 * xref:petzen:petzen-band1a-image176.adoc[]
 * xref:petzen:petzen-band1a-image190.adoc[]
-* xref:petzen:petzen-band1a-image191.adoc[]
+* xref:petzen:petzen-band1a-image191-weiland.adoc[]
 * xref:petzen:petzen-band1a-image199.adoc[]
 * xref:petzen:petzen-band1a-image253.adoc[]
 * xref:petzen:petzen-band1a-image259.adoc#stillborn-son-of-johann-christian-weiland-1778[1778 Stillborn son of Johann Christian Weiland Birth]

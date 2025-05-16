@@ -3,18 +3,14 @@
 
 == Citation
 
-The baptism of ???? is on <<image89, image 89>>, right-hand page, 2^nd^ entry from the "Register of
+The baptism of Hans Otto is on <<image89, image 89>>, right-hand page, 2^nd^ entry from the "Register of
 Baptism and Confirmed of the Petzen Parish, 1641-1784".
 
-The original picture is below:
+This is the enhanced image of his baptism record:
 
 image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
 
-This is it enhanced:
-
-image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
-
-NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
+//NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
 
 .Trankribus Recognition
 ....
