@@ -11,7 +11,7 @@ Sources to consult:
 .German Newspapers in America
 [%header]
 |===
-|Source|Author| Call #er|
+|Source|Author| Call #er
 
 |linkl:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=2&cn=1614533[Historic German newspapers online],
 compiled by Ernest Thode|929.13 H629TH
