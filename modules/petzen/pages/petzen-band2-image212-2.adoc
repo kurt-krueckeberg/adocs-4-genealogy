@@ -12,11 +12,11 @@ Quasimodogeniti Sunday in 1821 was on April 8th, 1821.
 ====
 
 .Family Facts
-[%header,width=50%,cols="1,1,1"]
+[%header,width=50%,cols="2,2,2,1"]
 |===
 |Name|Address|Date of Confrimation|Approximate Age 
 
-|Carl Friedrich Krückeberg|no. 14 Berenbusch|8 April 1821|14
+|Carl Friedrich Krückeberg|no. 14 Berenbusch|8 April 1821 = Quasimodogeniti Sunday|14
 |===
 
 NOTE: Confirmation happened around age 14.

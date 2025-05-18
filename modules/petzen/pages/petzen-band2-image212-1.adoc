@@ -7,6 +7,7 @@ top-right column of confirmed **Knaben** (boys). He is listed first.
 == Family Group and Other Facts
 
 .Name of Confirmant
+[%header]
 |===
 |Name|Date of Confirmation|Address|Approx Age
 
