@@ -1,4 +1,4 @@
-= 
+= 1721 Catharine Elisabeth Bleeck[e] Baptism    
 :page-role: doc-width
 
 == Citation
@@ -6,14 +6,20 @@
 The baptism of Henrich Bleecke is on <<image129, image 129>>, right-hand page, 4^th^ entry from the top, of the Petzen
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-The enhanced image is below:
+== Baptism Record
 
-image::petzen-band1a-img129.jpg[align=left,title='???, image 129, right page (Click to enlarge)',link=self]
+image::petzen-band1a-img129.jpg[align=left,title='Catharine Elisabeth Bleeke, image 129, right page (Click to enlarge)',link=self]
 
 .Transliteration
 ....
 13 d 20	April ist Henrich Bleeck[e?] aus Ev. Töchterlein Catharine Elisabeth
+   getauft. Gev. Bleecke[e] von Meißsen Ehefrau
+....
 
+.Translation
+....
+13 On April 20th the daughter of Henrich Bleeck[e?] from Ev[esen], Catharine Elisabeth,
+   was baptized. Godmother Wife of Bleecke[e] from Meißsen.
 ....
 
 [bibliography]
