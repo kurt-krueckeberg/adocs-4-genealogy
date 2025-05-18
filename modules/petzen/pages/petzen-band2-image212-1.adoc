@@ -8,7 +8,7 @@ top-right column of confirmed **Knaben** (boys). He is listed first.
 
 .Name of Confirmant
 |===
-|Name|Date of Confirmation|Date|Address Locality|Approx Age
+|Name|Date of Confirmation|Address Locality|Approx Age
 
 |Johann Heinrich Krückeberg|1^st^ Sunday after Easter 1820|Bärenbusch|14
 |===
