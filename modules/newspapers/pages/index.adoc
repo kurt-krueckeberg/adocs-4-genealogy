@@ -1,0 +1,22 @@
+= Newspapers
+
+== American Newspapers
+
+The Library of Congress website link:https://chroniclingamerica.loc.gov/[Chronicling America, Historic American Newpapers].
+
+== German Newspapers in America
+
+Sources to consult:
+
+.German Newspapers in America
+[%header]
+|===
+|Source|Author| Call #er|
+
+|linkl:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=2&cn=1614533[Historic German newspapers online],
+|compiled by Ernest Thode|929.13 H629TH
+
+|link:https://acpl.polarislibrary.com/polaris/search/title.aspx?ctx=24.1033.0.0.5&pos=1&cn=66956[German-American newspapers and periodicals,
+1732-1955 : history and bibliography]| Karl J.R. Arndt and +
+May E. Olson|016.071 AR6G
+|===
