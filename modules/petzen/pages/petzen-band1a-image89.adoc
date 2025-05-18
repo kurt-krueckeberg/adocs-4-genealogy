@@ -12,12 +12,22 @@ image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, 
 
 //NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
 
-.Trankribus Recognition
+.Transliteration
 ....
-Anna [J]abe[ÿ] [Notmaÿer/Notarius], Mit [Kückeberg/Kruckeberg] auf [dem] [Bücher/Bückeburg]
-[unehelichs gezeugtes], Söhnlein Hans Otto, getauft
-[der 2 t Feb?]
-gevatter, [Notmaÿer/Notarius] in Grundbühle
+Anna [Elsbeÿ] Notmaÿer, mit [Kuckeberg/Kruckeberg] aus dem Bückeburg,
+unehelichs gezeugtes Söhnlein Hans Otto, getauft
+den 2ten Februar.
+Gevatter: Notmaÿer in Berenbusch.
+....
+
+NOTE: **Elsbeÿ** may be an form of Elsbeth or Elisabeth.
+
+.Translation
+....
+Anna Elsbeth Notmaÿer, with Kückeberg from Bückeburg,
+an illegitimately begotten little son named Hans Otto,
+baptized on February 2nd.
+Godparent: Notmaÿer in Berenbusch.
 ....
 
 
