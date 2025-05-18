@@ -2,11 +2,12 @@
 
 == American Newspapers
 
-The Library of Congress website link:https://chroniclingamerica.loc.gov/[Chronicling America, Historic American Newpapers].
+link:https://chroniclingamerica.loc.gov/[Chronicling America, Historic American Newpapers] is the Library of Congress resource for
+American newspapers, both in English and other languages.
 
 == German Newspapers in America
 
-Sources to consult:
+Sources to consult in Genealogy Center:
 
 .German Newspapers in America
 [%header]
