@@ -8,7 +8,8 @@
 |===
 |Name|Occupation|Residence|Religion
 
-|Jobst Heinrich Krückeberg|Guild Master of the Shoemakers|no. 10 Bärenbusch|Lutheran
+|Jobst Heinrich Krückeberg|Schusteramtsmeister +
+Guild Master of the Shoemakers|no. 10 Bärenbusch|Lutheran
 |===
 
 .Decedent Facts 
