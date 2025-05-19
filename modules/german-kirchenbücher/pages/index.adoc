@@ -1,23 +1,22 @@
 = Kirchenbücher
 
-== Bückeburg Abteilung of the Niedersachen Landesarchiv
+== Holdings in the Bückeburg Deparment of the Lower Saxonz State ARchives
 
 The Bückeburg Abteilung of the Niedersachen Landesarchiv (Bückeburg Department of the Lower Saxony State Archives) has microfilm of the 
-Petzen and Frille and all other Bückeburg Gemeinde (parishes). 
-The Archival information system for Niedersachsen and Bremen link:https://www.arcinsys.niedersachsen.de/arcinsys/start[Arcsys] is the "Card Datalog" or navigator of the archives of
+Kirchenbücher for Petzen and Frille and all other Bückeburg Gemeinde (parishes).
+
+Their holdings are available online using link:https://www.arcinsys.niedersachsen.de/arcinsys/start[Arcsys].
 Niedersachsen and Bremen.
 
 You can use it to browse the Bückeburg link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?opennutzunginfo=false[Kirchenbücher der Evangelische Gemeinden in Schaumburg-Lippe](the
 church registers of the Protestand parishes in Schaumburg-Lippe).
 
-=== Petzen and Frille Timeframes
+=== Archion.de Holdings
 
-All digitalized and microfilmed church registers held by the
-regional link:https://nla.niedersachsen.de/startseite/landesarchiv/abteilung_buckeburg/standort-bueckeburg-193940.html[Bückeberg department of the Niedersachsen Landarchiv] (Lower
-Saxony State Archives) are available link:http://www.archion.de/[www.archion.de], the Protestant Kirchbücher portal. You have to pay
-subscription, though.
+Digitized Kirchenbücher for Petzen (Krückeberg, Bleeke and Weiland) Frille (Bleeke), Buchholz (Kleinschmidt) and  Windheim (Buuck)
+are available link:http://www.archion.de/[www.archion.de], the Protestant Kirchbücher portal (for a subscription). 
 
-==== The Bad and Good News
+==== Synopsis
 
 The bad news is, the Frille digitalized church registers end with the
 year 1804, and the Petzen church registers end with 1827.
