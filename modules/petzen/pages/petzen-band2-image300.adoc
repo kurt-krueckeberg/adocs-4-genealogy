@@ -12,7 +12,7 @@
 |===
 
 .Other Facts
-[%header, width="40%"]
+[%header, width="35%"]
 |===
 |Survivors
 
