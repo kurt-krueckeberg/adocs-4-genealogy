@@ -12,7 +12,7 @@ Quasimodogeniti Sunday in 1821 was on April 8th, 1821.
 ====
 
 .Family Facts
-[%header,width=50%,cols="2,2,2,1,1"]
+[%header,width=70%,cols="2,2,2,1,1"]
 |===
 |Name|Address|Date of Confrimation|Approximate Age|Approximate Birth Year 
 
