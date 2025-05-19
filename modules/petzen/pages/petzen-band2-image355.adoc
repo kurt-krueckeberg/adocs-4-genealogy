@@ -21,7 +21,7 @@ and financial standing in the village.
 |===
 
 .Person Facts
-[%header,width="40%"]
+[%header,width="40%",cols="1,3"]
 |===
 |Person|Fact
 
