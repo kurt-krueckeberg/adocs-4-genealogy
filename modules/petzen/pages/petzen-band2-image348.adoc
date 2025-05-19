@@ -1,11 +1,12 @@
 = 1822 Philippine Louise Eleonore Krückeberg Marriage
 :page-role: doc-width
 
-In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krückeberg, married widower Johann Heinrich Klöpper.
+On 12 March 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krückeberg, married widower Johann Heinrich Klöpper.
 
 == Family Group and Other Facts
 
-.Married Couple
+[caption="Facts for: 
+.12 March 1822 Marraige
 [cols="1,3,2,1,3,2", options="header"]
 |===
 |        | Name             | Occupation     | Age | Address (at time of marriage)  | Religion
@@ -25,10 +26,10 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |Heinrich Krückeberg|deceased|n. 19 Evesen|Lutheran
 |===
 
-.Facts
+.Person Facts
 [%header, width="40%"]
 |===
-|Name|Fact
+|Person|Fact
 
 |Friedrich Wilhelm Drifftmeier|Widower at time of marriage
 |===

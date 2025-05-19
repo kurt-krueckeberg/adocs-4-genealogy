@@ -20,16 +20,16 @@ and financial standing in the village.
 |*Bride*|Philippine Christine Krückeberg|23|Yes|no. 18 Berenbusch|Lutheran
 |===
 
-.Facts
+.Person Facts
 [%header,width="40%"]
 |===
-|Fact
+|Person|Fact
 
-|Groom is the **Anerbe** of his father, +
+|Groom| He is the **Anerbe** of his father, +
 the principal heir
 |===
 
-.Father of Groom
+.Groom's Father Facts
 [%header,width=50%]
 |===
 |Groom's Father|His Dwelling Place
@@ -37,7 +37,7 @@ the principal heir
 |Johann Heinrich Jäger|no. 5 Nordholz
 |===
 
-.Father of Bride
+.Bride's Father Facts
 [%header,width=50%]
 |===
 |Bride's Father|His Dwelling Place
