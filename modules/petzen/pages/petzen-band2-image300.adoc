@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 .Husband and Wife
-[%header]
+[%header,cols="1,1,1,2,1"]
 |===
 |Decedent|Surviving Husband|Address|His Occupation|Work Location																							
 
