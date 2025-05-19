@@ -4,11 +4,11 @@
 == Family Group and Other Facts
 
 .Decedent
-[%header,width=70%]
+[%header,width=80%]
 |===
-|Name|Occupation|Residence|Religion
+|Name|Surving Wife|Occupation|Residence|Religion
 
-|Jobst Heinrich Krückeberg|Schusteramtsmeister +
+|Jobst Heinrich Krückeberg|unamed|Schusteramtsmeister +
 Guild Master of the Shoemakers|no. 10 Bärenbusch|Lutheran
 |===
 
@@ -21,7 +21,7 @@ Guild Master of the Shoemakers|no. 10 Bärenbusch|Lutheran
 |===
 
 .Decedant Survivors
-[%header,width=45%]
+[%header,width=40%]
 |===
 |Surivors
 
