@@ -11,7 +11,7 @@ Anerbe, the designated heir of the family property or farmland, which gave him a
 and financial standing in the village.
 
 .Married Couple
-[%header,cols="1,1,2,1,2,1",width="75%"]
+[%header,cols="2,3,1,1,3,2",width="75%"]
 |===
 ||Name|Age|Legitimate|Dwelling Place (on day of marriage)|Religion
 
