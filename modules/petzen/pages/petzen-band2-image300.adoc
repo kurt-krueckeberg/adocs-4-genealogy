@@ -3,17 +3,35 @@
 
 == Family Group and Other Facts
 
-.What Hofmeister means
+.Parents
+[%header]
+|===
+|Decedent|Husband|Address|His Occupation|Work Location																							
+
+|Phlippine Dorothee Krückeberg|Johann Heinrich Krückeberg|No. 13 Berenbusch|Former Hofmeister of Reinen-Neelhof, +
+now Eilieger|Reinen-Neelhof estate or farm
+|===
+
+
+== Terms in this Record
+
+.Meaning of Hofmeister
 ****
+This is from a  German genealogy forum:
+
 A Hofmeister was understood to be a kind of foreman on large farms. Administrators and inspectors represented the management level.
 The Hofmeister stood somewhere between the management and the normal farm workers;however, he didn't actually have much to say in
 technical terms. The Hofmeister was a kind of “primus inter pares” (first among equals) with the farm workers. He was a contact
 person at management level. The latter couldn't personally tell every farm worker what to do. The farm foreman was given the rough
 plan and then assigned the people according to it. No special training was required for this, just character and assertiveness.
-****
 
-This record indicates that the decedant's husband, Johann Heinrich Krückeberg, was a former
-Hofmeister (estate foreman) who later--perhaps due to health, age, or other reasons--became an Einlieger (free agricultural laborer). 
+[NOTE]
+====
+This record indicates that the decedant's husband, Johann Heinrich Krückeberg,
+was a former Hofmeister (estate foreman) who later--perhaps due to health, age,
+or other reasons--became an Einlieger (free agricultural laborer). 
+====
+****
 
 == Citation
 
@@ -82,13 +100,13 @@ verheÿrathet ist
 |[empty]
 |===
 
-
 .The Meaning of the Equal Sign in This Record
 ****
-NOTE: In the image, what looks like a hyphen after "Reinen" is an equal sign (albeit an abbreviated one).
-
-The meaning of the equal sign today would be equivalent to a dash. So **Reinen=Neelhof** would be in contemporarly
-English **Reinen-Neelhof**
+[NOTE]
+====
+In the image, what looks like a hyphen after "Reinen" is an equal sign (albeit an abbreviated one), and
+the meaning of the equal sign today would a dash. So **Reinen=Neelhof** is **Reinen-Neelhof**
+====
 ****
 
 [caption="Translation: "]
