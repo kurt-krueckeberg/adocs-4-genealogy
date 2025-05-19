@@ -11,13 +11,13 @@ Anerbe, the designated heir the family property or farmland, which gave him a ce
 and financial standing in the village.
 
 .Married Couple
-[%header,width="50%"]
+[%header,width="55%"]
 |===
-||Name|Dwelling Place (on day of marriage)
+||Name|Age|Dwelling Place (on day of marriage)
 
-|*Groom*|Johann Heinrich Jäger|No. 5 Nordholz
+|*Groom*|Johann Heinrich Jäger|26|No. 5 Nordholz
 
-|*Bride*|Philippine Christine Krückeberg|no. 18 Berenbusch
+|*Bride*|Philippine Christine Krückeberg|23|no. 18 Berenbusch
 |===
 
 .Father of Groom
