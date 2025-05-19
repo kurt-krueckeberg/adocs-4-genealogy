@@ -17,23 +17,6 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |Maiden/virgin Philippine Louise Eleonore Kruckeberg|n/a|29|n. 19 Evesen|Lutheran
 |===
 
-
-.Married Couple
-[%header
-|===
-|Name|Occupation/Status|Age|Dwelling|Religion
-
-|Widower Friedrich Wilhelm Drifftmeier|Taglöhner|42|n. 19 Bärenbusch|Lutheran
-|===
-
-.Bride
-[%header,width="65%",cols="4,1,2,2"]
-|===
-|Name|Age|Dwelling|Religion
-
-|Maiden/virgin Philippine Louise Eleonore Kruckeberg|29|n. 19 Evesen|Lutheran
-|===
-
 .Bride's Father
 [%header,width="60%",cols="4,2,2,2"]
 |===
@@ -42,6 +25,13 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |Heinrich Krückeberg|deceased|n. 19 Evesen|Lutheran
 |===
 
+.Facts
+[%header]
+|===
+||Name|Fact
+
+|*Groom*|Friedrich Wilhelm Drifftmeier|Widower at time of marriage
+|===
 
 .What was a Taglöhner?
 ****
