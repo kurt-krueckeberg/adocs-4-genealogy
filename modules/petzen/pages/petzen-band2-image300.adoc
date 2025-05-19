@@ -3,23 +3,19 @@
 
 == Family Group and Other Facts
 
-
+.Husband and Wife
 [%header]
 |===
-|Decedent|Husband|Address|His Occupation|Work Location																							
+|Decedent|Surviving Husband|Address|His Occupation|Work Location																							
 
 |Phlippine Dorothee Krückeberg|Johann Heinrich Krückeberg|No. 13 Berenbusch|Former farm foreman at Reinen-Neelhof, +
 now laborer|Reinen-Neelhof estate or farm
 |===
 
-.Survivors
-[%header]
+.Suviving Children
+[%noheader, width="40%"]
 |===
-|Survivors
-
 |One married daughter (unnamed)
-
-|Husband
 |===
 
 
