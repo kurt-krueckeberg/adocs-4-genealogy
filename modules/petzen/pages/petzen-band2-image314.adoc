@@ -13,14 +13,14 @@ Guild Master of the Shoemakers|no. 10 Bärenbusch|Lutheran
 |===
 
 .Decedent Facts 
-[%header,width=70%]
+[%header,width=80%]
 |===
 |Place of Death|Time and Date|Cause of Death|Date of Burial|Place of Burial
 
 |Bärenbush|21 October 1822, 2 p.m.|Convulsions & Hemorrhanging|24 Oct 1822|Petzen
 |===
 
-.Decedant Survivors
+.Other Facts
 [%header,width=40%]
 |===
 |Surivors
