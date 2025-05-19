@@ -10,8 +10,6 @@ This is the enhanced image of his baptism record:
 
 image::petzen-band1a-img89.jpg[align=left,title='Anna Maria Weiland, image 176, right page (Click to enlarge)',link=self]
 
-//NOTE: `Notarius` is likely latin and means 'reporter, notary, stenographer'.
-
 .Transliteration
 ....
 Anna [Elsbeÿ] Notmaÿer, mit [Kuckeberg/Kruckeberg] aus dem Bückeburg,
@@ -24,7 +22,7 @@ NOTE: **Elsbeÿ** may be an form of Elsbeth or Elisabeth.
 
 .Translation
 ....
-Anna Elsbeth Notmaÿer, with Kückeberg from Bückeburg,
+Anna Elisbeth Notmaier, with Kückeberg from Bückeburg,
 an illegitimately begotten little son named Hans Otto,
 baptized on February 2nd.
 Godparent: Notmaÿer in Berenbusch.
