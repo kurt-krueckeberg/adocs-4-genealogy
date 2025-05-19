@@ -5,8 +5,21 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 
 == Family Group and Other Facts
 
-.Groom
-[%header,width="70%",cols="4,2,1,2,2"]
+.Married Couple
+[cols="1,1,1,1,1,1", options="header"]
+|===
+|        | Name             | Occupation     | Age | Address (at time of marriage)  | Religion
+
+| *Groom*
+|Widower Friedrich Wilhelm Drifftmeier|Taglöhner|42|n. 19 Bärenbusch|Lutheran
+
+| *Bride*
+|Maiden/virgin Philippine Louise Eleonore Kruckeberg|29|n. 19 Evesen|Lutheran
+|===
+
+
+.Married Couple
+[%header
 |===
 |Name|Occupation/Status|Age|Dwelling|Religion
 
