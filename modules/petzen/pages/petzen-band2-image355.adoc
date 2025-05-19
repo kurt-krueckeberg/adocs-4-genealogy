@@ -31,7 +31,7 @@ and financial standing in the village.
 .Groom's Father Facts
 [%header,width=40%]
 |===
-|Groom's Father|His Dwelling Place
+|Name|His Dwelling Place
 
 |Johann Heinrich Jäger|no. 5 Nordholz
 |===
@@ -39,7 +39,7 @@ and financial standing in the village.
 .Bride's Father Facts
 [%header,width=40%]
 |===
-|Bride's Father|His Dwelling Place
+| Name |His Dwelling Place
 
 |Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
 |===
