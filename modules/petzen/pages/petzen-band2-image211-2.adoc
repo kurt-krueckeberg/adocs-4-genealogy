@@ -1,6 +1,16 @@
 = 1817 Christine Philippine Krückeberg Confirmation
 :page-role: doc-width
 
+== Family Group Facts
+
+.Confirmand
+|===
+|Name|Date of Event|Address|Approx. Age|Approx. Birthyear
+
+|Christine Philippine Krückeberg| 6 April 1817 = Sonntag Quasimodogeniti|No. 18 Bärenbusch|14|1802-1804
+|===
+
+
 == Citation
 
 The confirmation of Christine Philippine Krückeberg in 1817, on the 1^st^ Sunday After Easter,
