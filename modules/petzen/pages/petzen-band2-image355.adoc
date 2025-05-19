@@ -13,9 +13,11 @@ and financial standing in the village.
 .Married Couple
 [%header]
 |===
-|Groom|His Dwelling Place (on day of marriage)|Bride|Her Dwelling Place (on day of marriage)
+||Name|Dwelling Place (on day of marriage)
 
-|Johann Heinrich Jäger|No. 5 Nordholz|Philippine Christine Krückeberg|no. 18 Berenbusch
+|*Groom*|Johann Heinrich Jäger|No. 5 Nordholz
+
+|*Bride*|Philippine Christine Krückeberg|no. 18 Berenbusch
 |===
 
 .Father of Groom

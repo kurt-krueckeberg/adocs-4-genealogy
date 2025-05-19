@@ -18,7 +18,7 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |===
 
 .Bride's Father
-[%header,width="60%",cols="4,2,2,2"]
+[%header,width="50%",cols="4,2,2,2"]
 |===
 |Name|Status|Dwelling|Religion
 
@@ -26,7 +26,7 @@ In 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krü
 |===
 
 .Facts
-[%header]
+[%header, width="40%"]
 |===
 ||Name|Fact
 
