@@ -1,5 +1,15 @@
-= 1817 Sophie  Caroline Krückeberg Confirmation
+= 1817 Sophie Caroline Krückeberg Confirmation
 :page-role: doc-width
+
+== Family Group and Other Facts
+
+.Confirmand
+[%header]
+|===
+|Name|Date of Confirmation|Address|Approximate Age|Approximate Birth Year
+
+|Sophie Caroline Krückeberg|6 April 1817|no. 19 Evesen|14|1802 to 1804
+|===
 
 == Citation
 

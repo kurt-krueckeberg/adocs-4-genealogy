@@ -9,10 +9,10 @@ top-right column of confirmed **Knaben** (boys). He is listed first.
 .Name of Confirmant
 [%header]
 |===
-|Name|Date of Confirmation|Address|Approx Age
+|Name|Date of Confirmation|Address|Approx Age|Approx Birth Year
 
 |Johann Heinrich Krückeberg|2 April 1820 = +
-1^st^ Sunday after Easter 1820|Bärenbusch|14
+1^st^ Sunday after Easter 1820|Bärenbusch|14|1805-1807
 |===
 
 == Confirmation Record
