@@ -25,8 +25,7 @@ and financial standing in the village.
 |===
 |Person|Fact
 
-|Groom| He is the **Anerbe** of his father, +
-the principal heir
+|Groom| He is the **Anerbe** of his father, the principal heir
 |===
 
 .Groom's Father Facts
