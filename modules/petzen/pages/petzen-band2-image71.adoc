@@ -8,7 +8,7 @@ entries span both pages 136 and 137.
 
 == Birth 26 April 1798
 
-The birth month of `April` appear on image 70, page 135, near the bottom of the page. It spans the column for "geb" (birth
+The birth month *April* appears on image 70, page 135, near the bottom of the page. It spans the column for "geb" (birth
 date) and "get" (baptism date). Image 71 continues the births for April of 1798/
 
 image::petzen-band2-img70-135-bottom.jpg[title="Bottom section, page 135, showing month (Click to enlarge)",link=self]
