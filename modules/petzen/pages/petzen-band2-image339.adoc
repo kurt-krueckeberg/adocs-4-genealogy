@@ -11,9 +11,38 @@
 
 | *Groom*|Johann Heinrich Klöpper|29|10 Oct. 1790|25 Dec. 1853|Yes|No. 22 Röcke|Lutheran
 
-| *Bride*|Maiden/virgin Christine Louise Krückeberg|19|4 April 1798|11 Sept. 1878|unstated|No. 19 Evesen|Lutheran
+| *Bride*|Maiden/virgin Christine Louise Krückeberg|19|4 April 1798|11 Sept. 1878|Yes|No. 19 Evesen|Lutheran
 |===
 
+[NOTE]
+====
+The German reads literally:
+....
+Maiden(virgin) Christine Louise
+Krückebergs, of the late
+Johann Heinrich
+Krückeberg n. 19 in Evesen
+surviving legitimate Tochter.
+....
+====
+
+[caption="Facts for: "]
+.Groom's Father
+[%header]
+|===
+|Name|Address
+
+|Johann Heinrich Krückeberg|no. 22 in Röckae
+|===
+
+[caption="Facts for: "]
+.Bride's Late Father
+[%header]
+|===
+|Name|Status|Address
+
+|Albrecht Klöpper|Deceased|mo. 19 Evesne
+|===
 
 
 == Citation
@@ -57,7 +86,7 @@ Zeugen |Bemerkungen
 |8
 |Jungeselle Johann Hein- +
 rich Klöpper, ehelicher Sohn +
-des Albreacht Klöpper +
+des Albrecht Klöpper +
 no. 22 in Röcke. Luth. Conf. +
 u. jetzt 29 Jahre alt +
 ge[t/b]. 10.10.1790 +
@@ -99,7 +128,7 @@ ciating Minister |Marriage Witnesses |Remarks
 |8
 |Bachelor Johann Hein- +
 rich Klöpper, legitimate son +
-of Albreacht Klöpper +
+of Albrecht Klöpper +
 no. 22 in Röcke. Luth. Conf. +
 and now 29 years old +
 born 10/10/1790 +
