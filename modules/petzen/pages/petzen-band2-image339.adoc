@@ -7,11 +7,13 @@
 .1 Decmeber 1816 Marriage
 [cols="1,3,1,2,2,1,2,2",options="header"]
 |===
-|        | Name     |Age|Baptism|Death| Legitimate| Address (at time of marriage) | Religion
+|        | Name     |Age|Birth or Baptism|Death| Legitimate| Address (at time of marriage) | Religion
 
-| *Groom*|Johann Heinrich Klöpper|29|10 Oct. 1790|25 Dec. 1853|Yes|No. 22 Röcke|Lutheran
+| *Groom*|Johann Heinrich Klöpper|29|baptism: +
+10 Oct. 1790|25 Dec. 1853|Yes|No. 22 Röcke|Lutheran
 
-| *Bride*|Maiden/virgin Christine Louise Krückeberg|19|4 April 1798|11 Sept. 1878|Yes|No. 19 Evesen +
+| *Bride*|Maiden/virgin Christine Louise Krückeberg|19|birth: +
+26 April 1798|11 Sept. 1878|Yes|No. 19 Evesen +
 (see **Note**)|Lutheran
 |===
 
