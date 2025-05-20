@@ -5,7 +5,7 @@
 
 [caption="Fact for: "]
 .12 March 1822 Marraige
-[options="header"]
+[cols="2,3,1,2,2,1,2,2",options="header"]
 |===
 |        | Name     |Age|Baptism|Death| Legitimate| Address (at time of marriage) | Religion
 
