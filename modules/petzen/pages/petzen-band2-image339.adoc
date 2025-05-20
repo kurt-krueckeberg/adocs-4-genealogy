@@ -24,7 +24,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 ====
 
 .Facts for Groom's Father
-[%header]
+[%header,width="40%"]
 |===
 |Name|Address
 
@@ -32,7 +32,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 |===
 
 .Factrs for Bride's Late Father
-[%header]
+[%header,width="40%"]
 |===
 |Name|Status|Address
 
