@@ -34,9 +34,9 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 .Factrs for Bride's Late Father
 [%header,width="40%"]
 |===
-|Name|Status|Address
+|Name|Address|Status
 
-|Albrecht Klöpper|Deceased|mo. 19 Evesne
+|Albrecht Klöpper|mo. 19 Evesen|Deceased
 |===
 
 
