@@ -11,13 +11,16 @@
 
 | *Groom*|Johann Heinrich Klöpper|29|10 Oct. 1790|25 Dec. 1853|Yes|No. 22 Röcke|Lutheran
 
-| *Bride*|Maiden/virgin Christine Louise Krückeberg|19|4 April 1798|11 Sept. 1878|Yes|No. 19 Evesen|Lutheran
+| *Bride*|Maiden/virgin Christine Louise Krückeberg|19|4 April 1798|11 Sept. 1878|Yes|No. 19 Evesen +
+(see **Note**)|Lutheran
 |===
 
 [NOTE]
 ====
-The German reads literally:
-`Maiden(virgin) Christine Louise Krückebergs, of the late Johann Heinrich Krückeberg n. 19 in Evesen surviving legitimate Tochter.'
+The address of the bride is not actually given, only the adrress of her later father. She is described as:
+....
+Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Heinrich Krückeberg n. 19 in Evesen
+....
 ====
 
 [caption="Facts for: "]
