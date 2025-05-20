@@ -9,11 +9,14 @@ entries span both pages 136 and 137.
 == Birth 26 April 1798
 
 The birth month *April* appears on image 70, page 135, near the bottom of the page. It spans the column for "geb" (birth
-date) and "get" (baptism date). Image 71 continues the births for April of 1798/
+date) and "get" (baptism date). 
 
 image::petzen-band2-img70-135-bottom.jpg[title="Bottom section, page 135, showing month (Click to enlarge)",link=self]
 
 == Birth Entry 24 on Page 136
+
+Image 71  continues the births for April of 1798. The birth and baptism entry for Christine Louise Krückeberg
+is the third entry from the top.
 
 image::petzen-band2-img71-136.jpg[title="Header and first three entries, page 136 portion (Click to enlarge)",link=self]
 
