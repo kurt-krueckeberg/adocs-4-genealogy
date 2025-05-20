@@ -23,8 +23,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 ....
 ====
 
-[caption="Facts for: "]
-.Groom's Father
+.Facts for Groom's Father
 [%header]
 |===
 |Name|Address
@@ -32,8 +31,7 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 |Johann Heinrich Krückeberg|no. 22 in Röckae
 |===
 
-[caption="Facts for: "]
-.Bride's Late Father
+.Factrs for Bride's Late Father
 [%header]
 |===
 |Name|Status|Address
