@@ -5,11 +5,10 @@
 
 On March 13, 1803 Carl Friedrich Gottlieb Krückeberg married Philippine Eleonore Werkmeister in Petzen.
 
-
-.Married Couple
-[%header,cols="2,3,1,1,2",width="75%"]
+.Facts for March 13, 1803 Marrige
+[%header,cols="2,3,1,2",width="75%"]
 |===
-||Name|Date of Marriage|Place of Marriage|Residence (at time of marriage)
+||Name|Place of Marriage|Residence (at time of marriage)
 
 |*Groom*|Carl Friedrich Gottlieb Krückeberg|Petzen|no. 10 Berenbusch
 
