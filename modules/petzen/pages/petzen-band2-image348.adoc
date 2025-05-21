@@ -15,8 +15,23 @@ On 12 March 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Hein
 |Widower Friedrich Wilhelm Drifftmeier|Taglöhner|42|n. 19 Bärenbusch|Lutheran
 
 | *Bride*
-|Maiden/virgin Philippine Louise Eleonore Kruckeberg|n/a|29|n. 19 Evesen|Lutheran
+|Maiden/virgin Philippine Louise Eleonore Kruckeberg|n/a|29|n. 19 Evesen +
+(assumed address. See Note)|Lutheran
 |===
+
+[NOTE]
+====
+In 19th-century German church records:
+
+* Individuals were often identified by village and house number associated with the head of household — usually the father.
+
+* This applied to both deceased and living fathers, and often included professions (like "Leibzüchter") or inheritance status
+(like "Anerbe").
+
+* Even if the son or daughter still lived at that house, the address is still formally associated with the father in these
+records.
+====
+
 
 .Bride's Father
 [%header,width="50%",cols="4,2,2,2"]

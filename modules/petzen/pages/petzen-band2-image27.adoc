@@ -3,6 +3,41 @@
 
 In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Krückeberg, married Friedrich Wilhelm Watermann.
 
+== Family Group and Other Facts
+
+[caption="Bride and Groom Facts for: "]
+.23 February 1812 Marriage
+[cols="2,3,1,2,2,2,3,2",options="header"]
+|===
+|        | Name     |Age|Occupation|Birth|Death| Address (at time of marriage) | Religion
+
+| *Groom*|Friedrich Wilhelm Watermann|21|Farmer|29 Feb. 1792|not stated|no. 11 Nordholz|Lutheran
+
+| *Bride*|Philippine Caroline Krückeber|21||1 Feb. 1792|26 Oct. 1870|n. 10 Bärenbusch +
+(assumed. See Note)|Lutheran
+|===
+
+.Bride's Father
+[%header,width="40%"]
+|===
+|Name|Address
+
+|Jobst Heinrich Kruckeberg|n. 10 Bärenbusch
+|===
+
+
+[NOTE]
+====
+In 19th-century German church records:
+
+* Individuals were often identified by village and house number associated with the head of household — usually the father.
+
+* This applied to both deceased and living fathers, and often included professions.
+
+* Even if the son or daughter still lived at that house, the address (when it immediately follows the father's name) is still formally
+associated with the father in these records.
+====
+
 == Citation
 
 The marriage record is on <<image27, image 27, on pages 48 and 49>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
