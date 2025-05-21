@@ -9,7 +9,7 @@
 |===
 |        | Name     |Age|Birth|Death| Address (at time of marriage) | Religion
 
-| *Groom*|Friedrich Wilhelm Raulting|23|13 July 1788|5 Dec. 1859|No. 13 Bärenbusch +
+| *Groom*|Friedrich Wilhelm Raulfing|23|13 July 1788|5 Dec. 1859|No. 13 Bärenbusch +
 (assumed. See note)|Lutheran
 
 | *Bride*|Maria Philippine Krückeberg|18|1794 in Steinbergen|14 Feb. 1866|no. 10 Bärenbusch +
@@ -35,7 +35,7 @@ records.
 |===
 |Name|Status|Address
 
-|Albert Raulting|Deceased|no. 13 Bärenbusch
+|Albert Raulfing|Deceased|no. 13 Bärenbusch
 |===
 
 == Citation
@@ -114,8 +114,8 @@ Zeugen |Bemerkungen
 
 |3.
 |Junggeselle Friedrich Wil- +
-helm Raulting, [Sohn] des verstor- +
-benen Albert Raulting n. 13 +
+helm Raulfing, [Sohn] des verstor- +
+benen Albert Raulfing n. 13 +
 in Bärenbusch hinlerlaßener +
 Sohn und Anerbe Luth. Conf. + 
 und jetzt 23 Jahre alt +
@@ -155,8 +155,8 @@ ciating Minister|Marriage Witnesses|Remarks
 
 |3.
 |Bachelor Friedrich Wil- +
-helm Raulting, surviving son and Anerbe of the late +
-Albert Raulting n. 13 +
+helm Raulfing, surviving son and Anerbe of the late +
+Albert Raulfing n. 13 +
 in Bärenbusch. Luth. Conf. +
 and now 23 years old +
 born 7/13/88 died 12/5/59
