@@ -13,11 +13,20 @@ In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Kr
 
 | *Groom*|Friedrich Wilhelm Watermann|21|Farmer|29 Feb. 1792|not stated|no. 11 Nordholz|Lutheran
 
-| *Bride*|Philippine Caroline Krückeber|21||1 Feb. 1792|26 Oct. 1870|n. 10 Bärenbusch +
+| *Bride*|Philippine Caroline Krückeberg|21||1 Feb. 1792|26 Oct. 1870|n. 10 Bärenbusch +
 (assumed. See Note)|Lutheran
 |===
 
-.Bride's Father
+.Bride Philippine Caroline Krückeberg Other Facts
+[%header,width="40%"]
+|===
+|Fact|Fact Details
+
+|2^nd^ (yet future) marriage|2^nd^ future marriage date: *11 May 1834*
+|===
+
+
+.Bride's Father Facts
 [%header,width="40%"]
 |===
 |Name|Address
