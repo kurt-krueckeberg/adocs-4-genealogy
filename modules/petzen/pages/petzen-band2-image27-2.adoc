@@ -5,7 +5,7 @@
 
 [caption="Bride and Groom Facts for: "]
 .1 Decmeber 1816 Marriage
-[options="header"]
+[cols="2,3,1,2,2,3,2",options="header"]
 |===
 |        | Name     |Age|Birth|Death| Address (at time of marriage) | Religion
 
