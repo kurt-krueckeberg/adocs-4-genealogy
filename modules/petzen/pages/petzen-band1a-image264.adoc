@@ -1,7 +1,11 @@
 = 1779 Carl Friderich Gottlieb Krückeberg Baptism
 :page-role: doc-width
 
-This is the baptism record of Carl Friderich Gottlieb Krückeberg from "database with images", image 264.
+== Family Group and Other Facts
+
+Carl Friedrich Gottlieb Krückeberg was bpatized on April 18, 1779, in Petzen.
+
+TODO:
 
 == Citation
 
