@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 .Baptism Facts
-[%header]
+[%header,cols="3,2,1,1,1,2,2,2"]
 |===
 |Name|Birth Date|Birth Time|Birth Order|Sex Birth Order|Baptism Date|Marriage Date|Death
 
@@ -17,7 +17,7 @@
 
 |*Father*|Carl Friedrich Gottlieb Krückeberg|18 Apr. 1779|13 Mar 1803|no. 18 Bärebusch|no. 18 Bärebusch|Lutheran
 
-|*Mother*|Philippine Leonore nee Bleeke|no. 18 Bärebusch|4 May 1785|13 Mar 1803|no. 11 Evesen|Lutheran
+|*Mother*|Philippine Leonore nee Bleeke|4 May 1785|13 Mar 1803|no. 18 Bärebusch|no. 11 Evesen|Lutheran
 |===
 
 .Baptismal Sponsors
