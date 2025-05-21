@@ -10,7 +10,7 @@
 |        | Name     |Age|Birth|Death| Address (at time of marriage) | Religion
 
 | *Groom*|Friedrich Wilhelm Raulting|23|13 July 1788|5 Dec. 1859|No. 13 Bärenbusch +
-(Assumed. See note)|Lutheran
+(assumed. See note)|Lutheran
 
 | *Bride*|Maria Philippine Krückeberg|18|1794 in Steinbergen|14 Feb. 1866|no. 10 Bärenbusch +
 (assumed. See Note)|Lutheran
