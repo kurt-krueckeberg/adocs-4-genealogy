@@ -4,10 +4,11 @@
 == Family Group and Other Facts
 
 .Confirmand Facts
+[%header,cols="4,4,1,2"]
 |===
 |Name|Date|Address|Approx Age| Approx. Birth Year
 
-|Sophie Wilhelmine Krückebergs| 31 March 1816 = Sonntag Quasimodogeniti |. Bärenbusch n. 10|14|1801-1802
+|Sophie Wilhelmine Krückebergs| 31 March 1816 = Sonntag Quasimodogeniti |no. 10 Bärenbusch |14|1801-1802
 |===
 
 == Citation
