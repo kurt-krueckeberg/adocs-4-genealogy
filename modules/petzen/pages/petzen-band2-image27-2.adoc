@@ -31,6 +31,7 @@ records.
 ====
 
 .Grooms's Father
+[%header,width="35%"]
 |===
 |Name|Status|Address
 
