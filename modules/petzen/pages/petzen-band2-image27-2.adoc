@@ -30,13 +30,22 @@ records.
 
 ====
 
-.Grooms's Father
+.Facts for Grooms's Father
 [%header,width="35%"]
 |===
 |Name|Status|Address
 
 |Albert Raulfing|Deceased|no. 13 Bärenbusch
 |===
+
+.Facts for  Bride's Father
+[%header,width="35%"]
+|===
+|Name|Status|Address|Status
+
+|Johann Heinrich Krückeberg10 in Bärenbusch |Leibzüchter
+|===
+
 
 == Citation
 
