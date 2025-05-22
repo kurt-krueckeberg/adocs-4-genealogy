@@ -21,6 +21,7 @@
 |===
 
 .Mother Facts
+[%header,width="70%"]
 |===
 |Name|Birth Place|Religion
 
@@ -36,10 +37,16 @@
 |===
 
 .Baptismal Sponsor
+[%header,width="40%"]
 |===
 |Name|Residence
 
 |Hans Heinrich Wilharm|n. 11 Evesen
+
+|Johann Heinrich Deerberg|n. 11 Evesen +
+(give as: "the same")
+
+|Jobst Heinrich Krückeberg|Bärenbusch
 |===
 
 
