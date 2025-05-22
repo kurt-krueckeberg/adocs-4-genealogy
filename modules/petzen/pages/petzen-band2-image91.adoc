@@ -30,8 +30,7 @@
 |===
 |Name|Birthdate| Baptism Date|Baptism Place
 
-|Johann Heinrich Krückeberg|12 Aug 1806 +
-4 p.m.|17 Aug 1806|Petzen
+|Johann Heinrich Krückeberg|12 Aug 1806, 4 p.m.|17 Aug 1806|Petzen
 |===
 
 .Baptismal Sponsor
