@@ -43,7 +43,7 @@ records.
 |===
 |Name|Address|Status
 
-|Johann Heinrich Krückeberg|10 in Bärenbusch |Leibzüchter
+|Johann Heinrich Krückeberg|10 in Bärenbusch |Pensioner allow to live on the property
 |===
 
 
@@ -105,6 +105,7 @@ ____
 +
 * **Benner** -- Thode's defines this as: cooper.
 * **Leibzüchtner**(male)/**Leibzüchtnerin**(female) -- Thode's definition is: "person on life estate". He defines Leibzucht as: "life annuity; pension; life estate".
+See this more detailed explantion: link:https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/[What is a Lieftucht/Leibzucht?].
 ====
 
 [caption="Transliteration 2: "]
