@@ -6,7 +6,7 @@
 .Confirmand's Family Group
 [cols="3,3,3,2,1,1"]
 |===
-|Father|Mother|Child|Address|Date of Confirmation|Child's Birthdate
+|Father|Mother|Child/Confirmand|Address|Date of Confirmation|Child's Birthdate
 
 |Jobst Heinrich Krückeberg|Anna Christine Philipp. geb. Tegtmeier|Anne Christine Leonore Krückeberg|no. 10 Bärenbusch|7 April 1811|14 Feb. 1798
 |===
