@@ -1,6 +1,16 @@
 = 1806 Philippine Louise Leonore Krückeberg Confirmation
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Confirmand's Family Group
+[cols="3,3,3,2,2,2"]
+|===
+|Father|Mother|Child/Confirmand|Residence of the Father or the Mother|Child's Birthdate|Child's Birthplace|Date of Confirmation
+
+|Johann	Heinrch Kruckeberg|Anne Cathrine Sophie nee Krömer|Philippine Louise Leonore|no. 19 Evesen|21 April 1793|Evesen|20 March 30 1806
+|===
+
 == Citation
 
 The confirmation of Philippine Louise Leonore Krückeberg Confirmation on Sunday
