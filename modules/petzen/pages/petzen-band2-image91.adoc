@@ -12,6 +12,7 @@
 |===
 
 .Father Facts
+[%header,width="80%"]
 |===
 |Name|Birth Place|Occupation|Religion
 
