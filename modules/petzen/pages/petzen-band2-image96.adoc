@@ -20,6 +20,7 @@
 (see Note below)|Lutheran
 |===
 
+
 .Mother Facts
 [%header,width="70%"]
 |===
@@ -49,9 +50,17 @@
 |Jobst Heinrich Krückeberg|Bärenbusch
 |===
 
-
-.Einlieger
+.Meaning of Einlieger
 ****
+[NOTE]
+====
+A **Einlieger** was a **landless tenant, lodger, or cottager** who lived in someone else’s house or on
+someone else’s property.
+
+An Einlieger did not own land or a house but might work for the landowner or rent a small room or
+cottage on the estate. They were of a lower socio-economic class than full farmers (Vollmeier, Halbmeier,
+etc.).
+
 ****
 
 == Citation
