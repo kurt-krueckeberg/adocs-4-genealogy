@@ -1,6 +1,15 @@
 = 1811 Christine Louise Krückeberg Confirmation
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Family Group
+|===
+|Child/Confirmand|Date of Confirmation|Father|Mother|Address|Child's Birthdate
+
+|Anne Christine Leonore Krückeberg|7 April 1811|Jobst Heinrich Krückeberg|Anna Christine Philipp[ine] geb. Tegtmeier|no. 10 Bärenbusch|14 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 179814 Feb. 1798 
+|===
+
 == Citation
 
 The confirmation of Christine Louise Krückeberg, on the 1^st^ Sunday After Easter(Quadsimodogeniti), was registered
