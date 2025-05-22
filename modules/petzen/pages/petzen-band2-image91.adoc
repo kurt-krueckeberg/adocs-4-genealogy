@@ -34,7 +34,7 @@
 |===
 
 .Baptismal Sponsor
-[%header,width="40%"]
+[%header,width="55%"]
 |===
 |Name|Occupation|Residence
 
