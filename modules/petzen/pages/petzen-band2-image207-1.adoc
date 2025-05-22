@@ -1,10 +1,21 @@
 = 1811 Anne Christine Louise Krückeberg Confirmation
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+
+.Confirmand's Family Group
+[cols="3,3,3,2,1,1"]
+|===
+|Father|Mother|Child/Confirmand|Address|Child's Birthdate|Date of Confirmation
+
+|Jobst Heinrch Kruckeberg|Anne Christine Philipp. nee Tegtmeier|Anne Christine Lenore Krückebergs|no. 10 Bürenbusch|14 Feb. 1798
+|===
+
 == Citation
 
 The confirmation of Chrisinte Louise Krückeberg in 1811 on the 2^nd^ Sunday
-after Easter(Qadsimodogeniti) is entry 20, on <<image207-438-439, pages 438 and 439>>,
+after Easter(Qadsimodogeniti) is entry 20, on <<image207-438-439, pages 438 and 439>>, on entry #20,
 of Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
 === Header Pages 438 Header
