@@ -39,9 +39,9 @@ records.
 |===
 
 .Facts for  Bride's Father
-[%header,width="35%"]
+[%header,width="45%"]
 |===
-|Name|Status|Address|Status
+|Name|Address|Status
 
 |Johann Heinrich Krückeberg|10 in Bärenbusch |Leibzüchter
 |===
