@@ -5,11 +5,11 @@
 
 
 .Confirmand's Family Group
-[cols="3,3,3,2,1,1"]
+[cols="3,3,3,2,2,2"]
 |===
 |Father|Mother|Child/Confirmand|Address|Child's Birthdate|Date of Confirmation
 
-|Jobst Heinrch Kruckeberg|Anne Christine Philipp. nee Tegtmeier|Anne Christine Lenore Krückebergs|no. 10 Bürenbusch|14 Feb. 1798|7 April 1811
+|Jobst Heinrch Kruckeberg|Anne Christine Philipp. nee Tegtmeier|Anne Christine Lenore Krückebergs|no. 10 Bärenbusch|14 Feb. 1798|7 April 1811
 |===
 
 == Citation
