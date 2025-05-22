@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 .Family Group Facts
-[%header,cols="3,3,3,2"]
+[%header,cols="3,3,3,2",width="80%"]
 |===
 |Father|Mother|Child|Residence
 
@@ -19,7 +19,7 @@
 |===
 
 .Mother Facts
-[%header,width="70%"]
+[%header,width="65%",cols="3,2,2"]
 |===
 |Name|Birth Place|Religion
 
@@ -27,6 +27,7 @@
 |===
 
 .Child Facts
+[%header,width="65%"]
 |===
 |Name|Birthdate| Baptism Date|Baptism Place
 
@@ -38,15 +39,13 @@
 |===
 |Name|Occupation|Residence
 
-|Carl Friedrich Gottlieb Krückeberg|Einlieger +
-farm laborer|Bärenbusch
+|Carl Friedrich Gottlieb Krückeberg|Einlieger (farm laborer)|Bärenbusch
 
 |C Friedrich Tegtmeier|Meinsen|not stated
 |===
 
-
 The baptism of Johann Heinrich Krückeberg is entry 22 on pages <<image91-176, 176>>
-and <<image91-177, 177>> of Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten,
+and <<image91-177, 177>>, entry #22, of the "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
 
 == Pages 176 and 177 Overview
