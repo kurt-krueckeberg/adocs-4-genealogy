@@ -6,7 +6,7 @@
 .Family Group Facts
 [%header,cols="3,3,3,2"]
 |===
-|Father|Mother/Her Origin|Child|Residence
+|Father|Mother|Child|Residence
 
 |Carl Friedrich Gottlieb Krückeberg|Philippine Lenore nee Bleeken|Carl Friedrich Krückeberg|no. 14 Bärenbusch
 |===

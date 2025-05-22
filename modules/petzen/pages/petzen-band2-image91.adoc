@@ -1,6 +1,51 @@
 = 1806 Johann Heinrich Krückeberg Baptism
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Family Group Facts
+[%header,cols="3,3,3,2"]
+|===
+|Father|Mother|Child|Residence
+
+|Jobst Heinrich Krückeberg|Christine Phlippine Lenore Tegtmeier|Johann Heinrich Krückeberg|No. 10 Bärenbusch
+|===
+
+.Father Facts
+|===
+|Name|Birth Place|Occupation|Religion
+
+|Jobst Heinrich Krückeberg|No. 10 Bärenbusch|Schoemaker Guild Master|Lutheran
+|===
+
+.Mother Facts
+[%header,width="70%"]
+|===
+|Name|Birth Place|Religion
+
+|Christine Philippine Lenore Tegtmeier|Meinsen|Lutheran
+|===
+
+.Child Facts
+|===
+|Name|Birthdate| Baptism Date|Baptism Place
+
+|Johann Heinrich Krückeberg|12 Aug 1806 +
+4 p.m.|17 Aug 1806|Petzen
+|===
+
+.Baptismal Sponsor
+[%header,width="40%"]
+|===
+|Name|Occupation|Residence
+
+|Carl Friedrich Gottlieb Krückeberg|Einlieger +
+farm laborer|Bärenbusch
+
+|C Friedrich Tegtmeier|Meinsen|not stated
+|===
+
+
 The baptism of Johann Heinrich Krückeberg is entry 22 on pages <<image91-176, 176>>
 and <<image91-177, 177>> of Petzen Kirchenbuch "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827".
@@ -89,9 +134,9 @@ Luthr. Confession +
 Schuster Amtsmeister
 |Christine Philippine +
 Leonore geb. Tegt +
-meiern uas Meinsen, + 
+meiern  aus Meinsen, + 
 Lutheraner Confession
-|Nov. 10. in +
+|No. 10. in +
 Bärenbusch +
 |Carl Friedrich +
 Gottlieb Krückeberg +
