@@ -4,6 +4,7 @@
 == Family Group and Other Facts
 
 .Family Group
+[%header,cols="3,3,2,3,2,1,2"]
 |===
 |Name|Occupation|Residence|Father|Mother|Mother's Origin|Parents Residene|?TODO
 
@@ -11,15 +12,17 @@
 |===
 
 .Decedent Facts
+[%header,cols="3,2,1,1,2,3",width="80%"]
 |===
 |Name|Marital Status|Date of Death|Age|Cause|Character
 
-|Joh[ann] Hen[rich] Krickberg|married|18 Mar. 1805|38|hemorrhage|a quiet true +
+|Johann Hen[rich] Krickberg|married|18 Mar. 1805|38|hemorrhage|a quiet true +
 diligent [mason?] +
 a very useful member of the parish
 |===
 
 .Survivors
+[%header,width="35%"]
 |===
 |Survivors
 
