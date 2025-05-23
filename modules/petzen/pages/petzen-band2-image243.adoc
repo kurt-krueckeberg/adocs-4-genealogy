@@ -20,7 +20,7 @@
 |===
 
 .Survivors
-[%header,width="35%"]
+[%header,width="25%"]
 |===
 |Survivors
 
