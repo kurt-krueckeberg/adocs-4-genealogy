@@ -45,7 +45,7 @@ has **colon**, farmer.
 [%header,%autowidth,frame="none"]
 |===
 |Zahl |Name, Rel: Ge?: Eltern, Geburt u. bisher[iger] +
-Wohort de  Gestorbene |Zeit u. Ort des +
+Wohort der Verstorbene |Zeit u. Ort des +
 Todt u, Begräb +
 niss??? |Ursache +
 des Totes |Alter |Ledig oder +
@@ -62,7 +62,7 @@ Married |Survivors |[untitled]
 |Joh: Hen: Krickeberg colon: n 19 in +
 Evesen, Sohn des Joh Hen Kruckeberg +
 in Berenb: n 10 u. der Christine Rösener +
-aus Evesen [????] Kruckeb:
+aus Evesen [gerech?] Kruckeb:
 |d 18ten März ge +
 storb, begrab: +
 d 21ten
