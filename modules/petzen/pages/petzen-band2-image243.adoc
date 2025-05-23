@@ -12,13 +12,11 @@
 |===
 
 .Decedent Facts
-[%header,cols="3,2,1,1,2,3",width="80%"]
+[%header,cols="3,2,1,1,2,4",width="80%"]
 |===
 |Name|Marital Status|Date of Death|Age|Cause|Character
 
-|Johann Hen[rich] Krickberg|married|18 Mar. 1805|38|hemorrhage|a quiet true +
-diligent [mason?] +
-a very useful member of the parish
+|Johann Hen[rich] Krickberg|married|18 Mar. 1805|38|hemorrhage|a quiet true diligent [mason?] a very useful member of the parish
 |===
 
 .Survivors
