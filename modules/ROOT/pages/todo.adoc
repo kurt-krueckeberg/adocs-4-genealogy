@@ -1,18 +1,29 @@
 = Plans
 
-* According to the link:https://www.online-ofb.de/famlist.php?ofb=petzen&b=A&lang=de[Gesamtliste der Famieliennamen]
-for the link:https://www.online-ofb.de/petzen/[Petzen Ortsfamilienbuck], there are no "Krückebergs".
+== Resarch these topcis and Read this Material
 
-* Look for the early 18th century "Kruckeberg/Kruckeberg" image -- and maybe there is also .adoc file -- that
-has the name "Kuckeberg" or perhaps "Kruckeberg", although I'm not sure it a Kruckeberg baptism.
+* _A Short Introduction to the Napoleonic Wars_ to answer:
+** how much of Napoleon's Army was eventually German?
+** At what point did it become a partially German, and what percent of the soldiers
+were German? 
+* What was the impact on Schaumburg-Lippe after Francis II abdicated? Did it become part of
+the German Confederacy? Did it remain an independent principality? Did it's laws remain
+largely intact?
+* Read about Anerbenrecht.
+* Listen to the videos by Andrea benchneider concerning serfdom and marriage.
+* Geramn central Europe population exploseion and its impact.
+* Serfdom videos
+* Marriage videos
 
-* Write up what
-** Anerbenrecht in Schaumburg-Lippe meant See ~/d/genealogy/german_society/Social_Order_17th_18th _Century.odt.
-** How marriage worked
-** How serfdom worked
-** History on population explosion: there was a huge increase in population and prices went up
-and income down.
-** Holy Roman Empire history
+== Family Search Videos
+
+* Also listen to the German genealogy videos on FamilySearch, many of which are in german.
+
+== Orstfamilienbücher
+
+* There are Krückebergs in the link:https://www.online-ofb.de/petzen/[Petzen Ortsfamilienbuck], according to the
+link:https://www.online-ofb.de/famlist.php?ofb=petzen&b=A&lang=de[Gesamtliste der Famieliennamen] for the book.
+
 
 https://www.familysearch.org/de/wiki/Deutschland_Volksz%C3%A4hlungen
 
