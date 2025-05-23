@@ -1,6 +1,24 @@
 = 1805 Johann Hen. Krickeberg Death
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Family Group
+|===
+|Name|Occupation|Residence|Father|Mother|Mother's Origin|Parents Residene|?TODO
+
+|Joh[ann] Hen[rich] Krickberg|farmer (on full-sized farm)|no. 19 Evesen|Johann Henirch Kruckeberg|Christine Rösner|Evesen|no. 10 Berenbusch|?TODO
+|===
+
+.Decedent Facts
+|===
+|Name|Marital Status|Date of Death|Age|Cause|Character
+
+|Joh[ann] Hen[rich] Krickberg|married|18 Mar. 1805|38|hemorrhage|
+|===
+
+
+
 == Citation
 
 The death of Johann Hen. Krückeberg in 1805 is recorded on <<image243, image 243,
@@ -103,7 +121,7 @@ on 21^st^
 | [?? ????] a
  quiet true +
  diligent [mason?] +
-a verz useful member of the parish
+a very useful member of the parish
 |===
 
 
