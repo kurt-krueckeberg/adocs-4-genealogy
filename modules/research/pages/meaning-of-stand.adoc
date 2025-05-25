@@ -1,0 +1,86 @@
+= What is *Stand* and *Einliger* Mean?
+
+== Discussion
+
+.Summary of **Stand** and Words Like Einlieger
+....
+After doing some research this morning, I believe the term "Einlieger", which
+is used often in the Petzen church registers, and used to describe Carl
+Friedrich Gottlieb Krückeberg. likely refers to social or economic status, and
+not just to the work one did, that is likely refers to whether one owned a home
+or was tennant.
+
+I was looking at the 1803 baptism entry for Christine Philippine Krückeberg
+more closely because of the column labeled "Stand". In over 40 baptism entries
+on the page only a few terms were used to give the father's or family's
+"Stand"--which Ernest Thode's Genealogical Dictionary defines as: "personal
+(marital) status; occupation; (legitimacy) status".  
+
+One of these terms was "Einlieger", which Thode's Genealogical dictionary
+defines as "free agricultural laborer". Another was "Anerbe". Anerbe has to do
+with inheritance. It has to do with one's status as the sole heir under the
+Anerbenrecht law. The most frequently used term was illegible. 
+
+Carl Friedrich Gottlieb Krückeberg's "Stand", given in the baptism record for
+Carl Friedrich Krückeberg, is "Schnieder und Einlieger". Was he both a tailor
+and an agricultural laborer? Does that make sense?
+
+I found earlier baptism records on an earlier page where the "Stand" terms used
+were more legible. "Hausherr" was the most frequently used, which Thode's
+defines as "master of the house; landlord".
+
+When I asked Chatgpt what "Stand" might mean in the context just described, it
+said: In the context of an 1803 Lutheran church Kirchenbuch (church book) from
+Schaumburg-Lippe, the column labeled "Stand" refers to the social status,
+occupation, or estate class of the father (or sometimes the parents) of the
+baptized child.
+
+The word "Stand" historically means "status", "rank", or "estate", and in this
+context it indicates the person's socioeconomic position within the local
+community. The terms you've found—like Hausherr, Anerbe, and Einlieger—are
+descriptive of landholding and residency status, which were key aspects of
+social and legal standing in early 19th-century German rural communities.
+
+Here’s what those terms generally mean:
+
+Hausherr: literally "house master" – typically a property-owning head of
+household; someone who owns or leases a farmstead and is recognized as the
+patriarch of the household.
+
+Anerbe: The inheriting heir of a farm (often under partible or impartible
+inheritance law, depending on region). An Anerbe is the designated successor to
+a family property or farm. In many cases this status came with responsibilities
+and privileges tied to the farm.
+
+Einlieger: A lodger or tenant without land – someone who lives on another’s
+property, often in a small cottage or room, and works for wages or rent. They
+were of lower social rank than landowning farmers.
+
+So in summary, the "Stand" column records the father's social and economic
+position—especially in terms of land ownership and inheritance—which was
+important information in these communities. It helps contextualize the family
+within the social hierarchy of the time and place.
+....
+
+Possible insight into the meaning of *Einlieger* and related words seems to be revealed on the images from
+77 - 84 of petzen-band2. 
+
+These images:
+
+image::Stand-meaning-petzen-band2-img77-bottom.jpg[title="Meaning of Stand example 1 (Click to enlarge)",link=self]
+
+The set of *Stand* terms in the image above are:
+* Hausherr
+* Anerbe
+* Einlieger
+
+image::Stand-meaning-petzen-band2-img79-top-half.jpg[title="Meaning of Stand example 1 (Click to enlarge)",link=self]
+
+The set of *Stand* terms in the image above are:
+
+* Hausherr
+* Anerbe
+* Einlieger
+* Krüger
+* Kleinholzer
+* Pastor
