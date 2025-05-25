@@ -4,8 +4,10 @@
 == Family Group Facts
 
 .Family Group
+[%header,cols="3,3,2,3,1,1,2"]
 |===
-|Father|Mother|Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
+|Father|Mother|Family +
+Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
                                                     
 |Jobst Heinrich Krückeberg|Christine Philippine Eleonore nee +
 Tegtmeier|Bärenbusch|Philippine Caroline Christine|Bärenbusch|21 Apr 1805|9 Sept. 1791
