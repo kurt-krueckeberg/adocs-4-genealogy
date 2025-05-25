@@ -22,8 +22,7 @@ Immediately after entry 31 for Caroline Dorothee Krückeberg is the entry for a 
 
 image::petzen-band2-img137.jpg[title="Heinrich Wilhelm Weiland entry 37 (Click to enlarge)",link=self]
 
-NOTE: An **Einlieger/Einlinger** was a small farmer. (I am awaiting more information as to
-whether he was a tennant famer or might own his own land).
+NOTE: See discussion of **Einlieger/Einlinger** at xref:petzen:petzen-band2-image82-1.adoc[Image 82].
 
 [caption="Transliteration: "]
 .Heinrich Wilhelm Weiland Baptism and Birth
