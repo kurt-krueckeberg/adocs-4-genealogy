@@ -37,8 +37,7 @@ Possible insight into the meaning of *Einlieger* and related words seems to be r
 in the *Stand* column and in the other entry from this page shown in xref:petzen:petzen-band2-image82-1.adoc[petzen-band2-img82-1]
 Notice only a small set of around four terms only are used. One of thes is **Einlieger**; another is *Anerbe*.
 
-The other two words are unclear, but might become clearer if other entries for the father's, like their
-marriage or child's marriages, where their *Stand* might be more clearly written.
+The other two words are unclear. The other imageses where the same column headers are used are image 77 through image 84.
 ====
 ****
 
@@ -110,5 +109,9 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 [bibliography]
 == References
 
-* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
-* [[[image82-159-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/10fd9445da/ : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
+* [[[image82-158-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/037f8d4ae2/ : 10 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
+* [[[image82-159-entry23]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/10fd9445da/ : 10 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > 
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 82 of 357
