@@ -10,7 +10,7 @@
 Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
                                                     
 |Jobst Heinrich Krückeberg|Christine Philippine Eleonore nee +
-Tegtmeier|Bärenbusch|Philippine Caroline Christine|Bärenbusch|21 Apr 1805|9 Sept. 1791
+Tegtmeier|Bärenbusch|Philippine Caroline Christine|21 Apr 1805|9 Sept. 1791|Bärenbusch
 |===
 
 
