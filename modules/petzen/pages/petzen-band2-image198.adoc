@@ -4,7 +4,7 @@
 == Family Group Facts
 
 .Family Group
-[%header,cols="3,3,2,3,1,1,2"]
+[%header,cols="3,3,2,3,2,2,2"]
 |===
 |Father|Mother|Family +
 Residence|Confirmand|Date Confirmed|Date Born|Child's Birthplace   
