@@ -1,6 +1,7 @@
 .Research Threads
 * xref:background-info.adoc[]
 * xref:schaumburg-lippe-censuses.adoc[]
+* xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
 * xref:schaumburg-lippe-nonchurch-records.adoc[]
 * xref:OrtsFamilienBücher.adoc[]
 * xref:wpa-hrs.adoc[]
