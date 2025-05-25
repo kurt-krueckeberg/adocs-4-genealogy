@@ -14,18 +14,31 @@ This is an overview of the first 33 entries of pages 158 and 159:
  
 image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to enlarge)",link=self]
 
-[sidebar]
-****
 [NOTE]
 .Abbreviations Used in the Header
 ====
-By comparing this page with prior pages, it is clear the page header contains two words that are an abbreviation of the
-adjective form for the principality of Schauburg-Lippe: **Schaumburg-Lippischen**.
+By comparing this page with prior pages, it is clear the page header contains
+two words that abbreviate Schauburg-Lippe (in adjective form):
+**Schaumburg-Lippischen**.
 
-These two words come immediately before **Dortschaften**. They are hurried written as: **Schumb Lipp**
+These two words come immediately before **Dortschaften**. They are hurried
+written as: **Schumb Lipp** The word before this two-word abbreviation is
+uncertain. It likely refers to the general area of villages that belonged to
+the Petzen parish. Perhaps it is its administrative term, either governmental
+or religious.
+====
 
-The word before this two-word abbreviation is uncertain. It likely refers to the general area of villages that belonged to the Petzen parish.
-Perhaps it is its administrative term, either governmental or religious. 
+[sidebar]
+.Importance of * *Stand* Column
+****
+[NOTE]
+====
+Possible insight into the meaning of *Einlieger* and related words seems to be revealed on this image
+in the *Stand* column and in the other entry from this page shown in xref:petzen:petzen-band2-image82-1.adoc[petzen-band2-img82-1]
+Notice only a small set of around four terms only are used. One of thes is **Einlieger**; another is *Anerbe*.
+
+The other two words are unclear, but might become clearer if other entries for the father's, like their
+marriage or child's marriages, where their *Stand* might be more clearly written.
 ====
 ****
 
