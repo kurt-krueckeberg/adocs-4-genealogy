@@ -38,7 +38,7 @@ Create stats for images 77-84 that give number of entries with a given term for 
 
 |14|Einlieger
 
-|15|Knecht?
+|15|Knecht?--or Anerbe
 
 |16|Hausherr
 
@@ -57,13 +57,21 @@ Create stats for images 77-84 that give number of entries with a given term for 
 |23|Hausherr
 |===
 
-[caption="Occurances of *Stand* terms in: "] 
+[caption="Total occurances of *Stand* terms in: "] 
 .Image 80
 [%header,width=20%,cols="1,4"]
 |===
+|Stand|Total Occurances
 
-|24|Hausherr
+|Einlieger|4
 
+|Anerbe|1
+
+|Hausherr|15
+
+|Meÿer?|1
+
+|Knecht[or is it: Anerbe?]|1
 |===
 
 
