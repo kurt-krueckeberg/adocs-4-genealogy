@@ -1,5 +1,72 @@
 = What is *Stand* and *Einliger* Mean?
 
+== TODO
+
+Create stats for images 77-84 that give number of entries with a given term for *Stand*.
+
+[caption="Occurances of *Stand* terms in: "] 
+.Image 80
+[%header,width=20%,cols="1,4"]
+|===
+|Line #|
+
+|1|Einlieger
+
+|2|Hausherr
+
+|3|Einlieger
+
+|4|Hausherr
+
+|5|Hausherr
+
+|6|Hausherr
+
+|7|Hausherr
+
+|8|Anerbe
+
+|9|Hausherr
+
+|10|Hausherr
+
+|11|Hausherr
+
+|12|Hausherr
+
+|13|Hausherr
+
+|14|Einlieger
+
+|15|Knecht?
+
+|16|Hausherr
+
+|17|Hausherr
+
+|18|Einlieger
+
+|19|Hausherr
+
+|20|Meÿer?
+
+|21|
+
+|22|Hausherr
+
+|23|Hausherr
+|===
+
+[caption="Occurances of *Stand* terms in: "] 
+.Image 80
+[%header,width=20%,cols="1,4"]
+|===
+
+|24|Hausherr
+
+|===
+
+
 == Discussion
 
 .Summary of **Stand** and Words Like Einlieger
