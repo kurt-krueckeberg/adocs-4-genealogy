@@ -74,6 +74,75 @@ Create stats for images 77-84 that give number of entries with a given term for 
 |Knecht[or is it: Anerbe?]|1
 |===
 
+.Image 81
+[%header,width=20%,cols="1,4"]
+|===
+|Zahl|Stand
+
+|24|Hausherr
+
+|25|Knecht
+
+|26|Anerbe
+
+|27|Einlieger
+
+|28|Einlieger
+
+|29|Hausherr
+
+|1|Hausherr
+
+|2|Hausherr
+
+|3|Hausherr
+
+|4|Hausherr
+
+|5|Hausherr
+
+|6|Anerbe
+
+|7|
+
+|8|Anerbe
+
+|9|
+
+|10|Hausherr
+
+|11|Knecht
+
+|12|Hausherr
+
+|13|Reuter
+
+|14|Anerbe
+
+|15|Hausherr
+
+|16|Hausherr
+|===
+
+[caption="Total occurances of *Stand* terms in: "] 
+.Image 81
+[%header,width=20%,cols="1,4"]
+|===
+|Stand|Total Occurances
+
+|Einlieger|2
+
+|Anerbe|4
+
+|Hausherr|11
+
+|Reuter|1
+
+|Knecht|2
+|===
+
+
+
 
 == Discussion
 
