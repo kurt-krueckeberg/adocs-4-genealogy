@@ -25,7 +25,7 @@ largely intact?
 
 === Einlieger and Other Words
 
-See xref:research:what-does-stand-mean.adoc[]
+See xref:research:meaning-of-stand.adoc[]
  
 * Ask on Archion.de subforum on "Begriffe and Abkürzungen" "Schneider und Einlieger" means.
 == Family Search Videos
