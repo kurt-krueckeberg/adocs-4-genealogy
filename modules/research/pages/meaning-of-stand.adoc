@@ -275,25 +275,79 @@ In Schaumburg-Lippe, "Reuter" may refer to a smallholder or low-ranking
 leaseholder—above a Knecht or Einlieger but below a Hausherr.
 ....
 
-Possible insight into the meaning of *Einlieger* and related words seems to be revealed on the images from
-77 - 84 of petzen-band2. 
+Summary Table of ChatGPT repsonse:
+[cols="1,2,3", options="header"]
+|===
+|Term
+|Status/Role
+|Notes
 
-These images:
+|Hausherr
+|Head of household, farm owner
+|Highest rank among these terms
 
-image::Stand-meaning-petzen-band2-img77-bottom.jpg[title="Meaning of Stand example 1 (Click to enlarge)",link=self]
+|Anerbe
+|Designated heir to farm
+|Often the eldest son
 
-The set of *Stand* terms in the image above are:
-* Hausherr
-* Anerbe
-* Einlieger
+|Einlieger
+|Lodger without land
+|Low-income, rented a room
 
-image::Stand-meaning-petzen-band2-img79-top-half.jpg[title="Meaning of Stand example 1 (Click to enlarge)",link=self]
+|Knecht
+|Male farm laborer
+|Hired help, no household
 
-The set of *Stand* terms in the image above are:
+|Reuter
+|Small tenant farmer
+|Variable meaning, usually modest landholder
+|===
 
-* Hausherr
-* Anerbe
-* Einlieger
-* Krüger
-* Kleinholzer
-* Pastor
+Here is list of ChatGPT "Recommended Resources" for understanding the society
+background:
+
+== Recommended Resources
+
+=== 1. Heimatkunde des Fürstentums Schaumburg-Lippe (German)
+
+This comprehensive local history offers detailed accounts of the principality's
+social and economic structures, including aspects of agrarian life. It provides
+context on land ownership, inheritance practices, and the roles of various
+social classes.
+
+*Access:* https://gei-digital.gei.de/viewer/fullscreen/PPN736080457/316/[GEI Digital]
+
+=== 2. FamilySearch Schaumburg-Lippe Genealogy Resources (English)
+
+While primarily a genealogical resource, this collection includes information
+on occupations, social statuses, and community structures within
+Schaumburg-Lippe. It can help contextualize the roles of individuals like
+_Hausherr_, _Anerbe_, and _Einlieger_ within the broader society.
+
+*Access:* https://www.familysearch.org/en/wiki/Schaumburg-Lippe_Societies
+
+=== 3. Principality of Schaumburg-Lippe - Wikipedia (English)
+
+This article provides an overview of the principality's history, including its
+political structure and societal organization during the 19th century. It can
+serve as a starting point for understanding the broader context of the region.
+
+*Access:* https://en.wikipedia.org/wiki/Principality_of_Schaumburg-Lippe
+
+=== 4. Schaumburg-Lippe Genealogy - Eggert Family Genealogy (English)
+
+This resource offers historical insights into Schaumburg-Lippe, including
+demographic information and aspects of daily life. It can provide context on
+the living conditions and social dynamics of the time.
+
+*Access:* https://www.aegilops.com/slp/index.html[Eggert Family Genealogy]
+
+=== 5. Historical Society of Schaumburg-Lippe Archives (German)
+
+The Schaumburg-Lippische Heimatverein has a collection of documents deposited
+at the Lower Saxony State Archives in Bückeburg. These archives contain
+valuable primary sources that can shed light on the agrarian society and class
+structures of the region.
+
+*Access:* https://www.yerusha-search.eu/viewer/metadata/IFH-0275/1/
+
