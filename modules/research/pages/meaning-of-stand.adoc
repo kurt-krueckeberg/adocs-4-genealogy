@@ -142,6 +142,46 @@ Create stats for images 77-84 that give number of entries with a given term for 
 |===
 
 
+[caption="Total occurances of *Stand* terms in: "] 
+.Image 82, Line 17 trhru 25
+[%header,width=20%,cols="1,4"]
+|===
+|Stand|Total Occurances
+
+|Einlieger|4
+
+|unknown-1[Herr Pastor?]|1
+
+|unknown-2|1
+
+|Anerbe|4
+
+|Hausherr|13
+
+|Knecht|1
+|===
+
+
+[caption="Total occurances of *Stand* terms in: "] 
+.Image 82, Line 26 trhru 33
+[%header,width=20%,cols="1,4"]
+|===
+|Stand|Total Occurances
+
+|Hausherr|
+
+|Einlieger|
+
+|Anerbe
+
+|Knecht
+
+|Einlieger
+
+|unknonw[Caribinier?]|
+|===
+
+
 
 
 == Discussion
