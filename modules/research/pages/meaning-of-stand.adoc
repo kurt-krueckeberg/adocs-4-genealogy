@@ -172,11 +172,11 @@ Create stats for images 77-84 that give number of entries with a given term for 
 
 |Einlieger|
 
-|Anerbe
+|Anerbe|
 
-|Knecht
+|Knecht|
 
-|Einlieger
+|Einlieger|
 
 |unknonw[Caribinier?]|
 |===
