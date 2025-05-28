@@ -5,7 +5,7 @@ The birth is recorded on image 82, entry 23, on <<image82-158-entry23, page 158>
 <<image82-159-entry23, page 159>> of the Petzen Kirchenbuch 
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-The birth entries spans across both pages 158 and 159. The birth month of **`Jul`** is
+The birth entries spans across both pages 158 and 159. The birth month of **Jul** is
 written on page 159 slightly above the text of entry 22.
 
 == Overview of Pages 158 and 159
@@ -76,12 +76,12 @@ image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Cli
 .birth of Sophie Caroline Krückeberg in 1803
 [%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
 |===
-|No |Namen des Kindes |Namen des Vaters |Stand |Dorfschaft |N |Namen der Mutter |gebo. |get. |Namen der Gewattern 
+|No |Namen des Kindes |Namen des Vaters |Stand |Ort|N |Namen der Mutter |gebo. |get. |Namen der Gewattern 
 
 |23
 |Sophie Caroline
 |Joh Heinr: Krückeberg
-|[Hausherr?]
+|Hausherr
 |Evesen
 |19
 |Catha:Soph:geb: Krömer
@@ -94,15 +94,15 @@ image::petzen-band2-img82-entry23-159.jpg[title="Entry 23, page 159 portion (Cli
 .birth of Sophie Caroline Krückeberg in 1803
 [%header,cols="1,5,5,3,3,1,5,3,3,5",frame="none"]
 |===
-|No.|Child's Name|Father's Name|Occupation[Status]|Village|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
+|No.|Child's Name|Father's Name|Occupation[Status]|Location|Nr|Mother's name|birth.|bap.|Names of bap. witnesses 
 
 |23
 |Sophie Caroline
 |Johann Heinrich Krückeberg
-|[landlord?]
+|Hausherr
 |Evesen
 |19
-|Catha:Soph:born: Krömer
+|Catha[rine] Soph[ie] nee Krömer
 |21
 |31
 |Sophie Ernestine Wilharm from Evesen
