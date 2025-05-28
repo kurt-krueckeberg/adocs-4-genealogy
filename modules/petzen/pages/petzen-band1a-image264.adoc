@@ -9,19 +9,25 @@ TODO:
 
 == Citation
 
-Carl Friderich Gottlieb Kruckeberg's (this is how the surname was spelled in his baptism entry) baptism is on <<image264, image 264, right page, entry no. 15>> from the  
-"database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)".
+Carl Friderich Gottlieb Kruckeberg's (this is how the surname was spelled in
+his baptism entry) baptism is on <<image264, image 264, right page, entry no.
+15>> from the  "database with images (Register of Baptism and Confirmed of the
+Petzen Parish, 1641-1784)".
 
-Carl Friedrich Gottlieb Krückeberg is in the FamilySearch Tree link:https://www.familysearch.org/tree/person/details/G7Y7-J8G[FamilySearch Tree Entry].
+Carl Friedrich Gottlieb Krückeberg is in the FamilySearch Tree
+link:https://www.familysearch.org/tree/person/details/G7Y7-J8G[FamilySearch
+Tree Entry].
 
 == Baptism Record
  
 [NOTE]
 This is an overview of the right page. No page numbers are written on either the left or right pages.
 
-image::petzen-band1a-img264-overview.jpg[align=left,title='Left page overview of image 264 (Click to enlarge)',link=self]
+image::petzen-band1a-img264-overview.jpg[align=left,title='Left page overview
+of image 264 (Click to enlarge)',link=self]
 
-image::petzen-band1a-img264.jpg[align=left,title='Carl Friderich Gottlieb Kruckeberg, entry 15, right page of image 264 (Click to enlarge)',link=self]
+image::petzen-band1a-img264.jpg[align=left,title='Carl Friderich Gottlieb
+Kruckeberg, entry 15, right page of image 264 (Click to enlarge)',link=self]
 
 .Meaning of Hofmeister and "au" Suffix
 ****
@@ -32,19 +38,24 @@ A _Hofmeister_ is defined in Thode's German-English Genealogical Dictionary as:
 
  "adminstrator of a manorial estate; child's tutor"
 
-In the entry, Otto Rösener is the _Hofmeister auf der Hockersaue_. "Hocker Aue" also appears in image 274 in the baptism record of
-xref:petzen-band1a-image279.adoc#johanna-sophie-charlotte-krückeberg-baptims-1782[Johanna Sophie Charlotte Kruckebergen].
-Her godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von der Hockerers Aue".
+In the entry, Otto Rösener is the _Hofmeister auf der Hockersaue_. "Hocker Aue"
+also appears in image 274 in the baptism record of
+xref:petzen-band1a-image279.adoc#johanna-sophie-charlotte-krückeberg-baptims-1782[Johanna
+Sophie Charlotte Kruckebergen].  Her godmother **Johanna Sophie Margedalenna
+Wilkeningen** is described as: "von der Hockerers Aue".
 ====
 
 [NOTE]
 .Meaning of -au  or -aue Suffix
 ====
-Thode's German-Enlgish Genealogical Dictionary defines **-aue** as a suffix meaning **meadow**. link:https://www.dict.cc/?s=Aue[dict.cc] define **Aue**
-as a poetic, old regional word meaning: **meadow[piece of low ground near a river]**.
+Thode's German-Enlgish Genealogical Dictionary defines **-aue** as a suffix
+meaning **meadow**. link:https://www.dict.cc/?s=Aue[dict.cc] define **Aue** as
+a poetic, old regional word meaning: **meadow[piece of low ground near a
+river]**.
 
 In this entry **"au"** occurs as the suffix in **Höckersau**, while in the
-xref:petzen-band1a-image279.adoc[1782 Johanna Sophie Charlotte Krückeberg] baptism record it appears as **aue**, **Höckersaue**.
+xref:petzen-band1a-image279.adoc[1782 Johanna Sophie Charlotte Krückeberg]
+baptism record it appears as **aue**, **Höckersaue**.
 ====
 ****
 
@@ -65,10 +76,10 @@ Baptisms                                                                1779
 
 
 15)             On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
- +              baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch
- 13 [oct] 1838  and his wife Anna Maria nee Schekeln
+ +              baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch,
+ 13 [oct] 1838  by his wife Anna Maria nee Schekeln
                 The godfather was Otto Rösener estate administrator[or: child's tutor]
-                on the Höckersau[estate].
+                on the Höckersau[Höcker's estate].
 ....
 
 
@@ -85,4 +96,8 @@ a|&nbsp;&nbsp;&#8224; +
 [bibliography]
 == References
 
-* [[[image264]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/68d61bc772/: 31 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 264 of 322
+* [[[image264]]] "Archion Protestant Kirchenbücher Portal", database with
+images, _Archion_ (http://www.archion.de/p/68d61bc772/: 31 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
+der Getauften und Konfirmierten 1641-1784, image 264 of 322
