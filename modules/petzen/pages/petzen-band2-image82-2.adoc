@@ -5,10 +5,20 @@
 
 .Family Group
 |===
-|Father|Mother|Child|"Stand"|
+|Father|Mother|Location|Child|Child's Birthdate|Child's Baptism Date|"Stand"|
 
+|Carl Friedrich Krückeberg|Philippine nee Werkmeister|Evesen +
+(Location No. +
+not given)|Christine Philippine|7 Dec. 1803|11 Dec. 1803|Einlieger
 |===
 
+.Baptism Sponsors
+|===
+|Name
+
+|[F?] Kruckeberg and Weiland from Berenbusch
+
+|===
 
 The birth is recorded on image 82, entry 40, on <<image82-158-entry23, page 158>> and
 <<image82-159-entry23, page 159>> of the Petzen Kirchenbuch 
@@ -26,14 +36,12 @@ image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to 
 .Abbreviations Used in the Header
 ====
 By comparing this page with prior pages, it is clear the page header contains
-two words that abbreviate Schaumburg-Lippe (in adjective form):
-**Schaumburg-Lippischen**.
+an abbreviation for Schaumburg-Lippe (in adjective form): **Schaumburg-Lippischen**.
 
-These two words come immediately before **Dortschaften**. They are hurried
-written as: **Schumb Lipp** The word before this two-word abbreviation is
-uncertain. It likely refers to the general area of villages that belonged to
-the Petzen parish. Perhaps it is its administrative term, either governmental
-or religious.
+It appeats immediately before **Dortschaften** as **Schumb Lipp**. The word before
+this two-word abbreviation is uncertain. It likely refers to the general area of villages that 
+comprised the Petzen parish. Perhaps it is an administrative term, either governmental
+or religious?
 ====
 
 == Transliteration and Translation of Page Header for Pages 158 and 159
