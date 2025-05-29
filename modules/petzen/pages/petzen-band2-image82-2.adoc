@@ -4,7 +4,6 @@
 The birth is recorded on image 82, entry 40, on <<image82-158-entry23, page 158>> and
 <<image82-159-entry23, page 159>> of the Petzen Kirchenbuch 
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
-
 The birth entries spans across pages 158 and 159. The birth month **`Decbr`** is
 written on page 159 between entries 39 and 40.
 
@@ -71,7 +70,7 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Philipp:geb: Werkmeister
 |7
 |11
-|[A?] Kruckeberg u[nd] Weyland aus Berenb[usch].
+|[F/Fr. This might be an abbrev. for "Frauen"?] +Kruckeberg u[nd] Weyland aus Berenb[usch].
 |===
 
 [caption="Translation: "]
