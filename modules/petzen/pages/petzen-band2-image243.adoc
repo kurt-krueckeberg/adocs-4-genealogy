@@ -12,7 +12,7 @@
 |===
 
 .Decedent Facts
-[%header,cols="3,2,2,1,2,4",width="80%"]
+[%header,cols="3,2,3,1,2,4",width="80%"]
 |===
 |Name|Marital Status|Date of Death|Age|Cause|Character
 
