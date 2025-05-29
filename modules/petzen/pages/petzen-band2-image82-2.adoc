@@ -68,8 +68,8 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Evesen
 |
 |Philipp:geb: Werkmeister
-|7
-|11
+|7 [Decbr. writen above entry)
+|11 [Decbr. writen above entry)
 |[F/Fr. This might be an abbrev. for "Frauen"?] +Kruckeberg u[nd] Weyland aus Berenb[usch].
 |===
 
@@ -82,13 +82,13 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |40
 |Christine Philippine
 |Carl Fried: Krückeberg
-|free agricultural laborer
+|Einlieger
 |Evesen
 |
-|Philipp:geb: Werkmeister
-|7
-|11
-|[A?] Kruckeberg u[nd] Weyland from Berenb[usch].
+|Philipp[ine] nee: Werkmeister
+|7  [Decbr. writen above entry)
+|11 [Decbr. writen above entry)
+|[F?] Kruckeberg a[nd] Weyland from Berenb[usch].
 |===
 
 
