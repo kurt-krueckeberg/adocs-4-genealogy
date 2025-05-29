@@ -5,7 +5,7 @@
 
 .Family Group
 |===
-|Father|Mother|Location|Child|Child's Birthdate|Child's Baptism Date|"Stand"|
+|Father|Mother|Location|No.|Child|Child's Birthdate|Child's Baptism Date|"Stand"|
 
 |Carl Friedrich Krückeberg|Philippine nee Werkmeister|Evesen +
 (Location No. +
