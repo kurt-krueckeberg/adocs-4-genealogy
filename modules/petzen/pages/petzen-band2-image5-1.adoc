@@ -1,7 +1,16 @@
 = 1790 Johann Heinrich Kruckeberg Marriage
 :page-role: doc-width
 
-The marriage of Johann Heinrich Krueckeberg is entry 8 on page 5.
+== Family Group Facts
+
+.Family Group Facts for August 2, 1790 Marriage
+[%header,cols="1,3,2",width="35%"]
+|===
+||Name|Residence (at time of marriage)
+
+|*Groom*|Johann Heinrich Krückeberg|no. 10 Berenbusch
+
+|*Bride*|Anna Catharine Sophia Krömer|no. 19 Evesen
 
 == Citation
 
@@ -21,33 +30,33 @@ image::petzen-band2-img5-1.jpg[align=left,title='Page 5 Entries 8 and 10',link=s
 [NOTE]
 .`Jfr` abbreviation
 ====
-. The abbreviation **Jfr** stands for Jungfrau or maiden.
+The abbreviation **Jfr** stands for Jungfrau or maiden.
 ====
 
-[caption="Transliteration and Translation: "]
-.page header and lines 8, 10 and 13
-[%autowidth, cols="l",frame="none"] 
-|===
-|                       Getraute       1790                                  5
+.Transliteration of Page Header
+....
+                        Getraute       1790                                5
+....
+
+.Translation of Page Header
+....
                        Married Couples 1790                                5
+....
 
-|8) d 2 Aug ist copuliert Johann Heinrich Kruckeberg
-    aus Berenbusch No 10 mit Jfr Anna Catharine Sophia
+
+.Transliteration
+....
+8) d 2 Aug ist copuliert Johann Heinrich Kruckeberg
+    aus Berenbusch No 10 mit Jfr[Jungfrau] Anna Catharine Sophia
     Krömern aus Evesen No 19.
+....
 
-|8) date 2 Aug Johann Heinrich Kruckeberg
+.Translation
+....
+8) date 2 Aug Johann Heinrich Kruckeberg
     from Berenbusch No 10 was married to maiden Anna Catharine Sophia
     Krömer from Evesen No 19.
-
-|10) d 19th Septbr ist copulirt Jobst Heinrich Weiland aus
-     Berenbush No 1 mit Jfr Anna Catharina Margaretha
-     Mohtin aus Berenbush No 7.
-
-|10) date 19th Septbr Jobs[h]t Heinrich Weiland from
-     Berenbush No 1 was married to maiden Anna Catharina Margaretha
-     Mohtin from Berenbush No 7.
-|===
-
+....
 
 [bibliography]
 == References
