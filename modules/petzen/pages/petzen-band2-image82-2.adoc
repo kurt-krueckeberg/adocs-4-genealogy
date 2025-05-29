@@ -1,6 +1,15 @@
 = 1803 Christine Philippine Krückeberg Birth
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Family Group
+|===
+|Father|Mother|Child|"Stand"|
+
+|===
+
+
 The birth is recorded on image 82, entry 40, on <<image82-158-entry23, page 158>> and
 <<image82-159-entry23, page 159>> of the Petzen Kirchenbuch 
 "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827".
