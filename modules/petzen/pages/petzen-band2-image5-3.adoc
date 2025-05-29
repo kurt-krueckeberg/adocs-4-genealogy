@@ -27,21 +27,45 @@ The transliteration of the header for page 5 and marriage entries 8, 10 and 13 a
 . The abbreviation **Jfr** stands for Jungfrau or maiden.
 ====
 
-[caption="Transliteration and Translation: "]
-.page header and lines 8, 10 and 13
-[%autowidth, cols="l",frame="none"] 
-|===
-|                       Getraute       1790                                  5
+.Transliteration
+....
+                        Getraute       1790                               5
+....
+
+
+.Translation
+....
                        Married Couples 1790                                5
+....
 
-|13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
-                                             +1849
-    No 10 ein Schuster mit Jfr Philippine Christine Eleonore Tegtmeyern aus Meissen[faded, ambiguous] N:41
 
-|13) date 12th October Jobst Heinrich Kruckeberg from Berenbusch
-                                             +1849
-    No 10 a cobbler was married to maiden Philippine Christine Eleonore Tegtmeyer from Meissen[faded, ambiguous] N:41
-|===
+.Transliteration
+....
+
+13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
+                                   ge[st?] 21.10.22
+
+    No 10 ein Schuster mit Jfr Philippine Christine Eleonore
+        +1849
+    Tegtmeyern aus Meissen[faded, ambiguous] N:41
+....
+
+[NOTE]
+====
+The `+` or cross sign denotes a death date. The apparent death date of Jobst Heinrich 
+is denoted with the preceding `gest.`, meaning **gestorben** or died.
+====
+
+.Translation
+....
+
+13) On 12th October Jobst Heinrich Kruckeberg from Berenbusch
+                                   [died?] 21.10.22
+
+    No 10, a shoemaker, was married to maiden Philippine Christine Eleonore
+        +1849
+    Tegtmeyern aus Meissen[faded, ambiguous] N:41
+....
 
 
 [bibliography]
