@@ -47,7 +47,7 @@ image::petzen-band2-img12-right2.jpg[align=left,title="Click to enlarge",link=se
 |===
 |Zahl | Nahmen des Bräutigams | Ortschaft| Sh | Nahmen der Braut| Ortschaft| N.:
 
-7+|First three entries on page omitted
+7+|Note: The first three entries on page are not shown omitted
 
 |4
 |   am 13ten Marz
@@ -69,7 +69,7 @@ get. 4.79 gest. 13.5.38
 |===
 |Number | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.
 
-7+|First three entries on page omitted
+7+|Note: The first three entries on page are not shown omitted
 
 |4
 |on 13th March +
