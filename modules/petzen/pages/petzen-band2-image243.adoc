@@ -6,16 +6,13 @@
 .Family Group
 [%header,cols="3,3,2,3,2,1,2,3"]
 |===
-|Name|Occupation|Residence|Father|Mother|Mother's Origin|Parents Residene|untitled
+|Name|Occupation|Residence|Father|Mother|Mother's Origin|Parents Residence
 
-|Joh[ann] Hen[rich] Krickberg|farmer (on full-sized farm)|no. 19 Evesen|Johann Henirch Kruckeberg|Christine Rösner|Evesen|no. 10 Berenbusch|
-[?? ????] a quiet true
-diligent [mason?]
-a very useful member of the parish
+|Joh[ann] Hen[rich] Krickberg|farmer (on full-sized farm)|no. 19 Evesen|Johann Henirch Kruckeberg|Christine Rösner|Evesen|no. 10 Berenbusch
 |===
 
 .Decedent Facts
-[%header,cols="3,2,1,1,2,4",width="80%"]
+[%header,cols="3,2,2,1,2,4",width="80%"]
 |===
 |Name|Marital Status|Date of Death|Age|Cause|Character
 
