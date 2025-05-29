@@ -70,7 +70,7 @@ has **colon**, farmer.
 .entry 8 for Joh: Hen: Krickeberg
 [%header,%autowidth,frame="none"]
 |===
-|Zahl |Name, Rel: Gewerbe, Eltern, Geburt u. bisher[iger] +
+|Zahl |Name, Religion, Gewerbe, Eltern, Geburt u. bisher[iger] +
 Wohnort des Verstorbenen |Zeit u. Ort des +
 Todt u, Begräb +
 nises |Ursache +
