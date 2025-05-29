@@ -106,9 +106,7 @@ succeeding image.
 .entry 8 for Joh: Hen: Krickeberg
 [%header,%autowidth,frame="none"]
 |===
-|No. |Name, Re[igio], Trade, Parents, Birth and Previous +
-Residence of Deceased |Time and Place +
-of Death, Burial/ +
+|No. |Name, Religion,
 Funeral |Cause +
 of Death |Age |Single or +
 Married |Survivors |[untitled]
