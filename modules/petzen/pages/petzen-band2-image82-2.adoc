@@ -5,9 +5,9 @@
 
 .Family Group
 |===
-|Father|Mother|Location|No.|Child|Child's Birthdate|Child's Baptism Date|"Stand"
+|Father|Mother|Location|Child|Child's Birthdate|Child's Baptism Date|"Stand"
 
-|Carl Friedrich Krückeberg|Philippine nee Werkmeister|Evesen +
+|Carl Friedrich Krückeberg|Philippine nee Werkmeister|Evesen 
 (Location No. +
 not given)|Christine Philippine|7 Dec. 1803|11 Dec. 1803|Einlieger
 |===
