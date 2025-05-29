@@ -44,7 +44,6 @@ The transliteration of the header for page 5 and marriage entries 8, 10 and 13 a
 
 13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
                                    ge[st?] 21.10.22
-
     No 10 ein Schuster mit Jfr Philippine Christine Eleonore
         +1849
     Tegtmeyern aus Meissen[faded, ambiguous] N:41
@@ -61,7 +60,6 @@ is denoted with the preceding `gest.`, meaning **gestorben** or died.
 
 13) On 12th October Jobst Heinrich Kruckeberg from Berenbusch
                                    [died?] 21.10.22
-
     No 10, a shoemaker, was married to maiden Philippine Christine Eleonore
         +1849
     Tegtmeyern aus Meissen[faded, ambiguous] N:41
