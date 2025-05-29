@@ -14,7 +14,19 @@ With it you will find: +
 
 == Books
 
-Schmöe, Hermann. 800 Jahre Kirchspiel Petzen: Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181-1981; translation: "800 Years of the Parish of Petzen : Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181–1981" (Bückeburg: Karl Driftmann, 1981)  [Niedersächsische Landesbibliothek, Hannover]
+* Schmöe, Hermann. _800 Jahre Kirchspiel Petzen: Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181-1981_ ("800 Years of the Parish of Petzen
+: Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181–1981"_ (Bückeburg: Karl Driftmann, 1981)  [Niedersächsische Landesbibliothek, Hannover]
+
+* Author: Gustav Freytag, Translation of _PICTURES OF GERMAN LIFE IN THE EIGHTEENTH AND NINETEENTH CENTURIES_, link:https://www.gutenberg.org/files/33818/33818-h/33818-h.htm[ebook]
+
+== de.wikipedia.org
+
+https://de.wikipedia.org/wiki/Schaumburg-Lippe[Schaumburg-Lippe].
+
+== Articles
+
+link:https://journals.sagepub.com/doi/abs/10.1177/036319909201700205[From Peasant Society to Class Society: Some Aspects of Family and
+Class in a Northwest German Protoindustrial Parish, 17th-19th Centuries].
 
 == Ortsfamilienbuch (local family books)
 
