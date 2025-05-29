@@ -107,7 +107,8 @@ succeeding image.
 [%header,%autowidth,frame="none"]
 |===
 |No. |Name, Religion,
-Funeral |Cause +
+Funeral |Time and Place of +
+Death and Burial|Cause +
 of Death |Age |Single or +
 Married |Survivors |[untitled]
 
