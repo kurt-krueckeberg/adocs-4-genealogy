@@ -70,19 +70,12 @@ has **colon**, farmer.
 .entry 8 for Joh: Hen: Krickeberg
 [%header,%autowidth,frame="none"]
 |===
-|Zahl |Name, Rel: Ge?: Eltern, Geburt u. bisher[iger] +
-Wohort der Verstorbene |Zeit u. Ort des +
+|Zahl |Name, Rel: Gewerbe, Eltern, Geburt u. bisher[iger] +
+Wohnort des Verstorbenen |Zeit u. Ort des +
 Todt u, Begräb +
 niss??? |Ursache +
 des Totes |Alter |Ledig oder +
 verheÿrathet |Hinterbliebende |[untitled]
-
-|No. |Name, Rel: Ge?: Parents, birth:and up to now +
-Residence of Deceased |Time and Place +
-of Death, Burial/ +
-Funeral |Cause +
-of Death |Age |Single or +
-Married |Survivors |[untitled]
 
 |8          
 |Joh: Hen: Krickeberg colon: n 19 in +
@@ -103,11 +96,17 @@ ein recht nütz- +
  liches Mitglied der Gemeinde
 |===
 
+[NOTE]
+====
+*Gewerbe* in the column header is ambiguous on this image, but is clearly legible on the
+succeeding image.
+====
+
 [caption="Translation: "]
 .entry 8 for Joh: Hen: Krickeberg
 [%header,%autowidth,frame="none"]
 |===
-|No. |Name, Rel: Ge?: Parents, birth:and up to now +
+|No. |Name, Rel[igion], Trade, Parents, Birth and Previous +
 Residence of Deceased |Time and Place +
 of Death, Burial/ +
 Funeral |Cause +
@@ -115,9 +114,9 @@ of Death |Age |Single or +
 Married |Survivors |[untitled]
 
 |8          
-|Joh: Hen: Krickeberg colon: n 19 in +
-Evesen, son of Joh Hen Kruckeberg +
-in Berenb: n 10 und Christine Rösener +
+|Joh[ann] Hen[rich] Krickeberg colon: n 19 in +
+Evesen, son of Joh[ann] Hen[rich] Kruckeberg +
+in Berenb[usch]: n 10 und Christine Rösener +
 from Evesen [????] Kruckeb:
 |Died on March 18^th^en, +
 buried: +
@@ -136,6 +135,9 @@ a very useful member of the parish
 [bibliography]
 == References
 
-* [[[image243]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/fcf567b28f/ : 25 October 2023), path:
-Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357
-
+* [[[image243]]] "Archion Protestant Kirchenbücher Portal", database with
+images, _Archion_ (http://www.archion.de/p/fcf567b28f/ : 25 October 2023),
+path: Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
+der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 243 of
+357
