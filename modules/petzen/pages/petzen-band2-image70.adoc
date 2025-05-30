@@ -5,7 +5,7 @@
 == Family Group
 
 .Family Group
-[cols="3,3,3,2,2,2"]
+[cols="3,3,3,2,2,2",width="85%"]
 |===
 |Father|Mother|Child|Village and
 House #er|Birthdate|Baptism Date
