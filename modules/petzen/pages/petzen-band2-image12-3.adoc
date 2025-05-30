@@ -41,8 +41,8 @@ provides extra confirmation of who they were in the past (in the case of the bap
 are (in the case of the death date). With this extra date information, one doesn't have to rely solely on
 using their name or their residence or other attributes when we try to identify their birth, confirmation or death
 date--or to what family they belonged. It provides extra evidence of their identity beyond merely their name
-or residence. It is especially helpful in an era when the same limited set of given names appear so frequently and are
-used over and over again across generations, and at a time whenn several families may have lived at the same address.
+or residence. It is especially helpful in an era when there was a limited set of given names, where
+children were apparently named after a grandfather or grandmother or a baptism sponsor.
 ====
 ****
 

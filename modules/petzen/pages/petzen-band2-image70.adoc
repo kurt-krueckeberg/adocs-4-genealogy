@@ -1,10 +1,32 @@
 = 1798 Anne Chritine Eleonore Krückeberg Birth
 :page-role: doc-width
 
+
+== Family Group
+
+.Family Group
+[cols="3,3,3,2,2,2"]
+|===
+|Father|Mother|Child|Village and
+House #er|Birthdate|Baptism Date
+
+|Jobst Heinrich Krückeberg|Anne Christine Philippine Eleonore Tegtmeÿer|Anne Chritine Eleonore|No. 10 Bärenbusch|14 Feb. 1798|18 Feb. 1798 
+|=== 
+
+.Baptism Sponsors
+[width="40%"]
+|===
+|Name|Village and House #er
+
+|Ilse Margarethe Weiland|No. 1 Bärenbusch
+|Elisabeth Aldag|No. 1 Evesen
+|Katharine Margharethe Kuhlmann|No. 3 Evesen
+|===
+
 == Anne Chritine Eleonore Krückeberg
 
-The birth is recorded on <<image70, image 70 on Archion>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
-The entries spans across both pages 134 and 135.
+The birth is recorded on <<image70, image 70 on Archion>>, entry #12, of the Petzen "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827". The entries span both pages 134 and 135.
  
 === Pages 134-135
 
@@ -46,13 +68,13 @@ January|Names of godmothers
 |Jobst Heinrich Krückeberg
 |10
 |Bärenbusch
-|Anna Christine Phil: Eleon: Tegt.- +
+|Anna Christine Phil[ippine]: Eleon[ore]: Tegt.- +
 meÿer
 |14
 |18
-|1, J[l]fr Marg: Weiland No 1 Bärenbusch +
-2, Elisabeth Aldag/Ahldag No 1 in Evesen +
-3 Kathar: Marg: Kuhlmann No 3 [Evesen]
+|1, Ilse Marg: Weiland No 1 Bärenbusch +
+2, Elisabeth Aldag No 1 in Evesen +
+3 Kathar[ine]: Marg[arethe]: Kuhlmann No 3 [Evesen]
 
 |12
 |Anne Christine Eleonore Krückeberg   
@@ -63,8 +85,8 @@ meÿer
 meier
 |14
 |18
-|1. Maiden Marg: Weiland No 1 Bärenbusch +
-2. Elisabeth Aldag/Ahldag No 1 in Evesen +
+|1. Ilse Marg[arethe]: Weiland No 1 Bärenbusch +
+2. Elisabeth Aldag No 1 in Evesen +
 3. Kathar. Marg. Kuhlmann No 3 [Evesen]
 |===
 
