@@ -6,9 +6,9 @@
 .Family Group
 [cols="3,2,3,3,2,2,2"]
 |===
-|Father|"Stand"|Mother|Location|Child|Child's Birthdate|Child's Baptism Date
+|Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date
 
-|Johann Heinrich Krückeberg|Hausherr|Catharine Sophie Krömer|No. 19 Evesen|Sophie Caroline|21 Juy 1803|31 July 1803
+|Johann Heinrich Krückeberg|Hausherr|Catharine Sophie Krömer|Sophie Caroline|No. 19 Evesen|21 Juy 1803|31 July 1803
 |===
 
 .Baptism Sponsors
