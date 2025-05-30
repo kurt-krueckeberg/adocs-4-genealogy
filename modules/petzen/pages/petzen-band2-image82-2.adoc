@@ -8,16 +8,14 @@
 |Father|Mother|Location|Child|Child's Birthdate|Child's Baptism Date|"Stand"
 
 |Carl Friedrich Krückeberg|Philippine nee Werkmeister|Evesen 
-(Location No. +
-not given)|Christine Philippine|7 Dec. 1803|11 Dec. 1803|Einlieger
+(No. not given)|Christine Philippine|7 Dec. 1803|11 Dec. 1803|Einlieger
 |===
 
 .Baptism Sponsors
 |===
 |Name
 
-|[F?] Kruckeberg and Weiland from Berenbusch
-
+|F[meaning Frauen?] Kruckeberg and Weiland from Berenbusch
 |===
 
 The birth is recorded on image 82, entry 40, on <<image82-158-entry23, page 158>> and
