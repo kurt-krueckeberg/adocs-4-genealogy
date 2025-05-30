@@ -99,7 +99,7 @@ zahl| Namen des Kindes|Namen des Vaters|Haus Nro|Orstschaft|Namen der Mutter|geb
 [%header,cols="1,5,5,1,2,5,1,1,5",frame="none"]
 |===
 |On +
-No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Names of godparents
+No.| Child's Name|Father's Name|Haus No.|Locality|Mother's name|birth.|bap.|Names of godparent
 
 |3
 |Christine Louise Krückeberg   
