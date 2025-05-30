@@ -1,8 +1,21 @@
 = 1798 Christine Louise Krückeberg Baptism
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Family Group
+[cols="3,3,2,2,2,2"]
+|===
+|Father|Mother|Child|Village|Birthdate|Baptism Date
+
+|Johann Heinrich Krückeberg|Katharine Sophie Krömer|Christine Louise|No. 19 Evesen|26 Apr. 1798|29 Apr. 1798
+|===
+
+
+
+
 The birth and baptism are recorded on <<image71-136, image 71 of page 136>> and
-<<image71-137, image 71 of page 137>> of Petzen Kirchenbuch "Verzeichnis der
+<<image71-137, image 71 of page 137>>, entry #24, of the "Verzeichnis der
 Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827". The birth
 entries span both pages 136 and 137.
 
