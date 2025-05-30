@@ -4,8 +4,9 @@
 == Family Group Facts
 
 .Confirmand
+[width="60%"]
 |===
-|Name|Date of Event|Address|Approx. Age|Approx. Birthyear
+|Name|Date of Confirmation|Address|Approx. Age|Approx. Birth Year
 
 |Christine Philippine Krückeberg| 6 April 1817 = Sonntag Quasimodogeniti|No. 18 Bärenbusch|14|1802-1804
 |===
