@@ -16,9 +16,9 @@ With it you will find: +
 
 * Schmöe, Hermann. _800 Jahre Kirchspiel Petzen: Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181-1981_ ("800 Years of the Parish of Petzen
 : Berenbusch, Evesen, Nordholz, Petzen, Röcke 1181–1981"_ (Bückeburg: Karl Driftmann, 1981)  [Niedersächsische Landesbibliothek, Hannover]
-* link:https://www.gutenberg.org/files/33818/33818-h/33818-h.htm[Pictures of German Life in the
+* link:https://www.gutenberg.org/ebooks/33818[Pictures of German Life in the
 Eighteenth and Nineteenth Centuries, vol. 1], Gustav Freytag, Translated by Mrs. Malcolm, on Gutenberg.org
-* link:https://www.gutenberg.org/files/33818/33818-h/33819[Pictures of German Life in the
+* link:https://www.gutenberg.org/ebooks/33819[Pictures of German Life in the
 Eighteenth and Nineteenth Centuries, vol. 2], Gustav Freytag, Translated by Mrs. Malcolm, on Gutenberg.org
 
 == de.wikipedia.org
