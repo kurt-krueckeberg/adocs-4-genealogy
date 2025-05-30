@@ -6,11 +6,11 @@
 .Married Couple
 [%header,width="55%"]
 |===
-||Name|Status|Location|"Sh" or No.
+||Name|Other Info.|Location|"Sh" or No.
 
 |*Groom*|Johann Heinrich Krückeberg|Leibzüchter and widow|Baerenb[usch]|10
 
-|*Bride*|Philippine Doroth[ea] Beucken|for several years by him/it [??]|Evesen|[Einliegerin?]
+|*Bride*|Philippine Doroth[ea] Beucken|for several years by him/it [uncertain?]|Evesen|[Einliegerin?]
 |===
 
 == Citation
