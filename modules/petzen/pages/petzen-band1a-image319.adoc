@@ -1,11 +1,9 @@
 = 1778 Johann Heinrich Krückeberg Confirmation
 :page-role: doc-width
 
-== Reference
+== Citation
 
 This confirmation entry is on the <<image319, 319^th^ image on Archion>> of "database with images".
-
-The FamilySearch Tree-ID for Jobst Heinrich Krückeberg is [??TODO????].
 
 == Jobst Heinrich Krückeberg Confirmation 1778
 
