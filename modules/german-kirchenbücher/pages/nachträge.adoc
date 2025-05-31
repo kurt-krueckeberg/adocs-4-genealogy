@@ -1,0 +1,52 @@
+= Understanding Nachträge
+
+In German paleography and archival practice, there is a general term for later-added notes to an ortiginal record
+of a ceremont: they are called "Nachträge" (singular: Nachtrag), which translates to "addenda" or "later additions."
+
+In the context of Kirchenbücher (church books), a Nachtrag might include:
+
+* A death date added to a baptism or marriage entry (often prefaced with “†” or “gest.” for gestorben)
+
+* A confirmation date added to a baptism record
+
+* A marriage note added to a baptism record
+
+* a baptism date and, when the individual dies, a death date
+
+* An emigration note, especially in 19th-century records
+
+Notes about illegitimacy, legitimization, name changes, etc.
+
+These entries were often added by the same or a later pastor, typically in smaller or different handwriting, as you noted.
+
+Related terms:
+
+* Randvermerk – marginal note (if the note appears in the margin, which is common)
+
+* Vermerk – annotation or remark
+
+* Hinweis – indication or note (more generic)
+
+So, if you're describing the inserted death date in genealogical notes or research, you could write:
+
+....
+"Der Todestag wurde später als Nachtrag in kleinerer Schrift hinzugefügt, mit dem Vermerk 'gest.'."
+("The death date was later added as an addendum in smaller handwriting, with the note 'gest.'.")
+....
+
+== Their Significance
+
+The later additions or Nachträge inserted in smaller handwriting to an original record of a church
+ceremony provide extra confirmation of precisely who an individual is: it tells us, say, when they
+were born and baptized, or when they were confirmed, married or died. One doesn't have to infer such
+dates carefully by looking for their name in vast number of recorded ceremonies. One is freed from
+relying on and comparing other identifying attributes of the individual, like their residence or their
+parent's name. Instead the pastor (or perhaps church sexton) who personally knew the individual supplies
+this infornation free of charge as it were. 
+
+This is especially important because in social and religous milieu of the time there wasn't
+much variety in first names. Cchildren were apparently named often after a father, mother, grandfather
+or grandmother or a baptism sponsor. One sees the same given names repeated over and over. If the surname
+is very prvelant in a church parish, the Nachträge-supplied dates allow us to immediately confirm
+earlier or later ceremonies and the information contained in them.
+
