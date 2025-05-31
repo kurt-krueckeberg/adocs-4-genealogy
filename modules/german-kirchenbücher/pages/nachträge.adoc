@@ -15,6 +15,8 @@ In the context of Kirchenbücher (church books), a Nachtrag might include:
 
 * An emigration note, especially in 19th-century records
 
+TODO: include examples.
+
 Notes about illegitimacy, legitimization, name changes, etc.
 
 These entries were often added by the same or a later pastor, typically in smaller or different handwriting, as you noted.
@@ -34,17 +36,19 @@ So, if you're describing the inserted death date in genealogical notes or resear
 
 == Their Significance
 
-The later additions or Nachträge inserted in smaller handwriting to an original record of a church
-ceremony provide extra confirmation of precisely who an individual is: it tells us, say, when they
-were born and baptized, or when they were confirmed, married or died. One doesn't have to infer such
-dates carefully by looking for their name in vast number of recorded ceremonies. One is freed from
-relying on and comparing other identifying attributes of the individual, like their residence or their
-parent's name. Instead the pastor (or perhaps church sexton) who personally knew the individual supplies
-this infornation free of charge as it were. 
+These later addendumss or Nachträge inserted in smaller handwriting into an original record of a church
+ceremony provide extra confirmation of precisely who an individual is. They tells us, say, when an
+individual was born and baptized, or when they were confirmed, married or died. One doesn't have to
+infer such dates by carefully looking for other occuranmce of their name in the vast corpus of
+recorded ceremonies. One is freed from comparing other identifying attributes of the individual,
+their residence or their parent's name, in other records. Instead the pastor (or perhaps church sexton)
+who personally knew them supplies this infornation free of charge as it were. 
 
-This is especially important because in social and religous milieu of the time there wasn't
-much variety in first names. Cchildren were apparently named often after a father, mother, grandfather
-or grandmother or a baptism sponsor. One sees the same given names repeated over and over. If the surname
-is very prvelant in a church parish, the Nachträge-supplied dates allow us to immediately confirm
-earlier or later ceremonies and the information contained in them.
+This is especially important in the social and religous milieu of the time when there wasn't
+much variety among given names. One sees the same given names repeated over and over throughout
+the church register. If the surname is very common, you risk becoming confused ("which Johann Heinrich
+Meyer is it?").
+
+The Nachträge-supplied dates, then, provide a short cut that allows us to immediately confirm other life
+events and the information contained in them.
 

@@ -1,7 +1,10 @@
 = Plans
 
+== Change "Additional Dates" to "Nachträge Dates"
+
+Change "Additional Dates" under "Family Group and Other Facts" to "Nachträge-supplied Dates".
+
 == Resarch these topcis and Read this Material
-== Historical Background 
 
 === Naploeonic Wars
 * _A Short Introduction to the Napoleonic Wars_ to answer:

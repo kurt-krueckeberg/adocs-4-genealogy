@@ -2,7 +2,6 @@
 * xref:understand.adoc[]
 * xref:nachträge.adoc[]
 * xref:islerheide.adoc[]
-* xref:misc.adoc[]
 * xref:petzen:evesen-ortsteil-map.adoc[]
 * xref:frille:frille-area-map.adoc[]
 * xref:frille:index.adoc[Frille Kirchenbücher]
