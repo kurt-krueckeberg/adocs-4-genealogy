@@ -1,6 +1,6 @@
 .xref:index.adoc[]
 * xref:understand.adoc[]
-* xref:nachträge.addoc[]
+* xref:nachträge.adoc[]
 * xref:islerheide.adoc[]
 * xref:misc.adoc[]
 * xref:petzen:evesen-ortsteil-map.adoc[]
