@@ -11,7 +11,15 @@
 |Jobst Heinrich Krückeberg|Christine Phlippine Lenore Tegtmeier|Johann Heinrich Krückeberg|No. 10 Bärenbusch
 |===
 
-.Father Facts
+.Child Johann Heinrich Krückeberg Facts
+[%header,width="65%"]
+|===
+|Name|Birthdate| Baptism Date|Baptism Place
+
+|Johann Heinrich Krückeberg|12 Aug 1806, 4 p.m.|17 Aug 1806|Petzen
+|===
+
+.Father Jobst Heinrich Krückeberg Facts
 [%header,width="80%"]
 |===
 |Name|Birth Place|Occupation|Religion
@@ -19,20 +27,12 @@
 |Jobst Heinrich Krückeberg|No. 10 Bärenbusch|Schoemaker Guild Master|Lutheran
 |===
 
-.Mother Facts
+.Mother Christine Phlippine Lenore Tegtmeier Facts
 [%header,width="65%",cols="3,2,2"]
 |===
 |Name|Birth Place|Religion
 
 |Christine Philippine Lenore Tegtmeier|Meinsen|Lutheran
-|===
-
-.Child Facts
-[%header,width="65%"]
-|===
-|Name|Birthdate| Baptism Date|Baptism Place
-
-|Johann Heinrich Krückeberg|12 Aug 1806, 4 p.m.|17 Aug 1806|Petzen
 |===
 
 .Baptismal Sponsor
