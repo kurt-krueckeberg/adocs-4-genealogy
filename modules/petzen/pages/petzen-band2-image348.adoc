@@ -33,7 +33,7 @@ records.
 ====
 
 
-.Bride's Father
+.Bride Philippine Louise Eleonore Krückeberg's Father Facts
 [%header,width="50%",cols="4,2,2,2"]
 |===
 |Name|Status|Dwelling|Religion
@@ -41,7 +41,7 @@ records.
 |Heinrich Krückeberg|deceased|n. 19 Evesen|Lutheran
 |===
 
-.Groom Facts
+.Groom Friedrich Wilhelm Drifftmeier Facts
 [%header,width="40%",cols="1,1"]
 |===
 |Person|Fact
