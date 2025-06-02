@@ -13,7 +13,7 @@
 
 .Family Facts
 |===
-||Name|Marriage Date|Residence|Birth Origin|Religion
+||Name|Residence|Birth Origin|Religion
 
 |*Father*|Carl Friedrich Gottlieb Krückeberg|no. 18 Bärebusch|no. 18 Bärebusch|Lutheran
 
