@@ -1,6 +1,10 @@
 = 1790 Jobst Heinrich Kruckeberg Marriage
 :page-role: doc-width
 
+== Family Group and Othjer Facts
+
+TODO: Add tables
+
 On 12 October 1790, Jobst Heinrich Krückeberg, a cobbler from Berenbusch No 10, married Philippine Christine Eleonore Tegtmeyern from Meissen No 4.
 
 == Citation
@@ -43,7 +47,7 @@ The transliteration of the header for page 5 and marriage entries 8, 10 and 13 a
 ....
 
 13) d 12th October ist copulirt Jobst Heinrich Kruckeberg aus Berenbusch
-                                   ge[st?] 21.10.22
+                                   gest. 21.10.22
     No 10 ein Schuster mit Jfr Philippine Christine Eleonore
         +1849
     Tegtmeyern aus Meissen[faded, ambiguous] N:41
@@ -52,14 +56,14 @@ The transliteration of the header for page 5 and marriage entries 8, 10 and 13 a
 [NOTE]
 ====
 The `+` or cross sign denotes a death date. The apparent death date of Jobst Heinrich 
-is denoted with the preceding `gest.`, meaning **gestorben** or died.
+is denoted with the preceding `gest.`, meaning **gestorben** (died).
 ====
 
 .Translation
 ....
 
 13) On 12th October Jobst Heinrich Kruckeberg from Berenbusch
-                                   [died?] 21.10.22
+                                   died 21.10.22
     No 10, a shoemaker, was married to maiden Philippine Christine Eleonore
         +1849
     Tegtmeyern aus Meissen[faded, ambiguous] N:41

@@ -1,4 +1,4 @@
-= 1805 Johann Hen. Krickeberg Death
+= 1805 Johann Henrich Krickeberg Death
 :page-role: doc-width
 
 == Family Group and Other Facts
@@ -8,7 +8,7 @@
 |===
 |Name|Occupation|Residence|Father|Mother|Mother's Origin|Parents Residence
 
-|Joh[ann] Hen[rich] Krickberg|farmer (on full-sized farm)|no. 19 Evesen|Johann Henirch Kruckeberg|Christine Rösner|Evesen|no. 10 Berenbusch
+|Johann Henrich Krickberg|farmer (on full-sized farm)|no. 19 Evesen|Johann Henirch Kruckeberg|Christine Rösner|Evesen|no. 10 Berenbusch
 |===
 
 .Decedent Facts
