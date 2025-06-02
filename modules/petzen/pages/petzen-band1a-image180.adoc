@@ -1,6 +1,24 @@
 = 1750 Carl Philip Krückeberg
 :page-role: doc-width
 
+== Family Group
+
+.Family Information
+[width="50%"]
+|===
+|Child Baptized|Baptism Date|Family Residence|Trade
+
+|Carl Philip p Krückeberg|4 Nov. 1750|Bernbusch|linen weavers
+|===
+
+.Godfather
+[width="35%"]
+|===
+|Name
+
+|Fahlsing's son from Evesen
+|===
+
 == Citation
 
 The baptism of Carl Philip Krückeberg is on <<image180, image 180>>, right page, 3^rd^ entry from the bottom, of the
@@ -8,7 +26,7 @@ The baptism of Carl Philip Krückeberg is on <<image180, image 180>>, right page
 
 == Baptism Record
 
-image::petzen-band1a-img180.jpg[align=left,title='Anna Maria Weiland, image 180, right page (Click to enlarge)',link=self]
+image::petzen-band1a-img180.jpg[align=left,title='Carl Philip Krückberg baptism, (Click to enlarge)',link=self]
 
 .Transliteration
 ....
@@ -21,7 +39,7 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 ....
 The 4th November Carl Philip Krückeberg baptized
 son of the of the linen weaver Kruckebergs at Bernbusch
-godfather Fahlsing's son from Eversen
+godfather Fahlsing's son from Evesen
 ....
 
 
