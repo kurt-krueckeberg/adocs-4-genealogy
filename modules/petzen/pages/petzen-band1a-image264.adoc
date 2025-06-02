@@ -5,8 +5,8 @@
 
 Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
 
-.Family GroupCarl Friderich Gottlieb Kruckeberg
-[width="50%",cols="3,3,3,2"] 
+.Family Group
+[width="55%",cols="3,3,3,2"] 
 |===
 |Child|Father|Mother|Residence
 
