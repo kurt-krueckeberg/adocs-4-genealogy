@@ -5,7 +5,7 @@
 
 [caption="Bride and Groom Facts for: "]
 .1 Decmeber 1816 Marriage
-[cols="1,3,1,2,2,1,2,2",options="header"]
+[cols="1,3,1,1,2,2",options="header"]
 |===
 |        | Name     |Age| Legitimate| Address (at time of marriage) | Religion
 
@@ -24,6 +24,95 @@
 |===
 
 .Christine Louise Krückeberg Nachträge
+[width="25%"]
+|===
+|Baptism|Death
+
+|10 Oct. 1790|25 Dec. 1853
+|===
+
+.Christine Louise Krückeberg Nachträge
+|===
+|Birth|Death
+
+| xref:petzen-band2-image71.adoc[26 April 1798]|11 Sept. 1878
+|===
+
+[NOTE]
+====
+The address of the bride is not actually given, only the adrress of her later father. She is described as:
+....
+Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Heinrich Krückeberg n. 19 in Evesen
+....
+====
+
+.Facts for Groom's Father
+[%header,width="40%"]
+|===
+|Name|Address
+
+|Johann Heinrich Krückeberg|no. 22 in Röckae
+|===
+
+.Factrs for Bride's Late Father
+[%header,width="40%"]
+|===
+|Name|Address|Status
+
+|Albrecht Klöpper|mo. 19 Evesen|Deceased
+|===
+
+
+== Citation
+
+On 1 December 1816 Christine Louise Krückeberg, daughter of Johann Heinrich
+Krückeberg, married Johann Heinrich Klöpper.
+This marriage is found on <<image339, image 339, on pages 704 and 705>> in the
+Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und
+Gestorbenen 1785-1827.
+
+== Pages 704 and 705
+
+Page heading on page 704:
+
+image::petzen-band2-img339-704.jpg[align=left,title="Click to enlarge",link=self]
+
+Page 705 heading portion:
+
+image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",link=self]
+
+[,text]
+.Transliteration of pages 704 and 705 header
+----
+704                Copulierte im Kirchspiel Petzen (Marriages in the Parish Petzen)            im Jahr (in year) 1816                      705
+----
+
+[caption="Transliteration: "]
+.Marriage entry No. 1.
+[%header,cols="1,3,3,3,2,2,2,1",frame="none"]
+|===
+|Zahl |Name, Stand, Religion +
+u. Eltern des Bräutigams |Name, Religion +
+Geburt u. Wohnort +
+der Brat |Zeit u. Ort + 
+der Proclamation |Zeit u. Ort +
+der Kopulation |der kopu +
+lirende +
+Prädiger |Kopulations +
+Zeugen |Bemerkungen
+
+|8
+|Jungeselle Johann Hein- +
+rich Klöpper, ehelicher Sohn +
+des Albrecht Klöpper +
+no. 22 in Röcke. Luth. Conf. +
+u. jetzt 29 Jahre alt +
+get. 10.10.1790 +
+gest. 25.12.1853
+|Jungfrau Christine Louise +
+Krückebergs, des verstor- +
+beneen Johann Heinrich +
+Krückeberg n. 19 in Evesen +
 |===
 |Birth|Death
 
