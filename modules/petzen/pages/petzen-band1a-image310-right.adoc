@@ -1,10 +1,20 @@
 = 1757 Johann Heinrich Krückeberg Confirmation 
 :page-role: doc-width
 
+== Family Information
+
+.Confirmand Information
+[width="35%"]
+|===
+|Name|Date of Confirmation|Residence
+
+|Johann Heinrich Krückeberg|1757|Bernbusch
+|===
+
 == Citation
 
 The confirmation entry for Johann Heinrich Krückeberg from Berenbusch is on the
-<<image310-right, 310^th^ image>>, the right-hand page, of **Confirmati 1757** of
+<<image310-right, 310^th^ image>>, the right-hand page, the 5^th^ entry, of **Confirmati 1757** of
 the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Confirmation Entry
@@ -25,7 +35,7 @@ Friederich Christian Widdel aus Röcke
 
 Herman Heinrich Hermening aus Röcke
 
-Johan Heinrich Krückeberg aus Berenbusch
+Johan Heinrich Krückeberg aus Bernbusch
 ....
 
 .Translation
@@ -40,7 +50,7 @@ Friederich Christian Widdel from Röcke
 
 Herman Heinrich Hermening from Röcke
 
-Johan Heinrich Krückeberg from Berenbusch
+Johan Heinrich Krückeberg from Bernbusch
 ....
 
 [bibliography]
