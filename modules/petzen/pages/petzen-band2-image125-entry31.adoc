@@ -13,11 +13,11 @@
 
 .Family Facts
 |===
-||Name|Baptism Date|Marriage Date|Residence|Birth Origin|Religion
+||Name|Marriage Date|Residence|Birth Origin|Religion
 
-|*Father*|Carl Friedrich Gottlieb Krückeberg|18 Apr. 1779|13 Mar 1803|no. 18 Bärebusch|no. 18 Bärebusch|Lutheran
+|*Father*|Carl Friedrich Gottlieb Krückeberg|no. 18 Bärebusch|no. 18 Bärebusch|Lutheran
 
-|*Mother*|Philippine Leonore nee Bleeke|4 May 1785|13 Mar 1803|no. 18 Bärebusch|no. 11 Evesen|Lutheran
+|*Mother*|Philippine Leonore nee Bleeke|no. 18 Bärebusch|no. 11 Evesen|Lutheran
 |===
 
 .Nachträge for Carloline Dorothee Krückeberg   
@@ -27,7 +27,22 @@
 |25 Oct 1835|14 Dec. 1869
 |===
 
-.Nachträge for 
+.Nachträge for Carl Friedrich Gottlieb Krückeberg, Father of Carloline Dorothee Krückeberg
+[width="40%"]
+|===
+|Baptism|Marriage
+
+|18 Apr. 1779|13 Mar. 1803
+|===
+
+.Nachträge for Philippine Leonore nee Bleeke, Mother of Carloline Dorothee Krückeberg
+[width="40%"]
+|===
+|Baptism|Marriage (given for husband)
+
+|4 May 1785|13 Mar 1803
+|===
+
 
 .Baptismal Sponsors
 [%header,width="35%"]
