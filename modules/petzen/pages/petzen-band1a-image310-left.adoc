@@ -1,6 +1,14 @@
 = 1755 Sophie Maria Krückeberg Confirmation 
 :page-role: doc-width
 
+.Confirmand Facts
+|===
+|Name|Confirmation Date|Residence
+
+|Sophie Maria Krückeberg|1755|Bernbusch
+|===
+
+
 == Citation
 
 The confirmation is the penultimate entry on <<image310-left-page, image 313>>, on the left page
@@ -32,8 +40,6 @@ someone else’s property.
 An Einlieger did not own land or a house but might work for the landowner or rent a small room or
 cottage on the estate. They were of a lower socio-economic class than full farmers (Vollmeier, Halbmeier,
 etc.).
-
-TODO: rewrite
 ====
 
 .Translation of last four entries on left-hand page
