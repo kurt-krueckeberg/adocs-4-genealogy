@@ -128,7 +128,7 @@ Birth- and previous Residence of the +
 Deceased s|Time and Place of +
 Death and of the +
 Funeral[Burial] s|Cauase of Death s|Age s|Single +
-or Married s|Survivors s|Remark[s]
+or Married s|Survivors s|Remarks
 
 |14
 |Jobst Heinrich Krückeberg +
