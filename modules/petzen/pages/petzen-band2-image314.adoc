@@ -16,7 +16,7 @@ Date|Residence|Place of Death|Cause of Death|Place of Burial|Religion
 |===
 
 .Wife Facts
-[width="35%"]
+[width="30%"]
 |===
 |Facts
 
@@ -24,7 +24,7 @@ Date|Residence|Place of Death|Cause of Death|Place of Burial|Religion
 |===
 
 .Survivor Facts
-[%header,width=40%]
+[%header,width=30%]
 |===
 |Surivors
 
