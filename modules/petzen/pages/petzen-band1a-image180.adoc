@@ -12,7 +12,7 @@
 |===
 
 .Godfather
-[width="35%"]
+[width="30%"]
 |===
 |Name
 
