@@ -11,13 +11,29 @@
 |Carl Friedrich Gottlieb Krückeberg|Philippine Lenore nee Bleeken|Carl Friedrich Krückeberg|no. 14 Bärenbusch
 |===
 
-.Father Facts
+.Child Facts
 |===
-|Name|Birth Place|Occupation|Religion
+|Name|Place of Birth|Birth Date|Baptism Date|Birth Order|Sex Birth Order
+
+|Carl Friedrich Krückeberg|Bärenbusch +
+(number not given)|21 May 1807|24 May 1807|2^nd^|1^st^ son
+|===
+
+.Father Carl Friedrich Gottlieb Krückeberg Facts
+|===
+|Name|Birth Place|"Stand"|Religion
 
 
 |Carl Friedrich Gottlieb Krückeberg|n. 14 Berenmbsuch|Tailor and Einlieger +
 (see Note below)|Lutheran
+|===
+
+.Mother Philippine Lenore nee Bleeken Facts
+[%header,width="70%"]
+|===
+|Name|Birth Place|Religion
+
+|Philippine Lenore nee Bleeken|no. 11 Evesen|Lutheran
 |===
 
 .Meaning of Einlieger
@@ -32,22 +48,6 @@ cottage on the estate. They were of a lower socio-economic class than full farme
 etc.).
 ====
 ****
-
-.Mother Facts
-[%header,width="70%"]
-|===
-|Name|Birth Place|Religion
-
-|Philippine Lenore nee Bleeken|no. 11 Evesen|Lutheran
-|===
-
-.Child Facts
-|===
-|Name|Place of Birth|Birth Date|Baptism Date|Birth Order|Sex Birth Order
-
-|Carl Friedrich Krückeberg|Bärenbusch +
-(number not given)|21 May 1807|24 May 1807|2^nd^|1^st^ son
-|===
 
 .Baptismal Sponsor
 [%header,width="40%"]
