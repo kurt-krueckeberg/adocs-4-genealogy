@@ -1,6 +1,26 @@
 = 1744 Johann Heinrich Krückeberg Baptized
 :page-role: doc-width
 
+.Johann Heinrich Baptism
+|===
+|Name|Baptism Date
+
+|Johann Heinrich Krückeberg|19 Jan. 1744
+|===
+
+.Godfathers
+|===
+|Name
+
+|[Frerking/Frerkung?]
+
+|Ahldags
+
+|Weiland in Behrenbusch
+
+|Watermann's son
+|===
+
 The baptism of a Johann Heinrich Krückeberg son occurred 19 January 1744. His given names are not entirely known. The word preceding Johann is badly faded and not
 discernable. Nor is the original hard writing sharp. Many arcane abbreviations of ending syllables are used. All this makes it hard to be confident in the trans-
 literation.
@@ -24,7 +44,7 @@ Anno 1744
 [First three entries from 1744 ommitted...]
 
 d. 19 dito Krückeberg ein Söhnlein taufen laßen
-[See note below: benahmset  = benamset = benennt = to name] Johann Heinrich, Gevatter sind G[eorg?]
+[See note below: benahmset = benamset = benennt = to name] Johann Heinrich, Gevatter sind G[eorg?]
 [Frerking/Frerkung] Ahldags. [see note below]  Weiland in Behrenbusch. Watermanns
 Soh[n?] von Nordholtz.
 ....
