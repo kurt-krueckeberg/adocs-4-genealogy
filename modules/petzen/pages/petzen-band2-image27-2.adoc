@@ -46,7 +46,7 @@ records.
 |1794 in Steinbergen|14 Feb. 1866
 |===
 
-.Facts for Grooms's Father
+.Groom Friedrich Wilhelm Raulfing's Father Facts
 [%header,width="35%"]
 |===
 |Name|Status|Address
@@ -54,12 +54,12 @@ records.
 |Albert Raulfing|Deceased|no. 13 Bärenbusch
 |===
 
-.Facts for  Bride's Father
+.Facts for Bride Marie Philippine Krückeberg's Father
 [%header,width="45%"]
 |===
 |Name|Address|Status
 
-|Johann Heinrich Krückeberg|10 in Bärenbusch |Pensioner allow to live on the property
+|Johann Heinrich Krückeberg|10 in Bärenbusch |Pensioner allowed to live on the property
 |===
 
 
