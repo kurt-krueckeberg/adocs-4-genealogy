@@ -12,7 +12,7 @@
 |===
 
 .Decedent Facts 
-[%header,width=70%]
+[%header,width=85%]
 |===
 |Place of Death|Time and Date|Age|Cause of Death|Date of Burial|Place of Burial
 
