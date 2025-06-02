@@ -15,14 +15,6 @@ Date|Residence|Place of Death|Cause of Death|Place of Burial|Religion
 2 p.m.|24 Oct. 1822|no. 10 Bärenbusch|Bärenbush|Convulsions & Hemorrhanging|Petzen|Lutheran
 |===
 
-.Decedent Facts 
-[%header,width=80%]
-|===
-|Place of Death|Cause of Death|Place of Burial
-
-|Bärenbush|Convulsions & Hemorrhanging|Petzen
-|===
-
 .Survivor Facts
 [%header,width=40%]
 |===
