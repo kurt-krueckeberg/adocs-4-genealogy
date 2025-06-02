@@ -12,7 +12,7 @@
 |===
 
 .Survivors
-[%header, width="35%"]
+[%header, width="30%"]
 |===
 |Individual
 

@@ -20,7 +20,7 @@
 |===
 
 .Survivors's Facts
-[%header,width=30%]
+[%header,width=20%]
 |===
 |Surivors
 
