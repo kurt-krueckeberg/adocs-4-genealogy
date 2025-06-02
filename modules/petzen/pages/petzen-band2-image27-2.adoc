@@ -31,7 +31,7 @@ records.
 ====
 
 .Nachträge for Friedrich Wilhelm Raulfing
-[width="25%"]
+[width="35%"]
 |===
 |Birth|Death
 
@@ -39,7 +39,7 @@ records.
 |===
 
 .Nachträge for Marie Philippine Krückeberg 
-[width="25%"]
+[width="35%"]
 |===
 |Birth|Death
 
