@@ -5,9 +5,10 @@
 
 .Family Group
 |===
-|Name|Baptism Date|Father|Residence|Godfather
+|Name|Baptism Date|Father|Residence|Godfather|Godfather's +
+Residence
 
-|Jobst Heinrich Krückeberg|24 Mar. 1765|Johann Heinrich Krückeberg|Berenbusch|Rösener from the Evesen +
+|Jobst Heinrich Krückeberg|24 Mar. 1765|Johann Heinrich Krückeberg|Berenbusch|Rösener| Evesen +
 short marshland (or thicket)
 |===
 
