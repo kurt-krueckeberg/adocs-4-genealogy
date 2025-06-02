@@ -6,9 +6,9 @@
 .Decedent Jobst Heinrich Krückeberg Facts
 [%header,width=80%]
 |===
-|Name|Death +
+|Name|Occupation|Death +
 Date|Burial +
-Date|Occupation|Residence|Religion
+Date|Residence|Religion
 
 |Jobst Heinrich Krückeberg|Schusteramtsmeister +
 (Guild Master of the Shoemakers)|21 Oct. 1822 +
