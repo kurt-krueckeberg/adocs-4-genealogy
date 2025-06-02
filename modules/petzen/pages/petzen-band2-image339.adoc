@@ -15,7 +15,7 @@
 (assumed. See **Note** below)|Lutheran
 |===
 
-.Johann Heinrich Klöpper Nachträge
+.Nachträge for Johann Heinrich Klöpper
 [width="25%"]
 |===
 |Baptism|Death
@@ -23,7 +23,7 @@
 |10 Oct. 1790|25 Dec. 1853
 |===
 
-.Christine Louise Krückeberg Nachträge
+.Nachträge Christine Louise Krückeberg 
 [width="25%"]
 |===
 |Baptism|Death
@@ -31,7 +31,8 @@
 |10 Oct. 1790|25 Dec. 1853
 |===
 
-.Christine Louise Krückeberg Nachträge
+.Nachträge Christine Louise Krückeberg 
+[width="25%"]
 |===
 |Birth|Death
 
