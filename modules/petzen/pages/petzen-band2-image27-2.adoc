@@ -5,14 +5,14 @@
 
 [caption="Bride and Groom Facts for: "]
 .1 Decmeber 1816 Marriage
-[cols="2,3,1,2,2,3,2",options="header"]
+[cols="2,3,1,3,2",options="header"]
 |===
-|        | Name     |Age|Birth|Death| Address (at time of marriage) | Religion
+|        | Name     |Age| Address (at time of marriage) | Religion
 
-| *Groom*|Friedrich Wilhelm Raulfing|23|13 July 1788|5 Dec. 1859|No. 13 Bärenbusch +
+| *Groom*|Friedrich Wilhelm Raulfing|23|No. 13 Bärenbusch +
 (assumed. See note)|Lutheran
 
-| *Bride*|Maria Philippine Krückeberg|18|1794 in Steinbergen|14 Feb. 1866|no. 10 Bärenbusch +
+| *Bride*|Maria Philippine Krückeberg|18|no. 10 Bärenbusch +
 (assumed. See Note)|Lutheran
 |===
 
@@ -29,6 +29,22 @@ In 19th-century German church records:
 records.
 
 ====
+
+.Nachträge for Friedrich Wilhelm Raulfing
+[width="25%"]
+|===
+|Birth|Death
+
+|13 July 1788|5 Dec. 1859
+|===
+
+.Nachträge for Marie Philippine Krückeberg 
+[width="25%"]
+|===
+|Birth|Death
+
+|1794 in Steinbergen|14 Feb. 1866
+|===
 
 .Facts for Grooms's Father
 [%header,width="35%"]
