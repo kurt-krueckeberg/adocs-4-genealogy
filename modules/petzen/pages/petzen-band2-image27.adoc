@@ -7,9 +7,9 @@ In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Kr
 
 [caption="Bride and Groom Facts for: "]
 .23 February 1812 Marriage
-[cols="2,3,1,2,2,2,3,2",options="header"]
+[cols="2,3,1,2,3,2",options="header"]
 |===
-|        | Name     |Age|Occupation|Birth|Death| Address (at time of marriage) | Religion
+|        | Name     |Age|Occupation| Address (at time of marriage) | Religion
 
 | *Groom*|Friedrich Wilhelm Watermann|21|Farmer|no. 11 Nordholz|Lutheran
 
