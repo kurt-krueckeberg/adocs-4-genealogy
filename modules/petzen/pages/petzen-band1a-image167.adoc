@@ -2,6 +2,7 @@
 :page-role: doc-width
 
 .Johann Heinrich Baptism
+[width="35%"]
 |===
 |Name|Baptism Date
 
@@ -9,6 +10,7 @@
 |===
 
 .Godfathers
+[width="25%"]
 |===
 |Name
 
