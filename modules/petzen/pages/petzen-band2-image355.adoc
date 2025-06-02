@@ -13,35 +13,19 @@ and financial standing in the village.
 .Married Couple
 [%header,cols="2,3,1,1,2",width="75%"]
 |===
-||Name|Age|Legitimate|Religion
+||Name|Age|Father||Father's Residence|Legitimate|Religion
 
-|*Groom*|Johann Heinrich Jäger|26|Yes|Lutheran
+|*Groom*|Johann Heinrich Jäger|Johann Heinrich Jäger|no. 5 Nordholz|26|Yes|Lutheran
 
-|*Bride*|Philippine Christine Krückeberg|23|Yes|Lutheran
+|*Bride*|Philippine Christine Krückeberg|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch|23|Yes|Lutheran
 |===
 
-.Person Facts
+.Johann Heinrich Jäger Facts
 [%header,width="40%",cols="1,3"]
 |===
-|Person|Fact
+|Fact
 
-|Groom| He is the **Anerbe** of his father, the principal heir
-|===
-
-.Groom's Father Facts
-[%header,width=40%]
-|===
-|Name|Residence
-
-|Johann Heinrich Jäger|no. 5 Nordholz
-|===
-
-.Bride's Father Facts
-[%header,width=40%]
-|===
-| Name |Residence
-
-|Carl Friedrich Gottlieb Krückeberg|no. 18 Berenbusch
+| He is the **Anerbe** of his father, the principal heir
 |===
 
 [NOTE]
