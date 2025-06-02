@@ -52,3 +52,7 @@ the church register. If the surname is also very common, you risk becoming easil
 The Nachträge-supplied dates, then, provide a short cut that allows us to immediately confirm other life
 events of an individual and harvest the information contained in them.
 
+What if a church event is not found on the date given in a Nachtrag? If, for example, a death date is
+later inserted into a marriage record, but...
+
+
