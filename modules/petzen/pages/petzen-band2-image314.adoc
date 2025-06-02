@@ -6,12 +6,12 @@
 .Decedent Jobst Heinrich Krückeberg Facts
 [%header]
 |===
-|Name|Occupation|Death +
+|Name|Age|Occupation|Death +
 Date|Burial +
 Date|Residence|Place of Death|Cause of Death|Place of Burial|Religion
 
 |Jobst Heinrich Krückeberg|Schusteramtsmeister +
-(Guild Master of the Shoemakers)|21 Oct. 1822 +
+(Guild Master of the Shoemakers)|58|21 Oct. 1822 +
 2 p.m.|24 Oct. 1822|no. 10 Bärenbusch|Bärenbush|Convulsions & Hemorrhanging|Petzen|Lutheran
 |===
 
