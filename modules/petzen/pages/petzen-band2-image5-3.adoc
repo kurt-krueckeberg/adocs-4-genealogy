@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 .Family Group Facts for October 12, 1790 Marriage
-[%header,cols="2,3,2,3",width="55%"]
+[%header,cols="2,4,2,3",width="65%"]
 |===
 ||Name|Occupation|Residence (at time of marriage)
 
