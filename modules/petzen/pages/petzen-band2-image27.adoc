@@ -7,7 +7,7 @@ In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Kr
 
 [caption="Bride and Groom Facts: "]
 .23 February 1812 Marriage
-[cols="2,3,1,2,3,2",options="header"]
+[cols="2,3,1,2,3,2",options="header",width="85%"]]
 |===
 |        | Name     |Age|Occupation| Address (at time of marriage) | Religion
 
