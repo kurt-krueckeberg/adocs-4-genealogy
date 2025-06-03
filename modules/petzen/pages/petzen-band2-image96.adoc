@@ -21,7 +21,7 @@
 |===
 
 .Father Carl Friedrich Gottlieb Krückeberg Facts
-[%header,cols="4,2,2,1",width="80%"]
+[%header,cols="4,2,2,1",width="70%"]
 |===
 |Name|Birth Place|"Stand"|Religion
 
