@@ -1,7 +1,27 @@
 = 1759 Ilse Margaretha Krückeberg Baptism
 :page-role: doc-width
 
-This is the baptism record of Anna Christina Maria Krückeberg from "database with images", image 246.
+== Family Information
+
+.Confirmand Information
+[width="55%",cols="3,3,2"]
+|===
+|Name|Father|Residence
+
+|Ilse Margaretha Krückeberg|Johann Heinrich Krückberg|Bernbusch
+|===
+
+.Godmothers
+[width="30%"]
+|===
+|Name
+
+|I Mädgens
+
+|Wiesen
+
+|Engelkings [um/un]
+|===
 
 == Citation
 
@@ -21,7 +41,7 @@ ____
 
 d 16 Sept. Ilse Margaretha Krückebergs +
 des Johann Heinrich Krückebergs zu Berenbusch +
-Tochter getauft. Gev[atterin] 3 Mädgens,  Wiesen, Engeltungs [um/un]
+Tochter getauft. Gev[atterin] I Mädgens,  Wiesen, Engelkings [um/un]
 ____
  
 .Translation of 1759 Baptism of Ilse Margaretha Krückeberg
