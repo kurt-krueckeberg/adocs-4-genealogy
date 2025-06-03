@@ -1,9 +1,24 @@
-= 1761 Johann Heinrich Krückeberg Marriage
+= 1761 Johann Heinrich Krückkeberg Marriage
 :page-role: doc-width
+
+== Family Group
+
+
+.Marriage Information
+[width="55%"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)|
+
+|*Groom*|Johann Heinrich Krückkeberg|14 June 1761|Berenbusch
+
+|*Bride*|Anne Chrisine Elisabet nee Senger|14 June 1761|Evesen
+|===
 
 == Citation
 
-The 1761 marriage of Johann Heinrich Krükkeberg from Bernbusch to Anna Christine Elisabet
+The June 14, 1761, marriage of Johann Heinrich Krükkeberg from Bernbusch to Anna Christine Elisabet
 Senger from Evesen appears on <<image-vol1b-52, image 52>>, on the left-hand page (the pages
 are unnumbered).
 
