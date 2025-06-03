@@ -3,7 +3,7 @@
 
 == Family Group and Other Facts
 
-.Husband and Wife
+.Family Group
 [%header,cols="3,2,3,2,3,2"]
 |===
 |Decedent|Cause of Death|Surviving Husband|Address|His Occupation|Work Location																							
@@ -11,7 +11,7 @@
 |Phlippine Dorothee Krückeberg|pneumonia/consumption|Johann Heinrich Krückeberg|No. 13 Berenbusch|Former farm foreman at Reinen-Neelhof, now laborer|Reinen-Neelhof estate or farm
 |===
 
-.Survivors
+.Survivors of Philippine Dorothee Krückeberg
 [%header, width="30%"]
 |===
 |Individual
