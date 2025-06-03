@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 .Family Group Facts
-[%header,cols="3,3,3,2",width="80%"]
+[%header,cols="3,3,3,2",width="75%"]
 |===
 |Father|Mother|Child|Residence
 
@@ -20,7 +20,7 @@
 |===
 
 .Father Jobst Heinrich Krückeberg Facts
-[%header,width="80%"]
+[%header,width="70%"]
 |===
 |Name|Birth Place|Occupation|Religion
 
@@ -28,7 +28,7 @@
 |===
 
 .Mother Christine Phlippine Lenore Tegtmeier Facts
-[%header,width="65%",cols="3,2,2"]
+[%header,width="60%",cols="3,2,2"]
 |===
 |Name|Birth Place|Religion
 
