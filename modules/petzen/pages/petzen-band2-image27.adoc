@@ -5,7 +5,7 @@ In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Kr
 
 == Family Group and Other Facts
 
-[caption="Bride and Groom Facts for: "]
+[caption="Bride and Groom Facts: "]
 .23 February 1812 Marriage
 [cols="2,3,1,2,3,2",options="header"]
 |===
@@ -18,7 +18,7 @@ In 1812 Caroline Phillipine Christine Krückeberg, daughter of Jobst Heinrich Kr
 |===
 
 .Nachträge for Groom Friedrich Wilhelm Watermann
-[width="30%"]
+[%header,width="30%"]
 |===
 |Birth
 
