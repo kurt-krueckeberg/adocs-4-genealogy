@@ -9,7 +9,7 @@
 |===
 ||Name|Marriage +
 Date|Locality (at time
-of marriage)|
+of marriage)
 
 |*Groom*|Johann Heinrich Krückkeberg|14 June 1761|Berenbusch
 
