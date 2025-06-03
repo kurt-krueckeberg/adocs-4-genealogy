@@ -5,12 +5,10 @@ This is the baptism record of Anna Christina Maria Krückeberg from "database wi
 
 == Citation
 
-The baptism of Johann Heinrich Wilhelm Krückeberg is on <<image220, image 220, leftt page, the last entry>> from the  
-"database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
+The baptism of Johann Heinrich Wilhelm Krückeberg is on <<image220, image 220>>, leftt page, last entry, of the Petzen
+"Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
-The FamilySearch Tree-IDS [??TODO????].
-
-== Image, Its Transliteration and Translation
+== Baptism Record
 
 image::petzen-band1a-img220-overview.jpg[align=left,title='Johann Heinrich Krückeberg, left page of image 220, last entry (Click to enlarge)',link=self]
 
@@ -63,4 +61,6 @@ On the same day Johann Heinrich Kruckeberg's from
 [bibliography]
 == References
 
-* [[[image220]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c47579fcb0/ : 3 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 220 of 322
+* [[[image220]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/c47579fcb0/ : 3 November 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 220 of 322
