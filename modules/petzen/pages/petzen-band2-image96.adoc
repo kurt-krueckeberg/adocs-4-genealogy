@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 .Family Group Facts
-[%header,cols="3,3,3,2"]
+[%header,cols="3,3,3,2",width="80%"]
 |===
 |Father|Mother|Child|Residence
 
@@ -12,6 +12,7 @@
 |===
 
 .Child Facts
+[%header,cols="3,3,2,2,2,2",width="80%"]
 |===
 |Name|Place of Birth|Birth Date|Baptism Date|Birth Order|Sex Birth Order
 
@@ -20,6 +21,7 @@
 |===
 
 .Father Carl Friedrich Gottlieb Krückeberg Facts
+[%header,cols="4,2,2,1",width="80%"]
 |===
 |Name|Birth Place|"Stand"|Religion
 
