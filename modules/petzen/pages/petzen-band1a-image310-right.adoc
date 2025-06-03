@@ -4,7 +4,7 @@
 == Family Information
 
 .Confirmand Information
-[width="40%"]
+[width="50%",cols="4,3,2"]
 |===
 |Name|Date of Confirmation|Residence
 
