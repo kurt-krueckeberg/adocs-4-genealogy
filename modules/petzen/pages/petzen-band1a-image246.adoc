@@ -3,10 +3,12 @@
 
 == Family Group
 
+.Family Group
+[%header,cols="3,3,4,2,2"]
 |===
 |Father|Mother|Child|Residence|Baptism Date
 
-|Johann Heinrich Krückeberg|Marie Elisabeth nee Schekele|Anna Christina Maria |Berenbusch|10 Sep. 1775
+|Johann Heinrich Krückeberg|Marie Elisabeth nee Schekele|Anna Christina Maria Krückeberg|Berenbusch|10 Sep. 1775
 |===
 
 .Godmother
