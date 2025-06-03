@@ -1,13 +1,20 @@
 = 1764 Carl Krückeberg Confirmation
 :page-role: doc-width
 
-This is the 1764 confirmation record of Carl Krückeberg from "database with images", image 313.
+== Family Group
+
+.Confirmand
+[%header,width="40%"]
+|===
+|Name|Date of Confirmation|Residence
+
+|Carl Krückeberg|1764|Berenbusch
+|===
 
 == Citation
 
-The confirmation entry is on <<image313, image 313>> of the Petzen Kirchenbuch volume "Verzeichnis der Getauften und Konfirmierten 1641-1784".
-
-The FamilySearch Tree-ID for Carl Krückeberg is [??TODO????].
+The confirmation entry is on <<image313, image 313>>, the 6^th^ entry for 1764, of the Petzen
+"Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Image 313
 
