@@ -1,0 +1,12 @@
+= Page 193
+:page-role: doc-width
+
+image::229.jpg[align=left,title='Page 193 (Click to enlarge)',link=self]
+
+== Transliteration
+
+....
+           Register
+       der Leichenbegängnisse
+....
+
