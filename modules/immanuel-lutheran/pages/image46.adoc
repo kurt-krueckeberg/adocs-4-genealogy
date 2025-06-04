@@ -1,7 +1,7 @@
 = Page 77
 :page-role: doc-width
 
-image::046.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
+image::46.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
 
 == Transliteration
 
