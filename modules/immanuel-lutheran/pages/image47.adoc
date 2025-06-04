@@ -1,0 +1,9 @@
+= Page 78
+:page-role: doc-width
+
+image::047.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
+
+== Transliteration
+
+....
+....
