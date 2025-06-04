@@ -3,6 +3,8 @@
 
 image::046.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
 
+== Transliteration
+
 ....
 
 1.             Marie Louise
@@ -13,7 +15,7 @@ image::046.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
            Eltern
                    Louise geboren Valsing
 
-           Pathen: Wilhelmine T[wick/eck] und Sophie Heckmann.
+           Pathen: Wilhelmine T[wick/eick] und Sophie Heckmann.
 
 2.           Christian Fridrich
 
