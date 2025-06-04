@@ -33,7 +33,8 @@ include::partial$nav-bleeke-vol2.adoc[]
 *** xref:immanuel-lutheran:bios/abraham-stendler.adoc[]
 *** xref:immanuel-lutheran:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 *** xref:immanuel-lutheran:bios/david-bibelheimer.adoc[]
-** xref:immanuel-lutheran:image46.adoc[]
+** Taufregister
+*** xref:immanuel-lutheran:image46.adoc[]
 ** xref:immanuel-lutheran:bios/pastors-at-immanuel.adoc[Pastors]
 ** link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
 
