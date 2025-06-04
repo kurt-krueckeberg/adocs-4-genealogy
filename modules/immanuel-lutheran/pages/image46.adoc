@@ -1,4 +1,5 @@
 = Taufregister Seite 77
+:page-role: doc-width
 
 ....
 
