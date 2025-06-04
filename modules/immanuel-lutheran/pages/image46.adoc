@@ -1,6 +1,8 @@
 = Page 77
 :page-role: doc-width
 
+image::image46.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
+
 ....
 
 1.             Marie Louise
