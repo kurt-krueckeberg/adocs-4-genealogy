@@ -24,5 +24,7 @@
 ** xref:immanuel-lutheran:image47.adoc[]
 * Confirmandenregister
 ** xref:immanuel-lutheran:image117.adoc[]
+* Leichenbegängnisse
+** xref:immanuel-lutheran:image229.adoc[]
 * xref:immanuel-lutheran:bios/pastors-at-immanuel.adoc[Pastors]
 * link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]
