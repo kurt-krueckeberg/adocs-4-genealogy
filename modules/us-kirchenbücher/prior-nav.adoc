@@ -1,7 +1,0 @@
-.US Kirchenbücher Records
-* Bleeke - North German Lutheran
-+
---
-include::partial$nav-bleeke.adoc[]
---
-
