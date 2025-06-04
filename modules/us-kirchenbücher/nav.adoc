@@ -15,7 +15,7 @@ include::partial$nav-bleeke-vol2.adoc[]
 +
 --
 include::partial$nav-immanuel-lutheran.adoc[]
-__
+--
 //** Bleeke
 // +
 // --
