@@ -109,7 +109,7 @@ a|&nbsp;&nbsp;&#8224; +
 |===
 
 [bibliography]
-== References
+== Citations
 
 * [[[image264]]] "Archion Protestant Kirchenbücher Portal", database with
 images, _Archion_ (http://www.archion.de/p/68d61bc772/: 31 October 2023),

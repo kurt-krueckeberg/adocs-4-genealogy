@@ -54,7 +54,7 @@ Johan Heinrich Krückeberg from Bernbusch
 ....
 
 [bibliography]
-== References
+== Citations
 
 * [[[image310-right]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/c362c408ee/: 30 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis

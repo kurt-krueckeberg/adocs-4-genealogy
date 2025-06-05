@@ -119,7 +119,7 @@ Christian Kleinschmit +
 
 
 [bibliography]
-== References
+== Citations
 
 * [[[image198]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/a0fc0001cc/ : 11 August 2024), path: Nordrhein-Westfalen
 > Landeskirchliches Archiv der Evangelischen Kirche von Westfalen > Kirchenkreis Minden > Buchholz > Taufen 1760-1820, Abendmahl 1839-1878 Band 2

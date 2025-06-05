@@ -59,7 +59,7 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 
 
 [bibliography]
-== References
+== Citations
 
 * [[[image12]]] TODO "Archion Protestant Kirchenbücher Portal", database with
 images, _Archion_ (http://www.archion.de/p/670cfbbaf6/ : 22 September 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der

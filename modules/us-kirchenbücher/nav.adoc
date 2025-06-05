@@ -16,13 +16,3 @@ include::partial$nav-bleeke-vol2.adoc[]
 --
 include::partial$nav-immanuel-lutheran.adoc[]
 --
-//** Bleeke
-// +
-// --
-// include::partial$nav-bleeke.adoc[]
-// --
-// ** Krückeberg
-// +
-// --
-// include::partial$nav-krueckeberg.adoc[]
-// --

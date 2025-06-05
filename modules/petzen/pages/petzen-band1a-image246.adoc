@@ -50,7 +50,7 @@ image::petzen-band1a-img246.jpg[align=left,title='Anna Christina Maria Kruckeber
 
 
 [bibliography]
-== References
+== Citations
 
 * [[[image246]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/3f3c8fb681/ : 31 October 2023),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

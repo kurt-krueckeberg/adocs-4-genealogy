@@ -23,7 +23,7 @@ image::petzen-band1a-img129.jpg[align=left,title='Catharine Elisabeth Bleeke, im
 ....
 
 [bibliography]
-== References
+== Citations
 
 * [[[image129]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/0034963201/ : 18 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >

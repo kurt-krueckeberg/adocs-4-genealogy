@@ -1,7 +1,7 @@
 = Image 211 Confirmation
 :page-role: doc-width
 
-== References
+== Citations
 
 * The confirmation of XXX XXX Krückeberg in 1816 on the 1^st^ Sunday After Easter(Quadsimodogeniti) is on <<image211-448, page 438, entry 20>> of Petzen Kirchenbuch volume 2.
 

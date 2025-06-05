@@ -1,7 +1,7 @@
 = 1811 Philippine Louise Weiland Marriage
 :page-role: doc-width
 
-== References
+== Citations
 
 The marriage is on <<Image26, image 26 from Archion>>.
 
@@ -113,7 +113,7 @@ Stille
 
 
 [bibliography]
-== References
+== Citations
 
 * [[[Image26]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/d52c425e66/ : 4 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
  Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 26 of 357
