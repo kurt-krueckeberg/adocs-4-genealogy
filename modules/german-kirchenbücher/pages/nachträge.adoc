@@ -41,18 +41,23 @@ ceremony provide extra confirmation of precisely who an individual is. They tell
 individual was born and baptized, or when they were confirmed, married or died. One doesn't have to
 infer such dates by carefully looking for other occuranmce of their name in the vast corpus of
 recorded ceremonies. One is also freed from the effort of comparing other identifying attributes of
-an individual, their residence or their parent's name, in other records. Instead the pastor (or perhaps
-church sexton), who personally knew them, supplies this infornation free of charge as it were. 
+an individual, like their residence or their parent's name, in other records. Instead the pastor (or
+perhaps Küster, sexton), who personally knew them, supplies this infornation free of charge as it were. 
 
-This is especially important in the social and religous milieu of the time when there wasn't
-much variety among given names, where the same given names repeat over and over throughout
-the church register. If the surname is also very common, you risk becoming easily confused
-("which Johann Heinrich Meyer is it?").
+This is especially important in the social and religous milieu of the time when there was little
+variety among given names, where the same small set of given names repeat over and over throughout
+the church register. If the surname is also very common, you risk becoming confused ("which Johann
+Heinrich Meyer is it?").
 
 The Nachträge-supplied dates, then, provide a short cut that allows us to immediately confirm other life
-events of an individual and harvest the information contained in them.
+events of an individual and harvest the information in them.
 
-What if a church event is not found on the date given in a Nachtrag? If, for example, a death date is
-later inserted into a marriage record, but...
+But what if the church event is not found on the date given in a Nachtrag? What if, for example, a
+death date is later inserted into a marriage record, but there is no corresponding death record in
+the church register? Does that mean a mistake was made?
+
+Not neccesarily. It might mean the individual died elsewhere. They may even have emigrated to the U.S,
+and their death might hasve been communicated to their original parish in Schaumburg-Lippe (althouhg
+this fact likely would be noted, too).
 
 
