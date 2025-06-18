@@ -1,7 +1,48 @@
-= 1792 Philippine Caroline Christine Krueckeberg Baptism
+= 1792 Philippine Caroline Christine Kruckeberg Baptism
 :page-role: doc-width
 
+== Family Group and Other Facts
+
 The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
+
+[caption="Family group for: "]
+.1792 Philippine Caroline Christine Kruckeberg Baptism
+|===
+|Infant|Birth Date|Baptism Date|Father|Mother|Locality
+
+|Philippine Caroline Christine|1 Feb. 1792|3 Feb. 1792|Jobst Heinrich Krückeberg|Christine Philippine Eleonore nee Tegtmeyer|Berenbusch
+|===
+
+.Jobst Heinrich Krückeberg Facts
+[width="35%"]
+|===
+|Fact
+
+|Jobst Heinrich Krückeberg is a cobbler
+|===
+
+.Nachträge for Philippine Caroline Christine Kruckeberg 
+[width="35%"]
+|===
+|Fact|Date
+
+|Married|23 Feb. 1812
+
+|Married 2^nd^ time|11 May 1834
+
+|Death|26 Oct. 1870
+|===
+
+.Baptism Sponsors
+[width="35%"]
+|===
+|Name|Locality
+
+|the old Krückeberg as grandmother'
+
+|Fahlsing wife of the shepherds +
+in Evesen|Evesen
+|===
 
 == Citations
 
@@ -28,7 +69,11 @@ image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=sel
 image::petzen-band2-img55-105.jpg[align="left",title="Click to enlarge",link=self]
 
 [NOTE]
-Dates noted in the left margin have been displayed separately.
+====
+* Dates noted in the left margin have been displayed separately.
+* The word *ejusd* is an abbreviation of the Latin word "ejusdem", which means "of the same" — in
+this case, "of the same [month]".
+====
 
 .Transliteration of page 105, entry 9
 ....
@@ -43,9 +88,9 @@ Dates noted in the left margin have been displayed separately.
 9) 3rd Febr Philippine Caroline Christine Krueckeberg was baptized
    the begotten daughter of Jobst Heinrich Krückeberg cobbler in Berenbusch No [no number]
    and his wife Christine Philippine Eleonore
-   born Tegtmeyer and born 1st. [abbreviation for day?] 6 o'clock in the evening
+   born Tegtmeyer and born 1st. of the same month[at] 6 o'clock in the evening
    born Tochter. Godmothers were
-     1. the alte Krückeberg [being a] grandmother.
+     1. the old Krückeberg as grandmother.
      2. the Fahlsi[e/n]s of the Schäfers[likely surname. Not shepherd(s)] from Evensen [unclear]
 ....
 
