@@ -12,7 +12,7 @@
 
 
 .Baptism Sponsors
-[width="45%"cols="3,1"]
+[width="40%"cols="3,1"]
 |===
 |Name|Locality
 
