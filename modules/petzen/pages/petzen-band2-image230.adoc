@@ -1,6 +1,15 @@
 = 1794 Friderich Wilhelm Krückeberg-Croemer Burial
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.1794 Friderich Wilhelm Krückeberg Burial
+|===
+|Decedent's Name|Date of Burial|Age|Father|Mother|Family Residence
+
+|Friderich Wilhelm Krückeberg|29 May 1794|3 1/4  years old|Johann Heinrich Krückeberg|Anne Catherine Crömer|no. 19 Evesen
+|===
+
 == Citation
 
 The burial of Friderich Wilhelm Krückeberg-Croemer, on May 29 1794, is on <<image230, page 485>> entry 16, of Petzen "Verzeichnis der Getauften,
