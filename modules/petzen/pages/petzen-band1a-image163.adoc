@@ -11,13 +11,15 @@ of the left-hand page (the pages are unnumbered). It is the last entry in Decemb
 
 == Baptism Record
 
+NOTE: The text is difficult to be certain of. *Verwalterin* seems the best educated guess.
+
 image::petzen-band1a-img163.jpg[title="Sophia Maria Krückeberg (Click to enlarge)",link=self]
 
 .Transliteration 
 ....
-d 27t[en] Krueckeberg in Behrenbuschem ein Töchterlein Sophia
-Maria [genoch?] von der fr. Verwaltern Gaden
-von Höckersau getauft
+27t Kruekeberg in Behrenbusch ein Tochterlein Sophia
+Maria [genennet] von der Fr. Verwalterin Gaden
+zur Hökersau getaufft.
 ....
 
 NOTE: The month of December is written two entries above written as the abbreviation
@@ -25,11 +27,10 @@ NOTE: The month of December is written two entries above written as the abbrevia
 
 .Translation
 ....
-the 27th Krueckeberg in Behrenbuschem a little daughter Sophia
-Maria baptized [this word is undecipherable] from/of the wife of relative Gaden
-from Höckersau 
+On 27th üDecember+: Kruekeberg in Behrenbusch,
+a little daughter named Sophia Maria.
+Baptized by Mrs. Gaden, the steward’s wife at Hökersau.
 ....
-
 
 [bibliography]
 == Citations
