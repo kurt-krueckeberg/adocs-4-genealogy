@@ -34,7 +34,7 @@ from Höckersau
 [bibliography]
 == Citations
 
-* [[[image163]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/ddcc12cae4/ : 10 May 2025),
+* [[[image163]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/63792c38f4/ : 10 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
 > Image 163 of 322, left hand page, neabottom enty on the right-hand page.
 
