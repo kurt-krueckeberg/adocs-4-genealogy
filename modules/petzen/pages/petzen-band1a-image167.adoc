@@ -2,7 +2,7 @@
 :page-role: doc-width
 
 .Johann Heinrich Baptism
-[width="35%"]
+[width="55%"]
 |===
 |Name|Baptism Date
 
