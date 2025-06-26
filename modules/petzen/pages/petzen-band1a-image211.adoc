@@ -8,8 +8,8 @@
 |===
 |Father|Child|Residence|Baptism Date|Godfather|Godfather's Residence
 
-|Johann Heinrich Krückeberg|Jobst Heinrich Krückeberg|Berenbusch|24 Mar. 1765|Rösener| Evesen
-short marshland (or thicket)
+|Johann Heinrich Krückeberg|Jobst Heinrich Krückeberg|Berenbusch|24 Mar. 1765|Rösener| Evesen im kurzen Bruche +
+(in the small marshy area of Evesen)
 |===
 
 == Citation
