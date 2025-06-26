@@ -8,7 +8,7 @@
 |===
 |Father|Mother|Child|Residence
 
-|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore nee Bleeken|Carl Friedrich Krückeberg|no. 14 Bärenbusch
+|Carl Friedrich Gottlieb Krückeberg|Philippine Lenore née Bleeken|Carl Friedrich Krückeberg|no. 14 Bärenbusch
 |===
 
 .Child Facts
@@ -30,12 +30,12 @@
 (see Note below)|Lutheran
 |===
 
-.Mother Philippine Lenore nee Bleeken Facts
+.Mother Philippine Lenore née Bleeken Facts
 [%header,width="70%"]
 |===
 |Name|Birth Place|Religion
 
-|Philippine Lenore nee Bleeken|no. 11 Evesen|Lutheran
+|Philippine Lenore née Bleeken|no. 11 Evesen|Lutheran
 |===
 
 .Meaning of Einlieger
