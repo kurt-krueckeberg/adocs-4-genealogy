@@ -1,4 +1,4 @@
-= 1739 Johann Wilhelm Krückeberg/Arinkenberg Baptized
+= 1739 Johann Wilhelm Krückeberg Baptized
 :page-role: doc-width
 
 The baptism of a Johann Wilhelm Krückeberg occurred 9 [Feb?] 1739. 
@@ -15,30 +15,26 @@ image::petzen-band1a-img157-krueckeberg.jpg[title="Johann Wilhelm Krückeberg (C
 
 .Transliteration 
 ....
-11 [Februar] [hÿ/hiÿ] [Krückeberg/Arinkenberg] v. [B.? B.?] ein Söhnl[ein] tauft
-lassen Johann Wilhelm [benahnt?] [???]
+11 hÿ Krückebergv in [B.? B.?] ein Söhnl[ein] tauft
+lassen Johann Wilhelm [benamst?] [uncertain]
 sein Gevatter Valsing
 ....
 
-.Possible Meaning of "hÿ" 
+."hÿ" explained 
 ****
 [NOTE]
 ====
-The most likely interpretation of "hÿ" in this context is:
- 
-**"heÿrath Leute"**, abbreviated for "heirat Leute" – meaning "married couple".
+* "hÿ" stands for the German word "hier", meaning "here."
 
-So:
-
-* **"11 hÿ Krückeberg"** would mean:
-** "On the 11th, married couple Krückeberg
+* It’s a common scribal abbreviation in 17th–18th century German church records, where scribes
+often shortened very common words to save space.
 ====
 ****
 
 .Translation
 ....
-On the 11th [of February] the [Berenbusch] married couple Kruckeberg's little son was
-baptized [named] Johann Wilhelm
+On the 11th [of February] the [Berenbusch] Kruckeberg's little son was
+baptized [named] Johann Wilhelm [uncertain]
 His godfather Valsing
 ....
 
