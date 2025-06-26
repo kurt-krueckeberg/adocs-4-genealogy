@@ -1,7 +1,27 @@
 = 1782 Johanna Sophie Charlotte Krückeberg Baptism
 :page-role: doc-width
 
-This is the baptism record of Johanna Sophie Charlotte Krückeberg from "database with images", image 310.
+== Family Group and Other Facts
+
+NOTE: The *"n"* on "Schäkeln" may be a inflected ending appended to the actual name
+("Schäkel").
+
+.Infant Johanna Sophie Charlotte Krückeberg's Family
+|===
+|Baptism Date|Infant|Father|Mother
+
+|Jan. 13, 1782|Johanna Sophie Charlotte|Johann Heinrich Krückeberg|Anna Maria Elisabeth nee Schäkeln
+|===
+
+.Sponsors
+[cols="2,1",width="50%"]
+|===
+|Name|Residence
+
+|Johanna Sophie Margdelena Wilkeningen| Hockers Aue
+
+|Sophie Charlotte Rösener|Petzen 
+|===
 
 == Reference
 
@@ -24,7 +44,7 @@ image::petzen-band1a-img279-entry2.jpg[align=left,title='Johanna Sophie Charlott
 2) d 13ten Jan[of 1782]: ist getauft Johanna Sophie Charlotte
 Kruckenbergen des Johann Heinrich Krückeberg
 mit seiner Ehefrau Anna Maria Elisabeth
-geb.  Schäkel[e/n] erzeugte Tochter. die Gevatter[in]
+geb.  Schäkeln erzeugte Tochter. die Gevatter[in]
 waren Johanna Sophie Margdelena
 Wilkeningen von der Hockers Aue u.
 Sophie Charlotte Röseners aus Petzen 
