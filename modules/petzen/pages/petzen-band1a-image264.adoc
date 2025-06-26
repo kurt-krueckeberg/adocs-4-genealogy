@@ -44,7 +44,7 @@ Tree Entry].
  
 image::petzen-band1a-img264.jpg[align=left,title='Carl Friderich Gottlieb Kruckeberg, entry 15, right page of image 264 (Click to enlarge)',link=self]
 
-.Meaning of Hofmeister and "au" Suffix
+.Meaning of Hofmeister and "au" Suffix in Höckersau
 ****
 [NOTE]
 .Hofmeister defined
@@ -60,13 +60,30 @@ Sophie Charlotte Kruckebergen].  Her godmother **Johanna Sophie Margedalenna
 Wilkeningen** is described as: "von der Hockerers Aue".
 ====
 
-[NOTE]
 .Meaning of -au  or -aue Suffix
+****
+[NOTE]
 ====
-Thode's German-Enlgish Genealogical Dictionary defines **-aue** as a suffix
-meaning **meadow**. link:https://www.dict.cc/?s=Aue[dict.cc] define **Aue** as
-a poetic, old regional word meaning: **meadow[piece of low ground near a
-river]**.
+The suffix "-au" or "-aue" in German place names comes from the Old High German word ouwa, which meant:
+
+    land near water, meadow, floodplain, or wetland. meaning:
+
+🟢 **Common meanings:**
+
+In place names, -au / -aue usually indicates:
+* A meadow along a river or stream
+* A low-lying, fertile area prone to flooding
+* A pasture or grassland near water
+
+🗺️ Examples:
+
+    Dessau - floodplain by the Mulde River
+
+    Schwarzaue - black meadow or lowland
+
+    Sennelager-Aue - meadow near Sennelager
+
+So, “Höckersau” likely meant something like “Höcker's meadow/floodplain”, named after a person or family Höcker, or perhaps referencing a knoll or "hump" (Höcker) in the landscape.
 
 In this entry **"au"** occurs as the suffix in **Höckersau**, while in the
 xref:petzen-band1a-image279.adoc[1782 Johanna Sophie Charlotte Krückeberg]
