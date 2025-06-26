@@ -1,6 +1,17 @@
 = 1781 Johann Heinrich Krückeberg Confirmation
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Confirmant Johann Heinrich Krückeberg Facts
+[width="65%"]
+|===
+|Confirmant|Date of Quasimodogeniti Sunday +
+1781|Place|Residence
+
+|Johann Heinrich Krückeberg|April 15, 1781|Petzen church|Berenbusch
+|===
+
 == Citation
 
 This confirmation entry is on the <<image320, 320th image on Archion>> of Petzen Kirchenbuch "database with images".
