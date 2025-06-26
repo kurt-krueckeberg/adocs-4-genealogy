@@ -5,8 +5,6 @@
 
 This confirmation entry is on the <<image320, 320th image on Archion>> of Petzen Kirchenbuch "database with images".
 
-The FamilySearch Tree-ID for Johann Heinrich Krückeberg is [??TODO????].
-
 == Image
 
 image::petzen-band1a-img320.jpg[align=left,title='Marriage Entry 3',link=self]
