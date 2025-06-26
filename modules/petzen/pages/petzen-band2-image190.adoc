@@ -1,6 +1,17 @@
 = 1789 Christina Krückeberg Confirmation Confirmation
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Confirmand Christina Krückeberg Facts
+[cols="2,2,2",width="45%"]
+|===
+|Confirmed on|Place|Place of Residence
+
+|April 19, 1789|Petzen +
+Church|Berenbusch
+|===
+
 == Citation
 
 The confirmation of Christina Krückeberg, in 1789, on Quasimodogeniti (the 1^st^ Sunday After Easter), is found on <<image190-405-entry10, page 415 entry 10>>
