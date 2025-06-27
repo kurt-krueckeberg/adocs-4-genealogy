@@ -1,9 +1,20 @@
-= 1739 Johann Wilhelm Krückeberg Baptized
+= 1739 Johann Wilhelm Kruckeberg Baptized
 :page-role: doc-width
 
-The baptism of a Johann Wilhelm Krückeberg occurred February 11^th^ 1739. 
+== Family Group and Other Facts
+
+[caption="Baptism of: "]
+.Johann Wilhelm Kruckeberg
+[width="45%"]
+|===
+|Baptism Date|Residence/Locality|Godfather
+
+|Feb. 11 1739|Berenbusch|Valsing
+|===
 
 == Citation
+
+The baptism of a Johann Wilhelm Krückeberg occurred February 11^th^ 1739. 
 
 The baptism entry is found on <<image157, image 157>>. It is the last entry at the bottom
 of the right-hand page (the pages are unnumbered). The year 1739 appears in the middle
@@ -15,16 +26,16 @@ image::petzen-band1a-img157-krueckeberg.jpg[title="Johann Wilhelm Krückeberg (C
 
 .Transliteration 
 ....
-11 hÿ Krückebergv in [B.? B.?] ein Söhnl[ein] tauft
+11 hÿ Krückeberg [in] [ẞ. ẞ.] ein Söhnl[ein] tauft
 lassen Johann Wilhelm [benamst?] [uncertain]
-sein Gevatter Valsing
+[seina?] Gevatter Valsing
 ....
 
 .Explanations
 ****
 [IMPORTANT]
 ====
-* *Berenbusch* is not mentioned explicitly. I am assuming image:berenbusch-abbreviation.jpg[] is
+* *Berenbusch* is not mentioned explicitly. It is assumed that image:berenbusch-abbreviation.jpg[] is
 an abbreviation for it. 
 ====
 
