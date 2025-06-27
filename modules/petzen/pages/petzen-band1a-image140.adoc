@@ -13,7 +13,8 @@ page where the list of the baptisms for 1728 begin.
 
 image::petzen-band1a-img140.jpg[title="Johann Friedrich Krückeberg (Click to enlarge)",link=self]
 
-
+.Explanations
+****
 [NOTE]
 ====
 The father's name appears to come first with the surname ending in "s". In contemporary German, an "s"
@@ -28,7 +29,8 @@ have been Johann Tönnies Eggerding und H Herman Wiese
 
 NOTE: Anno 1728 (Year 1728) appears at the top of on the prior page. Thus these baptism
 records continue on with those in 1728, and the Krückeberg son is the 18^th^ baptism of
-1728. 
+1728.
+**** 
 
 .Transliteration 
 ....
