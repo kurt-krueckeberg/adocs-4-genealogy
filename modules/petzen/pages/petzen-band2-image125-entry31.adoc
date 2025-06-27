@@ -6,9 +6,9 @@
 .Baptism Facts
 [%header,cols="3,2,1,1,1,2",width="85%"]
 |===
-|Name|Birth Date|Birth Time|Birth Order|Sex Birth Order|Baptism Date
+|Name|Baptism Date|Birth Date|Birth Time|Birth Order|Sex Birth Order
 
-|Caroline Dorothee Krüeckeberg|2 Dec. 1812|5 a.m.|3^rd^|2^nd^ girl|6 Dec 1812
+|Caroline Dorothee Krüeckeberg|Dec. 6 1812|Dec. 2 1812|5 a.m.|3^rd^|2^nd^ girl
 |===
 
 .Family Facts
