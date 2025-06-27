@@ -8,7 +8,7 @@
 |===
 |Child Baptized|Baptism Date|Family Residence|Trade
 
-|Carl Philip p Krückeberg|4 Nov. 1750|Bernbusch|linen weavers
+|Carl Philip Krückeberg|4 Nov. 1750|Bernbusch|linen weavers
 |===
 
 .Godfather
@@ -37,9 +37,9 @@ getauft: Gev[atter]. Fahlsings Sohn aus Eversen
 
 .Translation
 ....
-The 4th November Carl Philip Krückeberg baptized
-son of the of the linen weaver Kruckebergs at Bernbusch
-godfather Fahlsing's son from Evesen
+On the 4th of November, Carl Philip Krückeberg,
+son of the linen weaver Krückeberg of Bernbusch,
+was baptized; godfather: Fahlsing’s son from Evesen.
 ....
 
 
