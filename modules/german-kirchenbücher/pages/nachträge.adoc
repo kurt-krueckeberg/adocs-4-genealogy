@@ -1,4 +1,4 @@
-= Understanding Nachträge
+= What is Nachträge?
 
 In German paleography and archival practice, there is a general term for later-added notes to an ortiginal record
 of a ceremony: they are called "Nachträge" (singular: Nachtrag), which translates to "addenda" or "later additions."
