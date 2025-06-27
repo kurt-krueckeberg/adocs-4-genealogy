@@ -1,5 +1,6 @@
 .Research Threads
 * xref:background-info.adoc[]
+* xref:philippine-eleonore-maiden-name.adoc[]
 * xref:schaumburg-lippe-censuses.adoc[]
 * xref:meaning-of-stand.adoc[]
 * xref:friedrich-wilhelm-weiland-evesen-questions.adoc[]
