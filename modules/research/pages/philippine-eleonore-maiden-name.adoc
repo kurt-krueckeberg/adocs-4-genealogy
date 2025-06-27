@@ -12,7 +12,7 @@ xref:etzen/petzen-band2-image12-3[March 13, 1803, marriage record] for Carl
 Friedrich Gottlieb Krückeberg, where the name of his Braut (bride) is: **"Jgfr
 Philippine Eleonore Werkmeister"**, whose Ort and number are: **Evesen 11**.
 
-Furthermore, the xref:families/krueckeberg.adoc[Familienschein (family certificate)]
+Furthermore, the xref:families:krueckeberg.adoc[Familienschein (family certificate)]
 for the Carl Friedrich Kruecberg family states his mother was: **"Philippine
 Leonore, geb. Bleeken, von N. 11 in Evesen"**.
 
