@@ -1,7 +1,7 @@
 = 1739 Johann Wilhelm Krückeberg Baptized
 :page-role: doc-width
 
-The baptism of a Johann Wilhelm Krückeberg occurred 9 [Feb?] 1739. 
+The baptism of a Johann Wilhelm Krückeberg occurred February 9^th^ 1739. 
 
 == Citation
 
@@ -22,6 +22,12 @@ sein Gevatter Valsing
 
 ."hÿ" explained 
 ****
+[IMPORTANT]
+====
+* *Berenbusch* is not mentioned explicitly. I am assuming image:berenbusch-abbreviation.jpg[] is
+an abbreviation for it. 
+====
+
 [NOTE]
 ====
 * "hÿ" stands for the German word "hier", meaning "here."
@@ -29,6 +35,7 @@ sein Gevatter Valsing
 * It’s a common scribal abbreviation in 17th–18th century German church records, where scribes
 often shortened very common words to save space.
 ====
+
 ****
 
 .Translation
