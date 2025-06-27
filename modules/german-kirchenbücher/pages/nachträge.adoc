@@ -37,19 +37,16 @@ So, if you're describing the inserted death date in genealogical notes or resear
 == Their Significance
 
 These later addenda or Nachträge inserted in smaller handwriting into an original record of a church
-ceremony provide extra confirmation of precisely who an individual is. They tells us, say, when an
-individual was born and baptized, or when they were confirmed, married or died. One doesn't have to
-infer such dates by carefully looking for other occuranmce of their name in the vast corpus of
-recorded ceremonies. One is also freed from the effort of comparing other identifying attributes of
-an individual, like their residence or their parent's name, in other records. Instead the pastor (or
-perhaps Küster, sexton), who personally knew them, supplies this infornation free of charge as it were. 
+ceremony provide extra confirmation of precisely who an individual is. They reference other church 
+ceremonies, thus cross reference other recorded church ceremonies--birthn and baptized, confirmation,
+marraige or funeral. One doesn't have to infer the indentity of the same individual in other church
+by carefully looking for other occurances of their name in the vast corpus of
+recorded ceremonies. One is also freed from the effort of closely comparing other identifying attributes of
+the individual: their residence, their parent's name, etc. Instead the pastor (or perhaps Küster, sexton),
+who personally knew them, supplies and confos this information free of charge.
 
-This is especially important in the social and religous milieu of the time when there was little
-variety among given names, where the same small set of given names repeat over and over throughout
-the church register. If the surname is also very common, you risk becoming confused ("which Johann
-Heinrich Meyer is it?").
-
-The Nachträge-supplied dates, then, provide a short cut that allows us to immediately confirm other life
+This is especially helpful when a name is common or repeats often throughout the church book.
+The Nachträge-supplied dates, then, provide a short cut that allows us to immediately confirm other church
 events of an individual and harvest the information in them.
 
 But what if the church event is not found on the date given in a Nachtrag? What if, for example, a
