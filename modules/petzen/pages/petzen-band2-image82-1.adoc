@@ -27,7 +27,7 @@ above the text of entry 22.
 
 == Overview of Pages 158 and 159
 
-This is an overview of the first 33 entries of pages 158 and 159:
+This is an overview showing the header for pages 158 and 159:
  
 image::petzen-band2-img82-overview.jpg[title="Header page 156 portion (Click to enlarge)",link=self]
 
