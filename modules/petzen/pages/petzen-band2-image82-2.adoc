@@ -103,8 +103,10 @@ image::petzen-band2-img82-entry40-159.jpg[title="Entry 40, page 159 portion (Cli
 |Evesen
 |
 |Philipp[ine] nee: Werkmeister
-|7  [Decbr. writen above entry)
-|11 [Decbr. writen above entry)
+|Decbr. +
+7
+|Decbr, +
+11
 |[F?] Kruckeberg a[nd] Weyland from Berenb[usch].
 |===
 
