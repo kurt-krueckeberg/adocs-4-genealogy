@@ -1,8 +1,6 @@
 .Research Threads
 * xref:background-info.adoc[]
-* Philippine Eleonore
-** xref:philippine-eleonore-maiden-name.adoc[]
-** xref:proof-arg-philippine-eleonore.adoc[]
+* xref:proof-arg-philippine-eleonore.adoc[]
 * xref:petzen-frille-research.adoc[]
 * xref:schaumburg-lippe-censuses.adoc[]
 * xref:meaning-of-stand.adoc[]
