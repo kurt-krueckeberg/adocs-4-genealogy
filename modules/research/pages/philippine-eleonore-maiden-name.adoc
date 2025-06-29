@@ -43,12 +43,13 @@ Lenore geb. Blecken aus n. 11 in Evesen"**?
 
 == Reasearch Question
 
-**Why is there a discrepency in the maiden name of "Philippine Lenore" in the baptism records of
-two of her chilren? **
+**Why is there a discrepency in the maiden name of "Philippine Lenore" in  the baptism records of
+two of her chilren?**. 
 
 == Research Plan 
 
-Find the records for:
+*Philippine Eleonore(Lenore)* was a common given name. It alone is not sufficent for confirming an
+individual's identity. We need to find the records for:
 
 * the birth/baptiwsm records for all her children. The xref:petzen:petzen-band2-image96.adoc[birth record
 for Carl Friedrich] states he is the *2^nd^* child and *1^st^* son. The xref:petzen:petzen-band2-image125-entry31[birth
@@ -65,8 +66,8 @@ plus 14.
 
 == Research Results
 
-* The couple's 1^st^ child was Christine Philippine xref:petzen:petzen-band2-image82-2.adoc[born Dec, 7, 1803]. The
-mother's name is *Philipp:geb:Werkmeister*. 
+* The couple's 1^st^ child was Christine Philippine xref:petzen:petzen-band2-image82-2.adoc[born Dec, 7, 1803]. Her
+mother's name is recorded as *Philipp:geb:Werkmeister*. 
 +
 *Note:* There are no Werkmeister sponsors! The sponsors are *Fr Kruckeberg u. Weiland aus Berenb:*.
 +
