@@ -2,6 +2,11 @@
 
 == Why Did the Maiden Name of Carl Friedrich Gottlieb Krückeberg's Wife Change?
 
+=== Reasearch Question
+
+**Why is there a discrepency in the maiden name of "Philippine Lenore" in  the baptism records of
+two of her three chilren?**. 
+
 === Background
 
 Two of the children of Carl Friedrich Gottlieb Krückeberg (18 April 1779 - 13 May 1838) were
@@ -16,9 +21,6 @@ Did the pastor or sexton "confuse" the mother's maiden name in 1807, when
 son Carl Friedrich was born, and then again in 1812, when his sister, Caroline Dorothee,
 was born, making the same "mistake" twice? This was a parish in an agrarian, rural society, 
 and church records were legally mandated documents. 
-
-Could *Philippine Eleonore's* father have died, perhaps when she was young, and the mother
-remarried a Blecken, effectively changing her maiden name? 
 
 When Caroline Dorothee Krückeberg, the daughter of Carl Friedrich Gottlieb Krückeberg
 and Philippine Eleonore was xref:petzen-band2-image125-entry31[baptized on December 2, 1812],
@@ -45,12 +47,6 @@ Why would Caroline Dorothee Krückeberg's mother's maiden name be given as "Blec
 born? And why would the xref:petzen-band2-image96[May 24, 1807, birth/baptism record of her brother,
 Carl Friedrich Krückeberg], also have this same discrepancy, listing his mother as: **"Philippine
 Lenore geb. Blecken aus n. 11 in Evesen"**?
-
-=== Reasearch Question
-
-**Why is there a discrepency in the maiden name of "Philippine Lenore" in  the baptism records of
-two of her chilren?**. 
-
 === Research Plan 
 
 *Philippine Eleonore(Lenore)* was a common given name. It alone is not sufficent for confirming an
