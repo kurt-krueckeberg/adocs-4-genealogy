@@ -56,7 +56,7 @@ Lenore geb. Blecken aus n. 11 in Evesen"**?
 individual's identity. We need to find the records for:
 
 * the birth/baptiwsm records for all her children. The xref:petzen:petzen-band2-image96.adoc[birth record
-for Carl Friedrich] states he is the *2^nd^* child and *1^st^* son. The xref:petzen:petzen-band2-image125-entry31[birth
+for Carl Friedrich] states he is the *2^nd^* child and *1^st^* son. The xref:petzen:petzen-band2-image125-entry31.adoc[birth
 record for Caroline Dorothee] states she is the *3^rd^* child and *2^nd^* daughter.
 
 * Find the confirmation and death records for Philippine Eleonore nee Werkmeister
