@@ -50,7 +50,9 @@ two of her chilren? **
 
 Find the records for:
 
-* the birth/baptiwsm records for all her children. 
+* the birth/baptiwsm records for all her children. The xref:petzen-band2-image96.adoc[birth record
+for Carl Friedrich] states he is the *2^nd^* child and *1^st^* son. The xref:petzen-band2-image125-entry31[birth
+record for Caroline Dorothee] states she is the *3^rd^* child and *2^nd^* daughter.
 
 * Find the confirmation and death records for Philippine Eleonore nee Werkmeister
 Krückeberg. Her death date is found in the Nachtrag attached to her marriage 
@@ -63,7 +65,10 @@ plus 14.
 
 == Research Results
 
-I can't find a confirmation record for *Philippine  Eleonorer Werkmeister* in the years 1799...
+* I can't find a confirmation record for *Philippine  Eleonorer Werkmeister* in the years 1799...
+
+*
+
 
 //More than one family might reside at an address. In 1821, for example, Johann
 //Heinrich Krückeberg dies. He resides at No. 10 Berenbusch. In 1822, Jobst
