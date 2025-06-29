@@ -66,8 +66,10 @@ plus 14.
 == Research Results
 
 * The couple's 1^st^ child was Christine Philippine xref:petzen:petzen-band2-image82-2.adoc[born Dec, 7, 1803]. The
-mother's name is *Philipp:geb:Werkmeister*. However, there are no Werkmeister sponsors. The sponsors are *Fr 
-Kruckeberg u. Weiland aus Berenb:*. +
+mother's name is *Philipp:geb:Werkmeister*. The sponsors are *Fr Kruckeberg u. Weiland aus Berenb:*.
++
+Note: There are no Werkmeister sponsors.
++
 At that time, they are living in Evesen, but by May 21, 1807, when Carl Friedrich Gottlieb is born, they are living
 at no. 14 Berenbusch.
 
