@@ -16,12 +16,14 @@ On March 13, 1803 Carl Friedrich Gottlieb Krückeberg married Philippine Eleonor
 |*Bride*|Philippine Eleonore Werkmeister|13 Mar. 1803|no. 11 Evesen
 |===
 
-.Nachträge for Groom: Carl Friedrich Gottlieb Krückeberg 
-[%header,width="35%"]
+.Nachträge for Bride and Groom: Carl Friedrich Gottlieb Krückeberg 
+[%header,width="55%"]
 |===
-|Baptism Date|Date of Death
+||Name|Baptism Date|Date of Death
 
-|xref:petzen-band1a-image264[18 April 1779]|13 May 1838
+|*Groom*|xref:petzen-band1a-image264[18 April 1779]|13 May 1838
+
+|*Bride*|xref:petzen-band1a-image287[4 May 1783]|16 Dec. 1840
 |===
 
 .Nachträge for Bride: Philippine Eleonore Werkmeister 
