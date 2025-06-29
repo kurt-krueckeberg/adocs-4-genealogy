@@ -10,18 +10,18 @@ asciidoc:
 nav:
   - modules/ROOT/nav-top.adoc
   - modules/families/nav.adoc
+  - modules/churches/nav.adoc
+  - modules/german-kirchenbücher/nav.adoc
+  - modules/us-kirchenbücher/nav.adoc
+  - modules/persons/nav.adoc
   - modules/edu/nav.adoc
   - modules/earth/nav.adoc
   - modules/federal-land-records/nav.adoc
   - modules/naturalization/nav.adoc
   - modules/military/nav.adoc
-  - modules/churches/nav.adoc
   - modules/related-trees/nav.adoc
   - modules/newspapers/nav.adoc
   - modules/research/nav.adoc
   - modules/probate/nav.adoc
-  - modules/german-kirchenbücher/nav.adoc
-  - modules/us-kirchenbücher/nav.adoc
-  - modules/persons/nav.adoc
   - modules/learning/nav.adoc
   - modules/miscellany/nav.adoc

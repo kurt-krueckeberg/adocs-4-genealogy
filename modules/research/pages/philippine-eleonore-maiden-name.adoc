@@ -1,46 +1,67 @@
 = What was Philippine Eleonore's Maiden Name?
 
-When Caroline Dorothee Krückeberg, the daughter of Carl Friedrich Gottlieb
-Krückeberg and Philippine Eleonore was
-xref:petzen-band2-image125-entry31[baptized on December 2, 1812], her mother's
-name is recorded as:  **"Philippine Leonore geb. Blecken aus N. 11 in
-Evesen"**. There is also an addenda attached to her written in a smaller hand:
-"get. 4.5.85". She was getauft (baptized) on May 4, 1785.
+== Issue
 
-Compare this information with that found in the
-xref:etzen/petzen-band2-image12-3[March 13, 1803, marriage record] for Carl
-Friedrich Gottlieb Krückeberg, where the name of his Braut (bride) is: **"Jgfr
-Philippine Eleonore Werkmeister"**, whose Ort and number are: **Evesen 11**.
+Two of the children of Carl Friedrich Gottlieb Krückeberg (18 April 1779 - 13 May 1838) were
+Carl Friedrich and Caroline Dorothee. The name of the children's mother recorded in their 
+baptism records was **"Philippine Lenore geb. Blecken aus N. 11 in Evesen"**; however,
+the name of the wife whom Carl Friedrichrich Krückeberg married on March 13, 1803 
+had a different surname. The xref:petzen/petzen-band2-image12-3[March 13, 1803, marriage record]
+for Carl Friedrich Gottlieb Krückeberg lists his Braut (bride) as: **"Jgfr
+Philippine Eleonore Werkmeister"**, whose Ort(place) and number are: **Evesen 11**.
+
+Did the pastor or sexton "confuse" the mother's maiden name in 1807, when
+son Carl Friedrich was born, and then again in 1812, when his sister, Caroline Dorothee,
+was born, making the same "mistake" twice? This was a small parish in an agrarian, rural society,
+and church records were legally mandated documents. 
+
+When Caroline Dorothee Krückeberg, the daughter of Carl Friedrich Gottlieb Krückeberg
+and Philippine Eleonore was xref:petzen-band2-image125-entry31[baptized on December 2, 1812],
+her mother's name is recorded as:  **"Philippine Leonore geb. Blecken aus N. 11 in Evesen"**.
+There is also an addenda written in a smaller hand beneath the text that gives the "Name,
+Religion u. Geburtsort der Mutter (birthplace of the mother)". It says:
+xref:petzen-band1a-image287["get. 4.5.83"]. She was "getauft" (baptized) on May 4, 1783.
 
 Furthermore, the xref:families:krueckeberg.adoc[Familienschein (family certificate)]
 for the Carl Friedrich Kruecberg family states his mother was: **"Philippine
-Leonore, geb. Bleeken, von N. 11 in Evesen"**.
+Leonore, geb. Bleeken, von N. 11 in Evesen"**. However, this merely a derived document based
+on the original church records. 
 
-Looking at the xref:petzen-band1a-image287[baptism recorded on May 4, 1785], it
-is for: **Philippina Eleonore Wekmeister**, whose father is "Tönnies
-(diminutive for Anton) **Werkmeister** aus **Evesen no. 11**".
+Looking at the xref:petzen-band1a-image287[baptism recorded on May 4, 1783], it is for an
+infant named **Philippina Eleonore Wekmeister**, whose father is **"Tönnies (diminutive for Anton)
+Werkmeister aus Evesen no. 11"**.
 
-Since "Philippine Eleonore Werkmeister" was only 19 when she married, she had
-not previously been married.
+Compare this surname with the surname found in the xref:petzen/petzen-band2-image12-3[March 13, 1803,
+marriage record] for Carl Friedrich Gottlieb Krückeberg, where the name of his Braut (bride) is: **"Jgfr
+Philippine Eleonore Werkmeister"**, whose Ort and number are: **Evesen 11**. "Philippine Eleonore
+Werkmeister" was only 19 when she married, so she had not previously been married.
 
-Why would Caroline Dorothee Krückeberg's mother's maiden name be given as
-"Blecke" when she was born? And why would the xref:petzen-band2-image96[May 24,
-1807, birth/baptism record of her brother, Carl Friedrich Krückeberg], also
-have this same discrepancy, listing his mother as: **"Philippine Lenore geb.
-Blecken aus n. 11 in Evesen"**?
+Why would Caroline Dorothee Krückeberg's mother's maiden name be given as "Blecken" when she was
+born? And why would the xref:petzen-band2-image96[May 24, 1807, birth/baptism record of her brother,
+Carl Friedrich Krückeberg], also have this same discrepancy, listing his mother as: **"Philippine
+Lenore geb. Blecken aus n. 11 in Evesen"**?
 
-Why would the pastor or sexton "confuse" the maiden name? Why would he be
-"confused" both in 1807 and then again in 1812, making the same "mistake"?
-These church records were legally mandated documents. This was a small parish
-in Schaumburg-Lippe, an agrarian, rural society!
+== Reasearch Question
 
-Was father later found to be a Bleeke(n)? This is speculation with no rational
-support. But one should:
+**Why is there a discrepency in the maiden name of "Philippine Lenore" in the baptism records of
+two of her chilren? **
+
+== Research Plan 
+
+Find the records for:
+
+* the birth/baptiwsm records for all her children. 
 
 * Find the confirmation and death records for Philippine Eleonore nee Werkmeister
 Krückeberg. Her death date is found in the Nachtrag attached to her marriage 
 record. Her confirmation year can be calculated as approximately birth year 
 plus 14.
+
+* Find the death records for her.
+
+* Find the death records of her husband, Carl Friedrich Gottlieb Kr<D-b>ückeberg
+
+== Research Results
 
 I can't find a confirmation record for *Philippine  Eleonorer Werkmeister* in the years 1799...
 
