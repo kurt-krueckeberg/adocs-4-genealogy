@@ -2,6 +2,8 @@
 
 == Why Did the Maiden Name of Carl Friedrich Gottlieb Krückeberg's Wife Change?
 
+=== Background
+
 Two of the children of Carl Friedrich Gottlieb Krückeberg (18 April 1779 - 13 May 1838) were
 Carl Friedrich and Caroline Dorothee. The name of the children's mother recorded in their 
 baptism records was **"Philippine Lenore geb. Blecken aus N. 11 in Evesen"**; however,
@@ -41,12 +43,12 @@ born? And why would the xref:petzen-band2-image96[May 24, 1807, birth/baptism re
 Carl Friedrich Krückeberg], also have this same discrepancy, listing his mother as: **"Philippine
 Lenore geb. Blecken aus n. 11 in Evesen"**?
 
-== Reasearch Question
+=== Reasearch Question
 
 **Why is there a discrepency in the maiden name of "Philippine Lenore" in  the baptism records of
 two of her chilren?**. 
 
-== Research Plan 
+=== Research Plan 
 
 *Philippine Eleonore(Lenore)* was a common given name. It alone is not sufficent for confirming an
 individual's identity. We need to find the records for:
@@ -64,7 +66,7 @@ plus 14.
 
 * Find the death records of her husband, Carl Friedrich Gottlieb Krückeberg
 
-== Research Results
+=== Research Results so far
 
 * The couple's 1^st^ child was Christine Philippine xref:petzen:petzen-band2-image82-2.adoc[born Dec, 7, 1803]. Her
 mother's name is recorded as *Philipp:geb:Werkmeister*. 
@@ -74,7 +76,8 @@ mother's name is recorded as *Philipp:geb:Werkmeister*.
 At that time, they are living in Evesen, but by May 21, 1807, when Carl Friedrich Gottlieb is born, they are living
 at no. 14 Berenbusch.
 
-* Ater a cursory search, I can't find a confirmation record for *Philippine  Eleonorer Werkmeister* in the years 1799...
+* Ater a cursory search, I could't find a confirmation record for *Philippine  Eleonorer Werkmeister* in the years 1799.
+Needs further effort.
 
 
 //More than one family might reside at an address. In 1821, for example, Johann
