@@ -1,6 +1,5 @@
 .Research Threads
 * xref:background-info.adoc[]
-* xref:proof-arg-philippine-eleonore.adoc[]
 * xref:petzen-frille-research.adoc[]
 * xref:schaumburg-lippe-censuses.adoc[]
 * xref:meaning-of-stand.adoc[]

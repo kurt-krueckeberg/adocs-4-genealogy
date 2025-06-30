@@ -14,6 +14,7 @@ nav:
   - modules/german-kirchenbücher/nav.adoc
   - modules/us-kirchenbücher/nav.adoc
   - modules/persons/nav.adoc
+  - modules/findings/nav.adoc
   - modules/edu/nav.adoc
   - modules/earth/nav.adoc
   - modules/federal-land-records/nav.adoc
