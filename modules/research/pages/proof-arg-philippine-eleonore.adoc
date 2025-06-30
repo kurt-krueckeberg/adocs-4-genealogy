@@ -120,11 +120,54 @@ tells us:
 |===
 +
 [.underline]#Key finding#: Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore geb. Blecken aus N. 11 in Evesen*.
-The mother's maiden is now *Blecken*, but her given name and residence prior to marriage are unchanged.
+While the mother's maiden is now *Blecken*, her given name and residence prior to marriage remain the same.
 
 . xref:petzen:petzen-band2-image125-entry31.adoc[*Baptism of Third Child (2 December 1812)*]  
-Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
-An addendum below this entry states: *“get. 4.5.83”* (baptized 4 May 1783).
++
+.Baptism Facts
+[%header,cols="3,2,1,1,1,2",width="85%"]
+|===
+|Name|Baptism Date|Birth Date|Birth Time|Birth Order|Sex Birth Order
+
+|Caroline Dorothee Krüeckeberg|Dec. 6 1812|Dec. 2 1812|5 a.m.|3^rd^|2^nd^ girl
+|===
++
+.Family Facts
+[%header,cols="1,3,2,2,1",width="85%"]
+|===
+||Name|Residence|Birth Origin|Religion
+
+|*Father*|Carl Friedrich Gottlieb Krückeberg|no. 18 Bärebusch|no. 18 Bärebusch|Lutheran
+
+|*Mother*|Philippine Leonore née Bleeke|no. 18 Bärebusch|no. 11 Evesen|Lutheran
+|===
++
+.Nachträge for Carloline Dorothee Krückeberg   
+|===
+|Marriage Date|Death
+
+|25 Oct 1835|14 Dec. 1869
+|===
++
+.Nachträge for Carl Friedrich Gottlieb Krückeberg, father of Carloline Dorothee Krückeberg
+[width="40%"]
+|===
+|Baptism|Marriage
+
+|xref:petzen-band1a-image264.adoc[18 Apr. 1779]|xref:petzen-band2-image12-3.adoc[13 Mar. 1803]
+|===
++
+.Nachträge for Philippine Leonore née Bleeke, mother of Carloline Dorothee Krückeberg
+[width="40%"]
+|===
+|Baptism|Marriage (given for husband)
+
+|xref:petzen-band1a-image287[4 May 1783]|xref:petzen/petzen-band2-image12-3[13 Mar 1803]
+|===
++
+[.underline]#Key finding#: Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
+An addendum below this entry states: *“get. 4.5.83”* (baptized 4 May 1783) and . Thus: The mother's given name, her residence prior to marriage,
+her baptism date (as
 
 . xref:petzen:petzen-band1a-image287.adoc[*Baptism Record (4 May 1783, Evesen Parish)*]  
 *Philippina Eleonore Werkmeister*, daughter of *Tönnies Werkmeister* of *Evesen No. 11*.
