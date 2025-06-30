@@ -119,8 +119,8 @@ tells us:
 |Philippine Lenore née Bleeken|no. 11 Evesen|Lutheran
 |===
 +
-[.underline]#Key finding#: The mother's maiden is *Blecken* but her given name and residence prior to marriage
-is unchanged:  *Philippine Lenore geb. Blecken aus N. 11 in Evesen*
+[.underline]#Key finding#: The mother's maiden is now *Blecken*, but her given name and residence prior to marriage
+are unchanged:  *Philippine Lenore geb. Blecken aus N. 11 in Evesen*
 
 . xref:petzen:petzen-band2-image125-entry31.adoc[*Baptism of Third Child (2 December 1812)*]  
 Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
