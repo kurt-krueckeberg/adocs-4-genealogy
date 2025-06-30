@@ -1,0 +1,19 @@
+= TODO
+
+== For the Pedigree of Carl Friedrich Krückeberg (born 1807) and Johann Heinrich Krückeberg
+* Write up a explanation and the significance of the Nachträge.
+* confirm the in most recent Nachträge:
+** xref:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+** xref:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+** xref:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
+** xref:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+
+== For Their Descendents and Them
+
+We need on-site Bückeburg archives research doneÖ
+
+* Put togehter the further reaseach needed. Be sure I have a complete list of individuals.:
+** xref:research:bueckeburg-bleeke-research.adoc[]
+** xref:research:petzen-frille-research.adoc[]
+** Philippine Eleonore nee Werkmeister Krückeberg.
+** Anyone else in the family tree who would be found in the latest volume.:
