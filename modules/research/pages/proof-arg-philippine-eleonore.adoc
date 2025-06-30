@@ -155,7 +155,7 @@ While the mother's maiden is now *Blecken*, her given name and residence prior t
 |===
 |Baptism|Marriage
 
-|xref:petzen-band1a-image264.adoc[18 Apr. 1779]|xref:petzen-band2-image12-3.adoc[13 Mar. 1803]
+|xref:petzen:petzen-band1a-image264.adoc[18 Apr. 1779]|xref:petzen:petzen-band2-image12-3.adoc[13 Mar. 1803]
 |===
 +
 .Nachträge for Philippine Leonore née Bleeke, mother of Carloline Dorothee Krückeberg
@@ -163,7 +163,7 @@ While the mother's maiden is now *Blecken*, her given name and residence prior t
 |===
 |Baptism|Marriage (given for husband)
 
-|xref:petzen-band1a-image287[4 May 1783]|xref:petzen/petzen-band2-image12-3[13 Mar 1803]
+|xref:petzen:petzen-band1a-image287[4 May 1783]|xref:petzen:petzen-band2-image12-3[13 Mar 1803]
 |===
 +
 [.underline]#Key finding#: Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
