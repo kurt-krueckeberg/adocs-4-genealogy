@@ -61,7 +61,7 @@ her baptism and death dates as:
 * Death date: *16 December 1840*
 
 . The xref:petzen:petzen-band2-image82-2.adoc[*Baptism of First Child (7 December 1803, Petzen Parish)*]  
-Christine Philippine Krückeberg, daughter of Carl Friedrich and *Philippine, geb. Werkmeister* tells us:
+Christine Philippine Krückeberg tells us:
 +
 .Family Group
 [cols="3,2,3,3,2,2,2"]
@@ -80,10 +80,10 @@ Christine Philippine Krückeberg, daughter of Carl Friedrich and *Philippine, ge
 |F[meaning Frauen?] Kruckeberg and Weiland from Berenbusch
 |===
 +
-[.underline]#Key finding#: The mother of their first child is *Philippine née Werkmeister*.
+[.underline]#Key finding#: The 1^st^ daughter of Carl Friedrich is by his wife *Philippine née Werkmeister*.
+She is the mother of their first child, Christine Philippine.
 
 . xref:petzen:petzen-band2-image96.adoc[*Baptism of Second Child (24 May 1807)*]  
-Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore geb. Blecken aus N. 11 in Evesen*
 tells us:
 +
 .Family Group Facts
@@ -119,8 +119,8 @@ tells us:
 |Philippine Lenore née Bleeken|no. 11 Evesen|Lutheran
 |===
 +
-[.underline]#Key finding#: The mother's maiden is now *Blecken*, but her given name and residence prior to marriage
-are unchanged:  *Philippine Lenore geb. Blecken aus N. 11 in Evesen*
+[.underline]#Key finding#: Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore geb. Blecken aus N. 11 in Evesen*.
+The mother's maiden is now *Blecken*, but her given name and residence prior to marriage are unchanged.
 
 . xref:petzen:petzen-band2-image125-entry31.adoc[*Baptism of Third Child (2 December 1812)*]  
 Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
