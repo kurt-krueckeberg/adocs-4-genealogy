@@ -87,7 +87,7 @@ Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore ge
 tells us:
 +
 .Family Group Facts
-[%header,cols="3,3,3,2",width="80%"]
+[%header,cols="3,3,3,2"]
 |===
 |Father|Mother|Child|Residence
 
@@ -95,8 +95,7 @@ tells us:
 |===
 +
 .Child Facts
-[%header,cols="3,3,2,2,2,2",width="80%"]
-|===
+[%header,cols="3,3,2,2,2,2"]
 |Name|Place of Birth|Birth Date|Baptism Date|Birth Order|Sex Birth Order
 
 |Carl Friedrich Krückeberg|Bärenbusch +
@@ -104,7 +103,7 @@ tells us:
 |===
 +
 .Father Carl Friedrich Gottlieb Krückeberg Facts
-[%header,cols="4,2,2,1",width="70%"]
+[%header,cols="4,2,2,1"]
 |===
 |Name|Birth Place|"Stand"|Religion
 
@@ -114,7 +113,7 @@ tells us:
 |===
 +
 .Mother Philippine Lenore née Bleeken Facts
-[%header,width="70%"]
+[%header]
 |===
 |Name|Birth Place|Religion
 
