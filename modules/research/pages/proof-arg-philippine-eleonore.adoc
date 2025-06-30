@@ -167,12 +167,14 @@ While the mother's maiden is now *Blecken*, her given name and residence prior t
 |===
 +
 [.underline]#Key finding#: Caroline Dorothee Krückeberg’s baptism also lists the mother as *Philippine Leonore geb. Blecken aus N. 11 in Evesen*.  
-An addendum below this entry states: *“get. 4.5.83”* (baptized 4 May 1783). Thus, while the maiden name is recorded as *Blecken*, the
-mother's
+An addendum below this entry states: *“get. 4.5.83”* (baptized 4 May 1783). Thus, while the maiden name is recorded for a 2^nd^ time as
+*Blecken*, the mother's
 +
-. given name,
-. her residence prior to marriage, and
-. her baptism date
+** given name,
+** her residence prior to marriage, and
+** her baptism date
+
++
 remain unchanged.
 
 . xref:petzen:petzen-band1a-image287.adoc[*Baptism Record (4 May 1783, Evesen Parish)*] of 
