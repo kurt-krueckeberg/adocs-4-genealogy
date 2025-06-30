@@ -26,14 +26,61 @@ surname attribution.
 
 == Evidence
 
-. xref:petzen:petzen-band2-image12-3.adoc[*Marriage Record (13 March 1803, Petzen Parish)*]  
-Carl Friedrich Gottlieb Krückeberg married *Jungfrau Philippine Eleonore Werkmeister* of *Evesen No. 11*.  
-**Nachtrag (addendum)** to this record states:
-  - Baptism date: *4 May 1783*
-  - Death date: *16 December 1840*
+This summarizes the key findings.
 
-. xref:petzen:petzen-band2-image82-2.adoc[*Baptism of First Child (7 December 1803, Petzen Parish)*]  
-Christine Philippine Krückeberg, daughter of Carl Friedrich and *Philippine, geb. Werkmeister*.
+. The xref:petzen:petzen-band2-image12-3.adoc[*Marriage Record (13 March 1803, Petzen Parish)*] when 
+Carl Friedrich Gottlieb Krückeberg married *Jungfrau Philippine Eleonore Werkmeister* of *Evesen No. 11*. 
+tells us:
++
+.Facts for March 13, 1803 Marriage
+[%header,cols="1,3,2,2"]
+|===
+||Name|Marriage Date|Residence +
+(at time of marriage)
+
+|*Groom*|Carl Friedrich Gottlieb Krückeberg|13 Mar. 1803|no. 10 Berenbusch
+
+|*Bride*|Philippine Eleonore Werkmeister|13 Mar. 1803|no. 11 Evesen
+|===
+
++
+.Nachträge for Bride and Groom: Carl Friedrich Gottlieb Krückeberg 
+[cols="1,3,2,2"]
+|===
+||Name|Baptism Date|Date of Death
+
+|*Groom*|Carl Friedrich Gottlieb Krückeberg|xref:petzen:petzen-band1a-image264.adoc[18 April 1779]|13 May 1838
+                                            
+|*Bride*|Philippine Eleonore Werkmeister|xref:petzen:petzen-band1a-image287.adoc[4 May 1783]|16 Dec. 1840
+|===
++
+[.underline]#Key finding#: The **Nachtrag (addendum)** to this record for *Philippine Eleonore Werkmeister* records
+her baptism and death dates as:
+
+* Baptism date: *4 May 1783*
+* Death date: *16 December 1840*
+
+. The xref:petzen:petzen-band2-image82-2.adoc[*Baptism of First Child (7 December 1803, Petzen Parish)*]  
+Christine Philippine Krückeberg, daughter of Carl Friedrich and *Philippine, geb. Werkmeister* tells us:
++
+.Family Group
+[cols="3,2,3,3,2,2,2"]
+|===
+|Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date
+
+|Carl Friedrich Krückeberg|Einlieger|Philippine née Werkmeister|Christine Philippine|Evesen 
+(No. not given)|7 Dec. 1803|11 Dec. 1803
+|===
++
+.Baptism Sponsors
+[%header]
+|===
+|Name
+
+|F[meaning Frauen?] Kruckeberg and Weiland from Berenbusch
+|===
++
+[.underline]#Key finding#: The mother of their first child is *Philippine née Werkmeister*.
 
 . xref:petzen:petzen-band2-image96.adoc[*Baptism of Second Child (24 May 1807)*]  
 Carl Friedrich Krückeberg’s baptism lists the mother as *Philippine Lenore geb. Blecken aus N. 11 in Evesen*.
