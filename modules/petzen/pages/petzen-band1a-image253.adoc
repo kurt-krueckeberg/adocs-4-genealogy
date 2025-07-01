@@ -3,20 +3,12 @@
 
 == Family Group and Other Facts
 
-.Parents
-[%header,width=50%]
+.Family Group
+[%header]
 |===
-|Father|Mother|Dwelling
+|Infant|Baptism Date|Father|Mother|Dwelling
 
-|Friedrich Wilhelm Weiland|Anna Maria Weiland|no. 20 Evesen
-|===
-
-.Child
-[%header,width=50%]
-|===
-|Name|Baptism Date
-
-|Frideridch Wilhelm Weiland|26 January 1777
+|Frideridch Wilhelm Weiland|Jan. 26 1777|Friedrich Wilhelm Weiland|Anna Maria Weiland|no. 20 Evesen
 |===
 
 .Baptismal Sponsors
