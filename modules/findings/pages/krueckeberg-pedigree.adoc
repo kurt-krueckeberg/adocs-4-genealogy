@@ -1,0 +1,56 @@
+= TODO
+
+== For the Pedigree of Carl Friedrich Krückeberg (born 1807) and Johann Heinrich Krückeberg
+* Write up a explanation and the significance of the Nachträge.
+* confirm the in most recent Nachträge:
+** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
+** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+
+== For Their Descendents and Them
+
+We need on-site Bückeburg archives research doneÖ
+
+Put togehter the further reaseach needed. Be sure I have a complete list of individuals.:
+Determine the recorded events needed--marriage, confirmation, baptism--and its Nachträge
+for these individuals: 
+
+* Bleeke brothers and their wives and children:
+** xref:research:bueckeburg-bleeke-research.adoc[]
+** xref:research:petzen-frille-research.adoc[]
+* Philippine Eleonore nee Werkmeister Krückeberg.
+* Weilands who settled in Adams CO, and the wives and children
+* Johann Heinrich Krückeberg, his wife and children
+** Anyone else in the family tree who would be found in the latest volume.:
+
+
+== Krückeberg Pedigree Analysis
+
+The first Nachtrag that appears for a Krückeberg in the Petzen volume "..." is
+in the December 1, 1816, marriage record for Christine Louise Krückeberg.
+
+When Christine Louise Krückeberg married December 1, 1816, her birth and death dates are
+given in the Nachtrag. The marriage record states her father, Johann Heinrich Krückeberg,
+is deceased, and that he had lived at *no. 19 Evesen*. The bride, his daughter, also lived
+in Evesen prior to the marriage. No number is given for her.
+
+As the Nachtrag said, Christine Louise's birth was recorded on April 26, 1798. Furthermore,
+the Nachtrag in her birth record gives the correct future marriage date of December 1, 1816. 
+The Nachträge are confirmed as accurate.
+
+Her birth-and-baptism record also gives her family's residence as "no. 19 Evesen". From the
+birth record we have these family group details:
+
+.Johann Heinrich Krückeberg Family Group
+|===
+||Name|Residence|Birthdate
+
+|*Father*|Johann Heinrich Krückeberg|no. 19 Evesen|
+
+|*Mother*|Kathar. Sophie Krömer|ditto| 
+
+|*Daughter*|Christine Louise|ditto|April 26, 1798
+|===
+
+Her confirmation record is found at the expected date in 1811....
