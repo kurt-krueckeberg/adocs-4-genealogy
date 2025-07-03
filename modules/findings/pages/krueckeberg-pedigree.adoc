@@ -75,7 +75,8 @@ indicating possession (i.e., "of Christine Louise Krückeberg").
 
 * *des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen* +
 → "of the deceased Johann Heinrich Krückeberg, No. 19 in Evesen"
-This *entire phrase modifies* "Tochter" (daughter), describing the father — his name and the house where he lived (and where the daughter presumably still resides).
+This *entire phrase modifies* "Tochter" (daughter), describing the father — his name and the house
+where he lived (and where the daughter presumably still resides).
 
 * *hinterlassene eheliche Tochter*
 → "surviving legitimate daughter"
@@ -85,22 +86,26 @@ This shows she was born in lawful wedlock (ehelich) and outlived her father (hin
 
 * *jetzt 19. Jahr alt* = "now 19 years old
 
-While the phrase *"n. 19 in Evesen"* grammatically refers to the father, because it appears under the column for
-*"Wohnort der Brat"* (residence of the bride), and no other residence is given, it is certainly meant to indicate
-that Christine Louise currently lives at No. 19 in Evesen, even if described indirectly through her father's former home.
+While the phrase *"n. 19 in Evesen"* grammatically refers to the father,
+because it appears under the column for *"Wohnort der Brat"* (residence of the
+bride), and no other residence is given, it is certainly meant to indicate that
+Christine Louise currently lives at No. 19 in Evesen, even if described
+indirectly through her father's former home.
 
-This the style used in the Petzen records seems to be: identifying individuals their household and using the father’s name
-and house number to define the residence. 
+This the style used in the Petzen records seems to be: identifying individuals
+their household and using the father’s name and house number to define the
+residence. 
 
-At some point, Christine Louise Krückeberg's December 1, 1816, marriage record was supplemented with
-her birth date and after her death with her death date. 
+At some point, Christine Louise Krückeberg's December 1, 1816, marriage record
+was supplemented with her birth date and after her death with her death date. 
 
-This birth Nachtrage (addendum) states, Christine Louise's birth occurred xref:petzen:petzen-band2-image71.adoc[on April 26,
-1798]. Her her birth record, too, was later supplemented with the correct future marriage date of December
+This birth Nachtrage (addendum) states, Christine Louise's birth occurred
+xref:petzen:petzen-band2-image71.adoc[on April 26, 1798]. Her her birth record,
+too, was later supplemented with the correct future marriage date of December
 1, 1816. The marriage and birth records are agree with each other.
 
-Her birth-and-baptism record also gives her family's residence as "no. 19 Evesen". From the
-birth record we have these family group details:
+Her birth-and-baptism record also gives her family's residence as "no. 19
+Evesen". From the birth record we have these family group details:
 
 [caption="Johann Heinrich Krückeberg Family Group on April 26, 1798: "]
 .upon birth of daughter Christine Louise 
@@ -148,6 +153,9 @@ Other children are given in these records:
 * xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
 * xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
 * xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
+
+To identify the father's, Johann Heinrich's, death, simply state: "I went through all the death records backward from
+when he was last mentioned alive (which is likely in one of his children's marriaghe records)...
 
 Prospective child, though mother's given  name is "off".
 * xref:petzen:petzen-band2-image52.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
