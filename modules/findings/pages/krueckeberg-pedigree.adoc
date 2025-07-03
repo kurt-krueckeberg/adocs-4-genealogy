@@ -56,7 +56,7 @@ birth record we have these family group details:
 |*Residence* 2+|No. 19 Evesen
 |===
 
-Her xref:petzen:petzen-band2-image207-2.[confirmation record] is found at the expected date of April 7, 1811,
+Her xref:petzen:petzen-band2-image207-2.adoc[confirmation record] is found at the expected date of April 7, 1811,
 when she was three and a half weeks shy of 13 years old. Her identity is confirmed by matching the information 
 given for her parent's names, her birthdate and the families current residence with the same information
 in her marriage record.
