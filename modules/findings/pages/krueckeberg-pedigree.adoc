@@ -27,6 +27,8 @@ for these individuals:
 
 == Krückeberg Pedigree Analysis
 
+=== Johann Heinrich Family Group, No. 19 Evesen
+
 The most recent Nachtrag that appears for a Krückeberg in "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827" is December 1, 1816, the xref:petzen:petzen-band2-image339.adoc[marriage
 record for Christine Louise Krückeberg].
@@ -67,12 +69,20 @@ in her marriage record.
 
 |*Father*|Johann Heinrich Krückeberg||
 
-|*Mother*|Kathar. Sophie Krömer||
+|*Mother*|Anne Sophie Krömer||
 
 |*Daughter*|Christine Louise|April 7, 1811|April 26, 1798
 
 |*Parent's Current Residence* 3+|No. 19 Evesen
 |===
 
-Only one of her mother's given name's differs.
+Her mother's given name's differ slightly between these two records: "Anne Sophie Kromer" vs "Kathar[ine] Sophie Krömer".
+The xref:petzen:petzen-band2-image5-1.adoc[marriage record] resolves this discrepancy....todo: explain
 
+Other children are given in these records:
+* xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
+* xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
+* xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
+
+Prospective child, though mother's given  name is "off".
+* xref:petzen:petzen-band2-image52.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
