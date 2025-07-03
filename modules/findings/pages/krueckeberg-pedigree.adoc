@@ -44,13 +44,15 @@ birth record we have these family group details:
 
 .Johann Heinrich Krückeberg Family Group
 |===
-||Name|Residence|Birthdate
+||||Birthdate
 
 |*Father*|Johann Heinrich Krückeberg|no. 19 Evesen|
 
 |*Mother*|Kathar. Sophie Krömer|ditto| 
 
 |*Daughter*|Christine Louise|ditto|April 26, 1798
+
+|*Residence* 3+|No. 19 Evesen
 |===
 
 Her confirmation record is found at the expected date in 1811....
