@@ -1,6 +1,6 @@
-= Swaplands Act and Indiana
+= Swamplands Act and Indiana
 
-General articles on the Swaplands Act:
+General articles on the Swamplands Act:
 
 * link:https://www.law.cornell.edu/cfr/text/43/2625.1[Selection and patenting of swamp lands] +
 
@@ -33,11 +33,11 @@ American Destruction: How the Swamp Land Act of 1850 Wreaked Havoc on Florida’
 . Even if an individaul did not ultimately receive a Land Patent: "Unsuccessful claims still have case files, and tract books are one of the best ways to find the information needed to obtain a case file from the two million otherwise unindexed land entry case files that were never finished, forfeited, rejected, or cancelled.[3]
 ====
 
-== ChatGPT Responses to Questions Re Swaplands Act
+== ChatGPT Responses to Questions Re Swamplands Act
 
 [quote, ChatGPT Session]
 ____
-ChatGPT: Under the Swaplands Act, states could award a land patent to a tract of land that previously could only be purchased through a Federal Land Offices--is this correct?
+ChatGPT: Under the Swamplands Act, states could award a land patent to a tract of land that previously could only be purchased through a Federal Land Offices--is this correct?
 
 ChatGPT replied:
 Yes, that's correct. The Swampland Acts, particularly the Swamp Land Act of 1850, allowed certain states to claim federally owned swamp and overflowed lands that were deemed unfit for cultivation. Under this act, states could transfer or sell these lands to private owners or award land patents for reclamation purposes, typically to encourage drainage and development.
@@ -53,7 +53,7 @@ The federal government transferred ownership of the land to the states, and the 
 
 So, in cases of swampland, the state patent was sufficient, as the land had already been conveyed from federal to state control.
 
-ChatGPT: When did the Swaplands Act become applicable to the state of Indiana?
+ChatGPT: When did the Swamplands Act become applicable to the state of Indiana?
 
 ChatGPT replied:
 The Swamp Land Act of 1850 (also known as the Swamp and Overflowed Lands Act) became applicable to the state of Indiana soon after its passage. Specifically, Indiana was included under the act on September 28, 1850, the same date the original federal legislation was passed by Congress.
