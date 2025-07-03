@@ -65,13 +65,13 @@ in her marriage record.
 |===
 |||Confirmation Date|Birthdate
 
-|*Father*|Johann Heinrich Krückeberg|
+|*Father*|Johann Heinrich Krückeberg||
 
-|*Mother*|Kathar. Sophie Krömer|
+|*Mother*|Kathar. Sophie Krömer||
 
 |*Daughter*|Christine Louise|April 7, 1811|April 26, 1798
 
-|*Parent's Current Residence* 2+|No. 19 Evesen|
+|*Parent's Current Residence* 3+|No. 19 Evesen
 |===
 
 Only one of her mother's given name's differs.
