@@ -1,14 +1,11 @@
-= TODO
+= Krückeberg Pedigree
 
-== For the Pedigree of Carl Friedrich Krückeberg (born 1807) and Johann Heinrich Krückeberg
-
-* Write up a explanation and the significance of the Nachträge.
-
-* These are the most recent Nachträge:
-** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
-** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
-** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
-** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+. Write up a explanation and the significance of the Nachträge.
+** These are the most recent Nachträge:
+*** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+*** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+*** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
+*** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 
 == For Their Descendents and Them
 
@@ -18,20 +15,11 @@ Put togehter the further reaseach needed. Be sure I have a complete list of indi
 Determine the recorded events needed--marriage, confirmation, baptism--and its Nachträge
 for these individuals: 
 
-* Bleeke brothers and their wives and children:
-** xref:research:bueckeburg-bleeke-research.adoc[]
-** xref:research:petzen-frille-research.adoc[]
-* Philippine Eleonore nee Werkmeister Krückeberg.
-* Weilands who settled in Adams CO, and the wives and children
-* Johann Heinrich Krückeberg, his wife and children
-** Anyone else in the family tree who would be found in the latest volume.:
-
-
 == Krückeberg Pedigree Analysis
 
 === Johann Heinrich Family Group, No. 19 Evesen
 
-==== Nachtrage Trail
+==== The Nachträge Breadcrumbs Trail
 
 The most recent Nachtrag that appears for a Krückeberg in "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827" is the December 1, 1816, the xref:petzen:petzen-band2-image339.adoc[marriage
