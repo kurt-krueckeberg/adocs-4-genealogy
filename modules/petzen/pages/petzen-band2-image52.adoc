@@ -1,6 +1,30 @@
 = 1791 Friderich Wilhelm Krückeberg Baptism
 :page-role: doc-width
 
+== Family Group and Other Facts
+
+.Family Group of Infant Friderich Wilhelm Krückeberg
+[width="55%"]
+|===
+||Name|Baptism Date
+
+|*Father*|Johann Heinrich Krückeberg|
+
+|*Mother*|Catherine Margaretha née Crömer|
+
+|*Infant*| Friderich Wilhelm | April 25, 1791
+
+|*Residence*|[No. is missing] Evesen|
+|===
+
+.Baptism Sponsors
+[width="45%"]
+|===
+|Name|Residence
+
+|Johann Heinrich Krückeberg|Berenbusch
+|===
+
 == Citation 
 
 This baptism is recorded on <<image52, image 52 on Archion>> of Petzen Kirchenbuch volume 2.
