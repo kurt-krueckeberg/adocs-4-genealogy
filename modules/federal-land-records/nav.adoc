@@ -3,7 +3,7 @@
 * xref:land-acts.adoc[]
 * xref:residency-and-naturalization.adoc[]
 * xref:indiana-land-records.adoc[]
-* xref:swaplands-act.adoc[]
+* xref:swamplands-act.adoc[]
 ** xref:indiana-boondoggle.adoc[]
 * xref:viewing-plss.adoc[]
 * xref:records-land-and-other.adoc[]
