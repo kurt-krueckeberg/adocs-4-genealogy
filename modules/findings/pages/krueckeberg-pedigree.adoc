@@ -27,17 +27,18 @@ for these individuals:
 
 == Krückeberg Pedigree Analysis
 
-The first Nachtrag that appears for a Krückeberg in the Petzen volume "..." is
-in the December 1, 1816, marriage record for Christine Louise Krückeberg.
+The most recent Nachtrag that appears for a Krückeberg in "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827" is December 1, 1816, the xref:petzen-band2-image339.adoc[marriage
+record for Christine Louise Krückeberg].
 
-When Christine Louise Krückeberg married December 1, 1816, her birth and death dates are
-given in the Nachtrag. The marriage record states her father, Johann Heinrich Krückeberg,
+At some point, Christine Louise Krückeberg's December 1, 1816, marriage record was supplemented with
+her birth and death dates. The marriage record states her father, Johann Heinrich Krückeberg,
 is deceased, and that he had lived at *no. 19 Evesen*. The bride, his daughter, also lived
 in Evesen prior to the marriage. No number is given for her.
 
-As the Nachtrag said, Christine Louise's birth was recorded on April 26, 1798. Furthermore,
-the Nachtrag in her birth record gives the correct future marriage date of December 1, 1816. 
-The Nachträge are confirmed as accurate.
+As the Nachtrag says, Christine Louise's birth was xref:petzen-band2-image71.adoc[recorded on April 26,
+1798]. Furthermore, the Nachtrag in her birth record gives the correct future marriage date of December
+1, 1816. The Nachträge are confirmed as accurate.
 
 Her birth-and-baptism record also gives her family's residence as "no. 19 Evesen". From the
 birth record we have these family group details:
@@ -55,4 +56,23 @@ birth record we have these family group details:
 |*Residence* 2+|No. 19 Evesen
 |===
 
-Her confirmation record is found at the expected date in 1811....
+Her xref:petzen-band2-image207-2.[confirmation record] is found at the expected date of April 7, 1811,
+when she was three and a half weeks shy of 13 years old. Her identity is confirmed by matching the information 
+given for her parent's names, her birthdate and the families current residence with the same information
+in her marriage record.
+
+.Facts from April 7, 1811 Confirmation of Christine Louise Krückeberg
+|===
+|||Confirmation Date|Birthdate
+
+|*Father*|Johann Heinrich Krückeberg|
+
+|*Mother*|Kathar. Sophie Krömer|
+
+|*Daughter*|Christine Louise|April 7, 1811|April 26, 1798
+
+|*Parent's Current Residence* 2+|No. 19 Evesen|
+|===
+
+Only one of her mother's given name's differs.
+
