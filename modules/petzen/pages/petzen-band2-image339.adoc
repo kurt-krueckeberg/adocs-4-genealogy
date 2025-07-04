@@ -5,7 +5,7 @@
 
 [caption="Bride and Groom Facts for: "]
 .Decmeber 1, 1816, Marriage of Christine Louise Krückeberg
-[cols="1,2,3,1,1,2,2",options="header"]
+[cols="2,4,3,2,1,1,2",options="header"]
 |===
 |        |Name|Address (at time of marriage)|Date of Marriage|Age| Legitimate +
 Birth| Religion
