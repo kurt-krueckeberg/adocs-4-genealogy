@@ -14,6 +14,11 @@ Birth| Address (at time of marriage) | Religion
 
 | *Bride*|Dec. 1, 1816|Maiden/virgin Christine Louise Krückeberg|19|Yes|No. 19 Evesen +
 (assumed. See **Note** below)|Lutheran
+
+|*Groom's Father*||Albrecht Klöpper|||no. 22 in Röcke|
+
+|*Bride's Father*||Johann Heinrich Krückeberg +
+(deceased)|||no. 19 Evesen|Deceased|
 |===
 
 .Nachträge for Groom Johann Heinrich Klöpper
@@ -45,15 +50,15 @@ Maiden Christine Louise Krückebergs, the surving daugher of the late Johann Hei
 |===
 |Name|Address
 
-|Albrecht Klöpper|no. 19 Evesen
+|Albrecht Klöpper|no. 22 in Röcke
 |===
 
 .Facts for Bride's Late Father
-[%header,width="40%"]
+[%header,width="60%"]
 |===
 |Name|Address|Status
 
-|Johann Heinrich Krückeberg|no. 22 in Röckae|Deceased
+|Johann Heinrich Krückeberg|no. 19 Evesen|Deceased
 |===
 
 == Citation
