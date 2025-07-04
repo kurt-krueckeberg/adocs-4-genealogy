@@ -138,8 +138,29 @@ Her mother's given name's differ slightly between these two records: "Anne Sophi
 The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
 marriage record has all her given names. But put the explanation after adding children below.
 
-TODO: rererad the Shannon Grren article on identity. Use the record evidence below, plus the resaerch evodence that
-docs.krueckeberg.org has all the Krückeberg records found in the Petzen 1795-1827 Kirchenbuch; i.e, if Johann
+TODO: rererad the Shannon Grren article on identity. Use the "negative" evidence that all the Krückeberg records in the
+Petzen 1795-1827 Kirchenbuch have been identified and put on ndocs.krueceberg. What is negative evidence?
+**Negative Evidence**
+
+**Definition:** Negative evidence arises when the absence of a record where one would be expected becomes evidence
+in itself.
+
+In my case:
+
+I've thoroughly examined the entire Kirchenbuch for all occurrences of the surname Krückeberg between 1795 and 1827.
+
+If no additional daughters of Johann Heinrich Krückeberg appear in the records where you would reasonably expect
+them—such as in baptisms, confirmations, or marriages—then their absence is informative.
+
+This absence becomes negative evidence that there were no other daughters born or raised in the parish during that time period.
+
+Note: Negative evidence is not the same as a lack of evidence. It's not simply “nothing was found,” but rather “nothing was
+found where something would be expected." If there where further daughters, then there would be a baptism-birth record.
+
+But  wasn't a child born in Steinbergen?
+
+
+
 Heinrich of No. 19 Evesen is the father in a marriage record, and we have found not just marriage, birth and confirmation
 (and  death) records involving his name, but all Krückebergs.
 
