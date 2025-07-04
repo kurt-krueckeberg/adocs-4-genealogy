@@ -138,15 +138,24 @@ Her mother's given name's differ slightly between these two records: "Anne Sophi
 The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
 marriage record has all her given names. But put the explanation after adding children below.
 
+TODO: 
+The confirmation records also provide the identity of both parents of a child.
+
 TODO:
-Add these prospective other children in the marriage records below. They should have the bride's
-father's name and his address, which is also her address. We can also use the bride's age to
-determine the approximate her birth year. Their birth-baptism records will contain both parent's
-name and the family's residence.
+Now, add these prospective daughters in the marriage records listed below:
+
 * xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
 * xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 * xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
+Theses recods should have the bride's 1.) father's name and his address, which is also her address since bride's
+lived at home until marriage. We can use the bride's age founnd in the marriage record to determine her approximate
+birth year, and so locate her birth record. Her birth-baptism records will contain both parent's
+names and the family's residence. We will the be able to confirm that the father listed in the marriage record
+and living at the address given in the marriage record of his daughter, father his daughter by the
+mother listed both on the birth record. 
+
+NOTE: 
 TODO:
 Prospective birth-baptism records:
 * xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
