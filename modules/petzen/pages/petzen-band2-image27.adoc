@@ -7,12 +7,14 @@
 .23 February 1812 Marriage
 [cols="2,3,1,2,3,2",options="header",width="85%"]]
 |===
-|        | Name     |Age|Occupation| Address (at time of marriage) | Religion
+|        | Name | Address (at time of marriage)|Age|Occupation| Religion
 
-| *Groom*|Friedrich Wilhelm Watermann|21|Farmer|no. 11 Nordholz|Lutheran
+| *Groom*|Friedrich Wilhelm Watermann|no. 11 Nordholz|21|Farmer|Lutheran
 
-| *Bride*|Philippine Caroline Krückeberg|21||n. 10 Bärenbusch +
-(assumed. See Note)|Lutheran
+| *Bride*|Philippine Caroline Krückeberg|n. 10 Bärenbusch +
+(assumed. See Note)|21||Lutheran
+
+|*Bride's Father*|Jobst Heinrich Kruckeberg|n. 10 Bärenbusch|||
 |===
 
 .Nachträge for Groom Friedrich Wilhelm Watermann
