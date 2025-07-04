@@ -139,7 +139,9 @@ The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's reso
 marriage record has all her given names. But put the explanation after adding children below.
 
 TODO: rererad the Shannon Grren article on identity. Use the record evidence below, plus the resaerch evodence that
-docs.krueckeberg.org has all the Krückeberg records  found in the Petzen 1795-1827 Kirchenbuch.	
+docs.krueckeberg.org has all the Krückeberg records found in the Petzen 1795-1827 Kirchenbuch; i.e, if Johann
+Heinrich of No. 19 Evesen is the father in a marriage record, and we have found not just marriage, birth and confirmation
+(and  death) records involving his name, but all Krückebergs.
 
 TODO: 
 The confirmation records also provide the identity of both parents of a child.
