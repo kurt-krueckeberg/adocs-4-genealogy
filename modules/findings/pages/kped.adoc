@@ -140,12 +140,16 @@ marriage record has all her given names. But put the explanation after adding ch
 
 TODO:
 Add the other children given in their marriage records.
+* xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
+* xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+* xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
 TODO:
 Then compare the marriage records with these birth records:
 * xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
 * xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
 * xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
+did some daughters marry outside the Petzen congregation.
 
 TODO:
 To identify the father's, Johann Heinrich's death rtecord, simply state: "I went through all the death records backward from
