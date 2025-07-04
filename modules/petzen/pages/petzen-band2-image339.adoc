@@ -10,10 +10,10 @@
 |        |Name|Address (at time of marriage)|Date of Marriage|Age| Legitimate +
 Birth| Religion
 
-| *Groom*|Johann Heinrich Klöpper|Dec. 1, 1816|29|Yes|No. 22 Röcke|Lutheran
+| *Groom*|Johann Heinrich Klöpper|No. 22 Röcke|Dec. 1, 1816|29|Yes|Lutheran
 
-| *Bride*|Maiden/virgin Christine Louise Krückeberg|Dec. 1, 1816|19|Yes|No. 19 Evesen +
-(assumed. See **Note** below)|Lutheran
+| *Bride*|Maiden/virgin Christine Louise Krückeberg|No. 19 Evesen +
+(assumed. See **Note** below)|Dec. 1, 1816|19|Yes|Lutheran
 
 |*Groom's Father*|Albrecht Klöpper|no. 22 in Röcke||||
 
