@@ -14,6 +14,11 @@
 
 | *Bride*|Maria Philippine Krückeberg|18|no. 10 Bärenbusch +
 (assumed. See Note)|Lutheran
+
+|*Groom's Father*|Albert Raulfing +
+(deceased)||No. 13 Bärenbusch 
+
+|*Bride's Father*|Johann Heinrich Krückeberg||10 in Bärenbusch 
 |===
 
 [NOTE]
@@ -50,7 +55,7 @@ records.
 [%header,width="35%"]
 |===
 |Name|Status|Address
-
+ 
 |Albert Raulfing|Deceased|no. 13 Bärenbusch
 |===
 
