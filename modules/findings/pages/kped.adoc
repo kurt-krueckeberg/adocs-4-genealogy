@@ -139,13 +139,16 @@ The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's reso
 marriage record has all her given names. But put the explanation after adding children below.
 
 TODO:
-Add the other children given in their marriage records.
+Add these prospective other children in the marriage records below. They should have the bride's
+father's name and his address, which is also her address. We can also use the bride's age to
+determine the approximate her birth year. Their birth-baptism records will contain both parent's
+name and the family's residence.
 * xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
 * xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 * xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
 TODO:
-Then compare the marriage records with these birth records:
+Prospective birth-baptism records:
 * xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
 * xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
 * xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
