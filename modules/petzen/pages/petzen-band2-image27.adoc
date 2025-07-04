@@ -5,7 +5,7 @@
 
 [caption="Bride and Groom Facts: "]
 .23 February 1812 Marriage
-[cols="2,3,3,2,1,2",options="header",width="85%"]]
+[cols="2,3,3,1,2,2",options="header",width="85%"]]
 |===
 |        | Name | Address (at time of marriage)|Age|Occupation| Religion
 
