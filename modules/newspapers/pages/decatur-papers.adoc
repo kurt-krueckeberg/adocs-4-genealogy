@@ -2,7 +2,7 @@
 
 [caption="Chronicling America: "]
 .Decatur Area Newspapers
-[cols="1,7",width="80%"]
+[cols="1,6",width="80%"]
 |===
 |1882-1882|https://chroniclingamerica.loc.gov/lccn/sn86058841/[Decatur daily news]
 
