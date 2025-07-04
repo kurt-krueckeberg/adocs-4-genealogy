@@ -138,6 +138,9 @@ Her mother's given name's differ slightly between these two records: "Anne Sophi
 The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
 marriage record has all her given names. But put the explanation after adding children below.
 
+TODO: rererad the Shannon Grren article on identity. Use the record evidence below, plus the resaerch evodence that
+docs.krueckeberg.org has all the Krückeberg records  found in the Petzen 1795-1827 Kirchenbuch.	
+
 TODO: 
 The confirmation records also provide the identity of both parents of a child.
 
