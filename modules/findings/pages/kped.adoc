@@ -135,15 +135,22 @@ in her marriage record.
 |===
 
 Her mother's given name's differ slightly between these two records: "Anne Sophie Kromer" vs "Kathar[ine] Sophie Krömer".
-The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain
+The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
+marriage record has all her given names. But put the explanation after adding children below.
 
-Other children are given in these records:
+TODO:
+Add the other children given in their marriage records.
+
+TODO:
+Then compare the marriage records with these birth records:
 * xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
 * xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
 * xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
 
-To identify the father's, Johann Heinrich's, death, simply state: "I went through all the death records backward from
+TODO:
+To identify the father's, Johann Heinrich's death rtecord, simply state: "I went through all the death records backward from
 when he was last mentioned alive (which is likely in one of his children's marriaghe records)...
 
+TODO:
 Prospective child, though mother's given  name is "off".
 * xref:petzen:petzen-band2-image52.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
