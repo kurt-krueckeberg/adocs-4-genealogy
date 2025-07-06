@@ -51,22 +51,22 @@ Then move this to the introduction to the church records.
 
 Some church records contain addenda (Nachtrage in German) that reference other church records for the same individual.
 In the the example below, excerpted from a marriage record, the first two column describe the groom and bride. After
-listing their name, their father's name, their residence, age and religion  and address, each
-ends with the date of their *get.*, short for *getauft*, baptism; followed by the date of  *gest.*,
-short for *gestorben* , death/burial.
+listing their names, their father's names, their residences, ages and religion, each
+ends with two dates: their *get.*, short for *getauft*, baptism date; followed by the date of  *gest.*,
+short for *gestorben*  death/burial.
 
 image::nachtrag_example.jpg[link=self]
 
 These addendum (Nachträge) identity the same individual in the records they cross reference by date. One does not
-have to infer the individuals identity. The Nachtrag confirms it for you.
+have to infer the individual's identity. The Nachtrage confirms it for you.
 
-The most recent church record Nachtrag for a Krückeberg in the "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827" is the December 1, 1816, xref:petzen:petzen-band2-image339.adoc[marriage
-record] for *Christine Louise Krückeberg*.  At some point, Christine Louise Krückeberg's December 1, 1816, marriage
-record was supplemented with her birth-and-baptism date and after her death with her death date. 
+The most recent church record for a Krückeberg in the "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827" that contains Nachtragis is the December 1, 1816, xref:petzen:petzen-band2-image339.adoc[marriage
+of Christine Louise Krückeberg].  At some point, Christine Louise Krückeberg's December 1, 1816, marriage
+record was supplemented with her birth-baptism date and after her death with her death date. 
 
-We learn this about her family information from the column *"Name, Religion, Geburt und Wohnort der Brat"* (Name,
-Religion, Birth and Place of Residence of the Bride):
+From the column *"Name, Religion, Geburt und Wohnort der Brat"* (Name, Religion, Birth and Place of Residence of the Bride),
+we learn this:
 
 [quote, "Name, Religion, Geburt und Wohnort der Brat"] 
 ____
@@ -74,7 +74,7 @@ Jungfrau Christine Louise Krückebergs, des verstorbenen Johann Heinrich Krücke
 hinterlassene eheliche Tochter. Luth. Conf. u. jetzt 19. Jahr alt. 
 ____
 
-This grammatical breakdown explains the how it can be rephrased in English:
+This grammatical breakdown explains how the German should be rephrased in English:
 
 . Main subject: 
 
@@ -90,12 +90,13 @@ This grammatical breakdown explains the how it can be rephrased in English:
 → “legitimate surviving daughter of the deceased Johann Heinrich Krückeberg of No. 19 in Evesen”
 
 This *entire genitive phrase* modifies and explains *who Christine Louise is* — she is the *daughter* of this man.
-We can now expressed it in English:
+
+We can now express it in English:
 
 [quote, English rephrasing]
 ____
-Christine Louise Krückeberg, an unmarried woman, [is] the legitimate surviving daughter of the late Johann
-Heinrich Krückeberg of No. 19 in Evesen.
+Christine Louise Krückeberg, an unmarried woman [alternately, virgin], [is] the legitimate surviving daughter
+of the late Johann Heinrich Krückeberg of No. 19 in Evesen.
 ____
 
 Notice also that the bride's address is given in terms of her late father's address.
@@ -106,11 +107,10 @@ bride), and no other residence is given, it is certainly meant to indicate that
 Christine Louise currently lives at No. 19 in Evesen, even if described
 indirectly through her father's former home.
 
-This is the style used in the Petzen marriage records: identifying individuals
-by their household and using the father’s name and house number to define the
-residence. 
+This style is used repeatedlly in the Petzen marriage records: individuals are identified
+by their household and using the father’s name and house number to define the residence. 
 
-This table summarizes the family information in her marriage record:
+This table summarizes the family information found in her marriage record:
 
 [caption="Johann Heinrich Krückeberg Family Group: "]
 .December 1, 1816, marriage of daughter Christine Louise 
@@ -126,17 +126,14 @@ This table summarizes the family information in her marriage record:
 |*Residence* 2+|No. 19 Evesen
 |===
 
-As mentioned, Christine Louise Krückeberg's December 1, 1816, marriage record
-was later supplemented with her birth date and after her death with her death date. 
-
 The birth Nachtrage (addendum) gives Christine Louise's birth/baptism date as
 on April 26, 1798]. Only one xref:petzen:petzen-band2-image71.adoc[Christine Louise
-Kückeberg was baptized] in the Petzen church on that date. Her birth record, too,
+Kückeberg was baptized] in the Petzen church on that date. Her birth record, likewise,
 was later supplemented with her marriage date, December 1, 1816. This independently
 confirms the marriage and birth records refer to the same person.
 
 Her birth-and-baptism record also gives her family's residence as "no. 19
-Evesen". Since it provide's her mother's namem, we now have these family group details:
+Evesen". Since it also provides her mother's namem, we now have these family group details:
 
 [caption="Johann Heinrich Krückeberg Family Group on April 26, 1798: "]
 .upon birth of daughter Christine Louise 
@@ -145,7 +142,7 @@ Evesen". Since it provide's her mother's namem, we now have these family group d
 
 |*Father*|Johann Heinrich Krückeberg |
 
-|*Mother*|Kathar. Sophie Krömer|
+|*Mother*|Kathar[ine]. Sophie Krömer|
 
 |*Daughter*|Christine Louise|April 26, 1798
 
@@ -174,23 +171,23 @@ geb. -- quote ?Thode's dictionary. Translated *née*. Née is a French word mean
 When placed after a woman's name it indicates her family name of birth.
 ====
 
-A xref:petzen:petzen-band2-image207-2.adoc[confirmation record] Christine Louise is found
-around the expected date of April 7, 1811, when she was three and a half weeks shy of 13
-years old. Her identity is confirmed by matching the information given for her parent's names,
-her birthdate and the families current residence with the same information in her marriage
-record.
+A xref:petzen:petzen-band2-image207-2.adoc[confirmation record] for Christine Louise Krückeberg
+is found around the expected date of her 13^th^ or 14^th^ birthday, on April 7, 1811, when she was three
+and a half weeks shy of 13 years old. Her identity is confirmed by matching the information
+given for her parent's names, her birthdate and the families current residence with the same
+information in her marriage and baptism records. Ane by the fact that their are no other ....?
 
 .Facts from April 7, 1811 Confirmation of Christine Louise Krückeberg
 |===
-|||Confirmation Date|Birthdate
+|||Confirmation Date|Birthdate|Marriage Date
 
-|*Father*|Johann Heinrich Krückeberg||
+|*Father* 4+|Johann Heinrich Krückeberg
 
-|*Mother*|Anne Sophie Krömer||
+|*Mother* 4+|Anne Sophie Krömer
 
 |*Daughter*|Christine Louise|April 7, 1811|April 26, 1798
 
-|*Parent's Current Residence* 3+|No. 19 Evesen
+|*Parent's Current Residence* 4+|No. 19 Evesen
 |===
 
 Her mother's given name's differ slightly between these two records: "Anne Sophie Kromer" vs "Kathar[ine] Sophie Krömer".
