@@ -43,36 +43,43 @@ Then move this to the introduction to the church records.
 
 ==== The Nachträge Breadcrumbs Trail
 
+Some church records contain addenda (Nachtrage in German) that reference other church records for the same individual.
+The the example below is an excerpt from a marriage record, whose first two column describe the groom and bride. Each
+ends with the date of baptism, `get.`, short for `getauft`, baptized; followed by the date of death/burial, `gest.`,
+short for gestorben, died.
+
+image::nachtrag_example.jpg[link=self]
+
+These addendum (Nachträge) identity the same individual in the other records they cross reference. One does not
+have to infer the individuals identity. The Nachtrag confirms it for you.
+
 The most recent Nachtrag that appears for a Krückeberg in "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827" is the December 1, 1816, the xref:petzen:petzen-band2-image339.adoc[marriage
 record for Christine Louise Krückeberg].
+
+This table summarizes the information in her marriage record:
 
 [caption="Johann Heinrich Krückeberg Family Group on December 1, 1816: "]
 .upon marriage of daughter Christine Louise 
 |===
 |        ||Marriage Date
 
-|*Father* 2+|Johann Heinrich Krückeberg, deceased
+|*Bride*|Christine Louise|April 26, 1798
 
-|*Mother* 2+|not mentioned
+|*Bride's Father* 2+|Johann Heinrich Krückeberg, deceased
 
-|*Daughter*|Christine Louise|April 26, 1798
+|*Bride's Mother* 2+|not mentioned
 
-|*Father's Residence* 2+|No. 19 Evesen
-
-|*Daughter's Residence* 2+|No. 19 Evesen
+|*Residence* 2+|No. 19 Evesen
 |===
 
-.Make This a Separate Page
-****
-[NOTE]
-====
-The column "Name, Religion, Geburt und Wohnort der Brat" (Name, religion, birth, and residence of the bride) reads:
+The bride's address is given in terms of her late father's address in the colmn
+*"Name, Religion, Geburt und Wohnort der Brat (Name, religion, birth, and residence of the bride)"*. It reads:
 
 [quote, Name, Religion, Geburt und Wohnort der Brat] 
 ____
-"des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen hinterlassene eheliche Tochter. 
-Luth. Conf. u. jetzt 19. Jahr alt." 
+"Jungfrau Christine Louise Krückebergs, des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen
+hinterlassene eheliche Tochter. Luth. Conf. u. jetzt 19. Jahr alt." 
 ____
 
 [quote, Name, Religion, Birth and Place of Residence of the Bride]
@@ -81,11 +88,12 @@ Maiden Christine Louise Krückeberg, the legitimate surviving daughter of the la
 [of] No. 19 in Evesen. Lutheran confession and now 19 years old.
 ____
 
-Grammatical breakdown:
+To Grammatical breakdown:
 
 * *Jungfrau Christine Louise Krückebergs* +
-→ “Maiden” (unmarried woman) Christine Louise Krückeberg — the -s on Krückebergs is genitive,
-indicating possession (i.e., "of Christine Louise Krückeberg").
+→ “Maiden” (unmarried woman) Christine Louise Krückeberg — the -s on Krückebergs is a *naming convention that
+often appears for unmarried women* in the Petzen. This is apparently a dialectal and scribal convention, not
+a practice of standardized German grammar.
 
 * *des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen* +
 → "of the deceased Johann Heinrich Krückeberg, No. 19 in Evesen"
