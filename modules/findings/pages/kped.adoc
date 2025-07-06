@@ -73,18 +73,23 @@ Jungfrau Christine Louise Krückebergs, des verstorbenen Johann Heinrich Krücke
 hinterlassene eheliche Tochter. Luth. Conf. u. jetzt 19. Jahr alt. 
 ____
 
-This grammatical breakdown explains the how it would be rephrased in English:
+This grammatical breakdown explains the how it can be rephrased in English:
 
-. Main subject:
+. Main subject: 
+
++
 *"Jungfrau Christine Louise Krückebergs"* +
 → “Maiden Christine Louise Krückebergs”
 +
 * The *-s* on Krückebergs is not pssessive, but likely a *dialectal/feminine marker*.
 . Appositive genitive(possesive) phrase:
+
++
 *"des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen hinterlassene eheliche Tochter"* +
 → “legitimate surviving daughter of the deceased Johann Heinrich Krückeberg of No. 19 in Evesen”
 
 This *entire genitive phrase* modifies and explains *who Christine Louise is* — she is the *daughter* of this man.
+We can now expressed it in English:
 
 [quote, English rephrasing]
 ____
