@@ -178,8 +178,7 @@ given for her parent's names, her birthdate and the families current residence w
 information in her marriage and baptism records. Ane by the fact that their are no other ....?
 
 .Facts from April 7, 1811 Confirmation of Christine Louise Krückeberg
-//[cols="1,4,2,2,2"]
-[cols="12%,50%,12%,12%,12%"]
+[cols="2,5,2,2,2"]
 |===
 |||Confirmation Date|Birthdate|Marriage Date
 
