@@ -51,7 +51,7 @@ Then move this to the introduction to the church records.
 
 Some church records contain addenda (Nachtrage in German) that reference other church records for the same individual.
 The the example below is an excerpt from a marriage record, whose first two column describe the groom and bride. Each
-ends with the date of baptism, `get.`, short for `getauft`, baptized; followed by the date of death/burial, `gest.`,
+ends with the date of baptism, *get.*, short for *getauft*, baptized; followed by the date of death/burial, *gest.*,
 short for gestorben, died.
 
 image::nachtrag_example.jpg[link=self]
