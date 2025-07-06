@@ -182,13 +182,14 @@ information in her marriage and baptism records. Ane by the fact that their are 
 |||Confirmation Date|Birthdate|Marriage Date
 
 |*Father* 4+|Johann Heinrich Krückeberg
-
-|*Mother* 4+|Anne Sophie Krömer
-
-|*Daughter*|Christine Louise|April 7, 1811|April 26, 1798
-
-|*Parent's Current Residence* 4+|No. 19 Evesen
 |===
+
+//|*Mother* 4+|Anne Sophie Krömer
+
+//|*Daughter*|Christine Louise|April 7, 1811|April 26, 1798
+
+//|*Parent's Current Residence* 4+|No. 19 Evesen
+//|===
 
 Her mother's given name's differ slightly between these two records: "Anne Sophie Kromer" vs "Kathar[ine] Sophie Krömer".
 The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
