@@ -1,19 +1,41 @@
 = Krückeberg Pedigree
 
-. Write up a explanation and the significance of the Nachträge.
-** These are the most recent Nachträge:
-*** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
-*** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
-*** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
-*** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
-
-== For Their Descendents and Them
+== TODO Later: For Their Descendents and Them
 
 We need on-site Bückeburg archives research done.
 
 Put togehter the further reaseach needed. Be sure I have a complete list of individuals.:
 Determine the recorded events needed--marriage, confirmation, baptism--and its Nachträge
 for these individuals: 
+
+== Outline of Analysis
+
+TODO: Move this after what I already wrote below under "Johann Heinrich Family Group, No. 19 Evesen"
+In the years three daughters of Johann Heinrich Krückeberg or Heinrich (in one case) married in the years:
+
+* xref:petzen:petzen-band2-image348.adoc[1822 name here]
+* xref:petzen:petzen-band2-image339.adoc[1816 name here]
+* xref:petzen:petzen-band2-image27-2.adoc[1812 ]
+
+The residence is no. 19 Evesen in each case?. In the marriage of daughter xxx, there is an addenda that gives her birthday and death date. The birth record likewise contains an addendaqH6 that gives the data for marriage. These two records  cross refences to the other.  The the information in common between the records is consistent. todo: list it.The baptism record has includes  the identity of the mother.
+
+In the other records we can use the age given to determine the approximate birth year and examine the birth records to see if they too reveal the name of the mother.
+
+Todo:Write that analysis up here.
+
+Mention we have the negative evidence that there are no other records and since we have conscientiously searched all records involving the surname k r u e c k e b e r g we can rule out that there were no other children baptized in the p e t z e n Church for this couple.
+
+Mention the steinbergen birth and the fact that it has no birth record in the Steinbergen  church.
+
+== Write up a explanation and the significance of the Nachträge.
+
+Then move this to the introduction to the church records.
+
+** These are the most recent Nachträge:
+*** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+*** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+*** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
+*** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 
 == Krückeberg Pedigree Analysis
 
@@ -41,6 +63,10 @@ record for Christine Louise Krückeberg].
 |*Daughter's Residence* 2+|No. 19 Evesen
 |===
 
+.Make This a Separate Page
+****
+[NOTE]
+====
 The column "Name, Religion, Geburt und Wohnort der Brat" (Name, religion, birth, and residence of the bride) reads:
 
 [quote, Name, Religion, Geburt und Wohnort der Brat] 
@@ -83,6 +109,16 @@ indirectly through her father's former home.
 This is style used in the Petzen marriage records: identifying individuals
 by their household and using the father’s name and house number to define the
 residence. 
+====
+
+[NOTE]
+====
+*geb. = née* 
+
+geb. -- quote ?Thode's dictionary. Translated *née*. Née is a French word meaning born.
+When placed after a woman's name it indicates her family name of birth.
+====
+****
 
 At some point, Christine Louise Krückeberg's December 1, 1816, marriage record
 was supplemented with her birth date and after her death with her death date. 
