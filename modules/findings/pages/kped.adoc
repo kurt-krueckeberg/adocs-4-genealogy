@@ -73,13 +73,7 @@ Jungfrau Christine Louise Krückebergs, des verstorbenen Johann Heinrich Krücke
 hinterlassene eheliche Tochter. Luth. Conf. u. jetzt 19. Jahr alt. 
 ____
 
-[quote, English rephrasing]
-____
-Christine Louise Krückeberg, an unmarried woman, [is] the legitimate surviving daughter of the late Johann
-Heinrich Krückeberg of No. 19 in Evesen.
-____
-
-This grammatical breakdown explains the English rephrasing:
+This grammatical breakdown explains the how it would be rephrased in English:
 
 . Main subject:
 *"Jungfrau Christine Louise Krückebergs"* +
@@ -91,6 +85,12 @@ This grammatical breakdown explains the English rephrasing:
 → “legitimate surviving daughter of the deceased Johann Heinrich Krückeberg of No. 19 in Evesen”
 
 This *entire genitive phrase* modifies and explains *who Christine Louise is* — she is the *daughter* of this man.
+
+[quote, English rephrasing]
+____
+Christine Louise Krückeberg, an unmarried woman, [is] the legitimate surviving daughter of the late Johann
+Heinrich Krückeberg of No. 19 in Evesen.
+____
 
 Notice also that the bride's address is given in terms of her late father's address.
 
