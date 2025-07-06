@@ -50,22 +50,23 @@ Then move this to the introduction to the church records.
 ==== The Nachträge Breadcrumbs Trail
 
 Some church records contain addenda (Nachtrage in German) that reference other church records for the same individual.
-The the example below is an excerpt from a marriage record, whose first two column describe the groom and bride. Each
-ends with the date of baptism, *get.*, short for *getauft*, baptized; followed by the date of death/burial, *gest.*,
-short for gestorben, died.
+In the the example below, excerpted from a marriage record, the first two column describe the groom and bride. After
+listing their name, their father's name, their residence, age and religion  and address, each
+ends with the date of their *get.*, short for *getauft*, baptism; followed by the date of  *gest.*,
+short for *gestorben* , death/burial.
 
 image::nachtrag_example.jpg[link=self]
 
-These addendum (Nachträge) identity the same individual in the records they cross reference. One does not
+These addendum (Nachträge) identity the same individual in the records they cross reference by date. One does not
 have to infer the individuals identity. The Nachtrag confirms it for you.
 
-The most recent Nachtrag that appears for a Krückeberg in "Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827" is the December 1, 1816, the xref:petzen:petzen-band2-image339.adoc[marriage
-record for Christine Louise Krückeberg].  At some point, Christine Louise Krückeberg's December 1, 1816, marriage record
-was supplemented with her birth-and-baptism date and after her death with her death date. 
+The most recent church record Nachtrag for a Krückeberg in the "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827" is the December 1, 1816, xref:petzen:petzen-band2-image339.adoc[marriage
+record] for *Christine Louise Krückeberg*.  At some point, Christine Louise Krückeberg's December 1, 1816, marriage
+record was supplemented with her birth-and-baptism date and after her death with her death date. 
 
-Here is her family information from the column *"Name, Religion, Geburt und Wohnort der Brat"* (Name, Religion, Birth and Place of
-Residence of the Bride):
+We learn this about her family information from the column *"Name, Religion, Geburt und Wohnort der Brat"* (Name,
+Religion, Birth and Place of Residence of the Bride):
 
 [quote, "Name, Religion, Geburt und Wohnort der Brat"] 
 ____
@@ -129,10 +130,10 @@ As mentioned, Christine Louise Krückeberg's December 1, 1816, marriage record
 was later supplemented with her birth date and after her death with her death date. 
 
 The birth Nachtrage (addendum) gives Christine Louise's birth/baptism date as
-xref:petzen:petzen-band2-image71.adoc[on April 26, 1798]. Only one *Christine Louise
-Kückeberg* was baptized on that date. Her birth record, too, was later supplemented
-with the then-future marriage date of December 1, 1816. The Nachträge confirm these
-marriage and birth records refer to the same person.
+on April 26, 1798]. Only one xref:petzen:petzen-band2-image71.adoc[Christine Louise
+Kückeberg was baptized] in the Petzen church on that date. Her birth record, too,
+was later supplemented with her marriage date, December 1, 1816. This independently
+confirms the marriage and birth records refer to the same person.
 
 Her birth-and-baptism record also gives her family's residence as "no. 19
 Evesen". Since it provide's her mother's namem, we now have these family group details:
