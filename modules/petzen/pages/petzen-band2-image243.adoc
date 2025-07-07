@@ -95,11 +95,35 @@ ein recht nütz- +
  liches Mitglied der Gemeinde
 |===
 
+.Meaning of Colon
+****
 [NOTE]
 ====
-*Gewerbe* in the column header is ambiguous on this image, but is clearly legible on the
-succeeding image.
+*Meaning of "Colon":*
+
+* *"Colon" = Colonus*: This is a Latin-derived term historically used in German
+church and legal records, especially in older rural areas.
+
+* *Colonus* referred to a *settled farmer*, typically one who worked a plot of
+land as a tenant, hereditary leaseholder (Erbpächter), or smallholder.
+
+* In many parts of Germany, especially in areas with feudal traditions like
+Schaumburg-Lippe, the Colonus had a defined status in the local agrarian 
+hierarchy. He was *not a servant or laborer*, but a man with *recognized rights to 
+use and pass on farmland* (sometimes paying dues or services to a noble or
+religious overlord).
+
+* In church records, "Colon" would distinguish someone from a "Brinksitzer" (a
+cottager or smallholder with little land), "Einlieger" (a lodger or laborer),
+or "Häusling" (someone living in another’s house, often a day laborer).
+
+*In short:*
+ 
+In *Evesen in 1805*, the term *"Colon"* means the decedent was a *recognized farmer, likely with
+hereditary rights* to a farmstead (Hof), and *held a respected position* in the local
+agrarian social structure.
 ====
+****
 
 [caption="Translation: "]
 .entry 8 for Joh: Hen: Krickeberg
