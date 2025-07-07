@@ -241,11 +241,11 @@ These birth/baptism records list the father abd mother as follows:
 |===
 |Father|Mother|Child|Birth Year|Residence
 
-|Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:petzen-band2-image59-60.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793
+|Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:petzen-band2-image59-60.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793|no. 19 Evesen
 
 |Johann Heinrich Krückeberg|Anne Sophie née Crömer|xref:petzen:petzen-band2-image71.adoc[Christine Louise Krückeberg Baptism]|1798|no. 19 Evesen
 
-|Johann Heinrich Krückeberg|Catharine Sophie Krömer|* xref:petzen:petzen-band2-image82-1.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
+|Johann Heinrich Krückeberg|Catharine Sophie Krömer|xref:petzen:petzen-band2-image82-1.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
 |===
 
 These confirmation records also provide the identity of both parents of a child.
