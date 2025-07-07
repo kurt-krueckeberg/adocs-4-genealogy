@@ -265,17 +265,56 @@ names and the family's residence. We will the be able to confirm that the father
 and living at the address given in the marriage record of his daughter, father his daughter by the
 mother listed both on the birth record. 
 
-NOTE: 
-TODO:
-Prospective birth-baptism records:
-* xref:petzen:petzen-band2-image59-60.adoc[1793 Philippina Eleonora Kruckebergen Baptism]
-* xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
-* xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Birth]
-did some daughters marry outside the Petzen congregation.
+NOTE: One daughter was born in Steinbergen.
 
 TODO:
-To identify the father's, Johann Heinrich's death rtecord, simply state: "I went through all the death records backward from
+To identify the father's, Johann Heinrich's death record, simply state: "I went through all the death records backward from
 when he was last mentioned alive (which is likely in one of his children's marriaghe records)...
+From thedeath record of Johann Heinrich we learn:
+
+
+.Family Group and Other Facts
+[%header,width="60%",cols="1,3,3"]
+|===
+|Relationship|Details|Residence +
+(For mother: Place or Origin)
+
+|*Father*|Joh[ann] Hen[rich] Kruckeberg |N . 10 Berenbusch
+
+|*Mother*|Christine Rösener |Evesen (place of origin)
+
+|*late Son*|Johann Henrich Krückeberg(deceased)|N. 19 Evesen
+|===
+
+.Decedent Facts
+[%header,width="45%",cols="1,2"]]
+|===
+|Fact|Details
+
+|*Decedent's Name*|Johann Henrich Krickberg
+
+|*Occupation*| Colon (farmer)
+
+|*Residence*|no. 19 Evesen
+
+|*Marital Status*|married
+
+|*Age*|38 (as of Mar. 18, 1805)
+
+|*Cause of Death*|hemorrhage
+
+|*Remarks*|He was a quiet true diligent [???] a very useful member of the parish
+
+|*Survivors*|wife and 3 children
+|===
+
+We learn:
+* his *age* was 38 when he died -> his *approx. birth year* is *1767*
+* his *address* -> no. 19 Evesen
+* he had a *"wife and three children"*
+* he was a *farmer*.
+* he was respected
+
 
 TODO:
 Prospective child, though mother's given  name is "off".
