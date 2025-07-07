@@ -3,30 +3,44 @@
 
 == Family Group and Other Facts
 
-.Family Group
-[%header,cols="3,3,2,3,2,2,2"]
+.Family Group and Other Facts
 |===
-|Name|Occupation|Residence|Father|Mother|Mother's Origin|Parents Residence
+||
 
-|Johann Henrich Krickberg|farmer (on full-sized farm)|no. 19 Evesen|Johann Henirch Kruckeberg|Christine Rösner|Evesen|no. 10 Berenbusch
+|*Father*|Joh[ann] Hen[rich] Kruckeberg
+
+|*Father's Residence*|N . 10 Berenbusch
+
+|*Mother*|Christine Rösener
+
+|*Mother's Origin*|Evesen
+
+|*Son*|Johann Henrich Krückeberg(deceased)
+
+|*Son's Residence*|N. 19 Evesen
 |===
 
 .Decedent Facts
 [%header,cols="3,2,3,1,2,4",width="90%"]
 |===
-|Name|Marital Status|Date of Death|Age|Cause|Character
+||
 
-|Johann Henrich Krickberg|married|18 Mar. 1805|38|hemorrhage|[??] a quiet true diligent [mason?] a very useful member of the parish
+|*Name*|Johann Henrich Krickberg
+
+|*Occupation*| Colon (farmer)
+
+|*Residence*|no. 19 Evesen
+
+|*Marital Status*|married
+
+|*Age*|38 (as of Mar. 18, 1805)
+
+|*Cause of Death*|hemorrhage
+
+|*Remarks*|He was a quiet true diligent [???] a very useful member of the parish
+
+|*Survivors*|wife and 3 children
 |===
-
-.Survivors
-[%header,width="25%"]
-|===
-|Survivors
-
-|wife and 3 children
-|===
-
 == Citation
 
 The death of Johann Hen. Krückeberg in 1805 is recorded on <<image243, image 243,
