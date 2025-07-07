@@ -31,8 +31,6 @@ No page number is written on this page.
 |===
 |                   Confirmati ao 1781
 
-|Lines 1-3 not transliterated
-
 |4. Johann Heinrich Krückeberg ___________________________ aus Berenbusch
 |===
 
@@ -41,8 +39,6 @@ No page number is written on this page.
 [%autowidth, cols="l",frame="none"]
 |===
 |                   Confirmed year 1781
-
-|Lines 1-3 not tranmslated
 
 |4. Johann Heinrich Krückeberg ___________________________ from Berenbusch
 |===
