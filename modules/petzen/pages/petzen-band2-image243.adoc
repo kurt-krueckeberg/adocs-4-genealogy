@@ -6,19 +6,14 @@
 .Family Group and Other Facts
 [width="60%"]
 |===
-|Relationship or R|Details
+|Relationship|Details|Residence +
+(For mother: Place or Origin)
 
-|*Father*|Joh[ann] Hen[rich] Kruckeberg
+|*Father*|Joh[ann] Hen[rich] Kruckeberg |N . 10 Berenbusch
 
-|*Father/Family's Residence*|N . 10 Berenbusch
+|*Mother*|Christine Rösener |Evesen (place of origin)
 
-|*Mother*|Christine Rösener
-
-|*Mother's Place of Origin*|Evesen
-
-|*late Son*|Johann Henrich Krückeberg(deceased)
-
-|*late Son's Residence*|N. 19 Evesen
+|*late Son*|Johann Henrich Krückeberg(deceased)|N. 19 Evesen
 |===
 
 .Decedent Facts
