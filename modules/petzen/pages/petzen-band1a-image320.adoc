@@ -22,9 +22,6 @@ image::petzen-band1a-img320.jpg[align=left,title='Marriage Entry 3',link=self]
 
 == Transliteration and Translation
 
-[NOTE]
-No page number is written on this page.
-
 [caption="Transliteration: "]
 .Page Header and Confimation Entry no. 4 for Johann Heinrich Krückeberg 
 [%autowidth, cols="l",frame="none"]
