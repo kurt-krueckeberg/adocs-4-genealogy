@@ -25,7 +25,7 @@ image::petzen-band1a-img320.jpg[align=left,title='Marriage Entry 3',link=self]
 [NOTE]
 No page number is written on this page.
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Page Header and Confimation Entry no. 4 for Johann Heinrich Krückeberg 
 [%autowidth, cols="l",frame="none"]
 |===
@@ -35,8 +35,19 @@ No page number is written on this page.
 |Lines 1-3 not transliterated
 
 |4. Johann Heinrich Krückeberg ___________________________ aus Berenbusch
-4. Johann Heinrich Krückeberg ___________________________ from Berenbusch
 |===
+
+[caption="Translation: "]
+.Page Header and Confimation Entry no. 4 for Johann Heinrich Krückeberg 
+[%autowidth, cols="l",frame="none"]
+|===
+                   Confirmed year 1781
+
+|Lines 1-3 not tranmslated
+
+|4. Johann Heinrich Krückeberg ___________________________ from Berenbusch
+|===
+
 
 [bibliography]
 == Citations
