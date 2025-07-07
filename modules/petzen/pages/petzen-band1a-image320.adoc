@@ -30,7 +30,6 @@ No page number is written on this page.
 [%autowidth, cols="l",frame="none"]
 |===
 |                   Confirmati ao 1781
-                   Confirmed year 1781
 
 |Lines 1-3 not transliterated
 
@@ -41,7 +40,7 @@ No page number is written on this page.
 .Page Header and Confimation Entry no. 4 for Johann Heinrich Krückeberg 
 [%autowidth, cols="l",frame="none"]
 |===
-                   Confirmed year 1781
+|                   Confirmed year 1781
 
 |Lines 1-3 not tranmslated
 
