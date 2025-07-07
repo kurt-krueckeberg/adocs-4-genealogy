@@ -4,6 +4,7 @@
 == Family Group and Other Facts
 
 .Family Group and Other Facts
+[width="60%"]
 |===
 |Relationship or R|Details
 
@@ -21,9 +22,9 @@
 |===
 
 .Decedent Facts
-//[%header,cols="3,2,3,1,2,4",width="90%"]
+[%header,width="60%"]
 |===
-||Details
+|Fact|Details
 
 |*Decedent's Name*|Johann Henrich Krickberg
 
