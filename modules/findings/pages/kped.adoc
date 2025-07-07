@@ -60,6 +60,8 @@ image::nachtrag_example.jpg[link=self]
 These addendum (Nachträge) identity the same individual in the records they cross reference by date. One does not
 have to infer the individual's identity. The Nachtrage confirms it for you.
 
+== Christine Louise Krückeberg Marriage
+
 The most recent church record for a Krückeberg in the "Verzeichnis der Getauften, Konfirmierten,
 Getrauten und Gestorbenen 1785-1827" that contains Nachtragis is the December 1, 1816, xref:petzen:petzen-band2-image339.adoc[marriage
 of Christine Louise Krückeberg].  At some point, Christine Louise Krückeberg's December 1, 1816, marriage
@@ -133,7 +135,8 @@ was later supplemented with her marriage date, December 1, 1816. This independen
 confirms the marriage and birth records refer to the same person.
 
 Her birth-and-baptism record also gives her family's residence as "no. 19
-Evesen". Since it also provides her mother's namem, we now have these family group details:
+Evesen". Since it also provides her mother's namem, we now have these cumulative family
+group details:
 
 [caption="Johann Heinrich Krückeberg Family Group on April 26, 1798: "]
 .upon birth of daughter Christine Louise 
@@ -195,8 +198,9 @@ Her mother's given name's differ slightly between these two records: "Anne Sophi
 The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
 marriage record has all her given names. But put the explanation after adding children below.
 
-TODO: rererad the Shannon Grren article on identity. Use the "negative" evidence that all the Krückeberg records in the
-Petzen 1795-1827 Kirchenbuch have been identified and put on ndocs.krueceberg. What is negative evidence?
+.Negative Evidence
+****
+What is negative evidence?
 **Negative Evidence**
 
 **Definition:** Negative evidence arises when the absence of a record where one would be expected becomes evidence
@@ -204,7 +208,8 @@ in itself.
 
 In my case:
 
-I've thoroughly examined the entire Kirchenbuch for all occurrences of the surname Krückeberg between 1795 and 1827.
+All the Petzen 1795-1827 Kirchenbuch records have been thoroughly examined for Krückeberg records, which have been
+transliterated and translated and are at https://docs.krueceberg.org.
 
 If no additional daughters of Johann Heinrich Krückeberg appear in the records where you would reasonably expect
 them—such as in baptisms, confirmations, or marriages—then their absence is informative.
@@ -213,27 +218,38 @@ This absence becomes negative evidence that there were no other daughters born o
 
 Note: Negative evidence is not the same as a lack of evidence. It's not simply “nothing was found,” but rather “nothing was
 found where something would be expected." If there where further daughters, then there would be a baptism-birth record.
+****
 
 One daughter was born in Steinbergen.
 
-Outlineto use after concluding this section that starrted with the Nachtrage for the daughter:
+*Outline use after concluding this section that starrted with the Nachtrage for the daughter:*
 . next to the marriage of Johann Heinrich and his wife
-. then the birth of their children--not born 9in Steinbergen
+. then the birth of their daughters who were not born in Steinbergen
 . then their confirmations
-. then their marriages, using yje outline at top of this page.
-
+. then their marriages, using thee outline at top of this page.
 sum up: these are all children born/baptized in Petzen.
 
 
 Heinrich of No. 19 Evesen is the father in a marriage record, and we have found not just marriage, birth and confirmation
 (and  death) records involving his name, but all Krückebergs.
 
-TODO: 
-The confirmation records also provide the identity of both parents of a child.
+Daughters of Johann Heinrich Krückeberg
 
-TODO:
-Now, add these prospective daughters in the marriage records listed below:
+These birth/baptism records list the father abd mother as follows:
 
+|===
+|Father|Mother|Child Birth/Baptism|Residence
+
+|xref:petzen:petzen-band2-image59-60.adoc[1793 Philippine Louise Leonore Krückeberg Baptism]
+* xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
+|Johann Heinrich Krückeberg|Catharine Sophie Krömer|* xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Baptism]|No. 19 Evesen
+
+These confirmation records also provide the identity of both parents of a child.
+* petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
+* petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
+* petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
+
+These marriage records also identifz both parents:
 * xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
 * xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 * xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
