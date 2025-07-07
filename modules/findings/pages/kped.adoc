@@ -237,12 +237,16 @@ Daughters of Johann Heinrich Krückeberg
 
 These birth/baptism records list the father abd mother as follows:
 
+.Births to Johann Heinrich Krückeberg & Krömer
 |===
-|Father|Mother|Child Birth/Baptism|Residence
+|Father|Mother|Child|Birth Year|Residence
 
-|xref:petzen:petzen-band2-image59-60.adoc[1793 Philippine Louise Leonore Krückeberg Baptism]
-* xref:petzen:petzen-band2-image71.adoc[1798 Christine Louise Krückeberg Baptism]
-|Johann Heinrich Krückeberg|Catharine Sophie Krömer|* xref:petzen:petzen-band2-image82-1.adoc[1803 Sophie Caroline Krückeberg Baptism]|No. 19 Evesen
+|Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:petzen-band2-image59-60.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793
+
+|Johann Heinrich Krückeberg|Anne Sophie née Crömer|xref:petzen:petzen-band2-image71.adoc[Christine Louise Krückeberg Baptism]|1798|no. 19 Evesen
+
+|Johann Heinrich Krückeberg|Catharine Sophie Krömer|* xref:petzen:petzen-band2-image82-1.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
+|===
 
 These confirmation records also provide the identity of both parents of a child.
 * petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
