@@ -17,7 +17,7 @@
 |===
 
 .Decedent Facts
-[%header,width="45%"]
+[%header,width="45%",cols="1,2"]]
 |===
 |Fact|Details
 
