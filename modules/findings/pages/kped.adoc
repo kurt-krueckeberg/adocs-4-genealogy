@@ -273,10 +273,11 @@ NOTE: Point out that one daughter was born in Steinbergen.
 === Death Record for Johann Heinrich Krückeberg
 
 In the marriage records for his daughters:
+
 * 1816 Christine Louise Krückeberg Marriage
 * 1822 Philippine Louise Eleonore Krückeberg Marriage
-* ...
-* ...
+* TODO: add  others
+ 
 their address prior to marriasge is given in terms of their father's address. This is true after his death, too, as the
 marriage records for his daughter Christine Louise Krückeberg shows: xref:petzen:/petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 
