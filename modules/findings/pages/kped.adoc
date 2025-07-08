@@ -10,17 +10,17 @@ for these individuals:
 
 == Outline of Analysis
 
-TODO: Move this after what I already wrote below under "Johann Heinrich Family Group, No. 19 Evesen"
-In the years three daughters of Johann Heinrich Krückeberg or Heinrich (in one case) married in the years:
+The residence is no. 19 Evesen is given for two daughter's marriages:
 
-* xref:petzen:petzen-band2-image348.adoc[1822 name here]
-* xref:petzen:petzen-band2-image339.adoc[1816 name here]
-* xref:petzen:petzen-band2-image27-2.adoc[1812 ]
+* xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+* xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
-The residence is no. 19 Evesen in each case?. In the marriage of daughter xxx, there is an addenda that gives her
-birthday and death date. The birth record likewise contains an addendaqH6 that gives the data for marriage. These two
-records  cross refences to the other.  The the information in common between the records is consistent. todo: list
-it.The baptism record has includes  the identity of the mother.
+In the 1816 marriage of daughter Christine Louise Eleonore, there is an addenda that gives her
+birthday and death date. Her birth record likewise contains an addendaq that gives the data for marriage. These two
+records  cross refence easch other, anmd the information in common between the records is consistent. todo: list
+it. 
+
+The baptism records include the identity of the mother.
 
 In the other records we can use the age given to determine the approximate birth year and examine the birth records to
 see if they too reveal the name of the mother.
@@ -257,9 +257,8 @@ These confirmation records also provide the identity of both parents of a child.
 * xref:petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
 * xref:petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
 
-These marriage records identify just one pareny, the bride's father, Johann Heinrich Krückeberg of no. 19 Evesen:
+These marriage records identify just one parent, the bride's father, Johann Heinrich Krückeberg of no. 19 Evesen:
 
-//* xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage] <-- Not Johann Heinrich's daughter? Address is Berenbusch!
 * xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 * xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
