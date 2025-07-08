@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-rename 's/^petzen1a/petzen-band1a/' *.jpg
-rename 's/^petzen1b/petzen-band1b/' *.jpg
-rename 's/^petzen2/petzen-band2/' *.jpg
