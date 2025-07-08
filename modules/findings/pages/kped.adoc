@@ -243,6 +243,9 @@ These birth/baptism records list the father abd mother as follows:
 
 |Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:petzen-band2-image59-60.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793|no. 19 Evesen
 
+|Johann Heinrich Krückeberg|not given|Marie Philippine Krückeberg|1794|Steinbergen +
+Note: The birth year and place are from her xref:petzen:petzen-band2-image27-2.adoc[1812 marriage record Nachtrag].
+
 |Johann Heinrich Krückeberg|Anne Sophie née Crömer|xref:petzen:petzen-band2-image71.adoc[Christine Louise Krückeberg Baptism]|1798|no. 19 Evesen
 
 |Johann Heinrich Krückeberg|Catharine Sophie Krömer|xref:petzen:petzen-band2-image82-1.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
@@ -253,8 +256,8 @@ These confirmation records also provide the identity of both parents of a child.
 * petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
 * petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
 
-These marriage records also identifz both parents:
-* xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage] <-- Not Johann Heinrich's daughter? Address is Berenbusch!
+These marriage records also identify both parents:
+//* xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage] <-- Not Johann Heinrich's daughter? Address is Berenbusch!
 * xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
 * xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
 
@@ -265,13 +268,20 @@ names and the family's residence. We will the be able to confirm that the father
 and living at the address given in the marriage record of his daughter, father his daughter by the
 mother listed both on the birth record. 
 
-NOTE: One daughter was born in Steinbergen.
+NOTE: Point out that one daughter was born in Steinbergen.
 
-TODO:
-To identify the father's, Johann Heinrich's death record, simply state: "I went through all the death records backward from
-when he was last mentioned alive (which is likely in one of his children's marriaghe records)...
-From thedeath record of Johann Heinrich we learn:
+=== Death Record for Johann Heinrich Krückeberg
 
+In the marriage records for his daughters:
+* 1816 Christine Louise Krückeberg Marriage
+* 1822 Philippine Louise Eleonore Krückeberg Marriage
+* ...
+* ...
+their address prior to marriasge is given in terms of their father's address. This is true after his death, too, as the
+marriage records for his daughter Christine Louise Krückeberg shows: xref:petzen:/petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+
+Q: If he died in 1805, why doesn't the xref:petzen:petzen-band2-image27-2.adoc[1812 marriage] of Marie Philippine Krückeberg also state this?
+ 
 
 .Family Group and Other Facts
 [%header,width="60%",cols="1,3,3"]
