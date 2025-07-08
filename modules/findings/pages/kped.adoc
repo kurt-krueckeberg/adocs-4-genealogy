@@ -252,9 +252,10 @@ Note: The birth year and place are from her xref:petzen:petzen-band2-image27-2.a
 |===
 
 These confirmation records also provide the identity of both parents of a child.
-* petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
-* petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
-* petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
+
+* xref:petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
+* xref:petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
+* xref:petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
 
 These marriage records also identify both parents:
 //* xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage] <-- Not Johann Heinrich's daughter? Address is Berenbusch!
