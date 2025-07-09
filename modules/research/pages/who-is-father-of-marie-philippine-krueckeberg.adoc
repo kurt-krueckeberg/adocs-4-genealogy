@@ -76,7 +76,8 @@ The two oldest daughter's married before 1827, the last year of the Kirchenbuch 
 births, baptisms, confirmations and marriages. The 2^nd^ oldest daughter, Christine Louise, xref:petzen:petzen-band2-image339.adoc[married
 December 1, 1816]. Philippine Louise Eleonore, the oldest daughter, married at age 29, on xref:petzen:petzen-band2-image348.adoc[May 12, 1822]. 
 
-Here is how their marriage records read:
+Here is how their marriage records read. Both note that their father is deceased and that his address while he was alive is still
+there address:
 
 [quote, "Name, Religion Geburt u. Wohnort der Braut (name, religion, birth and residence of bride)" for Christine Louise]
 ____
