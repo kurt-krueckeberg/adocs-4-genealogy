@@ -244,72 +244,6 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |*Residence*|no. 19 Evesen 2+|
 |===
 
-== 1812 Marie Philippine Krückeberg Marriage
-
-[caption="Bride and Groom Facts for: "]
-.Decmeber 1, 1816 Marriage
-[cols="2,4,4,1,2",options="header",width="85%"]
-|===
-|        | Name     | Address (at time of marriage)|Age| Religion
-
-| *Groom*|Friedrich Wilhelm Raulfing|No. 13 Bärenbusch +
-(assumed. See note)|23|Lutheran
-
-| *Bride*|Maria Philippine Krückeberg|no. 10 Bärenbusch +
-(assumed. See Note)|18|Lutheran
-
-|*Groom's Father*|Albert Raulfing (deceased)|No. 13 Bärenbusch||
-
-|*Bride's Father*|Johann Heinrich Krückeberg|10 in Bärenbusch||
-|===
-
-[NOTE]
-====
-In 19th-century German church records:
-
-* Individuals were often identified by village and house number associated with the head of household — usually the father.
-
-* This applied to both deceased and living fathers, and often included professions (like "Leibzüchter") or inheritance status
-(like "Anerbe").
-
-* Even if the son or daughter still lived at that house, the address is still formally associated with the father in these
-records.
-
-====
-
-.Nachträge for Groom Friedrich Wilhelm Raulfing
-[width="35%"]
-|===
-|Birth|Death
-
-|13 July 1788|5 Dec. 1859
-|===
-
-.Nachträge for Bride Marie Philippine Krückeberg 
-[width="35%"]
-|===
-|Birth|Death
-
-|1794 in Steinbergen|14 Feb. 1866
-|===
-
-.Facts for Groom Friedrich Wilhelm Raulfing's Father
-[%header,width="35%"]
-|===
-|Name|Status|Address
- 
-|Albert Raulfing|Deceased|no. 13 Bärenbusch
-|===
-
-.Facts for Bride Marie Philippine Krückeberg's Father
-[%header,width="45%"]
-|===
-|Name|Address|Status
-
-|Johann Heinrich Krückeberg|10 in Bärenbusch |Pensioner allowed to live on the property
-|===
-
-
 == 1816 Christine Louise Krückeberg Marriage
 
 [caption="Bride and Groom Facts for: "]
@@ -327,7 +261,7 @@ Birth| Religion
 |*Groom's Father*|Albrecht Klöpper|no. 22 in Röcke||||
 
 |*Bride's Father*|Johann Heinrich Krückeberg +
-(deceased)|no. 19 Evese||||
+(deceased)|no. 19 Evesen||||
 |===
 
 .Nachträge for Groom Johann Heinrich Klöpper
