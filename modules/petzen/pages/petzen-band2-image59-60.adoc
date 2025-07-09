@@ -4,7 +4,7 @@
 == Family Relationship and Other Facts
 
 .1793 Philippina Eleonora Kruckebergen Baptism
-[%header,cols="1,3,1,1",width="65%"]
+[%header,cols="1,2,1,1",width="60%"]
 |===
 |||Baptism Date|Sex Birth Order
 
