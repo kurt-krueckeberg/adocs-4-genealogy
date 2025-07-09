@@ -51,19 +51,6 @@ records.
 |Friedrich Wilhelm Drifftmeier|Widower at time of marriage
 |===
 
-.What was a Taglöhner?
-****
-[NOTE]
-====
-A **Taglöhner** was an agricultural laborer who was paid on a daily basis, who likely worked
-under a contract.
-====
-
-This was a very common status in rural German territories like Schaumburg-Lippe,
-especially during population growth in the early 1800s, when there were too many
-people and too little land to go around.
-****
-
 == Citation
 
 The marriage record is on <<image348, image 348, on pages 722 and 723>>, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
@@ -122,6 +109,20 @@ Prediger Stille
 der Beichtenden
 |[empty]
 |===
+
+.What was a Taglöhner?
+****
+[NOTE]
+====
+A **Taglöhner** was an agricultural laborer who was paid on a daily basis, who likely worked
+under a contract.
+====
+
+This was a very common status in rural German territories like Schaumburg-Lippe,
+especially during population growth in the early 1800s, when there were too many
+people and too little land to go around.
+****
+
 
 
 [caption="Translation 1: "]
