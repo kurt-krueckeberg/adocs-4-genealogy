@@ -1,19 +1,19 @@
 = Who is the father of Marie Philippine Krückeberg, who married in 1812?
 
-Was the father of Marie Philippine Krückeberg, who married in 1812, the late Johann Heinrich Krückeberg (1767-1805) or
+Was the father of Marie Philippine Krückeberg, who married May 10, 1812, the late Johann Heinrich Krückeberg (1767-1805) or
 another Johann Heinrich Krückeberg who was still alive?
 
 == Backround
 
-The bride's mother is not mentioned in the xref:petzen:petzen-band2-image27-2.adoc[marriage record] of Marie Philippine Krückeberg,
-only the father.
+The bride's mother is not mentioned in the xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812, marriage record] of Marie Philippine Krückeberg,
+only her father's.
 
-The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion, place of birth and residence of the bride"*) gives
-this information:
+The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion, place of birth and residence of the
+bride"*) has this information:
 
 [quote, "name, religion, place of birth and residence of the bride"]
 ____
-Jungfrua Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch. Luth. Conf. u. jetzt 18 Jahr alt.
+Jungfrau Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch. Luth. Conf. u. jetzt 18 Jahr alt.
 ____ 
 
 This translates as:
@@ -52,7 +52,7 @@ The record does not state the father is deceased:
 If the individual were deceased, they would no longer be a "person on life estate."
 
 * He is not described as "des verstorbenen(the late/deceased father) Vaters Johann Heinrich Krückeberg" unlike the
-groom's late father 
+groom's late father, who is  
 
 
 Johann Heinrich Krückeberg (1767-1805) was xref:petzen:petzen-band1a-image220,adoc[born] in Berenbusch in 1767, but
@@ -72,8 +72,9 @@ Accrding to his daughter's confirmation records, the surviving wife and three da
 * xref:petzen:petzen-band2-image207-2.adoc[]
 * xref:petzen:petzen-band2-image211-3.adoc[]
 
-The two oldest daughter's married before 1827, the last year the Kirchenbuch that records their parent's marriage and their
-births, baptisms confirmations:
+The two oldest daughter's married before 1827, the last year the Kirchenbuch that recorded their parent's marriage and their
+births, baptisms and confirmations. The 2^nd^ oldest, Christine Louise, xref:petzen:petzen-band2-image339.adoc[married December 1, 1816].
+Philippine Louise Eleonore, the oldest daughter, married at age 29 on xref:petzen:petzen-band2-image348.adoc[May 12, 1822]. 
 
 
 
