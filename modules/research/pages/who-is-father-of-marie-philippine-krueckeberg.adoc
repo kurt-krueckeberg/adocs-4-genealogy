@@ -1,0 +1,70 @@
+= Who is the father of Marie Philippine Krückeberg, who married in 1812?
+
+Was the father of Marie Philippine Krückeberg, who married in 1812, the late Johann Heinrich Krückeberg (1767-1805) or
+another Johann Heinrich Krückeberg?
+
+== Backround
+
+The bride's mother is not mentioned in the xref:petzen:petzen-band2-image27-2.adoc[marriage record] of Marie Philippine Krückeberg,
+only the father.
+
+The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion, place of birth and residence of the bride"*) gives
+this information:
+
+[quote, "name, religion, place of birth and residence of the bride"]
+____
+Jungfrua Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch. Luth. Conf. u. jetzt 18 Jahr alt.
+____ 
+
+This translates as:
+
+[quote, "name, religion, place of birth and residence of the bride"]
+____
+Maiden Marie Philippine Krückeberg, daughter of Johann Heinrich Krückeberg, a life-estate holder (Leibzüchter) at No. 10 in Bärenbusch.
+Lutheran confession and now 18 years old."
+____
+
+This Nachtrag (addenda) follows the text above written in a smaller hand:
+
+[quote, Nachtrag (addenda)]
+____
+geb. 1794 in Steinbergen
+gest 14.2.66
+____
+
+[quote, Nachtrag (addenda)]
+____
+born 1794 in Steinbergen
+died February 14, 1866
+____
+
+Ernest Thode's German-English Genealogical Dictionary translates "Leibzüchter" as "person on life estate":
+
+* A Leibzüchter is an aging or retired farmer who has transferred the farm (typically to a child or heir) but
+retains the right to live on the farm and receive support (often food, clothing, firewood, care) for the rest
+of his life.
+
+* It was not a tenancy in the modern sense (i.e., renting from someone else), but rather a post-retirement life arrangement.
+
+The record does not state the father is deceased:
+
+* "Leibzüchter" implies a current, active status: The term describes someone currently receiving the benefits of a life estate.
+If the individual were deceased, they would no longer be a "person on life estate."
+
+* He is not described as "des verstorbenen(the late/deceased father) Vaters Johann Heinrich Krückeberg" 
+
+Johann Heinrich Krückeberg (1767-1805) was xref:petzen:etzen-band1a-image220,adoc[born] in Berenbusch in 1767, but
+he xref:petzen:petzen-band2-image243.adoc[died in 1805] age 38, at no. 19 Evesen, the residence of his wife, Anna Catharine Sophia
+Krömer, prior to their xref:petzen:petzen-band2-image5-1.adoc[marriage] in 1790. 
+
+This is were he and his wife lived at no. 19 Evesen when their children were born:
+
+* xref:petzen:etzen-band2-image52.adoc[], who xref:petzen:petzen-band2-image230.adoc[died in 1794]
+* xref:petzen:petzen-band2-image59-60.adoc[]
+* xref:petzen:petzen-band2-image71.adoc[]
+* xref:petzen:petzen-band2-image82-1.adoc[]
+
+This where they lived when his daughters were confirmed:
+
+* xref:petzen:etzen-band2-image201.adoc[]
+* xref:petzen:petzen-band2-image207-2.adoc[]
