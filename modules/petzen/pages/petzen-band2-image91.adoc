@@ -1,7 +1,7 @@
 = 1806 Johann Heinrich Krückeberg Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .Family Group Facts
 [%header,cols="3,3,3,2",width="75%"]

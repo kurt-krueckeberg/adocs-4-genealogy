@@ -1,7 +1,7 @@
 = 1803 Sophie Wilhelmine Krückeberg Birth
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .Family Group
 [cols="3,2,3,2,2,2,2"]
