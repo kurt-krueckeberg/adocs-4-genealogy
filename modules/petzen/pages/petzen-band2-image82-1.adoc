@@ -11,6 +11,20 @@
 |Johann Heinrich Krückeberg|Hausherr|Catharine Sophie Krömer|Sophie Caroline|No. 19 Evesen|21 Juy 1803|31 July 1803
 |===
 
+.Family Relationship 
+[%header,width="65%"]
+|===
+|||Child's Birthdate|Child's Baptism Date
+
+|*Father* 3+|Johann Heinrich Krückeberg, Hausherr
+
+|*Mother* 3+|Catharine Sophie Krömer
+
+|*Child*|Sophie Caroline|21 Juy 1803|31 July 1803
+
+|*Residence* 3+|No. 19 Evesen
+|===
+
 .Baptism Sponsors
 [%header,width="40%"]
 |===
