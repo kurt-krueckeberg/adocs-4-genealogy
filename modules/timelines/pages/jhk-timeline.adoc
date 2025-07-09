@@ -85,7 +85,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 
 |*Mother* 3+|Katherina Sophienée Krömer
 
-|*Child*|Philippina Eleonora Krückeberg|21 April 1793|unclear
+|*Child*|Philippina Eleonora Krückeberg|21 April 1793|1^st^ daughter +
 
 |*Residence* 3+|no. 19 Evesen
 |===
@@ -139,7 +139,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |===
 |Marriage Date|Death Date
 
-|Dec. 1, 1816|Sep 11, 1878
+|xref:petzen:petzen-band2-image339.adoc[Dec. 1, 1816]|Sep 11, 1878
 |===
 
 .Baptism Sponsors
@@ -222,7 +222,7 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |===
 
 .Confirmand's Family Relationships
-[cols="1,3,1,1,1",width="65%"]
+[cols="2,3,1,1,1",width="70%"]
 |===
 |||Child's Birthplace|Birthdate|Date of Confirmation
 
@@ -232,7 +232,8 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 
 |*Child/Confirmant*|Philippine Louise Leonore|Evesen|21 April 1793|20 March 30 1806
 
-|*Residence (of the Father or the Mother)*|no. 19 Evesen 3+|
+|*Residence (of the Father* +
+*or the Mother)*|no. 19 Evesen 3+|
 |===
 
 
@@ -244,6 +245,20 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 |Father|Mother|Child/Confirmand|Address|Child's Birthdate|Date of Confirmation
 
 |Johann Heinrich Krückeberg|Anne Sophie née Crömer|Christine Louise Krückeberg|no. 19 Evesen|26 April 1798|7 April 1811
+|===
+
+.Confirmand's Family Group
+[width="60%"]
+|===
+|||Child's Birthdate|Date of Confirmation
+
+|*Father*|Johann Heinrich Krückeberg 2+|
+
+|*Mother*|Anne Sophie née Crömer 2+| 
+
+|*Child/Confirmant*|Christine Louise Krückeberg|26 April 1798|7 April 1811
+
+|*Residence*|no. 19 Evesen 2+|
 |===
 
 == 1812 Marie Philippine Krückeberg Marriage
