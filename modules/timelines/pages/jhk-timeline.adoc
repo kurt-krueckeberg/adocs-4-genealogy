@@ -213,14 +213,6 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 
 == 1806 Philippine Louise Leonore Krückeberg Confirmation
 
-.Confirmand's Family Group
-[cols="3,3,3,2,2,2,2"]
-|===
-|Father|Mother|Child/Confirmand|Residence of the Father or the Mother|Child's Birthdate|Child's Birthplace|Date of Confirmation
-
-|Johann	Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|Philippine Louise Leonore|no. 19 Evesen|21 April 1793|Evesen|20 March 30 1806
-|===
-
 .Confirmand's Family Relationships
 [cols="2,3,1,1,1",width="70%"]
 |===
@@ -232,10 +224,9 @@ The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767.
 
 |*Child/Confirmant*|Philippine Louise Leonore|Evesen|21 April 1793|20 March 30 1806
 
-|*Residence (of the Father* +
-*or the Mother)*|no. 19 Evesen 3+|
+|*Residence of the Father* +
+*or the Mother*|no. 19 Evesen 3+|
 |===
-
 
 == 1811 Christine Louise Krückeberg Confirmation
 

@@ -4,14 +4,6 @@
 == Family Relationship and Other Facts
 
 .Confirmand's Family Group
-[cols="3,3,3,2,2,2"]
-|===
-|Father|Mother|Child/Confirmand|Address|Child's Birthdate|Date of Confirmation
-
-|Johann Heinrich Krückeberg|Anne Sophie née Crömer|Christine Louise Krückeberg|no. 19 Evesen|26 April 1798|7 April 1811
-|===
-
-.Confirmand's Family Group
 [width="60%"]
 |===
 |||Child's Birthdate|Date of Confirmation
