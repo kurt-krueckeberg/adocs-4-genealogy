@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Family Group
+.Family Relationship 
 [cols="3,2,3,2,2,2,2"]
 |===
 |Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date

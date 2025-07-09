@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Family Group
+.Family Relationship 
 [%header]
 |===
 |Infant|Baptism Date|Father|Mother|Dwelling

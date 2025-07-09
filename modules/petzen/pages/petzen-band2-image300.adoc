@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Family Group
+.Family Relationship 
 [%header,cols="3,2,3,2,3,2"]
 |===
 |Decedent|Cause of Death|Surviving Husband|Address|His Occupation|Work Location																							

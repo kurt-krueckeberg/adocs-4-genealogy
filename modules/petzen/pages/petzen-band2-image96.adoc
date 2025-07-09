@@ -3,7 +3,7 @@
 
 == Family Relationship and Other Facts
 
-.Family Group Facts
+.Family Relationship  Facts
 [%header,cols="3,3,3,2",width="80%"]
 |===
 |Father|Mother|Child|Residence
