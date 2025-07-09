@@ -79,29 +79,75 @@ December 1, 1816]. Philippine Louise Eleonore, the oldest daughter, married at a
 Here is how their marriage records read. Both note that their father is deceased and that his address while he was alive is still
 there address:
 
-[quote, "Name, Religion Geburt u. Wohnort der Braut (name, religion, birth and residence of bride)" for Christine Louise]
+[quote, "Name, Religion Geburts u. Wohnort der Braut" for Christine Louise]
 ____
 Jungfrau Christine Louise Krückebergs, des verstorbeneen Johann Heinrich Krückeberg n. 19 in Evesen hinterlassene eheliche Tochter.
 Luth. Conf. u. jetzt 19. Jahr alt
 geb. 26.4.1798
 gest. 11.9.1878
+____
 
+[quote, "Name, Religion, Birthplace and Residence of Bride)" for Christine Louise]
+____
 Maiden Christine Louise Krückeberg, the surviving daughter of the late Johann Heinrich Krückeberg n. 19 in Evesen
 Luth. Conf. and now 19 years old
 born 4/26/1798
 died 9/11/1878
 ____
 
-[quote, "Name, Religion Geburt u. Wohnort der Braut (name, religion, birth and residence of bride)" for Philippine Louise]
+This grammatical breakdown explains how the German is rephrased in English:
+
+. Main subject: 
+
++
+*"Jungfrau Christine Louise Krückebergs"* +
+→ “Maiden(Virgin) Christine Louise Krückebergs”
++
+* The *-s* on Krückebergs is not possessive, but likely a *dialectal/feminine marker*.
+. Appositive genitive(possesive) phrase:
+
++
+*"des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen hinterlassene eheliche Tochter"* +
+→ “legitimate surviving daughter of the deceased Johann Heinrich Krückeberg of No. 19 in Evesen”
+
+This *entire genitive phrase* modifies and explains *who Christine Louise is* — she is the *daughter* of this man.
+
+The bride's "Geburts u. Wohnort" (birthplace and residence) is given in terms of her late father's address.
+
+While *"n. 19 in Evesen"* is grammatically modifying the *father*,
+because it appears under the column for *"Geburts und Wohnort der Braut"* (birthplace and residence of the
+bride), and no other residence is given, it is certainly meant to indicate that Christine Louise currently
+lives at No. 19 in Evesen, even if described indirectly through her father's former home.
+
+This style is used repeatedly in the later Petzen marriage records: individuals are identified
+by their household and using the father’s name and house number to define the residence.
+
+The "Name, Religion Geburts u. Wohnort der Braut" for Philippine Louise" for Philippine Louise is identical:
+
+
+[quote, "Name, Religion Geburts u. Wohnort der Braut" for Philippine Louise]
 ____
 Jungfrau Philippine Louise Eleonore Kruckebergs, eheliche Tochter des verstorbenen Heinrich Krückeberg n. 19 in Evesen
 Luth. Conf. U. jetzt 29 Jhr alt
+____
 
 
+[quote, "Name, Religion, Birthplace and Residence of Bride" for Philippine Louise]
+____
 Maiden Philippine Louise Eleonore Kruckebergs, legitimate daughter of the late Heinrich Krückeberg n. 19 in Evesen
 Luth. Conf. and now 29 years old
 ____
 
+The father of Marie Philippine Krückeberg was still alive and lived at *no. 10 Bärenbusch* as a pensioner (*Leibzüchter*).
+By the time Marie Philippine Krückeberg married in December of 1812, the Johann Heinrich Krückeberg who was born in 1767 and lived at 
+no. 19 Evesen had been dead for seven and a half years. Furthermore his death record lists the Hinterbliebenen (surviving relastives)
+as "eine Witwe und *3 Kinder*" ("a widow and three children"). His widow was Anna Catharine Sophia, and as shown his three daughters were
+
+* Philippina Eleonora,
+* Christine Louise and
+* Sophie Caroline.
+
+If Marie Philippine Krückeberg were his daughter, he would have been survived by "4 Kinder" not "3".
 
 
 
