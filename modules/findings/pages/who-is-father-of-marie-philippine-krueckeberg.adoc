@@ -52,8 +52,8 @@ The record does not state the father is deceased:
 If the individual were deceased, they would no longer be a "person on life estate."
 
 * He is not described as "des verstorbenen(the late/deceased father) Vaters Johann Heinrich Krückeberg" unlike the
-groom's late father, who is described as "des verstorbenen Albert Raulfing n. 13 in Bärenbusch", the "of the late Albert Raulfing [of]
-n. 13 in Bärenbusch". 
+groom's late father, who is described as "des verstorbenen Albert Raulfing n. 13 in Bärenbusch", the "of the late Albert
+Raulfing [of] n. 13 in Bärenbusch". 
 
 Johann Heinrich Krückeberg (1767-1805) was xref:petzen:petzen-band1a-image220,adoc[born] in Berenbusch in 1767, but
 he xref:petzen:petzen-band2-image243.adoc[died in 1805] age 38, at no. 19 Evesen, the residence of his wife, Anna Catharine Sophia
