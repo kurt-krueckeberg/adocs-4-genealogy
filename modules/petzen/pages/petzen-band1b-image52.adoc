@@ -1,8 +1,7 @@
 = 1761 Johann Heinrich Krückkeberg Marriage
 :page-role: doc-width
 
-== Family Group
-
+== Family Relationship 
 
 .Marriage Information
 [%header,width="65%",cols="1,3,2,2"]
