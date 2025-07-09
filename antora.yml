@@ -13,6 +13,7 @@ nav:
   - modules/churches/nav.adoc
   - modules/german-kirchenbücher/nav.adoc
   - modules/us-kirchenbücher/nav.adoc
+  - modules/timelines/nav.adoc
   - modules/persons/nav.adoc
   - modules/emigration/nav.adoc
   - modules/findings/nav.adoc
