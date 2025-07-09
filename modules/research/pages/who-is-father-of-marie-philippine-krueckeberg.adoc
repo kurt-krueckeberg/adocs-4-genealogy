@@ -51,7 +51,9 @@ The record does not state the father is deceased:
 * "Leibzüchter" implies a current, active status: The term describes someone currently receiving the benefits of a life estate.
 If the individual were deceased, they would no longer be a "person on life estate."
 
-* He is not described as "des verstorbenen(the late/deceased father) Vaters Johann Heinrich Krückeberg" 
+* He is not described as "des verstorbenen(the late/deceased father) Vaters Johann Heinrich Krückeberg" unlike the
+groom's late father 
+
 
 Johann Heinrich Krückeberg (1767-1805) was xref:petzen:petzen-band1a-image220,adoc[born] in Berenbusch in 1767, but
 he xref:petzen:petzen-band2-image243.adoc[died in 1805] age 38, at no. 19 Evesen, the residence of his wife, Anna Catharine Sophia
@@ -64,10 +66,19 @@ This is were he and his wife lived at no. 19 Evesen when their children were bor
 * xref:petzen:petzen-band2-image71.adoc[]
 * xref:petzen:petzen-band2-image82-1.adoc[]
 
-This where they lived when his daughters were confirmed:
+Accrding to his daughter's confirmation records, the surviving wife and three daughters continued to live at "no. 19 Evesen".
 
 * xref:petzen:petzen-band2-image201.adoc[]
 * xref:petzen:petzen-band2-image207-2.adoc[]
 * xref:petzen:petzen-band2-image211-3.adoc[]
 
-When daughter Sophie Caroline was confirmed...This where they contined to live and where their mother continued to live as e
+The two oldest daughter's married before 1827, the last year the Kirchenbuch that records their parent's marriage and their
+births, baptisms confirmations:
+
+
+
+
+Key points:
+* does not live at no. 19 Evesen
+* is not deceased but rather a Leibzüchter who currently resides at no. 10 Berenbusch
+
