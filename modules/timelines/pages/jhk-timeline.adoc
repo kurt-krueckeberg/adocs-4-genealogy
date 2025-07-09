@@ -1,4 +1,5 @@
 = Johann Heinrich Timeline
+:page-role: doc-width
 
 == 1767 Johann Heinrich Wilhelm Kruckeberg Baptism
 
