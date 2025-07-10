@@ -134,7 +134,7 @@ See this more detailed explantion: link:https://christofspannhoff.wordpress.com/
 |===
 |Zahl |Name, Stand, Religion +
 und Eltern des Bräutigams |Name, Religion +
-Geburt u. Wohnort +
+Geburts u. Wohnort +
 der Braut |Zeit und Ort +
 der Proclamation |Zeit u. Ort +
 der Kopulation |der kopu +
@@ -177,7 +177,7 @@ Crömer
 |===
 |No.|Name, Occupation, Religion, +
 Parents des Bräutigums|Name, Religion +
-Birth place and Residence +
+Birthplace and Residence +
 of the Bride|Time and Place +
 of the Proclamation|Time and Place +
 of the Marriage|The offi- +

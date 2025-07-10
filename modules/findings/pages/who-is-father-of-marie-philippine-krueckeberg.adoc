@@ -1,15 +1,13 @@
 = The Father of Marie Philippinme Krückeberg
 
 Was the father of Marie Philippine Krückeberg, who married May 10, 1812, the late Johann Heinrich Krückeberg (1767-1805) or
-another Johann Heinrich Krückeberg who was still alive when she married in 1812?
+another Johann Heinrich Krückeberg who was still alive?
 
 == Backround
 
-The bride's mother is not mentioned in the xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812, marriage record] of Marie Philippine Krückeberg,
-only her father's.
-
-The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion, place of birth and residence of the
-bride"*) has this information:
+The mother of Marie Philippine Krückeberg born 1794 in Steinbergen is not mentioned in her xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812,
+marriage record], only her father's. The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion,
+place of birth and residence of the bride"*) has this information:
 
 [quote, "name, religion, place of birth and residence of the bride"]
 ____
@@ -24,7 +22,7 @@ Maiden Marie Philippine Krückeberg, daughter of Johann Heinrich Krückeberg, a 
 Lutheran confession and now 18 years old."
 ____
 
-This Nachtrag (addenda) follows the text above, but was written in a smaller hand:
+This Nachtrag (addenda) immediately follows the text above, but was written in a smaller hand:
 
 [quote, Nachtrag (addenda)]
 ____
@@ -51,9 +49,9 @@ The record does not state the father is deceased:
 * "Leibzüchter" implies a current, active status: The term describes someone currently receiving the benefits of a life estate.
 If the individual were deceased, they would no longer be a "person on life estate."
 
-* He is not described as "des verstorbenen(the late/deceased father) Vaters Johann Heinrich Krückeberg" unlike the
-groom's late father, who is described as "des verstorbenen Albert Raulfing n. 13 in Bärenbusch", the "of the late Albert
-Raulfing [of] n. 13 in Bärenbusch". 
+* He is not described as "des verstorbenen(late/deceased) Vaters Johann Heinrich Krückeberg" unlike the
+groom's late father, who is "des verstorbenen Albert Raulfing n. 13 in Bärenbusch" ("of the late Albert
+Raulfing [of] n. 13 in Bärenbusch"). 
 
 Johann Heinrich Krückeberg (1767-1805) was xref:petzen:petzen-band1a-image220,adoc[born] in Berenbusch in 1767, but
 he xref:petzen:petzen-band2-image243.adoc[died in 1805] at age 38 at no. 19 Evesen, which was the residence of his wife, Anna Catharine Sophia
@@ -66,18 +64,18 @@ No. 19 Evesen is where Johann Heinrich and Anna Catharine Sophia née Krömer li
 * xref:petzen:petzen-band2-image71.adoc[]
 * xref:petzen:petzen-band2-image82-1.adoc[]
 
-Accrding to his daughter's confirmation records, the surviving wife and three daughters continued to live at "no. 19 Evesen":
+According to his daughter's confirmation records, after his death in 1805 his surviving wife and three daughters continued to live at "no. 19 Evesen":
 
 * xref:petzen:petzen-band2-image201.adoc[]
 * xref:petzen:petzen-band2-image207-2.adoc[]
 * xref:petzen:petzen-band2-image211-3.adoc[]
 
-The two oldest daughter's married before 1827, the last year of the Kirchenbuch that recorded their parent's marriage and their
-births, baptisms, confirmations and marriages. The 2^nd^ oldest daughter, Christine Louise, xref:petzen:petzen-band2-image339.adoc[married
-December 1, 1816]. Philippine Louise Eleonore, the oldest daughter, married at age 29, on xref:petzen:petzen-band2-image348.adoc[May 12, 1822]. 
+The two oldest daughter's married before 1827, the last year of the "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827"
+that records their parent's marriage and their births, baptisms, confirmations and marriages. The 2^nd^ oldest daughter, Christine Louise,
+xref:petzen:petzen-band2-image339.adoc[married December 1, 1816]. Philippine Louise Eleonore, the oldest daughter, married at age 29, on
+xref:petzen:petzen-band2-image348.adoc[May 12, 1822]. 
 
-Here is how their marriage records read. Both note that their father is deceased and that his address while he was alive is still
-there address:
+Both of their marriage records note that their father is deceased and that his address while he was alive is still their address:
 
 [quote, "Name, Religion Geburts u. Wohnort der Braut" for Christine Louise]
 ____
@@ -124,13 +122,11 @@ by their household and using the father’s name and house number to define the 
 
 The "Name, Religion Geburts u. Wohnort der Braut" for Philippine Louise" for Philippine Louise is identical:
 
-
 [quote, "Name, Religion Geburts u. Wohnort der Braut" for Philippine Louise]
 ____
 Jungfrau Philippine Louise Eleonore Kruckebergs, eheliche Tochter des verstorbenen Heinrich Krückeberg n. 19 in Evesen
 Luth. Conf. U. jetzt 29 Jhr alt
 ____
-
 
 [quote, "Name, Religion, Birthplace and Residence of Bride" for Philippine Louise]
 ____
@@ -138,7 +134,28 @@ Maiden Philippine Louise Eleonore Kruckebergs, legitimate daughter of the late H
 Luth. Conf. and now 29 years old
 ____
 
-== Conclusion
+Contrast this with the xref:petzen:petzen-band2-image27-2.adoc[marriage record] for Marie Philippine Krückeberg. In the column
+for the groom labeled "Name, Stand, Religion und Eltern des Bräutigams" ("Name, status, religion, and parents of the groom"), it
+reads:
+
+[quote, "Name, Stand, Religion und Eltern des Bräutigams"] 
+____
+Junggeselle Friedrich Wilhelm Raulfing, des verstorbenen Albert Raulfing n. 13 in Bärenbusch hinlerlaßener Sohn und Anerbe Luth. Conf.
+und jetzt 23 Jahre alt
+geb. 13.7.88 gestr. 5.12.59
+____
+
+Rephrased in English:
+
+[quote, "Name, Status, Religion and Parents des Bräutigams"] 
+____
+Bachelor Friedrich Wilhelm Raulfing, son of the late Albert Raulfing, born in Bärenbusch, sole heir, Lutheran.
+and now 23 years old.
+Born July 13, 1888, died December 5, 1959.
+____
+
+The fasct that Friedrich Wilhelm Raulfing's father is deceased is clearly noted.
+
 
 The father of Marie Philippine Krückeberg was still alive and lived at *no. 10 Bärenbusch* as a pensioner (*Leibzüchter*).
 By the time Marie Philippine Krückeberg married in December of 1812, the Johann Heinrich Krückeberg who was born in 1767 and lived at 
