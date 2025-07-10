@@ -142,16 +142,15 @@ reads:
 ____
 Junggeselle Friedrich Wilhelm Raulfing, des verstorbenen Albert Raulfing n. 13 in Bärenbusch hinlerlaßener Sohn und Anerbe Luth. Conf.
 und jetzt 23 Jahre alt
-geb. 13.7.88 gestr. 5.12.59
+geb. 13.7.88&npsp;gestr. 5.12.59
 ____
 
 Rephrased in English:
 
 [quote, "Name, Status, Religion and Parents des Bräutigams"] 
 ____
-Bachelor Friedrich Wilhelm Raulfing, son of the late Albert Raulfing, born in Bärenbusch, sole heir, Lutheran.
-and now 23 years old.
-Born July 13, 1888, died December 5, 1959.
+Bachelor Friedrich Wilhelm Raulfing, surviving son and principal heir of the late Albert Raulfing of No. 13 in Bärenbusch.
+Lutheran confession, currently 23 years old. Born July 13, 1888. Died December 5, 1959.
 ____
 
 The fact that Friedrich Wilhelm Raulfing's father is deceased is clearly noted. He is verstorben--deceased, late (the inflected "-en" ending 
