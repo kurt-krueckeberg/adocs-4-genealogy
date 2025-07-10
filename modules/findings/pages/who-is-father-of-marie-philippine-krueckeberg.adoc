@@ -1,4 +1,4 @@
-= The Father of Marie Philippinme Krückeberg
+= The Father of Marie Philippine Krückeberg
 
 Was the father of Marie Philippine Krückeberg, who married May 10, 1812, the late Johann Heinrich Krückeberg (1767-1805) or
 another Johann Heinrich Krückeberg who was still alive?
@@ -154,7 +154,23 @@ and now 23 years old.
 Born July 13, 1888, died December 5, 1959.
 ____
 
-The fasct that Friedrich Wilhelm Raulfing's father is deceased is clearly noted.
+The fact that Friedrich Wilhelm Raulfing's father is deceased is clearly noted. He is verstorben--deceased, late (the inflected "-en" ending 
+is added because "verstorben" is in the genetive case).
+
+In the column for the bride labeled  "Name, Religion Geburts u. Wohnort der Braut" ("Name, religion, place of birth, and place of residence of the bride"),
+it reads:
+
+[quote, "Name, Religion Geburts u. Wohnort der Braut"]
+____
+Jungfrau Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch. Luth. Conf.
+u. jetzt 18 Jahr alt. geb. 1794 in Steinbergen
+gest 14.2.66
+____
+
+[quote,"Name, religion, place of birth, and place of residence of the bride"]
+____
+
+____
 
 
 The father of Marie Philippine Krückeberg was still alive and lived at *no. 10 Bärenbusch* as a pensioner (*Leibzüchter*).
