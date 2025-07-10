@@ -4,59 +4,6 @@
 
 Create stats for images 77-84 that give number of entries with a given term for *Stand*.
 
-[caption="Occurances of *Stand* terms in: "] 
-.Image 80
-[%header,width=20%,cols="1,4"]
-|===
-|Line #|
-
-|1|Einlieger
-
-|2|Hausherr
-
-|3|Einlieger
-
-|4|Hausherr
-
-|5|Hausherr
-
-|6|Hausherr
-
-|7|Hausherr
-
-|8|Anerbe
-
-|9|Hausherr
-
-|10|Hausherr
-
-|11|Hausherr
-
-|12|Hausherr
-
-|13|Hausherr
-
-|14|Einlieger
-
-|15|Knecht?--or Anerbe
-
-|16|Hausherr
-
-|17|Hausherr
-
-|18|Einlieger
-
-|19|Hausherr
-
-|20|Meÿer?
-
-|21|
-
-|22|Hausherr
-
-|23|Hausherr
-|===
-
 [caption="Total occurances of *Stand* terms in: "] 
 .Image 80
 [%header,width=20%,cols="1,4"]
@@ -72,56 +19,6 @@ Create stats for images 77-84 that give number of entries with a given term for 
 |Meÿer?|1
 
 |Knecht[or is it: Anerbe?]|1
-|===
-
-.Image 81
-[%header,width=20%,cols="1,4"]
-|===
-|Zahl|Stand
-
-|24|Hausherr
-
-|25|Knecht
-
-|26|Anerbe
-
-|27|Einlieger
-
-|28|Einlieger
-
-|29|Hausherr
-
-|1|Hausherr
-
-|2|Hausherr
-
-|3|Hausherr
-
-|4|Hausherr
-
-|5|Hausherr
-
-|6|Anerbe
-
-|7|
-
-|8|Anerbe
-
-|9|
-
-|10|Hausherr
-
-|11|Knecht
-
-|12|Hausherr
-
-|13|Reuter
-
-|14|Anerbe
-
-|15|Hausherr
-
-|16|Hausherr
 |===
 
 [caption="Total occurances of *Stand* terms in: "] 
@@ -141,45 +38,52 @@ Create stats for images 77-84 that give number of entries with a given term for 
 |Knecht|2
 |===
 
-
 [caption="Total occurances of *Stand* terms in: "] 
-.Image 82, Line 17 trhru 25
+.Image 82
 [%header,width=20%,cols="1,4"]
 |===
 |Stand|Total Occurances
 
 |Einlieger|4
 
-|unknown-1[Herr Pastor?]|1
-
-|unknown-2|1
-
 |Anerbe|4
 
 |Hausherr|13
 
+|Reuter|0
+
 |Knecht|1
+
+|Caribinier|1
 |===
 
-
 [caption="Total occurances of *Stand* terms in: "] 
-.Image 82, Line 26 trhru 33
+.Image 83
 [%header,width=20%,cols="1,4"]
 |===
 |Stand|Total Occurances
 
-|Hausherr|
+|Einlieger|10
 
-|Einlieger|
+|Hausherr|8
 
-|Anerbe|
-
-|Knecht|
-
-|Einlieger|
-
-|unknonw[Caribinier?]|
+|Meyer|1
 |===
+
+
+[caption="Total occurances of *Stand* terms in: "] 
+.Image 83
+[%header,width=20%,cols="1,4"]
+|===
+|Stand|Total Occurances
+
+|Einlieger|5
+
+|Hausherr|6
+
+|Anerbe|3
+|===
+
 
 
 
