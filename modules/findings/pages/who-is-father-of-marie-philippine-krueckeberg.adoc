@@ -100,7 +100,7 @@ This grammatical breakdown explains how the German is rephrased in English:
 
 +
 *"Jungfrau Christine Louise Krückebergs"* +
-→ “Maiden(Virgin) Christine Louise Krückebergs”
+→ “Maiden Christine Louise Krückebergs”
 +
 * The *-s* on Krückebergs is not possessive, but likely a *dialectal/feminine marker*.
 . Appositive genitive(possesive) phrase:
