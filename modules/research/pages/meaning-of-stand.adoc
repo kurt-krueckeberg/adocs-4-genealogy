@@ -1,7 +1,10 @@
 = What is *Stand* and *Einliger* Mean?
 == Social Status Terms in Schaumburg-Lippe Baptism Records (1801–1805)
 
-When reviewing Lutheran baptism records from Schaumburg-Lippe between 1801 and 1805, you’ll often find entries for the father's *Stand* (social status or occupation). These labels reveal a great deal about the economic and social structure of the parish.
+When reviewing Lutheran baptism records from Schaumburg-Lippe between 1801 and
+1805, you’ll often find entries for the father's *Stand* (social status or
+occupation). These labels reveal a great deal about the economic and social
+structure of the parish.
 
 === Common Terms and Their Meanings
 
@@ -48,6 +51,31 @@ The baptismal records of your Schaumburg-Lippe parish (1801–1805) reveal a rur
 
 This points to a village-centered agrarian society where land ownership and inheritance determined social status.
 
+== Books to Look for
+
+In German (More Likely to be Specific to Regions or Schaumburg-Lippe):
+
+"Landesgeschichte" of Schaumburg-Lippe or neighboring areas: You would need to search for academic works specifically on the "Geschichte Schaumburg-Lippes" or "Agrargeschichte Schaumburg-Lippes." These are often published by regional historical societies or university presses.
+
+Keywords to search for in German:
+
+* Schaumburg-Lippe Geschichte (History of Schaumburg-Lippe)
+
+* Schaumburg-Lippe Sozialstruktur (Schaumburg-Lippe Social Structure)
+
+* Schaumburg-Lippe Agrarstruktur (Schaumburg-Lippe Agrarian Structure)
+
+* Bückeburg Geschichte (History of Bückeburg - as the capital)
+
+* Ländliche Gesellschaft 18./19. Jahrhundert Deutschland (Rural society 18th/19th century Germany)
+
+* Leibzucht (as a specific legal/social institution)
+
+See:
+
+* https://de.wikipedia.org/wiki/Grafschaft_Schaumburg-Lippe
+* https://de.wikipedia.org/wiki/Schaumburg-Lippe
+* https://www.histag-schaumburg.de/page/page_ID/111
 
 == TODO
 
