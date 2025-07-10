@@ -6,15 +6,15 @@ another Johann Heinrich Krückeberg who was still alive?
 == Backround
 
 As is true of all marriage records of this time period, the mother of Marie Philippine Krückeberg born 1794 in Steinbergen is not mentioned
-in her xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812, marriage record] only her father. In the column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion,
-place of birth and residence of the bride"*), we read:
+in her xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812, marriage record] only her father. The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion,
+place of birth and residence of the bride"*) reads:
 
 [quote, "name, religion, place of birth and residence of the bride"]
 ____
 Jungfrau Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch. Luth. Conf. u. jetzt 18 Jahr alt.
 ____ 
 
-This translates as:
+which translates as:
 
 [quote, "name, religion, place of birth and residence of the bride"]
 ____
@@ -22,7 +22,7 @@ Maiden Marie Philippine Krückeberg, daughter of Johann Heinrich Krückeberg, a 
 Lutheran confession and now 18 years old."
 ____
 
-This Nachtrag (addenda) immediately follows the text above, but is written in a smaller hand:
+This Nachtrag (addenda) immediately follows the text above, but it is written in a smaller hand:
 
 [quote, Nachtrag (addenda)]
 ____
@@ -157,15 +157,15 @@ ____
 The fact that Friedrich Wilhelm Raulfing's father is deceased is clearly noted. He is verstorben--deceased, late (the inflected "-en" ending 
 is needed because "verstorben" is in the genetive case).
 
-As mentioned above, the column for Marie Philippine, the bride, labeled "Name, Religion, Place of Brth, and Place of Residence of the Bride) reads:
+As mentioned above, the column for Marie Philippine's "Name, Religion, Place of Brth, and Place of Residence of the Bride) reads:
 "Maiden Marie Philippine Krückeberg, daughter of Johann Heinrich Krückeberg, a life-estate holder (Leibzüchter) at No. 10 in Bärenbusch.
 Lutheran confession and now 18 years old." The father of Marie Philippine Krückeberg was still alive and living at *no. 10 Bärenbusch* as a
 pensioner (*Leibzüchter*).
  
-By the time Marie Philippine Krückeberg married in December of 1812, her father, the Johann Heinrich Krückeberg who was born in 1767 and lived at 
+By the time Marie Philippine Krückeberg married in December of 1812, the Johann Heinrich Krückeberg who was born in 1767 and lived at 
 no. 19 Evesen, had been dead for seven and a half years. Furthermore his xref:petzen:petzen-band2-image243.adoc[death record] lists
 his *Hinterbliebenen* (surviving relatives) as "eine Witwe und *3 Kinder*" ("a widow and three children"). His widow was Anna Catharine
-Sophia, and as shown his three daughters were
+Sophia, and his three daughters, who were all born while the family lived at no. 19 Evesen, were
 
 * Philippina Eleonora,
 * Christine Louise and
