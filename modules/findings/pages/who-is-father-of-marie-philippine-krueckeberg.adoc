@@ -155,27 +155,15 @@ Born July 13, 1888, died December 5, 1959.
 ____
 
 The fact that Friedrich Wilhelm Raulfing's father is deceased is clearly noted. He is verstorben--deceased, late (the inflected "-en" ending 
-is added because "verstorben" is in the genetive case).
+is needed because "verstorben" is in the genetive case).
 
-In the column for the bride labeled  "Name, Religion Geburts u. Wohnort der Braut" ("Name, religion, place of birth, and place of residence of the bride"),
-it reads:
-
-[quote, "Name, Religion Geburts u. Wohnort der Braut"]
-____
-Jungfrau Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leibzüchters aus n.10 in Bärenbusch. Luth. Conf.
-u. jetzt 18 Jahr alt. geb. 1794 in Steinbergen
-gest 14.2.66
-____
-
-[quote,"Name, religion, place of birth, and place of residence of the bride"]
-____
-
-____
-
-
-The father of Marie Philippine Krückeberg was still alive and lived at *no. 10 Bärenbusch* as a pensioner (*Leibzüchter*).
-By the time Marie Philippine Krückeberg married in December of 1812, the Johann Heinrich Krückeberg who was born in 1767 and lived at 
-no. 19 Evesen had been dead for seven and a half years. Furthermore his xref:petzen:petzen-band2-image243.adoc[death record] lists
+As mentioned above, the column for Marie Philippine, the bride, labeled "Name, Religion, Place of Brth, and Place of Residence of the Bride) reads:
+"Maiden Marie Philippine Krückeberg, daughter of Johann Heinrich Krückeberg, a life-estate holder (Leibzüchter) at No. 10 in Bärenbusch.
+Lutheran confession and now 18 years old." The father of Marie Philippine Krückeberg was still alive and lives at *no. 10 Bärenbusch* as a
+pensioner (*Leibzüchter*).
+ 
+By the time Marie Philippine Krückeberg married in December of 1812, her father, the Johann Heinrich Krückeberg who was born in 1767 and lived at 
+no. 19 Evesen, had been dead for seven and a half years. Furthermore his xref:petzen:petzen-band2-image243.adoc[death record] lists
 the *Hinterbliebenen* (surviving relatives) as "eine Witwe und *3 Kinder*" ("a widow and three children"). His widow was Anna Catharine
 Sophia, and as shown his three daughters were
 
