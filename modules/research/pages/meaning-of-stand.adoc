@@ -1,4 +1,53 @@
 = What is *Stand* and *Einliger* Mean?
+== Social Status Terms in Schaumburg-Lippe Baptism Records (1801–1805)
+
+When reviewing Lutheran baptism records from Schaumburg-Lippe between 1801 and 1805, you’ll often find entries for the father's *Stand* (social status or occupation). These labels reveal a great deal about the economic and social structure of the parish.
+
+=== Common Terms and Their Meanings
+
+==== Hausherr
+* *Literal meaning:* "Master of the household"
+* *Implication:* Owns or leases a house and land; economically independent
+* *Significance:* Indicates social stability and a degree of local status. If common, suggests a community of established, landholding families.
+
+==== Einlieger
+* *Literal meaning:* "One who lives in (someone else's) house"
+* *Implication:* A tenant, subtenant, or lodger — often poor or landless.
+* *Significance:* High frequency suggests rural poverty, landlessness, or population growth leading to land fragmentation.
+
+==== Anerbe
+* *Literal meaning:* "Sole heir"
+* *Implication:* Inherits the entire farm or property under *Anerbenrecht* (impartible inheritance).
+* *Significance:* Reflects a legal and social structure meant to preserve undivided family farms. Suggests family continuity, but limited upward mobility for younger siblings.
+
+==== Knecht
+* *Literal meaning:* "Servant" or "farmhand"
+* *Implication:* A male laborer working for wages; often unmarried and itinerant.
+* *Significance:* Lower social status. If a child is born to a *Knecht*, the record might include additional notations or social judgment.
+
+==== Meÿer (or Meier, Meyer)
+* *Meaning:* Either:
+** A leaseholder of a noble estate (like a steward), or
+** A large tenant farmer working a substantial farm (*Meierhof*).
+* *Significance:* Typically respected, with higher status than a *Hausherr*. A sign of significant wealth or influence, though still not nobility.
+
+=== Interpreting Their Frequency in Your Parish
+
+* A high frequency of *Hausherr* suggests a stable, agrarian community with independent families, many owning or leasing property.
+* A high frequency of *Einlieger* suggests a sizable lower class of landless individuals — possibly laborers or dependent tenants.
+* Occasional *Anerbe* entries reflect the region’s inheritance practices, where primogeniture preserved undivided family farms.
+* Fewer *Meÿer* or *Knecht* entries suggest the parish was not dominated by large aristocratic estates or a servant economy.
+
+=== Conclusion
+
+The baptismal records of your Schaumburg-Lippe parish (1801–1805) reveal a rural, stratified community:
+* Dominated by *Hausherren* (independent householders),
+* Supported by a significant number of *Einlieger* (dependent tenants),
+* Structured by *Anerbenrecht* (primogeniture inheritance), and
+* With limited evidence of noble estate control or large-scale servitude.
+
+This points to a village-centered agrarian society where land ownership and inheritance determined social status.
+
 
 == TODO
 
