@@ -198,13 +198,16 @@ Johann Heinrich Krückeberg (1767-1805) died a *Colon* before he ever could beco
 their baptism, confirmation and marriage (for the two eldest) records in the Petzen "Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
 1785-1827" as:
 
++
+--
 * Philippina Eleonora,
 * Christine Louise and
 * Sophie Caroline.
-
+--
 +
 That he had only three living children at the time of his death is confirmed by his 1805 xref:petzen:petzen-band2-image243.adoc[death and
 burial record] which gives his *Hinterbliebenden* (survivors) as "eine Wittwe and 3 Kinder" (a widow and 3 children).
-
 +
 Maria Phlippine could not be his daughter, too, because he only had three.
+
+
