@@ -167,8 +167,8 @@ In Marie Philippine's marriage record, the groom's later father is "des verstorb
 And in the marriage records for the two oldest daughter's of Johann Heinrich Krückeberg(1767-1805), they are "Tochter des verstorbenen Vaters..."
 daughter of the late father...).
 +
-However, Marie Phlippine Krückeberg's father is not "verstorben".
-. After Johann Heinrich Krückeberg's marraige in 1790, all recorded church ceremonies involving his children--baptism, confirmation and marriage--give
+Marie Phlippine Krückeberg's father is not "verstorben".
+. After Johann Heinrich Krückeberg's marraige in 1790, all recorded church ceremonies involving his children--baptism, confirmation and marriage--list
 "no. 19 Evesen" as the family residence. There is no record of Johann Heinrich (1767-1805) living at number 10 Berenbusch after his marriage. He died at
 no. 19 Evesen. His wife and three daughters continued to live at this address as atested by the marriage records of his two oldest daughters:
 
@@ -201,7 +201,7 @@ their baptism, confirmation and marriage (for the two eldest) records in the Pet
 * Philippina Eleonora,
 * Christine Louise and
 * Sophie Caroline.
-
++
 That he had only three living children at the time of his death is confirmed by his 1805 xref:petzen:petzen-band2-image243.adoc[death and
 burial record] which gives his *Hinterbliebenden* (survivors) as "eine Wittwe and 3 Kinder" (a widow and 3 children).
 +
