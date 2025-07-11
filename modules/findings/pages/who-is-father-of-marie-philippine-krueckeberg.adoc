@@ -161,7 +161,7 @@ is needed because "verstorben" is in the genetive case).
 
 . In marriage records the bride's "Geburts und Wohnort der Braut (birthplace and residence of the bride)" is identified using the father's name, i.e, the
 household, and then by the village and number. The father's name was used even after his death to identify his daughter's residence, but if the father is
-deceased, "verstorben" is used, meaning "later" or "deceased". 
+deceased, the adjective "verstorben" (late, deceased) is used.
 +
 In Marie Philippine's marriage record, the groom's later father is "des verstorbenen Albert Raulfing n. 13 in Bärenbusch..." (the late Alber Raulfing)
 And in the marriage records for the two oldest daughter's of Johann Heinrich Krückeberg(1767-1805), they are "Tochter des verstorbenen Vaters..."
