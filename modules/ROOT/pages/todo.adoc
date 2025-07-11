@@ -40,7 +40,7 @@ largely intact?
 
 === Meanig of Stand and Einlieger, Taglöhner, Hausherr and Other Words
 
-See xref:research:meaning-of-stand.adoc[]
+See xref:research:stand-meaning.adoc[]
  
 * Ask on Archion.de subforum on "Begriffe and Abkürzungen" "Schneider und Einlieger" means.
 

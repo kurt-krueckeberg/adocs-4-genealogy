@@ -76,6 +76,23 @@ See:
 * https://de.wikipedia.org/wiki/Grafschaft_Schaumburg-Lippe
 * https://de.wikipedia.org/wiki/Schaumburg-Lippe
 * https://www.histag-schaumburg.de/page/page_ID/111
+* https://wiki.genealogy.net/F%C3%BCrstentum_Schaumburg-Lippe
+
+Online Map Tools:
+* https://kartenforum.slub-dresden.de/?b=slub-osm&c=9.1015,52.2731&z=11
+* https://openstreetmap.de/karte/?zoom=12&lat=52.2731&lon=9.1015#
+
+
+1. German language resource: Genwiki
+https://wiki.genealogy.net/Kategorie:Berufsbezeichnung
+Hauptseite (landing page) ➔ Lexika ➔ Berufsbezeichnung
+
+2. Historical German dictionary: Krünitz
+https://www.kruenitz1.uni-trier.de/site/a_to_z.htm
+Krünitz Online (landing page) ➔ A – Z ➔ Online-Version der Encyclopädie
+
+3. Use German Wikipedia for more thorough historical context – then use web translator
+https://de.wikipedia.org/wiki/Wikipedia:Hauptseit
 
 == TODO
 
