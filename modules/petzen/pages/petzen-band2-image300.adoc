@@ -1,157 +1,113 @@
-= 1819 Philippine Dorothee Krückeberg Death
+= 1819 Philippine Dorothee Krückeberg Burial
 :page-role: doc-width
 
 == Family Relationship and Other Facts
 
-.Family Relationship 
-[%header,cols="3,2,3,2,3,2"]
-|===
-|Decedent|Cause of Death|Surviving Husband|Address|His Occupation|Work Location																							
-
-|Phlippine Dorothee Krückeberg|pneumonia/consumption|Johann Heinrich Krückeberg|No. 13 Berenbusch|Former farm foreman at Reinen-Neelhof, now laborer|Reinen-Neelhof estate or farm
-|===
-
-.Survivors of Philippine Dorothee Krückeberg
-[%header, width="30%"]
-|===
-|Individual
-
-|One married daughter (unnamed)
-|===
-
-.Meaning of Hofmeister
-****
-This is from a  German genealogy forum:
-
-A Hofmeister was understood to be a kind of foreman on large farms. Administrators and inspectors represented the management level.
-The Hofmeister stood somewhere between the management and the normal farm workers;however, he didn't actually have much to say in
-technical terms. The Hofmeister was a kind of “primus inter pares” (first among equals) with the farm workers. He was a contact
-person at management level. The latter couldn't personally tell every farm worker what to do. The farm foreman was given the rough
-plan and then assigned the people according to it. No special training was required for this, just character and assertiveness.
-
-[NOTE]
-====
-This record indicates that the decedant's husband, Johann Heinrich Krückeberg,
-was a former Hofmeister (estate foreman) who later--perhaps due to health, age,
-or other reasons--became an Einlieger (free agricultural laborer). 
-====
-****
-
 == Citation
 
-The death of  Philippine Dorothee Krückeberg in 1819 is found on <<image300, image 300, on pages 626 ad 627>> of Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+On January 6, 1819, Philippine Dorothee Krückeberg, nee Beucken (or Beucke) died and was buried on January 9, 1819.
 
-== Pages 626 and 627
+The death and burial record is on <<image300, image 300>>, entry #1, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
+Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-Header and column headings:
+== Pages 626 and 627 Header 
 
-image::petzen-band2-img300-overview.jpg[title="Page 626 Overview (Click to enlarge)",link=self]
+The header and column headings for pages 626 and 627:
 
-=== Page 626
+image::petzen-band2-img300-header-left.jpg[align=left,title="Page 626 and column headings (Click to enlarge)",link=self]
 
-image::petzen-band2-img300-626.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)",link=self]
+image::petzen-band2-img300-header-right.jpg[align=left,title="Page 627 and column headings (Click to enlarge)",link=self]
 
-=== Page 627
+=== The Record
 
-image::petzen-band2-img300-627.jpg[title="Philippine Dorothee Krückeberg (Click to enlarge)",link=self]
+image::petzen-band2-img300-left.jpg[align=left,title="Philippine Dorothee Krückeberg Death and Burial Record (Click to enlarge)",link=self]
 
-=== Transliteration and Translation of Pages 626 and 627
+image::petzen-band2-img300-right.jpg[align=left,title="Philippine Dorothee Krückeberg Death and Burial Record (Click to enlarge)",link=self]
 
-.Transliteration of Page Header
-....
-626   Gestorbene in Kirchspiel Petzen (Deaths in the Petzen Parish)    im Jahre 1818 u. 1819 (in the years 1819 and 1819)          626
-....
-//....
-//626   Gestorbene in Kirchspiel Petzen (Deaths in the Petzen Parish)    im Jahre 1818 u. 1819 (in the years 1819 and 1819)          626
-//....
+[,text]
+.Pages 626 and 627 header
+----
+626                Gestorbene im Kirchspiel Petzen                im Jahr 1818 u. 1819                  627
+----
 
-[NOTE]
-====
-**verheÿrathet** in contemporary German would be **verheiratet** (married).
-====
-
-[caption="Transliteration: "]
-.entry 1, in year 1819, for Philippine Dorothee Krückeberg
-[%header,%autowidth,frame="none"]
+[caption="Transliteration 1: "]
+.death record #1 for 1819
+[%header,cols="1,5,5,4,4,4,4,2",frame="none"]
 |===
-|Zahl |Name, Stand, Religion, Gewerbe, +
+|Zahl |Name, Stand, Gewerbe +
 Geburts u. bisheriger Wohnort des +
-Gestorbene |Zeit u.[und] Ort des +
-Todes u.[und] des +
-Begräbenises |Ursach[e] des Todes |Alter |Ledig +
-oder verheÿrathet |Hinterbliebende |Bemerkerung
+Verstorbenen|Zeit u. Ort des +
+Todes u. des Be- +
+grabnißes|Ursache des Todes|Alter|ledig +
+oder +
+verheiratet|Hinterbliebene|Bemerkung[en]
 
-|8
 |Philippine Dorothee Krücke- +
-bergs; Ehefrau des vormaligen +
-Hofmeisters auf dem Reinen= +
+bergs;Ehefrau des vormaligen +
+Hofmeisters auf dem Reinnen- +
 Neelhof Johann Heinrich +
-Krückeberg, Einlieger beÿ 13 +
-in Bärenbusch. Luth. Conf.
-|starb d. 6ten Januar +
-Nachmittgs 4 Uhr in +
+Krückeberg, Einlieger beÿ n.13
+in Bärenbusch. Luth. Conf.|starb d. 6ten Januar +
+Nachmmittags 4 Uhr in +
 Bärenbusch, u. wurde +
 begraben d. 9ten Jan. in +
-Petzen
-|Brustkrankheit
-|in einem Alter +
-von 54 Jahren
-|verheÿrathet
-|hinterläßt außer +
+Petzen|Brustkrankheit|n einem Alter +
+von 54. Jahren|verheÿrathet|hinterläßt außer +
 ihrem Ehemann, eine +
 einzige Tochter, welche +
-verheÿrathet ist 
-|[empty]
+verheÿrathhet ißt
 |===
 
-.The Meaning of the Equal Sign in This Record
+.Explantions for column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" 
 ****
-[NOTE]
-====
-In the image, what looks like a hyphen after "Reinen" is an equal sign (albeit an abbreviated one), and
-the meaning of the equal sign today would a dash. So **Reinen=Neelhof** is **Reinen-Neelhof**
-====
+The 2^nd^ column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" means the 
+"Name, Status, Occupation, Birthplace and most recent Residence of the Deceased". 
+
+* Since the wife did not have an occupation, her husband's occupation of *Hofmeister*, estate manager, is given.
+* While the final attribute of column 2 ("birthplace and most recent residence of the deceased") contains two pieces
+of information, only the deceased's final residence is mentioned. We know from the couple's xref:petzen:petzen-band2-image12-2.adoc[marriage
+record] that her village prior to marriage was Meisen, but she may have been born elsewhere.
+ 
+* "Reinen-Neelhof"* is the name of a specific estate or farm — essentially a *proper noun*:
+** “Hof” → “Estate” or “Farm”
+** "Reinen-Neel* appears to be a compound of two family or place names.
+
++
+So its meaning conveys: *"“on the Reinen-Neel estate (a manor farm)”*
 ****
 
-[caption="Translation: "]
-.entry 1, in year 1819, for Philippine Dorothee Krückeberg
-[%header,%autowidth,frame="none"]
+[caption="Transliteration 1: "]
+.death record #1 for 1819
+[%header,cols="1,5,5,4,4,4,4,2",frame="none"]
 |===
-|No. |Name, Status, Religion, Trade, +
-Birth place and previous Residence of the +
-Deceased |Time and Place of +
-Death and of the +
-Funeral[Burial] |Cauase of Death |Age |Single +
-or Married s|Survivors |Remark[s]
+|Number |Name, Status, Occupation +
+Birthplace and most recent residence of the +
+deceased|Zeit u. Ort des +
+Todes u. des Be- +
+grabnißes|Ursache des Todes|Alter|ledig +
+oder +
+verheiratet|Hinterbliebene|Bemerkung[en]
 
-|8
 |Philippine Dorothee Krücke- +
-bergs; wife of the former +
-estate administrator of the Reinen- +
+bergs;wife of the former +
+estate steward or manager on the Reinen- +
 Neelhof Johann Heinrich +
-Krückeberg, agricultural laborer at +
-n. 13 in Bärenbusch. Luth. Conf. 
-|died  6th January +
-4 o'clock in the afternoon +
-in Bärenbusch, and +
-was buried on Jan. 9th in +
-Petzen
-|pneumonia
-/consumption
-|at the age +
- of 54 years
-|married 
-|besides her husband, is +
-survived by an only daughter,
-who is married
-|[empty]
+Krückeberg, Einlieger beÿ n.13
+in Bärenbusch. Luth. Conf.|starb d. 6ten Januar +
+Nachmmittags 4 Uhr in +
+Bärenbusch, u. wurde +
+begraben d. 9ten Jan. in +
+Petzen|Brustkrankheit|n einem Alter +
+von 54. Jahren|verheÿrathet|hinterläßt außer +
+ihrem Ehemann, eine +
+einzige Tochter, welche +
+verheÿrathhet ißt
 |===
-
 
 
 [bibliography]
 == Citations
 
-* [[[image300]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (http://www.archion.de/p/37b3208e99/ : 25 October 2023), path:
-Niedersachsen: Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 5 of 357
-
+* [[[image348]]] "Archion Protestant Kirchenbücher Portal", database with images,
+http://www.archion.de/p/de1fdbc46c/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+ Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3487 of 357
