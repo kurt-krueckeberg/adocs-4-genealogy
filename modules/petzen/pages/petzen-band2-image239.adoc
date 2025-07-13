@@ -19,16 +19,15 @@
 .Decedent Facts 
 [%header,width=45%]
 |===
-|Fact
+||Details
 
-|born blind
+|*Disability*|born blind
 
-|cause of death: +
-age and tuberculosis
+|*Cause of death:* age and tuberculosis
 
-|lived to 60
+|*Age at Death*| 60
 
-|Residence: no. 10 Berenbusch
+|*Residence*| no. 10 Berenbusch
 |===
 
 == Citation
