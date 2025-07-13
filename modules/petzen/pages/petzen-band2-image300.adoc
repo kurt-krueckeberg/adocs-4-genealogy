@@ -65,7 +65,7 @@ verheÿrathhet ißt|
 *"Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen"* translates as: *"Name, Status,
 Occupation, Birthplace and most recent Residence of the Deceased"*:
 
-* Since the wife did not have a *Gewerbe*, an occupation, *Hofmeister*, estate manager, is her survinging husband's occupation.
+* Since the wife did not have a *Gewerbe*, an occupation, *Hofmeister(estate manager)*, is her survinging husband's occupation.
 * *"Birthplace and most recent Residence of the Deceased"* contains two pieces of information, but only the
 deceased's final residence is mentioned. We know from the couple's xref:petzen:petzen-band2-image12-2.adoc[marriage
 record] that her village prior to marriage was Meisen, but she may have been born elsewhere.
