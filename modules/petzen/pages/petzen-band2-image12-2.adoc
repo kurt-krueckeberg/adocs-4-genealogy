@@ -10,7 +10,7 @@
 
 |*Groom*|Johann Heinrich Krückeberg|Leibzüchter (retired farmer) and widower|Baerenb[usch]|10
 
-|*Bride*|Philippine Doroth[ea] Beucken|several years ago by him [weakened?]|Evesen|Einliegerin [likely: lodger] 
+|*Bride*|Philippine Doroth[ea] Beucken| [weakened?] by him several years ago|Evesen|Einliegerin
 |===
 
 == Citation
@@ -60,7 +60,7 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |10
 |Philippine Doroth Beucke +
  [weakened?] by him several years ago| Meinsen
-|lodger
+|lodger/tenant
 |===
 
 
