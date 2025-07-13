@@ -60,6 +60,8 @@ verheÿrathhet ißt|
 
 .Clarifying the Information in the 2^nd^ Column.
 ****
+[NOTE]
+====
 The 2^nd^ column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" translates a "Name, Status,
 Occupation, Birthplace and most recent Residence of the Deceased":
 
@@ -73,6 +75,7 @@ record] that her village prior to marriage was Meisen, but she may have been bor
 
 +
 So its meaning conveys: *"“on the Reinen-Neel estate (a manor farm)”*
+====
 ****
 
 [caption="Transliteration 1: "]
