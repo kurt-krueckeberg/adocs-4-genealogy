@@ -55,7 +55,7 @@ Petzen|Brustkrankheit|n einem Alter +
 von 54. Jahren|verheÿrathet|hinterläßt außer +
 ihrem Ehemann, eine +
 einzige Tochter, welche +
-verheÿrathhet ißt
+verheÿrathhet ißt|
 |===
 
 .Explantions for column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" 
@@ -101,7 +101,7 @@ Petzen|Brustkrankheit|n einem Alter +
 von 54. Jahren|verheÿrathet|hinterläßt außer +
 ihrem Ehemann, eine +
 einzige Tochter, welche +
-verheÿrathhet ißt
+verheÿrathhet ißt|
 |===
 
 
