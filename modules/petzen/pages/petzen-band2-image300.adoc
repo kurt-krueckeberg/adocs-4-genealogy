@@ -58,10 +58,10 @@ einzige Tochter, welche +
 verheÿrathhet ißt|
 |===
 
-.Explantions for column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" 
+.Explantions for the 2^nd^ column.
 ****
-Concerning the 2^nd^ column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" ("Name, Status,
-Occupation, Birthplace and most recent Residence of the Deceased"):
+The 2^nd^ column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" translates a "Name, Status,
+Occupation, Birthplace and most recent Residence of the Deceased":
 
 * Since the wife did not have an occupation, her husband's occupation of *Hofmeister*, estate manager, is given.
 * While the final attribute of column 2 ("birthplace and most recent residence of the deceased") contains two pieces
