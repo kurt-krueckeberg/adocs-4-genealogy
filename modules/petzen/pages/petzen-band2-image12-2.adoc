@@ -8,9 +8,9 @@
 |===
 ||Name|Other Info.|Location|"Sh" or No.
 
-|*Groom*|Johann Heinrich Krückeberg|Leibzüchter and widow|Baerenb[usch]|10
+|*Groom*|Johann Heinrich Krückeberg|Leibzüchter (retired farmer) and widower|Baerenb[usch]|10
 
-|*Bride*|Philippine Doroth[ea] Beucken|for several years by him/it [uncertain?]|Evesen|[Einliegerin?]
+|*Bride*|Philippine Doroth[ea] Beucken|several years ago by him [weakened?]|Evesen|Einliegerin [likely: lodger] 
 |===
 
 == Citation
@@ -43,9 +43,9 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |Berenb[usch]
 |10
 |Phillippine Doroth: Beucken +
-   von ihm vor einigen Jahren [geschwägt?]
+   von ihm vor einigen Jahren [geschwächt?]
 |Meinsen
-|[Einlieger?in]
+|Einliegerin
 
 |10
 |Widower Joh[ann] Heinrich +
@@ -53,8 +53,8 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |Barenb:
 |10
 |Philippine Doroth Beucke +
- [for several yearts from/by him ?]| Meinsen
-|[no number: a small, unclear word]
+ [weakened?] by him several years ago| Meinsen
+|lodger?
 |===
 
 
