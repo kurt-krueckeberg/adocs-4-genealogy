@@ -140,6 +140,6 @@ verheÿrathhet ißt|
 [bibliography]
 == Citations
 
-* [[[image348]]] "Archion Protestant Kirchenbücher Portal", database with images,
-http://www.archion.de/p/de1fdbc46c/ : 26 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
- Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 3487 of 357
+* [[[image300]]] "Archion Protestant Kirchenbücher Portal", database with images,
+(https://www.archion.de/p/52b5179fd4/ : 13 July 2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 300 of 357
