@@ -1,0 +1,84 @@
+= 1801 Sophie Marie Krückeberg Death
+:page-role: doc-width
+
+== Family Relationship and Other Facts
+
+[caption="Family Relationship of Decedent: "]
+.Sophie Marie Krückeberg
+[%header,width=60%]
+|===
+||Name|Residence
+
+|*Father*|Jobst Heinrich Krückeberg, +
+(previously deceased)|
+
+|*Daughter*|no. 10 Berenbusch
+(just deceased)
+|===
+
+.Decedent Facts 
+[%header,width=85%]
+|===
+|TODO
+
+|===
+
+.Survivors's Facts
+[%header,width=20%]
+|===
+|TODO
+
+|2 sons
+|===
+
+=== Pages 504 and 505
+
+Header and Column Headings:
+
+image::petzen-band2-img239.jpg[title="Sophie Marie Krückebeerg Death (Click to enlarge)",link=self]
+
+=== Transliteration and Translation
+
+.Transliteration of Section Header
+....
+   Gestorbene in Kirchspiel Petzen 1801
+....
+
+.Transliteration of Section Header
+....
+   Deaths in Petzen Parish 1801
+....
+
+[caption="Transliteration of: "]
+.Sophie Marie Krückeberg Death/Burial Record
+|===
+|Anzahl|Nahmen|Ortschaft|N.|Krankheit|Alter +
+Jahre|Alter +
+Woch[e]|gest.|begr.
+
+|9|Sophie Marie Krückeberg, des Jobst Heinrich Krückeberg nachgelaßen, blindgebohrne Tochter|Bärenbusch|10|Altersschwäche +
+u. +
+Auszehrung|60||März 17|März 19
+|===
+
+[caption="Transliteration of: "]
+.Sophie Marie Krückeberg Death/Burial Record
+|===
+|Number|Names|Locality|N.|Illness|Age +
+Years|Age +
+Weeks|died|buried
+
+|9|Sophie Marie Krückeberg, surviving daughter of Jobst Heinrich Krückeberg, born blind|Bärenbusch|10|Debility of Age +
+u. +
+(lung) consumption/ +
+tuberculosis|60||März 17|März 19
+|===
+
+
+[bibliography]
+== Citations
+
+* [[[image239]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/b7f0f6db65/ : 13 Julz 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis 
+der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 239 of 357
+
