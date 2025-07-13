@@ -35,8 +35,6 @@ image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",link=se
 7+l|18                Getraute im Jahre 1801.1802 (Marriages in the years 1801. 1802)                  
 s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ortschaft s| N.:
 
-| Num | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.:
-
 |10
 |Wittwer Joh: Heinrich +
   Krückeberg Leibzüchter
@@ -46,16 +44,25 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
    von ihm vor einigen Jahren [geschwächt?]
 |Meinsen
 |Einliegerin
+|===
+
+[caption="Transliteration and Translation 2: "]
+.Johann Heinrich Krückeberg Marriage entry number 10, page 19:
+[%autowidth,frame="none"]
+|===
+7+l|18                Marriage in the Years 1801,1802 
+ s| Num  s| Name of Groom  s| Village  s| [uncertain?]  s|Name of Bride  s| Village  s| N.:
 
 |10
 |Widower Joh[ann] Heinrich +
- Krückeberg  Leibzüchter
-|Barenb:
+ Krückeberg  Leibzüchter (retired farmer)
+|Barenb[usch]
 |10
 |Philippine Doroth Beucke +
  [weakened?] by him several years ago| Meinsen
-|lodger?
+|lodger
 |===
+
 
 
 [bibliography]
