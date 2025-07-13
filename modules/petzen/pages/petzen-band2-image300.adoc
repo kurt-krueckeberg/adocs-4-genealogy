@@ -64,10 +64,9 @@ The 2^nd^ column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Versto
 Occupation, Birthplace and most recent Residence of the Deceased":
 
 * Since the wife did not have an occupation,  *Hofmeister*, estate manager, is her husband's occupation.
-* While the final attribute of column 2 ("birthplace and most recent residence of the deceased") contains two pieces
-of information, only the deceased's final residence is mentioned. We know from the couple's xref:petzen:petzen-band2-image12-2.adoc[marriage
+* "Birthplace and most recent Residence of the Deceased" contains two pieces of information, but only the
+deceased's final residence is mentioned. We know from the couple's xref:petzen:petzen-band2-image12-2.adoc[marriage
 record] that her village prior to marriage was Meisen, but she may have been born elsewhere.
- 
 * "Reinen-Neelhof"* is the name of a specific estate or farm — essentially a *proper noun*:
 ** “Hof” → “Estate” or “Farm”
 ** "Reinen-Neel* appears to be a compound of two family or place names.
