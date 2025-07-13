@@ -114,11 +114,9 @@ a different living arrangement, possibly a more humble one.
 |===
 |Number |Name, Status, Occupation +
 Birthplace and most recent residence of the +
-deceased|Zeit u. Ort des +
-Todes u. des Be- +
-grabnißes|Ursache des Todes|Alter|ledig +
-oder +
-verheiratet|Hinterbliebene|Bemerkung[en]
+deceased|Time and Place of Death and Burial|Cause of Death|Age|single +
+or +
+married|Survivors|Remarks
 
 |1|Philippine Dorothee Krückebergs;wife of the former estate steward or manager on the Reinen-Neel estate (a manor farm) Johann Heinrich
 Krückeberg, lodger (tenant) at n.13 in Bärenbusch. Luth. Conf.|died the 6^th^ January 4 p.m. in Bärenbusch, and was buried the 9^th^ of
