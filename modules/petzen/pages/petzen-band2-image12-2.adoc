@@ -28,7 +28,7 @@ the marriage is actually given on the page 18 above entry 6 as **Am 11 April
 
 image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",link=self]
 
-[caption="Transliteration and Translation 2: "]
+[caption="Transliteration: "]
 .Johann Heinrich Krückeberg Marriage entry number 10, page 19:
 [%autowidth,frame="none"]
 |===
@@ -46,7 +46,7 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |Einliegerin
 |===
 
-[caption="Transliteration and Translation 2: "]
+[caption="Translation: "]
 .Johann Heinrich Krückeberg Marriage entry number 10, page 19:
 [%autowidth,frame="none"]
 |===
