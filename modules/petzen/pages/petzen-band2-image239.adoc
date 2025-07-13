@@ -17,18 +17,11 @@
 |===
 
 .Decedent Facts 
-[%header,width=85%]
+[%header,width=45%]
 |===
-|TODO
+|Fact
 
-|===
-
-.Survivors's Facts
-[%header,width=20%]
-|===
-|TODO
-
-|2 sons
+|born blind
 |===
 
 == Citation
