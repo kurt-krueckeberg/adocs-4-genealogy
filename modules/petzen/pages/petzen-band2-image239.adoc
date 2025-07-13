@@ -64,7 +64,7 @@ Auszehrung|60||März 17|März 19
 .Sophie Marie Krückeberg Death/Burial Record
 [%header,cols="1,5,2,1,2,1,1,2,2"]
 |===
-|Number|Name|Locality|N.|Illness|Age +
+|Num.|Name|Locality|N.|Illness|Age +
 Years|Age +
 Weeks|died|buried
 
