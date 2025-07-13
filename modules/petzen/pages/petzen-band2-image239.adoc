@@ -33,8 +33,6 @@
 
 === Pages 504 and 505
 
-Header and Column Headings:
-
 image::petzen-band2-img239.jpg[title="Sophie Marie Krückebeerg Death (Click to enlarge)",link=self]
 
 === Transliteration and Translation
@@ -51,6 +49,7 @@ image::petzen-band2-img239.jpg[title="Sophie Marie Krückebeerg Death (Click to 
 
 [caption="Transliteration of: "]
 .Sophie Marie Krückeberg Death/Burial Record
+[%header,cols="1,4,2,1,2,1,2,2]
 |===
 |Anzahl|Nahmen|Ortschaft|N.|Krankheit|Alter +
 Jahre|Alter +
@@ -63,6 +62,7 @@ Auszehrung|60||März 17|März 19
 
 [caption="Transliteration of: "]
 .Sophie Marie Krückeberg Death/Burial Record
+[%header,cols="1,4,2,1,2,1,2,2]
 |===
 |Number|Names|Locality|N.|Illness|Age +
 Years|Age +
