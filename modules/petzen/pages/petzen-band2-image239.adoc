@@ -17,9 +17,9 @@
 |===
 
 .Decedent Facts 
-[%header,width=45%]
+[%header,width=40%]
 |===
-||Details
+|Fact|Details
 
 |*Disability*|born blind
 
