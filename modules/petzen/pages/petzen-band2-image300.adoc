@@ -62,7 +62,7 @@ verheÿrathhet ißt|
 ****
 [NOTE]
 ====
-The 2^nd^ column "Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" translates as: "Name, Status,
+"Name, Stand, Gewerbe, Geburts u. bisheriger Wohnort des Verstorbenen" translates as: "Name, Status,
 Occupation, Birthplace and most recent Residence of the Deceased":
 
 * Since the wife did not have an occupation,  *Hofmeister*, estate manager, is her husband's occupation.
