@@ -6,17 +6,28 @@
 == Citation
 
 On January 6, 1819, Philippine Dorothee Krückeberg, nee Beucken (or Beucke) died and was buried on January 9, 1819.
-
 The death and burial record is on <<image300, image 300>>, entry #1, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
 Konfirmierten, Getrauten und Gestorbenen 1785-1827".
 
-== Pages 626 and 627 Header 
+== The Record
+
+=== Header for Pages 626 and 627
 
 The header and column headings for pages 626 and 627:
 
 image::petzen-band2-img300-header-left.jpg[align=left,title="Page 626 and column headings (Click to enlarge)",link=self]
 
 image::petzen-band2-img300-header-right.jpg[align=left,title="Page 627 and column headings (Click to enlarge)",link=self]
+
+.Transliteration
+....
+626         Gestorbene im Kirchspiel Petzen                      im Jahr 1818 u. 1819                 627
+....
+
+.Translation
+....
+626         Deaths in the Church Parish Petzen                   in the Year 1818 and 1819            627
+....
 
 === The Record
 
