@@ -63,7 +63,6 @@ $files = [
 "petzen-band2-image96.adoc",
 "petzen-band2-image207-1.adoc",
 "petzen-band2-image27.adoc",
-"petzen-band2-image28.adoc",
 "petzen-band2-image314.adoc",
 ];
 
