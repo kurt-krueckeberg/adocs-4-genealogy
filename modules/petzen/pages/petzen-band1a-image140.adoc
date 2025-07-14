@@ -5,7 +5,7 @@ The baptism of a Johann Friedrich Krückeberg, born in Berenbusch, occurred 18 J
 
 [caption="Family Relationships and Facts: "]
 .July 7, 1728 Baptism of Johann Friedrich Krückeberg
-[%headerwidth="45%"]
+[%header,width="45%"]
 |===
 |Relationship/ +
 Fact|Details
