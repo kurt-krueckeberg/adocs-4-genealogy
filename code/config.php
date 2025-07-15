@@ -5,7 +5,7 @@ $config =  [
 'timelines' => 
   [
     [
-    'output_file'  => '/home/kurt/adocs-4-genealogy/m/timelines/p/johann-heinrich-k-1744.adoc',
+    'output_file'  => 'johann-heinrich-k-1744.adoc',
     'page_header'  => "= Johann Heinrich Kückeberg [1767-1805] Timeline\n:page-role: doc-width\n",
     'input_folder' => '/home/kurt/adocs-4-genealogy/m/petzen/p/',
     'input_files'  => [

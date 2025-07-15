@@ -1,5 +1,6 @@
 <?php
 declare(strict_types=1);
+include_once 'config.php';
 
 function goto_regex(\SplFileObject $file, string $regex) : void
 { 
@@ -15,7 +16,7 @@ class TimelineCreator {
    private \SplFileObject $ofile;
 
    public function __construct(string $outfile, string $header)
-   {
+   {      
       $this->ofile = new \SplFileObject($outfile, "w");
 
       $this->ofile->fwrite($header . "\n");
@@ -46,15 +47,17 @@ class TimelineCreator {
    }
 }
 
-$config['output_folder'];
-
-foreach ($timelines as $timeline) {
+foreach ($config['timelines'] as $timeline) {
+    
+        // Debug
+    echo $config['output_folder'] . "\n";
+    echo $timeline['output_file'] . "\n";
 
         $creator = new TimelineCreator($config['output_folder'] . $timeline['output_file'], $timeline['page_header']);
         
         $input_folder = $timeline['input_folder'];
         
-        foreach($time_line['input_files'] as $file) {
+        foreach($timeline['input_files'] as $file) {
          
            $creator($input_folder . $file);  
         }
