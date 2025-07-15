@@ -2,7 +2,7 @@ output_folder: /home/kurt/adocs-4-genealogy/m/timelines/pages
 timelines:
   - output_file: johann-heinrich-k-1744.adoc
     page_header: |
-      = Johann Heinrich Krückeberg [1767-1805] Timeline
+      = Johann Heinrich Krückeberg [1767-1805]
       :page-role: doc-width
     input_folder: /home/kurt/adocs-4-genealogy/m/petzen/p/
     input_files:
@@ -21,7 +21,7 @@ timelines:
       - petzen-band2-image211-3.adoc
   - output_file: sophia-maria-k-1741.adoc
     page_header: |
-      = Sophia Maria Krückeberg [1741-1801] Timeline
+      = Sophia Maria Krückeberg [1741-1801]
       :page-role: doc-width
     input_folder: /home/kurt/adocs-4-genealogy/m/petzen/p/
     input_files:
@@ -30,7 +30,7 @@ timelines:
       - petzen-band2-image239.adoc
   - output_file: carl-philip-k-1750.adoc
     page_header: |
-      = Carl Philip Heinrich Krückeberg [1750-?] Timeline
+      = Carl Philip Heinrich Krückeberg [1750-?]
       :page-role: doc-width
     input_folder: /home/kurt/adocs-4-genealogy/m/petzen/p/
     input_files:
@@ -38,7 +38,7 @@ timelines:
       - petzen-band1a-image313.adoc
   - output_file: jobst-heinrich-1767-timeline.adoc
     page_header: |
-      = Jobst Heinrich Krückeberg [1765-1822] Timeline
+      = Jobst Heinrich Krückeberg [1765-1822]
       :page-role: doc-width
     input_folder: /home/kurt/adocs-4-genealogy/m/petzen/p/
     input_files:
