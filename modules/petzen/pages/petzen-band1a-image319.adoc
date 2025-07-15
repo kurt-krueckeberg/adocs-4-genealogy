@@ -1,6 +1,8 @@
 = 1778 Jobst Heinrich Kruckeberg Confirmation
 :page-role: doc-width
 
+== Family Group and Other Facts
+
 .Confirmand
 [%header,width="40%",cols="3,2,2"]
 |===
