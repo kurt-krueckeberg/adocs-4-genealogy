@@ -27,7 +27,7 @@ $config =  [
     ],
     [
     'output_file'  => 'jobst-heinrich-1767-timeline.adoc',
-    'page_header'  => "= Jobst Heinrich Krückeberg [1765-1822], Timeline\n:page-role: doc-width\n", 
+    'page_header'  => "= Jobst Heinrich Krückeberg [1765-1822] Timeline\n:page-role: doc-width\n", 
     'input_folder' => "/home/kurt/adocs-4-genealogy/m/petzen/p/",
     'input_files'  => [
                      'petzen-band1a-image211.adoc',
