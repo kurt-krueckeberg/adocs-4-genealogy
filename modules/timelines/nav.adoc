@@ -1,2 +1,3 @@
 * Timelines
-** xref:jhk-timeline.adoc[]
+** xref:johann-heinrich-k-1744.adoc
+** xref:jobst-heinrich-1767-timeline.adoc[]

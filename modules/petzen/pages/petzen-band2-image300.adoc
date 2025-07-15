@@ -16,8 +16,7 @@
 |*Residence*|no. 13 Bärenbusch|| 
 |===
 
-[caption="Facts : "]
-.late Philippine Dorothee Krückeberg
+.Facts
 [%header,width="40%"]
 |===
 |Fact|Details
@@ -30,8 +29,7 @@
 
 |*Status*|Einlieger (tenant)
 
-|*Husband's +
-Occupation*|former Hofmeisters
+|*Husband's Occupation*|former Hofmeisters
 |===
 
 == Citation
