@@ -1,6 +1,13 @@
 output_folder: /home/kurt/adocs-4-genealogy/m/timelines/pages
 timelines:
+============
   - output_file: johann-heinrich-k-1744.adoc
+    page_header: |
+      = Johann Heinrich Krückeberg [1744-1822]
+      :page-role: doc-width
+    input_folder: /home/kurt/adocs-4-genealogy/m/petzen/p/
+    input_files:
+  - output_file: johann-heinrich-k-1767.adoc
     page_header: |
       = Johann Heinrich Krückeberg [1767-1805]
       :page-role: doc-width

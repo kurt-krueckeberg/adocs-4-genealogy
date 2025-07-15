@@ -13,6 +13,7 @@
 * xref:petzen:petzen-band1a-image313.adoc[]
 * xref:petzen:petzen-band1a-image211.adoc[]
 * xref:petzen:petzen-band1a-image220.adoc[]
+* xref:petzen:petzen-band1b-image61.adoc[]
 * xref:petzen:petzen-band1b-image210-1.adoc[]
 * xref:petzen:petzen-band1b-image210-2.adoc[]
 * xref:petzen:petzen-band1a-image246.adoc[]
