@@ -1,0 +1,40 @@
+= 1727 Johann Heinrich Krückkeberg Marriage
+:page-role: doc-width
+
+== Family Relationship 
+
+.Marriage Information
+[%header,width="65%",cols="1,3,2,2"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Johann Heinrich Kruckkeberg|Nov. 7 1773|Berenbusch
+
+|*Bride*|??? Vahlsing|Sep. 28 1727|Evesen
+|===
+
+== Citation
+
+
+== Marriage Record
+
+image::petzen-band1b-img39.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
+
+.Transliteration
+....
+....
+
+.Translation
+.... 
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image-vol1b-39]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (??????: 16 July 2025)
+, path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe
+> Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 39 of 239
+
