@@ -1,7 +1,7 @@
 <?php
 
 $config =  [
-'output_folder' => '/home/kurt/adocs-4-genealogy/m/timelines/p',
+'output_folder' => '/home/kurt/adocs-4-genealogy/m/timelines/pages',
 'timelines' => 
   [
     [

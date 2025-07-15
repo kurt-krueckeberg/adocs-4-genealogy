@@ -49,7 +49,7 @@ class TimelineCreator {
 
 foreach ($config['timelines'] as $timeline) {
     
-        $creator = new TimelineCreator($config['output_folder'] . $timeline['output_file'], $timeline['page_header']);
+        $creator = new TimelineCreator($config['output_folder'] . '/' . $timeline['output_file'], $timeline['page_header']);
         
         $input_folder = $timeline['input_folder'];
         
