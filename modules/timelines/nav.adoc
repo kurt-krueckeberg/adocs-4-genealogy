@@ -1,5 +1,6 @@
 * Timelines
 ** xref:sophia-maria-k-1741.adoc[]
+** xref:johann-heinrich-k-1744.adoc[]
 ** xref:carl-philip-k-1750.adoc[]
 ** xref:jobst-heinrich-1767-timeline.adoc[]
-** xref:johann-heinrich-k-1744.adoc[]
+** xref:johann-heinrich-k-1767.adoc[]
