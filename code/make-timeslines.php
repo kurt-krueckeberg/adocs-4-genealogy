@@ -1,6 +1,5 @@
 <?php
 declare(strict_types=1);
-include_once 'config.php';
 
 function goto_regex(\SplFileObject $file, string $regex) : void
 { 
@@ -37,7 +36,10 @@ class TimelineCreator {
          $line = $file->fgets();
           
          // We exit when a line starts with "== "
-         $rc = preg_match("/^== /", $line); 
+         $rc = preg_match("/^== /", $line);  
+         
+         // Convert any "xref:petzen-" to be "xref:petzen:petzen-"
+         $line = preg_replace('@(xref):(petzen-)@', "$1:petzen:$2", $line);
       
          if ($rc === 1) 
              break;
@@ -46,6 +48,8 @@ class TimelineCreator {
       }
    }
 }
+
+$config = \yaml_parse_file('./config.yml');
 
 foreach ($config['timelines'] as $timeline) {
     
