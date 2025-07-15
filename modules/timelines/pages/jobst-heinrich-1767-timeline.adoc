@@ -13,6 +13,16 @@
 |===
 
 == 1778 Jobst Heinrich Kruckeberg Confirmation
+
+.Confirmant
+[%header,width="40%",cols="3,2,2"]
+|===
+|Name|Locality|Date Confirmed
+
+|Jobst Heinrich Kruckeberg|Berenbusch|26 Apr. 1778 = +
+Dominica Quasimodogeniti
+|===
+
 == 1790 Jobst Heinrich Kruckeberg Marriage
 
 .Family Relationship  Facts for October 12, 1790 Marriage
