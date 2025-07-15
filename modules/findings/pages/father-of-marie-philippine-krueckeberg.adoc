@@ -5,7 +5,7 @@ another Johann Heinrich Krückeberg who was still alive?
 
 == Backround
 
-*Reference:* Refer to this xref:timelines:jhk-timeline.adoc[timeline snapshots] for Johann Heinrich Krückeberg (1767-1805).  
+*Reference:* Refer to this xref:timelines:johann-heinrich-k-1744.adoc[timeline snapshots] for Johann Heinrich Krückeberg (1767-1805).  
 
 As is true of all marriage records of this time period, the mother of Marie Philippine Krückeberg born 1794 in Steinbergen is not mentioned
 in her xref:petzen:petzen-band2-image27-2.adoc[May 12, 1812, marriage record] only her father. The column for the bride labeled *"Name, Religion, "Geburtsort und Wohnort der Braut"* (*"name, religion,

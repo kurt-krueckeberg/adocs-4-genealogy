@@ -32,7 +32,7 @@ On 12 October 1790, Jobst Heinrich Krückeberg, a cobbler from Berenbusch No 10,
 |===
 |Death Date
 
-|xref:petzen-band2-image314.adoc[21 Oct. 1822]
+|xref:petzen:petzen-band2-image314.adoc[21 Oct. 1822]
 |===
 
 .Nachträge for Philippine Christine Eleonore Tegtmeyer
@@ -69,7 +69,7 @@ The baptism of Philippine Caroline Christine Kruckebergen 1792, page 105.
 |===
 |Fact|Date
 
-|Married|xref:petzen-band2-image27.adoc[23 Feb. 1812]
+|Married|xref:petzen:petzen-band2-image27.adoc[23 Feb. 1812]
 
 |Married 2^nd^ time|11 May 1834
 
@@ -255,7 +255,7 @@ Getrauten und Gestorbenen 1785-1827".
 |===
 |Birth|2^nd^ Marriage|Death
 
-|xref:petzen-band2-image55.adoc[1 Feb. 1792]|11 May 1834|26 Oct. 1870
+|xref:petzen:petzen-band2-image55.adoc[1 Feb. 1792]|11 May 1834|26 Oct. 1870
 |===
 
 .Bride Philippine Caroline Krückeberg's Father Facts
