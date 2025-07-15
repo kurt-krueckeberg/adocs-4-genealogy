@@ -1,0 +1,31 @@
+= Carl Philip Heinrich Krückeberg [1750-?] Timeline
+:page-role: doc-width
+
+== 1750 Carl Philip Krückeberg Baptism
+
+.Family Information
+[width="50%"]
+|===
+|Child Baptized|Baptism Date|Family Residence|Trade
+
+|Carl Philip Krückeberg|4 Nov. 1750|Bernbusch|linen weavers
+|===
+
+.Godfather
+[width="30%"]
+|===
+|Name
+
+|Fahlsing's son from Evesen
+|===
+
+== 1764 Carl Krückeberg Confirmation
+
+.Confirmand
+[%header,width="40%"]
+|===
+|Name|Date of Confirmation|Residence
+
+|Carl Krückeberg|1764|Berenbusch
+|===
+
