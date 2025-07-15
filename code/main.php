@@ -49,10 +49,6 @@ class TimelineCreator {
 
 foreach ($config['timelines'] as $timeline) {
     
-        // Debug
-    echo $config['output_folder'] . "\n";
-    echo $timeline['output_file'] . "\n";
-
         $creator = new TimelineCreator($config['output_folder'] . $timeline['output_file'], $timeline['page_header']);
         
         $input_folder = $timeline['input_folder'];
