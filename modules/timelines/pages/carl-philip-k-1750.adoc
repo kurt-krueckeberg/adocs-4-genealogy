@@ -2,6 +2,7 @@
 :page-role: doc-width
 
 == xref:petzen:petzen-band1a-image180.adoc[1750 Carl Philip Krückeberg Baptism]
+
 .Family Information
 [width="50%"]
 |===
@@ -19,6 +20,7 @@
 |===
 
 == xref:petzen:petzen-band1a-image313.adoc[1764 Carl Krückeberg Confirmation]
+
 .Confirmand
 [%header,width="40%"]
 |===

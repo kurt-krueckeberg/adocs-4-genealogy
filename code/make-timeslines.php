@@ -34,7 +34,7 @@ class TimelineCreator {
 
       $header = substr($line,2); // skip over "= ".
      
-      $xref = "== xref:" . $this->module . ":" . $fname . '[' . $header . ']';
+      $xref = "== xref:" . $this->module . ":" . $fname . '[' . $header . ']' . "\n";
 
       $this->ofile->fwrite($xref);
       
