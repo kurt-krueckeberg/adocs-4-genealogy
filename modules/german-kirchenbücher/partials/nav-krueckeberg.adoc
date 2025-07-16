@@ -30,6 +30,7 @@
 * xref:petzen:petzen-band2-image55.adoc[]
 * xref:petzen:petzen-band2-image59-60.adoc[]
 * xref:petzen:petzen-band2-image230.adoc[]
+* xref:petzen:petzen-band2-image27-2-birth.adoc[]
 * xref:petzen:petzen-band2-image192.adoc[]
 * xref:petzen:petzen-band2-image70.adoc[]
 * xref:petzen:petzen-band2-image71.adoc[]
