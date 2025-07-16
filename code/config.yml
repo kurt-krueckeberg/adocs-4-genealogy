@@ -17,6 +17,7 @@ timelines:
     module: petzen
     input_files:
       - petzen-band1a-image167.adoc
+      - petzen-band2-image27-2-birth.adoc
   - output_file: carl-philip-k-1750.adoc
     page_header: |
       = Carl Philip Heinrich Krückeberg [1750-?]
@@ -56,7 +57,6 @@ timelines:
       - petzen-band2-image52.adoc
       - petzen-band2-image59-60.adoc
       - petzen-band2-image230.adoc
-      - petzen-band2-image27-2-birth.adoc
       - petzen-band2-image71.adoc
       - petzen-band2-image82-1.adoc
       - petzen-band2-image243.adoc
