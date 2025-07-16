@@ -1,8 +1,7 @@
 = Carl Philip Heinrich Krückeberg [1750-?]
 :page-role: doc-width
 
-== 1750 Carl Philip Krückeberg Baptism
-
+== xref:petzen:petzen-band1a-image180.adoc[1750 Carl Philip Krückeberg Baptism]
 .Family Information
 [width="50%"]
 |===
@@ -19,8 +18,7 @@
 |Fahlsing's son from Evesen
 |===
 
-== 1764 Carl Krückeberg Confirmation
-
+== xref:petzen:petzen-band1a-image313.adoc[1764 Carl Krückeberg Confirmation]
 .Confirmand
 [%header,width="40%"]
 |===
