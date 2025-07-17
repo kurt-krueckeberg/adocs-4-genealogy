@@ -1,5 +1,14 @@
 = Plans
 
+== TODO
+
+. Check out this record on Ancestry's Library Edition in Genealogy Center:
+** https://www.familysearch.org/ark:/61903/1:1:VH7C-TCF?lang=en  It was used to validate the baptism of Anne Marie Philippine Kruckeberg. +
+On Archion the link:https://www.archion.de/de/viewer/churchRegister/131705?cHash=5a4efb5d5c47390c81c34fb952a84be4[baptism entries for 1795]
+are virtually unreadable, but at first glance, there does not appear to be a Kruckeberg entry.
+. Look up the Schaumburg-Lippe Auswanderer volume in the Genealogy Center
+. Look up the pages/image number related to the Naturalization of the Adams County Krückebergs.
+
 == Proof Argument
 
 The plan is to use the Imanuel Church book to verify the family certificate.
