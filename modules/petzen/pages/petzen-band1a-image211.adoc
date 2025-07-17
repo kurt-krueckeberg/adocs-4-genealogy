@@ -17,20 +17,11 @@
 
 
 .Godfather
+[width="40%",cols="1,2"]
 |===
 |Name|Location
 
 |Rösener| Evesen im kurzen Bruche +
-(in the small marshy area of Evesen)
-|===
-
-
-.Family Relationship 
-[cols="3,3,2,2,1,3",width="90"]
-|===
-|Father|Child|Residence|Baptism Date|Godfather|Godfather's Residence
-
-|Johann Heinrich Krückeberg|Jobst Heinrich Krückeberg|Berenbusch|24 Mar. 1765|Rösener| Evesen im kurzen Bruche +
 (in the small marshy area of Evesen)
 |===
 
