@@ -23,6 +23,11 @@ Circuit Court Order Book.
 Vahlsing in 1727, because none these "children"'s later birth or confirmation or marriage records mention either parent--but the death 
 record might.
 
+== Hire a Research
+
+After getting all the information we have, write up a research question or problem that we want answered and hire
+someone in Germany.
+
 == Go Through and Organize the Bückeburg Documents
 
 * Get titles for these documents and associate them with the folder.
@@ -32,6 +37,10 @@ record might.
 == Finish "Stand" Statistics
 
 See xref:rearch:stand-meaning.adoc[]
+
+== Organize Research Threads
+
+Complete any easy ones.
 
 == Note Nachträge and Weiland Relationships
 
