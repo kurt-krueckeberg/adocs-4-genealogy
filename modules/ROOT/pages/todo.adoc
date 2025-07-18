@@ -1,33 +1,47 @@
-= Plans
+= TODO
 
-== TODO
+== In Genealogy Center 
 
-. Check out this record on Ancestry's Library Edition in Genealogy Center:
-** https://www.familysearch.org/ark:/61903/1:1:VH7C-TCF?lang=en  It was used to validate the baptism of Anne Marie Philippine Kruckeberg. +
-On Archion the link:https://www.archion.de/de/viewer/churchRegister/131705?cHash=5a4efb5d5c47390c81c34fb952a84be4[baptism entries for 1795]
+[arabic,start="1"]
+. Look for the baptism record for Anne Marie Philippine Kruckeberg, born 1795, and baptismed in
+Dankersen, Minden, Westfalen, Preußen. She is a prospective daughter of Johann Henrich Kruckeberg and 
+Philippine Dorothea Buecken, but her surname is *Boecker* in thisFamilySearch record: 
+** https://www.familysearch.org/ark:/61903/1:1:VH7C-TCF?lang=en  
+That was used to validate the baptism of Anne Marie Philippine Kruckeberg. 
++
+The Archion Dankersen link:https://www.archion.de/de/viewer/churchRegister/131705?cHash=5a4efb5d5c47390c81c34fb952a84be4[baptism entries for 1795]
 are virtually unreadable, but at first glance, there does not appear to be a Kruckeberg entry.
-. Look up the Schaumburg-Lippe Auswanderer volume in the Genealogy Center
-. Look up the pages/image number related to the Naturalization of the Adams County Krückebergs.
+. Look up the Schaumburg-Lippe Auswanderer volume in the Genealogy Center.
+. Look up the pages/image number related to the Naturalization of the Adams County Krückebergs. I forgot to get the index numbers from the Adams
+Circuit Court Order Book.
 
-== Proof Argument
+== Create List of Names for Bückeburg Research
 
-The plan is to use the Imanuel Church book to verify the family certificate.
-This would include using the biographies of Johan Heinrich and Carl Wilhelm
-Heinrich , along with other Church events and any statistical or other related
-information in the church book and the addenda can be used to link records. 
+[arabic,start="1"]
+. This would include Carl Heinrich and Johann Heinrich Philip Bleeke families, Johann Heinrich and Carl Friedrich Krückeberg families.
+. It would include looking for the death records of those who are prospective children of Johan Henrich Krückeberg, who married Anna Maria
+Vahlsing in 1727, because none these "children"'s later birth or confirmation or marriage records mention either parent--but the death 
+record might.
 
-Then to use the addenda to the records from the petzen church along with the
-church events that I found for our family to show the accuracy of what we
-believe: that there are only two families in Pittston and were one of them
+== Go Through and Organize the Bückeburg Documents
+
+* Get titles for these documents and associate them with the folder.
+* Back them up
+* Have them translated--if they could possibley shed light on my Krückebergs.
+
+== Finish "Stand" Statistics
+
+See xref:rearch:stand-meaning.adoc[]
 
 == Note Nachträge and Weiland Relationships
 
-Johann Heinrich Wilhelm Krückeberg, who was baptiyed in 1767, namedßßat least his 2nd and 3rd
+Johann Heinrich Wilhelm Krückeberg, who was baptiyed in 1767, named at least his 2nd and 3rd
 given names, after his godfather.
 
 == Resarch these topcis and Read this Material
 
 === Naploeonic Wars
+
 * _A Short Introduction to the Napoleonic Wars_ to answer:
 ** how much of Napoleon's Army was eventually German?
 ** At what point did it become a partially German, and what percent of the soldiers
