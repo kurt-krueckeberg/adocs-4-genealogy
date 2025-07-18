@@ -3,12 +3,17 @@
 
 == Family Information
 
-.Confirmand Information
+[caption="Ilse Margaretha Krückeberg: "]
+.Family Relationship Information
 [width="55%",cols="3,3,2"]
 |===
-|Name|Father|Residence
+| ||Baptism Date
 
-|Ilse Margaretha Krückeberg|Johann Heinrich Krückberg|Bernbusch
+|*Father*|Johann Heinrich Krückberg|
+
+|*Infant Daughter*|Ilse Margaretha Krückeberg| Sept. 16, 1759
+
+|*Residence*|Bernbusch|
 |===
 
 .Godmothers
