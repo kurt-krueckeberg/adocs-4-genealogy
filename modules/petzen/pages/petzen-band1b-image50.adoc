@@ -1,4 +1,4 @@
-= 1758 Johann Heinrich Krückeberg Marriage
+= 1758 Johan Henrich Krückeberg Marriage
 :page-role: doc-width
 
 == Family Relationship 
@@ -10,14 +10,14 @@
 Date|Locality (at time
 of marriage)
 
-|*Groom*|Johann Heinrich Krückeberg|Sep. 29 1758|Berenbusch
+|*Groom*|Johan Henrich Krückeberg|Sep. 29 1758|Berenbusch
 
 |*Bride*|Ilse Margarethe Rösener|Sep. 29 1758|Evesen
 |===
 
 == Citation
 
-The January 29, 1758, marriage of Johann Henirch Krückeberg to Ilse Margarethe Rösener is on <<image50, image 50>>,
+The January 29, 1758, marriage of Johan Henirch Krückeberg to Ilse Margarethe Rösener is on <<image50, image 50>>,
 the right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 == Marriage Record
