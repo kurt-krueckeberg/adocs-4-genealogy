@@ -7,7 +7,7 @@
 .Family Relationship Information
 [width="55%",cols="3,3,2"]
 |===
-| |Name/Place|Baptism Date
+| |Name or Place|Baptism Date
 
 |*Father*|Johann Heinrich Krückberg|
 
