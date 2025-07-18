@@ -1,4 +1,4 @@
-= 1727 Johann Heinrich Krückkeberg Marriage
+= 1727 Johann Henrich Krückkeberg Marriage
 :page-role: doc-width
 
 == Family Relationship 
@@ -10,14 +10,14 @@
 Date|Locality (at time
 of marriage)
 
-|*Groom*|Johann Heinrich Kruckkeberg|Sep. 28 1727|Berenbusch
+|*Groom*|Johann Henrich Kruckkeberg|Sep. 28 1727|Berenbusch
 
 |*Bride*|Anna Maria Vahlsing|Sep. 28 1727|Evesen
 |===
 
 == Citation
 
-The September 28, 1728, marriage of Johann Henirch Krückeberg to Anna Maria Vahlsing is on <<image36, image 36>>, the right-hand
+The September 28, 1728, marriage of Johann Henrich Krückeberg to Anna Maria Vahlsing is on <<image36, image 36>>, the right-hand
 page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
 
 == Marriage Record
