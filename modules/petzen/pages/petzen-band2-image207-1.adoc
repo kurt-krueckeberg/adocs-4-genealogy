@@ -1,14 +1,29 @@
-= 1811 Anne Christine Louise Krückeberg Confirmation
+= 1811 Anne Christine Leonore Krückeberg Confirmation
 :page-role: doc-width
 
 == Family Relationship and Other Facts
 
-.Confirmand's Family Group
+.Confirmant's Family Group
 [cols="3,3,3,2,2,2"]
 |===
-|Father|Mother|Child/Confirmand|Address|Child's Birthdate|Date of Confirmation
+|Father|Mother|Child/Confirmant|Address|Child's Birthdate|Date of Confirmation
 
 |Jobst Heinrch Kruckeberg|Anne Christine Philippine née Tegtmeier|Anne Christine Lenore Krückebergs|no. 10 Bärenbusch|14 Feb. 1798|7 April 1811
+|===
+
+
+.Confirmant's Family Group
+[cols="2,4,2,2",width="55%"]
+|===
+||Name or Address|Child's Birthdate|Date of Confirmation
+
+|*Father* 3+|Jobst Heinrch Kruckeberg
+
+|*Mother* 3+|Anne Christine Philippine née Tegtmeier
+
+|*Child/Confirmant*|Anne Christine Lenore Krückeberg|Feb. 14, 1798| April 7, 1811
+
+|*Address* 3+|no. 10 Bärenbusch
 |===
 
 == Citation
