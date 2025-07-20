@@ -36,7 +36,7 @@ someone in Germany.
 
 == Finish "Stand" Statistics
 
-See xref:rearch:stand-meaning.adoc[]
+See xref:research:stand-meaning.adoc[]
 
 == Organize Research Threads
 

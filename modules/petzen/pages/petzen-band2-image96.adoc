@@ -12,7 +12,7 @@
 |Carl Friedrich Krückeberg|no. 14 Bärenbusch
 |===
 
-IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanation xref:finding:proof-arg-philippine-eleonore.adoc[here].
+IMPORTANT: *Bleeken* is in error. It should be *Werkmeister*. See the explanation xref:findings:proof-arg-philippine-eleonore.adoc[here].
 
 .Child Facts
 [%header,cols="3,3,2,2,2,2",width="80%"]
@@ -145,7 +145,7 @@ aus Bärenbusch
 |===
 
 NOTE: As mentioned above, the maiden name *Bleeken* is in error in the church register. It should be *Werkmeister*. See the explanation
-xref:finding:proof-arg-philippine-eleonore.adoc[here].
+xref:findings:proof-arg-philippine-eleonore.adoc[here].
 
 [caption="Translation: "]
 .Carl Friedrich Krückeberg Baptism
