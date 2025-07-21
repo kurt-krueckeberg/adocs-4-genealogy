@@ -1,8 +1,8 @@
-= 1775 Anna Ilsa Margaretha Blecke Baptism 
+= 1775 Anna Ilsa Margaretha Blecken Baptism 
 :page-role: doc-width
 
-The baptism record for Anna Ilse Blecke appears on <<image247, image 247>>, on the
-right-hand page, entry #43, the third entry from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
+The baptism record for Anna Ilse Blecken appears on <<image247, image 247>>, on the right-hand page,
+entry #43, the third entry from the top, of the Petzen "Verzeichnis der Getauften und Konfirmierten 1641-1784".
 
 == Baptism Record
 
@@ -12,21 +12,24 @@ image::petzen-band1a-img247-blecken.jpg[align=left,title='Ann Ilse Blecke (Click
 
 .Transliteration
 ....
-43)  d. 12t[en] Decembr ist getaufft An̄a Ilsa Margaretha Blecken
+43)  d. 12t Decembr ist getaufft An̄a Ilsa Margaretha Blecken
 des Johann Heinrich Bleken aus Evesen No 11 mit
 seiner Ehefrau Ilse Margarethe Elisabeth
 geb. Möllern erzeugtes Töchterlein. Die Gevatterie
 war Margaretha Elisabeth Bruns aus Evesen
+bei der Brücke
++ 4. Mai 1846
 ....
-
 
 .Translation
 ....
 On the 12th of December Anna Ilsa Margaretha Blecken, the 
 begotton daughter of Johann Heinrich Bleken from Evesen No. 11, by
-his wife Ullse Margarethe Elisabeth
+his wife Ilsee Margarethe Elisabeth
 nee Möller, was baptized. The godmothers
-was Margaretha Elisabeth Bruns from Evesen  
+were Margaretha Elisabeth Bruns from Evesen  
+by the bridge
++ May 4, 1846
 ....
 
 
