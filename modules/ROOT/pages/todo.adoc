@@ -1,5 +1,9 @@
 = TODO
 
+== Niedersächishes Landesarchiv Bückeburg
+
+* link:https://www.arcinsys.niedersachsen.de/arcinsys/llist?nodeid=g213693&page=1&reload=true&sorting=41[Bauerngüter (Farms) in Berenbusch]
+
 == In Genealogy Center 
 
 [arabic,start="1"]
