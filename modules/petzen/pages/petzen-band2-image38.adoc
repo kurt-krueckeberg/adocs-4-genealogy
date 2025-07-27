@@ -1,5 +1,5 @@
 = Images Baptisms 
-:page-role: doc-width
+:page-role: wide
 
 == Not Yet Done 
 

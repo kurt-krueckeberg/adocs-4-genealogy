@@ -1,5 +1,5 @@
 = 1802 Widower Johann Heinrich Krückeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

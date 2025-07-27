@@ -1,5 +1,5 @@
 = 1789 Johann Heinrich Weiland Baptism 
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

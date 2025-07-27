@@ -1,5 +1,5 @@
 = 1713 Catherina Margarethe Bleeck Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

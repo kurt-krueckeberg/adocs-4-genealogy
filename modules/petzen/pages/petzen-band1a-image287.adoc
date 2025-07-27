@@ -1,5 +1,5 @@
 = 1783 Phlippina Eleonore Werkmeister Baptism
-:page-role: doc-width
+:page-role: wide
 
 The baptism record for Phlippina Eleonore Werkmeister Baptism is on <<image287, image 287>>, left page, the first entry, of the
 "Verzeichnis der Getauften und Konfirmierten 1641-1784".

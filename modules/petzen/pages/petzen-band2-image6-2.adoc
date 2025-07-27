@@ -1,5 +1,5 @@
 = 1790 Anna Maria Weiland Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

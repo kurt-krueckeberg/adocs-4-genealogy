@@ -1,5 +1,5 @@
 = 1721 Catharine Elisabeth Bleeck Baptism    
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

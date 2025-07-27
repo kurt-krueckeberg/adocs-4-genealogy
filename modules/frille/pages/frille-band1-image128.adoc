@@ -1,5 +1,5 @@
 = 1739 Carl Friedrich Bleke Birth
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

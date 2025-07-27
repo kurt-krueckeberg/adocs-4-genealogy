@@ -1,5 +1,5 @@
 = 1755 Sophie Maria Krückeberg Confirmation 
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

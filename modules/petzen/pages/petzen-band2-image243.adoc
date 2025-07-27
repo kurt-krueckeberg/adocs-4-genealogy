@@ -1,5 +1,5 @@
 = 1805 Johann Henrich Krickeberg Death
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

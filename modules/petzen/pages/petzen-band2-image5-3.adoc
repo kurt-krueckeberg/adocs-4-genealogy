@@ -1,5 +1,5 @@
 = 1790 Jobst Heinrich Kruckeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

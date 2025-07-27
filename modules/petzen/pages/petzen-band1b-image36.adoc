@@ -1,5 +1,5 @@
 = 1727 Johann Henrich Krückkeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship 
 

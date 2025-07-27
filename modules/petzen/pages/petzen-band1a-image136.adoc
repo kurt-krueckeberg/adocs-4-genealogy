@@ -1,5 +1,5 @@
 = 1726 Annna Maria Elisabeth Bleek[e] Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

@@ -1,5 +1,5 @@
 = 1790 Friderich Wilhelm Weiland Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

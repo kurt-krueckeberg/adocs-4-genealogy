@@ -1,5 +1,5 @@
 = Timeline
-:page-role: doc-width timeline
+:page-role: wide timeline
 
 ++++
 <div class="tl-wrapper">

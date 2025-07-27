@@ -1,5 +1,5 @@
 = Page 78
-:page-role: doc-width
+:page-role: wide
 
 image::47.jpg[align=left,title='Page 77 (Click to enlarge)',link=self]
 

@@ -1,5 +1,5 @@
 = 1757 Anna Maria Krückeberg Burial
-:page-role: doc-width
+:page-role: wide
 
 == Family Group and Other Facts
 

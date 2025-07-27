@@ -1,6 +1,6 @@
 = 1804 Johann Heinrich Kleinschmidt
-:page-role: doc-width
-:page-role: doc-width
+:page-role: wide
+:page-role: wide
 
 In 1804 Johann Heinrich Kleinschmidt, son... 
 

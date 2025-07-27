@@ -1,5 +1,5 @@
 = Progress Notes on Petzen Vol1: Getauften und Konfirmierten, 1641-1784 
-:page-role: doc-width
+:page-role: wide
 
 [caption="Table of: "]
 .Pages done fom Petzen: vol1 of Getauften und Konfirmirten, 1641-1784

@@ -1,5 +1,5 @@
 = 1817 Christine Philippine Krückeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship Facts
 

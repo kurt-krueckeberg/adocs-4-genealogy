@@ -1,5 +1,5 @@
 = Blecke, page 24
-:page-role: doc-width
+:page-role: wide
 
 Below is the transliteration, followed by its translation, of the text from <<page24, page 24>> of the Kirchenbuch of the North German Lutheran Church (Norddeutsche Lutherische Kirche)
 of Cincinnati for the years 1838-1855, which is shown below:

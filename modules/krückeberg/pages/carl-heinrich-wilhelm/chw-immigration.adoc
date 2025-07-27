@@ -1,5 +1,5 @@
 = Immigration
-:page-role: doc-width
+:page-role: wide
 
 The Carl Friedrich Krückeberg family arrived in Castle Garden, New York City, on 19 November 1850, on the ship Hermine
 that departed from the port of Bremen. The parents and the three oldest children are listed together; however, the three

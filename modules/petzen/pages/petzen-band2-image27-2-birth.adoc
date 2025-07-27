@@ -1,5 +1,5 @@
 = 1794 Marie Philippine Krückeberg Birth
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

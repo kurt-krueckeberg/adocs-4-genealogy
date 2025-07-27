@@ -1,5 +1,5 @@
 = 1789 Christine Eleonore Weiland 
-:page-role: doc-width
+:page-role: wide
 
 == Christine Eleonore Weiland 1789
 

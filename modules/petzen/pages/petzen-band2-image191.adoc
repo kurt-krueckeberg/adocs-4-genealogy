@@ -1,5 +1,5 @@
 = 1792 Carl Friedrich Gottlieb Kruckeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Reference
 

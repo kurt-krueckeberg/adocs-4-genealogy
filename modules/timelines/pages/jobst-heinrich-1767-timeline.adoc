@@ -1,5 +1,5 @@
 = Jobst Heinrich Krückeberg [1765-1822]
-:page-role: doc-width
+:page-role: wide
 
 == xref:petzen:petzen-band1a-image211.adoc[1765 Jobst Heinrich Krückeberg Baptism]
 

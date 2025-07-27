@@ -1,5 +1,5 @@
 = 1821 Carl Friedrich Krückeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 The confirmation of Carl Friedrich Krückeberg is on <<image212, image 212>>, on page 449. His name appears in the 
 top left column of confirmed **Knaben** or boys. He is listed third.

@@ -1,5 +1,5 @@
 = 1811 Christine Louise Krückeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

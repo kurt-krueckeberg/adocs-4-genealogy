@@ -1,5 +1,5 @@
 = Map of the Villages Surrounding Evesen
-:page-role: doc-width
+:page-role: wide
 
 Evesen was the Standamt or Civil Registration Office when Meyer's Gazetteer was made in the 1870s. 
 

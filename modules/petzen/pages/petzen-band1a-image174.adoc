@@ -1,5 +1,5 @@
 = 1746 Anna Louisa Eleonora Krückeberg Baptism 
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship 
 

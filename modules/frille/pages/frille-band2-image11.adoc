@@ -1,5 +1,5 @@
 = 1760 Charlotte Lou[i]se Henriette Bleeke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

@@ -1,5 +1,5 @@
 = Image 49 Baptism 1790
-:page-role: doc-width
+:page-role: wide
 
 == Eleonore Louisa Weiland 1790 Baptism
 

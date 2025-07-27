@@ -1,5 +1,5 @@
 = 1804 Marie Louise Bleeke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

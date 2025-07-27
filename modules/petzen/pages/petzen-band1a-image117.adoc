@@ -1,5 +1,5 @@
 = 1710 Henrich Bleecke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

@@ -1,5 +1,5 @@
 = 1773 Widower Johann Heinrich Krückkeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship 
 

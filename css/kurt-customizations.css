@@ -1,12 +1,22 @@
-body.doc-width .doc
+body.wide .doc
 {
    max-width: 80rem;  /* Changing this to 'none' widens the page */
 }
 
 @media screen and (min-width:1024px) {
-   body.doc-width .doc {
+   body.wide .doc {
       max-width: 85rem; /* Changing this to 'none' widens the page */
    }
+}
+
+/* When ':page-role: wide' is used, images will have shadwow-border. */
+body.wide .imageblock img {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  background: white;
+  padding: 6px;
+  max-width: 100%;
+  height: auto;
 }
 
 .grid-container {
@@ -54,7 +64,7 @@ body.timeline {
   background: #3ea0e2; 
 }
 
-body.timeline.doc-width .doc {
+body.timeline.wide .doc {
   max-width: none;
 }
 

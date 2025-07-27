@@ -1,5 +1,5 @@
 = 1809 Wilhelmine Leonore Weiland Baptism 
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

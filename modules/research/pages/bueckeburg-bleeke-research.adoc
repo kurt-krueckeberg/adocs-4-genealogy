@@ -1,5 +1,5 @@
 = Missing Original Church Register Entries for Bleekes
-:page-role: doc-width
+:page-role: wide
 
 == Background
 

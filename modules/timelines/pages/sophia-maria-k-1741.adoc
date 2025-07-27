@@ -1,5 +1,5 @@
 = Sophia Maria Krückeberg [1741-1801]
-:page-role: doc-width
+:page-role: wide
 
 == xref:petzen:petzen-band1a-image163.adoc[1741 Sophia Maria Kruekeberg Baptized]
 

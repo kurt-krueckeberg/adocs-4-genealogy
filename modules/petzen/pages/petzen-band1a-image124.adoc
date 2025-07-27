@@ -1,5 +1,5 @@
 = 1716 Anna Engel Bleeke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

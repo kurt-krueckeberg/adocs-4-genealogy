@@ -1,5 +1,5 @@
 = 1778 Stillborn son of Johann Christian Weiland
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

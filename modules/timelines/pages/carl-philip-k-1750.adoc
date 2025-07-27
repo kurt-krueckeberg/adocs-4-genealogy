@@ -1,5 +1,5 @@
 = Carl Philip Heinrich Krückeberg [1750-?]
-:page-role: doc-width
+:page-role: wide
 
 == xref:petzen:petzen-band1a-image180.adoc[1750 Carl Philip Krückeberg Baptism]
 

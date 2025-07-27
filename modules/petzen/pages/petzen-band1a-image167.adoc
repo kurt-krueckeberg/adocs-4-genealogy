@@ -1,5 +1,5 @@
 = 1744 Johann Heinrich Krückeberg Baptized
-:page-role: doc-width
+:page-role: wide
 
 .Johann Heinrich Baptism
 [width="55%"]

@@ -1,5 +1,5 @@
 = 1736 Hans Heinrich Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

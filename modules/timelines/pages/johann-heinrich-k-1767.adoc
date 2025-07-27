@@ -1,5 +1,5 @@
 = Johann Heinrich Krückeberg [1767-1805]
-:page-role: doc-width
+:page-role: wide
 
 == xref:petzen:petzen-band1a-image220.adoc[1767 Johann Heinrich Wilhelm Kruckeberg Baptism]
 

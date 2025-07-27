@@ -1,5 +1,5 @@
 = 1741 Sophia Maria Kruekeberg Baptized
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

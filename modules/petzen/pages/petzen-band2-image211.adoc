@@ -1,5 +1,5 @@
 = Image 211 Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Citations
 

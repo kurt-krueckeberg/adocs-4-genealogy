@@ -1,5 +1,5 @@
 = 1764 Carl Krückeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship 
 

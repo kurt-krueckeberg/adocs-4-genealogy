@@ -1,5 +1,5 @@
 = 1754 Anna Ilse Margaret Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 This is the baptism record of Jobst Heinrich Weiland "Register of Baptism and Confirmed of the Petzen Parish, 1641-1784", image 199.
 

@@ -1,5 +1,5 @@
 = 1803 Carl Friedrich Gottlieb Krückeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

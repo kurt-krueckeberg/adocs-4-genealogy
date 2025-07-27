@@ -1,5 +1,5 @@
 =  Carl Friedrich Krückeberg Naturalization
-:page-role: doc-width
+:page-role: wide
 
 These images are from the FamilySearch collection of link:https://www.familysearch.org/en/search/catalog/1150012[Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court],
 which are only viewable at: 

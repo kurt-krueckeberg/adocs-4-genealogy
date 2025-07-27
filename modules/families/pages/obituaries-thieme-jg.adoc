@@ -1,5 +1,5 @@
 = Johann Gottlieb Thieme 1821-1898
-:page-role: doc-width
+:page-role: wide
 
 == Fort Wayne Sentinel and Journal Gazette
 

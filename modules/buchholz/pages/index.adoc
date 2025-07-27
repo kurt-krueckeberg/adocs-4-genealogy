@@ -1,5 +1,5 @@
 = Buchholz Kirchenbücher
-:page-role: doc-width
+:page-role: wide
 
 TODO: Explain when the volumes begun. Why they exist and what contents they contain.
 

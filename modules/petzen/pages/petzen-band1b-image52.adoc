@@ -1,5 +1,5 @@
 = 1761 Johann Heinrich Krückeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship 
 

@@ -1,5 +1,5 @@
 = 1778 Sophia Eleonora Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 This is the baptism record of varl Friderich Gottlieb Krückeberg from "database with images", image 261.
 

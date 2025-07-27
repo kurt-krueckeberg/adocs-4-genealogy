@@ -1,5 +1,5 @@
 = Maria Louise Eleonore Bleeke Confirmation Record
-:page-role: doc-width
+:page-role: wide
 
 Below is the <<confirmation-zion-friedheim, confirmation record for Maria
 Louise Eleonore Bleeke>>, daughter of Johann Heinrich Philip Bleeke, found in

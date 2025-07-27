@@ -1,5 +1,5 @@
 = 1808 Caroline Sophie Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

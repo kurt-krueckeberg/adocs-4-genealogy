@@ -1,5 +1,5 @@
 = 1816 Christine Louise Krückeberg Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

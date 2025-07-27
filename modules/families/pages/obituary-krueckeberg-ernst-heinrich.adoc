@@ -1,4 +1,4 @@
 = Ernst Heinrich Krucekberg
-:page-role: doc-width
+:page-role: wide
 
 == TODO

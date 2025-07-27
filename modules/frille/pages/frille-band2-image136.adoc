@@ -1,5 +1,5 @@
 = 1797 Johann Heinrich Philip Bleeke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

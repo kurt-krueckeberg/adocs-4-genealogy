@@ -1,5 +1,5 @@
 = 1822 Johann Heinrich Krückeberg Death
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

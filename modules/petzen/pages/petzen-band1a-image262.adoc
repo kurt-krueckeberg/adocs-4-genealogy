@@ -1,5 +1,5 @@
 = 1779 Sophia Margaretha Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

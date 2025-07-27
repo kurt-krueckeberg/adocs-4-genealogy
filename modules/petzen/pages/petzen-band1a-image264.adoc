@@ -1,5 +1,5 @@
 = 1779 Carl Friderich Gottlieb Kruckeberg Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

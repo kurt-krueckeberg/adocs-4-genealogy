@@ -1,5 +1,5 @@
 = 1777 Friderich Wilhelm Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

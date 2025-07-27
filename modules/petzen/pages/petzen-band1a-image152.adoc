@@ -1,5 +1,5 @@
 = 1736 Dorothea Elisabeth Krückeberg Baptized
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

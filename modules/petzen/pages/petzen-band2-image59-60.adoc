@@ -1,5 +1,5 @@
 = 1793 Philippina Eleonora Kruckebergen Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

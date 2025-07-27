@@ -1,5 +1,5 @@
 = 1815 Heinrich Wilhelm Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

@@ -1,5 +1,5 @@
 = 1739 Johann Wilhelm Kruckeberg Baptized
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

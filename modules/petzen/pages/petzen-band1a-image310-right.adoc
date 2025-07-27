@@ -1,5 +1,5 @@
 = 1757 Johann Heinrich Krückeberg Confirmation 
-:page-role: doc-width
+:page-role: wide
 
 == Family Information
 

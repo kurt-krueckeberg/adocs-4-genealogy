@@ -1,5 +1,5 @@
 = 1767 Johann Heinrich Wilhelm Kruckeberg Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship 
 

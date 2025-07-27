@@ -1,5 +1,5 @@
 = 1730 Sophia Margarthe Bleeck Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

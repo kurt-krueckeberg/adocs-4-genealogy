@@ -1,5 +1,5 @@
 = Image 48 Baptism 1790
-:page-role: doc-width
+:page-role: wide
 
 == Twins Hans Heinrich and Carolina Weiland 1790
 

@@ -1,5 +1,5 @@
 = 1803 Christine Philippine Krückeberg Birth
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

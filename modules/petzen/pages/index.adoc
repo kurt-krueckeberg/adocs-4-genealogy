@@ -1,5 +1,5 @@
 = Petzen Kirchenbücher
-:page-role: doc-width
+:page-role: wide
 
 == Volumes
 

@@ -1,5 +1,5 @@
 = 1785 Friderich Weiland Marriage
-:page-role: doc-width
+:page-role: wide
 
 This is the 3rd image from link:https://archion.de[Archion]. It is the first numbered page, numbered `1`. The preceeding pages lists pastors
 who served the congregation over the years. This page records the marriage of Fridrich Weiland in 1785

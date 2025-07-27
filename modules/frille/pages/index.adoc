@@ -1,5 +1,5 @@
 = Frille Kirchenbücher Remarks 1
-:page-role: doc-width
+:page-role: wide
 
 == Organization of Frille Kirchenbücher
 

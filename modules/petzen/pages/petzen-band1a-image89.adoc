@@ -1,5 +1,5 @@
 = 1696 Hans Otto Kuckeberg/Krickeberg/Kruckeberg Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

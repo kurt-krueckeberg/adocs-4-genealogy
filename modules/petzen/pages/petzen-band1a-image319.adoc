@@ -1,5 +1,5 @@
 = 1778 Jobst Heinrich Kruckeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

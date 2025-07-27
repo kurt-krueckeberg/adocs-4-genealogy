@@ -1,5 +1,5 @@
 = 1789 Christine Maria Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Christine Maria Weiland 1789
 

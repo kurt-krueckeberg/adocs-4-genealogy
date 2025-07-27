@@ -1,5 +1,5 @@
 = 1800 Christian Friderich Bleeke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

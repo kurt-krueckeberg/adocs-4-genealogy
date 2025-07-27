@@ -1,5 +1,5 @@
 = 1805 Philippine Caroline Christine Krückeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship Facts
 

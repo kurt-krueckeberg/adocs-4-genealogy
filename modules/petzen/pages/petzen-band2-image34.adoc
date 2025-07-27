@@ -1,5 +1,5 @@
 = 1785 Image 34 Baptism
-:page-role: doc-width
+:page-role: wide
 
 Page 62 has the baptims of Philippiine Louise Weiland and page 63 has the baptims of Joahnn Heinrich Weiland.
 

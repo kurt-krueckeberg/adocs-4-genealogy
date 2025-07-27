@@ -1,5 +1,5 @@
 = 1776 Fridrich Wilhelm Bleke Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

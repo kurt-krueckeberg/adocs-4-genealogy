@@ -1,5 +1,5 @@
 = 1791 Friderich Wilhelm Krückeberg Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

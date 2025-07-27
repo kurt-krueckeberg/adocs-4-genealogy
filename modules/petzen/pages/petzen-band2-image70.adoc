@@ -1,5 +1,5 @@
 = 1798 Anne Christine Eleonore Krückeberg Birth
-:page-role: doc-width
+:page-role: wide
 
 
 == Family Relationship 

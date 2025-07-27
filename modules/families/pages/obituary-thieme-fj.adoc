@@ -1,5 +1,5 @@
 = Friedrich J Thieme 1823-1887
-:page-role: doc-width
+:page-role: wide
 
 == Fort Wayne Sentinel and Journal Gazette
 

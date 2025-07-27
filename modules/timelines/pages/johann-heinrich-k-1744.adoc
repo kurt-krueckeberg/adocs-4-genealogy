@@ -1,5 +1,5 @@
 = Johann Heinrich Krückeberg [1744-1822]
-:page-role: doc-width
+:page-role: wide
 
 == xref:petzen:petzen-band1a-image167.adoc[1744 Johann Heinrich Krückeberg Baptized]
 == xref:petzen:petzen-band2-image27-2-birth.adoc[1794 Marie Philippine Krückeberg Birth]

@@ -1,5 +1,5 @@
 = 1812 Philippine Louise Weiland Marriage
-:page-role: doc-width
+:page-role: wide
 
 == Citations
 

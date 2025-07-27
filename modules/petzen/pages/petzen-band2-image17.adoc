@@ -1,5 +1,5 @@
 = 1808 Jobst Heinrich Weiland Marriage 
-:page-role: doc-width
+:page-role: wide
 
 [NOTE]
 Unlike most previous marriage entries, the marriage entries on image 17 have more columns, which are spread across both the left and right page.

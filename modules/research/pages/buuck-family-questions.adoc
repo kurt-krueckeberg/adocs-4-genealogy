@@ -1,5 +1,5 @@
 = Buuck Family Questions
-:page-role: doc-width
+:page-role: wide
 
 == Is 'Fredrick Buck' the 'Ernst Friedrich Buuck'?
 

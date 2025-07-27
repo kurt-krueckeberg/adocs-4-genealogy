@@ -1,5 +1,5 @@
 = 1812 Ernst Heinrich Weiland Baptism
-:page-role: doc-width
+:page-role: wide
 
 This image gives extensive information:
 

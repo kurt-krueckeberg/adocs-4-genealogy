@@ -1,5 +1,5 @@
 = 1795 Johann Fridrich Bleecke Burial
-:page-role: doc-width
+:page-role: wide
 
 
 == Citation

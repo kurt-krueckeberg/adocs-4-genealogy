@@ -1,5 +1,5 @@
 = 1806 Philippine Louise Leonore Krückeberg Confirmation
-:page-role: doc-width
+:page-role: wide
 
 == Family Relationship and Other Facts
 

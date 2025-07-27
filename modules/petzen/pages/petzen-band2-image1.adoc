@@ -1,5 +1,5 @@
 = Petzen Kirchenbuch 1785-1827 II Cover
-:page-role: doc-width
+:page-role: wide
 
 == Reference
 

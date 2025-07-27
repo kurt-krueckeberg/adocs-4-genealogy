@@ -1,5 +1,5 @@
 = 1778 Sophia Ernestine Bleken Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 

@@ -1,5 +1,5 @@
 = 1770 Johann Heinrich Blecken Baptism
-:page-role: doc-width
+:page-role: wide
 
 image::petzen-band1a-img231-blecken.jpg[align=left,title='Johan Heinrich Blecken (Click to enlarge)',link=self]
 

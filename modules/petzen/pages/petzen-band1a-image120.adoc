@@ -1,5 +1,5 @@
 = 1712 Maria Elisabeth Bleek Baptism
-:page-role: doc-width
+:page-role: wide
 
 == Citation
 
