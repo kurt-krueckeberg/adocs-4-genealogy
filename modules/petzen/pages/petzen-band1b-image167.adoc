@@ -33,7 +33,9 @@ image::petzen-band1b-img167.png[title="Interment of Johann Wilhelm Krükeberg (C
 [verse]
 ____
 1747           Begraben  [page heading]                                                              
-[other entries omitted]
+
+
+[entries above omitted]
 
 d 5t Novemb. Johann Wilhelm Krückeberg
      Patris Johann Heinrich Krückeberg aus Berenbusch  
@@ -41,13 +43,14 @@ d 5t Novemb. Johann Wilhelm Krückeberg
 ____
 
 |
-    
 [verse]
 ____                                                            
-On the 5th of November, Johann Wilhelm Krückeberg,
-
-
 1747           Burials
+
+
+[entries above omitted]
+
+On the 5th of November, Johann Wilhelm Krückeberg,
 son of Johann Heinrich Krückeberg from Berenbusch,
 was buried, aged 8¾ years
 ____
