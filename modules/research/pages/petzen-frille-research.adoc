@@ -67,4 +67,4 @@ Ich hätte gerne Leib.... für:
 . Philippine Eleonore geb. Werkmeister Krückeberg, die am 5.4.83 geboren
 wurde, confirmiert am ???, gestorben am ?.?.38 
 . Philippine Christine Eleonore geb. Tegtmeyer Krückeberg, verheiratet am
-xref:petzen-band2-image5-3.adoc[Oct 12, 1790], starb xref:petzen-band2-image314[8. ??? 1849].
+xref:petzen:petzen-band2-image5-3.adoc[Oct 12, 1790], starb xref:petzen:petzen-band2-image314[8. ??? 1849].
