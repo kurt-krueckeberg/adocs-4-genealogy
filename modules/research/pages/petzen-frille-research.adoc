@@ -3,9 +3,11 @@
 These details and any Nachträge
 
 Krückeberg Familie:
- Get details from Familienschen
-1.
-2.
+Get details from Familienschen:
+
+[arabic,start=1]
+.
+.
 
 
 
@@ -24,7 +26,7 @@ Fridrich Schwier und Catharina Margaretha geboren Rösner.
 
 Ich habe ihr Geburts- und Taufregister auf Archion gefunden. Ich möchte
 bitten, die Angaben zur Heirat zu bestätigen. Ich möchte auch die 
-birh/Taufdaten ihrer Kinder bestätigen.
+Geburt/Taufdaten ihrer Kinder bestätigen.
 
 Hier sind Details über die Kinder von Carl Friedrich Bleeke, die ich
 gerne bestätigt haben möchte:
@@ -60,5 +62,9 @@ Pathen: Louise Schwier und Marie Bleeke
 
 Auch...
 
-Ich hätte gerne Leib.... für Philippine Eleonore Werkmeister, die am 5.4.85 geboren
+Ich hätte gerne Leib.... für:
+[arabic,start=1]
+. Philippine Eleonore geb. Werkmeister Krückeberg, die am 5.4.83 geboren
 wurde, confirmiert am ???, gestorben am ?.?.38 
+. Philippine Christine Eleonore geb. Tegtmeyer Krückeberg, verheiratet am
+xref:petzen-band2-image5-3.adoc[Oct 12, 1790], starb xref:petzen-band2-image314[8. ??? 1849].
