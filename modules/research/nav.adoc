@@ -1,6 +1,5 @@
 .Research Threads
 * xref:background-info.adoc[]
-* xref:jobst-heinrich-deed.adoc[]
 * xref:petzen-frille-research.adoc[]
 * xref:schaumburg-lippe-censuses.adoc[]
 * xref:stand-meaning.adoc[]
