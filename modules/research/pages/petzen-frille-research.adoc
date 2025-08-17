@@ -9,12 +9,18 @@ Get details from Familienschen:
 .
 .
 
+== Locations
 
+=== Berenbusch
+
+https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979525[Die Stätte Nr. 14 zu Berenbusch]
+
+== Inidividuals
 
 Ich hätte gerne Geburts-/Tauf-, Konfirmations- und Heiratsdaten für die folgenden zwei
 Bleeke-Brüder, die Mitglieder der Gemeinde Frille waren:
 
-Bleeke
+=== Bleeke
 
 1. Carl Fridrich Bleeke, geboren am 30. Oktober 1794 und getauft
 in der Kirche von Frille. Er wurde am 12. März 1820 in Frille
