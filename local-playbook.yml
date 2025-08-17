@@ -18,6 +18,8 @@ asciidoc:
     idseparator: "-"
     page-pagination: ""
     allow-uri-read: "yes"
+  extensions:
+   - asciidoctor-kroki
 antora:
   extensions:
 # Uncomment the pdf extension once 'Download" has been added to th title.

@@ -1,0 +1,94 @@
+= States of the Holy Roman Empire: Quick Reference
+:page-aliases: hre/states-overview
+:page-nav_order: 10
+:toc: macro
+:toclevels: 2
+
+This page summarizes the three main categories of Imperial Estates (Reichsstände)—the political communities that
+were immediate (reichsunmittelbar) to the Emperor and held a seat and vote in the Imperial Diet (Reichstag).
+
+[discrete]
+== TL;DR
+The Imperial Estates fall into three buckets: Secular principalities, Ecclesiastical principalities, and Imperial
+(Free) Cities. Together they composed the Diet; immediate groups without a seat (e.g., Imperial Knights) are not
+counted among the Estates.
+
+== Classification Table
+
+[cols="1,2,2,3", options="header"]
+|===
+| Category | Typical Rulers/Titles | Hallmarks | Example Estates (non-exhaustive)
+
+| Secular principalities
+| Dukes, counts, princes, margraves, landgraves, electors
+| Hereditary dynastic rule; territorial sovereignty within imperial law; seat in the Diet by bench (Electoral or Princes')
+| Electorate of Saxony; Duchy of Bavaria; Margraviate of Brandenburg; Landgraviate of Hesse; County of Schaumburg‑Lippe; Principality of Waldeck; Principality of Lippe-Detmold; County of Hoya; County of Castell
+
+| Ecclesiastical principalities
+| Prince-archbishops, prince-bishops, prince-abbots, imperial abbesses
+| Temporal lordship vested in a church ruler; seat in the Diet (often on the Prelates' benches); many small abbeys alongside major sees
+| Electorate/Archbishopric of Mainz; Prince‑Bishopric of Würzburg; Prince‑Bishopric of Münster; Imperial Abbey of Fulda; Imperial Abbey of Quedlinburg; Imperial Abbey of Buchau
+
+| Imperial (Free) Cities
+| Civic magistrates, councils, mayors (Reichsstädte)
+| Self-governing communes immediate to the Emperor; seat and vote in the Cities' College (often divided into Rhenish/Swabian benches)
+| Nuremberg; Lübeck; Frankfurt am Main; Augsburg; Ulm; Isny; Rothenburg ob der Tauber; Regensburg
+|===
+
+== What isn't counted as a “State of the Empire”
+
+Imperial Knights (Reichsritter): Immediate nobles with tiny lordships but no seat in the Diet.
+
+Imperial Villages: A handful of immediate rural communes; no seat in the Diet.
+
+Mediatized or subject territories: Lordships subordinated to an Estate (i.e., not immediate) are not Estates.
+
+== Key Terms (mini‑glossary)
+[horizontal]
+Imperial Estate (Reichsstand):: A polity with immediacy and a seat/vote in the Imperial Diet.
+Immediacy (Reichsunmittelbarkeit):: Direct subordination to the Emperor, not to another territorial prince.
+Imperial Diet (Reichstag):: Assembly of the Estates (Electors, Princes—including ecclesiastical—and Imperial Cities).
+
+== Simple Tree (copyable)
+[listing]
+States of the Holy Roman Empire (Reichsstände)
+├── Secular principalities (duchies, counties, principalities, electorates)
+│   └── e.g., Bavaria; Saxony; Waldeck; Schaumburg‑Lippe
+├── Ecclesiastical principalities (prince‑bishoprics/abbeys)
+│   └── e.g., Mainz; Würzburg; Fulda; Quedlinburg; Buchau
+└── Imperial Cities (free/imperial)
+└── e.g., Nuremberg; Lübeck; Frankfurt a.M.; Ulm; Isny
+
+== Reuse in your site
+
+You can drop this page into your Antora component (e.g., modules/hre/pages/hre-estates-quickref.adoc) and link to
+it via xref:hre-estates-quickref.adoc[]. Feel free to rename the file or move it wherever your nav file expects it.
+
+== Diagram with Kroki
+[plantuml, hre-estates, svg]
+....
+@startuml
+skinparam defaultTextAlignment center
+
+rectangle "States of the Holy Roman Empire (Reichsstände)" {
+  rectangle "Secular principalities" as Secular {
+    note right of Secular
+      Duchies, counties, principalities, electorates
+      Examples: Bavaria, Saxony, Waldeck, Schaumburg-Lippe
+    end note
+  }
+  rectangle "Ecclesiastical principalities" as Ecclesiastical {
+    note right of Ecclesiastical
+      Prince-bishoprics, prince-abbeys
+      Examples: Mainz, Würzburg, Fulda, Quedlinburg, Buchau
+    end note
+  }
+  rectangle "Imperial Cities" as Cities {
+    note right of Cities
+      Free/Imperial cities
+      Examples: Nuremberg, Lübeck, Frankfurt a.M., Ulm, Isny
+    end note
+  }
+}
+@enduml
+....
