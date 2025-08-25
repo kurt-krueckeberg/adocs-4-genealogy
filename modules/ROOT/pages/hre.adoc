@@ -62,7 +62,7 @@ States of the Holy Roman Empire (Reichsstände)
 == Reuse in your site
 
 You can drop this page into your Antora component (e.g., modules/hre/pages/hre-estates-quickref.adoc) and link to
-it via xref:hre-estates-quickref.adoc[]. Feel free to rename the file or move it wherever your nav file expects it.
+it via `xref:hre-estates-quickref.adoc[]`. Feel free to rename the file or move it wherever your nav file expects it.
 
 == Diagram with Kroki
 [plantuml, hre-estates, svg]
