@@ -1,12 +1,11 @@
 = Petzen and Frille Bückeburg Archive Research
 
-These details and any Nachträge
+We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
+who appear. The surname will be underlined in the Kirchenbuch.
 
-== Locations
+We would also like the records below confirmed.
 
-=== Berenbusch
-
-https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979525[Die Stätte Nr. 14 zu Berenbusch]
+//https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979525[Die Stätte Nr. 14 zu Berenbusch]
 
 == Individuals
 
@@ -15,47 +14,67 @@ Bleeke brothers, who were members of the Frille congregation:
 
 === Bleeke
 
-TODO: Add Christian Bleeke to this list and his children
+.Bleeke Marriage Dates to confirm:
+|===
+|Groom|Bride|Marriage Date|Church
 
-I would to confirm the *marriage dates* for these two Bleekes:
+|Carl Fridrich Bleeke
+|Marie Luise Niemann 
+|March 12, 1820,
+|Frille
 
-. Carl Fridrich Bleeke, born on October 30, 1794, and baptized in the church of Frille. +
-He was married to Marie Luise Niemann on March 12, 1820, in Frille.
-. Johann Heinrich Philipp Bleeke, who was born on November 3, 1797. +
-He was married in the spring of 1819 to Christine Maria Schwier, a daughter of Christian
-Fridrich Schwier and Catharina Margaretha, née Rösner.
+|Johann Heinrich Philipp Bleeke
+|Christine Maria Schwier
+|Spring of 1819
+|Frille
 
-I would like to confirm these details about Carl Friedrich Bleeke's children:
+|Christian Friedrich Bleeke
+|Christine Luise Eloenore Krückeberg
+|Nov 26, 1826
+|Frille
+|===
 
-[arabic,start=1]
-. Christine Blecke/Bleeke, born around 1820
-. Carl Friedrich Bleeke, born October 1823
-. Marie Christine Bleeke, born January 5, 1826
-. Christian Friederich Bleeke, born February 1828
-. Johann Hartweg Bleeke, born October 11, 1830
-. Gottlieb Bleeke, born 1831
-. Sophie Luise Bleeke, born March 3, 1833
-. Eleonore (Ellen) Bleeke, born February 20, 1835
-. Christine Louise Bleeke, March 31
+.Dates to Confirm for Carl Friedrich Bleeke's Children
+|===
+|Child|Aprox. Birth
 
-I would like to confirm these details for the children of Johann Heinrich Philipp Bleeke:
+|Christine Blecke/Bleeke| around 1820
 
-[arabic,start=1]
-. Carl Heinrich, born on April 27 and baptized on April 30, 1818. +
-Godfather: Fridrich Schwier, confirmed on Sunday after Easter 1832; died
-on March 25, 1839
-. Christian Fridrich, born on May 7 and baptized on May 13, 1821. +
-Godparents: Carl Fridrich Bleeke, confirmed on Judica Sunday 1835.
-. Carl Friedrich, born on July 17 and baptized on July 20, 1823. +
-Godfather: Christian Friedrich Bleeke; died on May 11, 1825.
-. Carl Friedrich Wilhelm, born on November 30 and baptized on December 4, 1825. +
-Godparents: Friedrich Meier and Christ. Bleeke
-. Christine Maria, born on August 11 and baptized on August 17, 1828. +
-Godparents: Anna Soph. Schwier and Maria Meier.
-. Christine Sophie Eleonore, born on August 13 and baptized on August 21, 1831. +
-Godparents: Christine Bleeke
-. Marie Louise Eleonore, born on November 15 and baptized on November 24, 1833. +
-Godparents: Louise Schwier and Marie Bleeke
+|Carl Friedrich Bleeke| October 1823
+
+|Marie Christine Bleeke| January 5, 1826
+
+|Christian Friederich Bleeke| February 1828
+
+|Johann Hartweg Bleeke| October 11, 1830
+
+|Gottlieb Bleeke| 1831
+
+|Sophie Luise Bleeke| March 3, 1833
+
+|Eleonore (Ellen) Bleeke| February 20, 1835
+
+|Christine Louise Bleeke| March 31
+|===
+
+.Date to Confirm for the children of Johann Heinrich Philipp Bleeke:
+|===
+|Name|Birth|Baptism|Confirmation|Death
+
+|Carl Heinrich| April 27, 1818|April 30, 1818| Sunday after Easter 1832|skip
+
+|Christian Fridrich| May 7, 1821|on May 13, 1821|Judica Sunday 1835|skip
+
+|Carl Friedrich| July 17, 1823|July 20, 1823. |skip|May 11, 1825
+
+|Carl Friedrich Wilhelm| November 30, 1825| December 4, 1825|skip|skip
+
+|Christine Maria| August 11, 1828| August 17, 1828|skip|skip
+
+|Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
+
+|Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
+|===
 
 === Krückeberg:
 
@@ -64,28 +83,65 @@ The surname will be underlined.
 
 It should be search also for these specific records:
 
-I would like these marriage facts for these two Krückebergs confirmed:
-. Johann Heinrich Krückeberg married Caroline Sophie Weÿland on January 26, 1833.
-. Carl Friedrich Krückeberg married Luise Dorothea Weiland on November 16, 1834.
+.Krückeberg Marriage Records to Confirm
+|===
+|Groom|Bride|Date|Church
+
+|Johann Heinrich Krückeberg|Caroline Sophie Weÿland |Jan. 26, 1833|Petzen
+
+|Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
+|===
 
 I would like these facts for the children of Johann Heinrich Krückeberg (born 1806) confirmed:
 
-[arabic,start=1]
-. Caroline Philippine Dorathee, born on February 27, 1834, and baptized on March 9 of the same year. +
-Her Godparents were: Doratha Weÿland, Philippine Watermann, and Caroline Krückeberg.
-. Christine Sophie Eleonore, born on August 22 and baptized on the 28th of the same month 1835. +
-Her godmother is: Christine Bleeke.
-. Philippine Christine, born on June 18, 1837, and baptized on the 24th of the same month. +
-Her godmother is: Caroline Most.
+[caption="Johann Heinrich Krückeberg's Children: "]
+.Petzen Baptisms to Confirm
+|===
+|Child|Birth|Baptism|Confirmation
+
+|Caroline Philippine Dorathee
+|February 27, 1834
+|March 9, 1834
+|April 11, 1847 or April 23, 1848
+
+|Christine Sophie Eleonore
+|August 22, 1835
+|August 28th, 1835
+|April 30, 1849
+
+|Philippine Christine
+|June 18, 1837
+|June 24, 1837
+|N/A
+|===
 
 I would like these facts for the children of Carl Friedrich Krückeberg (born 1807) confirmed:
 
-. Carl Heinrich Wilhelm Krückeberg, born Feb. 4, 1835  
+[caption="Carl Friedrich Krückeberg's Children: "]
+.Petzen Baptisms to Confirm
+|===
+|Child|Birth|Baptism|Confirmation
 
-I would like these death records confirmed:
+|Carl Heinrich Wilhelm| Feb. 4, 1835|Feb. 8, 1835|April 30, 1849 or March 31,1850
+:w
+|Caroline Philippine|Oct. 15, 1837|Oct. 22, 1837|skip
 
-[arabic,start=1]
-. Philippine Eleonore geb. Werkmeister Krückeberg, die am 5.4.83 geboren
-wurde, confirmiert am ???, gestorben am ?.?.38 
-. Philippine Christine Eleonore nee Tegtmeyer Krückeberg, who married on
-xref:petzen:petzen-band2-image5-3.adoc[Oct 12, 1790], and died on xref:petzen:petzen-band2-image314[8. ??? 1849].
+|Caroline Philippine Sophie|Sept. 8, 1840|Sept 13, 1840|skip
+
+|Wilhelmine Christine|Sept 6, 1843|Sept 14, 1843|skip
+
+|Friedrich Wilhelm|July 23, 1846|July 30, 1846|skip
+
+|Ernst Heinrich|Feb. 6, 1850|Feb. 13, 1850|skip
+|===
+
+Death dates to confirm:
+
+.Death Dates to Confirm
+|===
+|Name|Approx. Death Date
+
+|Philippine Eleonore Krückeberg|1838
+
+|Philippine Christine Eleonore Krückeberg|??? 8, 1849
+|===
