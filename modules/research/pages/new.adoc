@@ -15,47 +15,70 @@ Bleeke brothers, who were members of the Frille congregation:
 
 === Bleeke
 
-TODO: Add Christian Bleeke to this list and his children
-
 I would to confirm the *marriage dates* for these two Bleekes:
 
-. Carl Fridrich Bleeke, born on October 30, 1794, and baptized in the church of Frille. +
-He was married to Marie Luise Niemann on March 12, 1820, in Frille.
-. Johann Heinrich Philipp Bleeke, who was born on November 3, 1797. +
-He was married in the spring of 1819 to Christine Maria Schwier, a daughter of Christian
-Fridrich Schwier and Catharina Margaretha, née Rösner.
+|===
+|Groom|Bride|Marriage Date|Church
+
+|Carl Fridrich Bleeke
+|Marie Luise Niemann 
+|March 12, 1820,
+|Frille.
+
+|Johann Heinrich Philipp Bleeke
+|Christine Maria Schwier
+|Spring of 1819
+|Frille
+
+|Christian Friedrich Bleeke
+|Christine Luise Eloenore Krückeberg
+|Nov 26, 1826
+|Frille
+|===
 
 I would like to confirm these details about Carl Friedrich Bleeke's children:
 
-[arabic,start=1]
-. Christine Blecke/Bleeke, born around 1820
-. Carl Friedrich Bleeke, born October 1823
-. Marie Christine Bleeke, born January 5, 1826
-. Christian Friederich Bleeke, born February 1828
-. Johann Hartweg Bleeke, born October 11, 1830
-. Gottlieb Bleeke, born 1831
-. Sophie Luise Bleeke, born March 3, 1833
-. Eleonore (Ellen) Bleeke, born February 20, 1835
-. Christine Louise Bleeke, March 31
+|===
+|Child|Aprox. Birth
+
+|Christine Blecke/Bleeke| around 1820
+
+|Carl Friedrich Bleeke| October 1823
+
+|Marie Christine Bleeke| January 5, 1826
+
+|Christian Friederich Bleeke| February 1828
+
+|Johann Hartweg Bleeke| October 11, 1830
+
+|Gottlieb Bleeke| 1831
+
+|Sophie Luise Bleeke| March 3, 1833
+
+|Eleonore (Ellen) Bleeke| February 20, 1835
+
+|Christine Louise Bleeke| March 31
+|===
 
 I would like to confirm these details for the children of Johann Heinrich Philipp Bleeke:
 
-[arabic,start=1]
-. Carl Heinrich, born on April 27 and baptized on April 30, 1818. +
-Godfather: Fridrich Schwier, confirmed on Sunday after Easter 1832; died
-on March 25, 1839
-. Christian Fridrich, born on May 7 and baptized on May 13, 1821. +
-Godparents: Carl Fridrich Bleeke, confirmed on Judica Sunday 1835.
-. Carl Friedrich, born on July 17 and baptized on July 20, 1823. +
-Godfather: Christian Friedrich Bleeke; died on May 11, 1825.
-. Carl Friedrich Wilhelm, born on November 30 and baptized on December 4, 1825. +
-Godparents: Friedrich Meier and Christ. Bleeke
-. Christine Maria, born on August 11 and baptized on August 17, 1828. +
-Godparents: Anna Soph. Schwier and Maria Meier.
-. Christine Sophie Eleonore, born on August 13 and baptized on August 21, 1831. +
-Godparents: Christine Bleeke
-. Marie Louise Eleonore, born on November 15 and baptized on November 24, 1833. +
-Godparents: Louise Schwier and Marie Bleeke
+|===
+|Name|Birth|Baptism|Confirmation|Confirmed|Death
+
+| Carl Heinrich| April 27|on April 30, 1818| Sunday after Easter 1832|skip
+
+| Christian Fridrich| May 7|on May 13, 1821.|Judica Sunday 1835|skip
+
+| Carl Friedrich| July 17|on July 20, 1823. |?|May 11, 1825
+
+| Carl Friedrich Wilhelm| November 30| December 4, 1825|skip|skip
+
+| Christine Maria| August 11| August 17, 1828|skip|skip
+
+| Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
+
+| Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
+|===
 
 === Krückeberg:
 
