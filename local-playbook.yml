@@ -18,7 +18,7 @@ asciidoc:
     idseparator: "-"
     page-pagination: ""
     allow-uri-read: "yes"
-  extensions:
+# extensions:
 #  - asciidoctor-kroki
 antora:
   extensions:
