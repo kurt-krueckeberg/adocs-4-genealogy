@@ -87,23 +87,46 @@ The surname will be underlined.
 
 It should be search also for these specific records:
 
-I would like these marriage facts for these two Krückebergs confirmed:
-. Johann Heinrich Krückeberg married Caroline Sophie Weÿland on January 26, 1833.
-. Carl Friedrich Krückeberg married Luise Dorothea Weiland on November 16, 1834.
+.Krückeberg Marriage Records
+|===
+|Groom|Bride|Date|Church
+
+|Johann Heinrich Krückeberg|Caroline Sophie Weÿland |Jan. 26, 1833|Petzen
+
+|Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
+|===
 
 I would like these facts for the children of Johann Heinrich Krückeberg (born 1806) confirmed:
 
-[arabic,start=1]
-. Caroline Philippine Dorathee, born on February 27, 1834, and baptized on March 9 of the same year. +
-Her Godparents were: Doratha Weÿland, Philippine Watermann, and Caroline Krückeberg.
-. Christine Sophie Eleonore, born on August 22 and baptized on the 28th of the same month 1835. +
-Her godmother is: Christine Bleeke.
-. Philippine Christine, born on June 18, 1837, and baptized on the 24th of the same month. +
-Her godmother is: Caroline Most.
+[caption="Johann Heinrich Krückeberg's Children: "]
+.Petzen Baptisms to Confirm
+|===
+|Child|Birth|Baptism|Confirmation
+
+|Caroline Philippine Dorathee
+|February 27, 1834
+|March 9, 1834
+|April 11, 1847 or April 23, 1848
+
+|Christine Sophie Eleonore
+|August 22, 1835
+|August 28th, 1835
+|April 30, 1849
+
+|Philippine Christine
+|June 18, 1837
+|June 24, 1837
+|N/A
+|===
 
 I would like these facts for the children of Carl Friedrich Krückeberg (born 1807) confirmed:
 
-. Carl Heinrich Wilhelm Krückeberg, born Feb. 4, 1835  
+[caption="Carl Friedrich Krückeberg's Children: "]
+.Petzen Baptisms to Confirm
+|===
+|Child|Birth|Baptism|Confirmation
+
+|Carl Heinrich Wilhelm Krückeberg, born Feb. 4, 1835  
 
 I would like these death records confirmed:
 
