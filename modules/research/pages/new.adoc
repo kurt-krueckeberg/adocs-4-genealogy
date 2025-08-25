@@ -15,15 +15,14 @@ Bleeke brothers, who were members of the Frille congregation:
 
 === Bleeke
 
-I would to confirm the *marriage dates* for these two Bleekes:
-
+Bleeke *marriage dates* to confirm:
 |===
 |Groom|Bride|Marriage Date|Church
 
 |Carl Fridrich Bleeke
 |Marie Luise Niemann 
 |March 12, 1820,
-|Frille.
+|Frille
 
 |Johann Heinrich Philipp Bleeke
 |Christine Maria Schwier
@@ -36,8 +35,7 @@ I would to confirm the *marriage dates* for these two Bleekes:
 |Frille
 |===
 
-I would like to confirm these details about Carl Friedrich Bleeke's children:
-
+.Dates to Confirm for Carl Friedrich Bleeke's Children
 |===
 |Child|Aprox. Birth
 
@@ -60,8 +58,7 @@ I would like to confirm these details about Carl Friedrich Bleeke's children:
 |Christine Louise Bleeke| March 31
 |===
 
-I would like to confirm these details for the children of Johann Heinrich Philipp Bleeke:
-
+.Date to Confirm for the children of Johann Heinrich Philipp Bleeke:
 |===
 |Name|Birth|Baptism|Confirmation|Death
 
@@ -87,7 +84,7 @@ The surname will be underlined.
 
 It should be search also for these specific records:
 
-.Krückeberg Marriage Records
+.Krückeberg Marriage Records to Confirm
 |===
 |Groom|Bride|Date|Church
 
@@ -141,6 +138,7 @@ I would like these facts for the children of Carl Friedrich Krückeberg (born 18
 
 Death dates to confirm:
 
+.Death Dates to Confirm
 |===
 |Name|Approx. Death Date
 
