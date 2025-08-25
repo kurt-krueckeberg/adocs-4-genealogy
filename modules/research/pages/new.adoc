@@ -63,21 +63,21 @@ I would like to confirm these details about Carl Friedrich Bleeke's children:
 I would like to confirm these details for the children of Johann Heinrich Philipp Bleeke:
 
 |===
-|Name|Birth|Baptism|Confirmation|Confirmed|Death
+|Name|Birth|Baptism|Confirmation|Death
 
-| Carl Heinrich| April 27|on April 30, 1818| Sunday after Easter 1832|skip
+|Carl Heinrich| April 27, 1818|April 30, 1818| Sunday after Easter 1832|skip
 
-| Christian Fridrich| May 7|on May 13, 1821.|Judica Sunday 1835|skip
+|Christian Fridrich| May 7, 1821|on May 13, 1821|Judica Sunday 1835|skip
 
-| Carl Friedrich| July 17|on July 20, 1823. |?|May 11, 1825
+|Carl Friedrich| July 17, 1823|July 20, 1823. |skip|May 11, 1825
 
-| Carl Friedrich Wilhelm| November 30| December 4, 1825|skip|skip
+|Carl Friedrich Wilhelm| November 30, 1825| December 4, 1825|skip|skip
 
-| Christine Maria| August 11| August 17, 1828|skip|skip
+|Christine Maria| August 11, 1828| August 17, 1828|skip|skip
 
-| Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
+|Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
 
-| Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
+|Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
 |===
 
 === Krückeberg:
