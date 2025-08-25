@@ -15,7 +15,7 @@ Bleeke brothers, who were members of the Frille congregation:
 
 === Bleeke
 
-Bleeke *marriage dates* to confirm:
+.Bleeke Marriage Dates to confirm:
 |===
 |Groom|Bride|Marriage Date|Church
 
@@ -124,7 +124,7 @@ I would like these facts for the children of Carl Friedrich Krückeberg (born 18
 |Child|Birth|Baptism|Confirmation
 
 |Carl Heinrich Wilhelm| Feb. 4, 1835|Feb. 8, 1835|April 30, 1849 or March 31,1850
-
+:w
 |Caroline Philippine|Oct. 15, 1837|Oct. 22, 1837|skip
 
 |Caroline Philippine Sophie|Sept. 8, 1840|Sept 13, 1840|skip
