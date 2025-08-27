@@ -20,7 +20,7 @@ Bremem].
 . After you have bookmarked all the volumes you desire, go to
 link:https://www.arcinsys.niedersachsen.de/arcinsys/nutzer/merkzettel.action[Memo List] to view them. *Memo List* is
 one of the tabs at the top of every page.
-. Add to your *order basket*. This will reserve it for the date you supply.
+. Add to view in person an item in your Memo List, click *"into the order basket"*. This will reserve it for the date you supply.
 
 .Frille Kirchenbücher Volumes in Bückeburg Archive
 |===
