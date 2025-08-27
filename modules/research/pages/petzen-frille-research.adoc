@@ -38,7 +38,7 @@ one of the tabs at the top of every page.
 |1805 - 1960
 
 
-|NLA BU, S 8, Frille Absch. Nr. 3
+|https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267[NLA BU, S 8, Frille Absch. Nr. 3]
 |Konfirmationsregister der ev. luth. Kirche Frille
 |Confirmation register of the Evangelical Lutheran Church in Frille
 |1808 - 1898
