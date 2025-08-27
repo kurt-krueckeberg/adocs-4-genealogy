@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.23">
+<title>Petzen and Frille Bückeburg Archive Research</title>
+<style>
+/* Based on Cerulean from Bootswatch (https://bootswatch.com/cerulean/) */
+
+/* document body (contains all content) */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555555;
+  background-color: #ffffff;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+/* document header (contains title etc) */
+#header {
+  width: 100%;
+}
+#header>h1 {
+  border-bottom: 1px solid #ddddd8;
+  padding-bottom: 8px;
+}
+
+/* headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #317eac;
+}
+h1,
+h2,
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+h4,
+h5,
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 4em;
+/*   font-size: 36px; */
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 12px;
+}
+
+/* plain paragraph text */
+.paragraph {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+p {
+/*   font-family: sans-serif; */
+  margin: 0 0 10px;
+}
+
+/* blockquote text */
+.quoteblock {
+  font-style: italic;
+}
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+  border-left: 5px solid #eeeeee;
+}
+blockquote p:last-child,
+blockquote ul:last-child,
+blockquote ol:last-child {
+  margin-bottom: 0;
+}
+.blockquote-reverse,
+blockquote.pull-right {
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+  text-align: right;
+}
+.blockquote-reverse footer:before,
+blockquote.pull-right footer:before,
+.blockquote-reverse small:before,
+blockquote.pull-right small:before,
+.blockquote-reverse .small:before,
+blockquote.pull-right .small:before {
+  content: '';
+}
+.blockquote-reverse footer:after,
+blockquote.pull-right footer:after,
+.blockquote-reverse small:after,
+blockquote.pull-right small:after,
+.blockquote-reverse .small:after,
+blockquote.pull-right .small:after {
+  content: '\00A0 \2014';
+}
+
+/* blockquote attribution text */
+.attribution,
+.cite,
+blockquote footer,
+blockquote small,
+blockquote .small {
+  display: block;
+  line-height: 1.42857143;
+  color: #999999;
+}
+.attribution:before,
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before {
+  content: '\2014 \00A0';
+}
+
+/* unordered list */
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+ul ul,
+ol ul,
+ul ol,
+ol ol {
+  margin-bottom: 0;
+}
+
+
+/* links */
+a {
+  color: #2fa4e7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #157ab5;
+  text-decoration: underline;
+}
+a:focus {
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+/* horizontal rules */
+hr {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+}
+
+/* table */
+table {
+  background-color: transparent;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 21px;
+  border-collapse: collapse;
+}
+table col[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-column;
+}
+table td[class*="col-"],
+table th[class*="col-"] {
+  position: static;
+  float: none;
+  display: table-cell;
+}
+
+/* table caption */
+caption {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #999999;
+  text-align: left;
+}
+
+/* table header row */
+thead {
+  border-bottom: 2px solid #dddddd;
+}
+
+/* table header cell */
+th {
+  text-align: left;
+  padding-left: 8px;
+}
+
+/* table footer */
+tfoot {
+  color: #807F81;
+  border-top: 1px solid #dddddd;
+}
+
+/* table cell */
+td {
+  border-top: 1px solid #dddddd;
+}
+td p {
+  margin: auto;
+  padding: 8px;
+}
+
+/* table body */
+tbody > tr:nth-of-type(odd) {
+  background-color: #f9f9f9;
+}
+tbody > tr:hover {
+  background-color: #f5f5f5;
+}
+
+/* inline code */
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #333333;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+kbd {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #ffffff;
+  background-color: #333333;
+  border-radius: 3px;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+          box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.25);
+}
+kbd kbd {
+  padding: 0;
+  font-size: 100%;
+  font-weight: bold;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  word-break: break-all;
+  word-wrap: break-word;
+  color: #333333;
+  background-color: #f5f5f5;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+}
+pre code {
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  white-space: pre-wrap;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+/* image */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+/* footer section */
+#footer {
+  margin-top: 22px;
+  padding: 14px 16px;
+  color: #ffffff;
+  background-color: #2fa4e7;
+}
+
+/* responsiveness fixes */
+video {
+  max-width: 100%;
+}
+
+/* table of Contents sidebar */
+#toctitle {
+  display: none;
+}
+
+#toc {
+  margin-top: 20px;
+  background-image: -webkit-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -o-linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#54b4eb), color-stop(60%, #2fa4e7), to(#1d9ce5));
+  background-image: linear-gradient(#54b4eb, #2fa4e7 60%, #1d9ce5);
+  background-repeat: no-repeat;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff54b4eb', endColorstr='#ff1d9ce5', GradientType=0);
+  border-bottom: 1px solid #178acc;
+  -webkit-filter: none;
+          filter: none;
+  -webkit-box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 4px 4px;
+}
+
+#toc ul {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#toc li {
+  display: block;
+}
+
+#toc a {
+  color: #ffffff;
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#toc li a:hover {
+  background-color: #178acc;
+  text-decoration: none;
+}
+
+#toc:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+
+@media all and (max-width: 600px) {
+table {
+  width: 55vw!important;
+  font-size: 3vw;
+}
+
+</style>
+</head>
+<body class="article">
+<div id="header">
+<h1>Petzen and Frille Bückeburg Archive Research</h1>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
+who appear. The surname will be underlined in the Kirchenbuch.</p>
+</div>
+<div class="paragraph">
+<p>We would also like the records below confirmed.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_to_reserve_frille_volumes">To Reserve Frille Volumes</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>To view any of these volumes in person in the Bückeburg archive, follow these steps:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic" start="1">
+<li>
+<p>Create an Arcinsys Account:</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Go to <a href="https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=">Arcinsys for Niedersachen and
+Bremem</a>.</p>
+</li>
+<li>
+<p>In upper right corner: Login &#8594; Register</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>Login to to your <a href="https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=">Arcinsys account</a></p>
+</li>
+<li>
+<p>Click on the call number of the volume in the table below.</p>
+</li>
+<li>
+<p>Bookmark it within Arcinsys</p>
+</li>
+<li>
+<p>After you have bookmarked all the volumes you desire, go to
+<a href="https://www.arcinsys.niedersachsen.de/arcinsys/nutzer/merkzettel.action">Memo List</a> to view them. <strong>Memo List</strong> is
+one of the tabs at the top of every page.</p>
+</li>
+<li>
+<p>Add to view in person an item in your Memo List, click <strong>"into the order basket"</strong>. This will reserve it for the date you supply.</p>
+</li>
+</ol>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 1. Frille Kirchenbücher Volumes in Bückeburg Archive</caption>
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 33.3333%;">
+<col style="width: 33.3334%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Call Number</th>
+<th class="tableblock halign-left valign-top">Description</th>
+<th class="tableblock halign-left valign-top">Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514269">NLA BU, S 8, Frille Nr. 4</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marriage banns and marriage register of the Evangelical Lutheran Church in Frille</p>
+<p class="tableblock">Eheberedungen und Heiratsregister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1664 - 1799</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514254">NLA BU, S 8, Frille Absch. Nr.
+1</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Baptism register of the Evangelical Lutheran Church in Frille<br>
+Taufregister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1664 - 1803</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272">NLA BU, S 8, Frille Nr. 5</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Confirmation and death register of the Evangelical Lutheran Church in Frille<br>
+Konfirmations- und Sterberegister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1664 - 1898</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295">NLA BU, S 8, Frille Nr. 10</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Death register of the Evangelical Lutheran Church in Frille<br>
+Sterberegister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1664 - 1804</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514279">NLA BU, S 8, Frille Nr. 6</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marriage banns in Frille<br>
+Eheberedungen Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1757 - 1813</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280">NLA BU, S 8, Frille Nr. 7</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Baptism register of the Evangelical Lutheran Church in Frille<br>
+Taufregister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1805 - 1935</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283">NLA BU, S 8, Frille Nr. 8</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marriage register of the Evangelical Lutheran Church in Frille<br>
+Heiratsregister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1805 - 1852</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297">NLA BU, S 8, Frille Nr. 11</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Death register of the Evangelical Lutheran Church in Frille<br>
+Sterberegister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1805 - 1960</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267">NLA BU, S 8, Frille Absch. Nr. 3</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Confirmation register of the Evangelical Lutheran Church in Frille<br>
+Konfirmationsregister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1808 - 1898</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock"><a href="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514287">NLA BU, S 8, Frille Nr. 9</a></p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marriage register of the Evangelical Lutheran Church in Frille<br>
+Heiratsregister der ev. luth. Kirche Frille</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1853 - 1906</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_individuals">Individuals</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I would like to have birth/baptism, confirmation, and marriage data for the following two
+Bleeke brothers, who were members of the Frille congregation:</p>
+</div>
+<div class="sect2">
+<h3 id="_bleeke">Bleeke</h3>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 2. Bleeke Marriage Dates to confirm:</caption>
+<colgroup>
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Groom</th>
+<th class="tableblock halign-left valign-top">Bride</th>
+<th class="tableblock halign-left valign-top">Marriage Date</th>
+<th class="tableblock halign-left valign-top">Church</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Fridrich Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marie Luise Niemann</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">March 12, 1820,</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Frille</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Johann Heinrich Philipp Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Maria Schwier</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Spring of 1819</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Frille</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christian Friedrich Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Luise Eloenore Krückeberg</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Nov 26, 1826</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Frille</p></td>
+</tr>
+</tbody>
+</table>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 3. Dates to Confirm for Carl Friedrich Bleeke&#8217;s Children</caption>
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Child</th>
+<th class="tableblock halign-left valign-top">Aprox. Birth</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Blecke/Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">around 1820</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Friedrich Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">October 1823</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marie Christine Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">January 5, 1826</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christian Friederich Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">February 1828</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Johann Hartweg Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">October 11, 1830</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Gottlieb Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1831</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sophie Luise Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">March 3, 1833</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Eleonore (Ellen) Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">February 20, 1835</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Louise Bleeke</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">March 31</p></td>
+</tr>
+</tbody>
+</table>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 4. Date to Confirm for the children of Johann Heinrich Philipp Bleeke:</caption>
+<colgroup>
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 20%;">
+<col style="width: 20%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Name</th>
+<th class="tableblock halign-left valign-top">Birth</th>
+<th class="tableblock halign-left valign-top">Baptism</th>
+<th class="tableblock halign-left valign-top">Confirmation</th>
+<th class="tableblock halign-left valign-top">Death</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Heinrich</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">April 27, 1818</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">April 30, 1818</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sunday after Easter 1832</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christian Fridrich</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">May 7, 1821</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">on May 13, 1821</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Judica Sunday 1835</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Friedrich</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">July 17, 1823</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">July 20, 1823.</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">May 11, 1825</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Friedrich Wilhelm</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">November 30, 1825</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">December 4, 1825</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Maria</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 11, 1828</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 17, 1828</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Sophie Eleonore</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 13, 1831</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 21, 1831</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Marie Louise Eleonore</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">November 15, 1833</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">November 24, 1833</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sect2">
+<h3 id="_krückeberg">Krückeberg:</h3>
+<div class="paragraph">
+<p>The post-1827 Kirchenbuch should be search from 1828 to 185?? for any Krückebergs mentioned.
+The surname will be underlined.</p>
+</div>
+<div class="paragraph">
+<p>It should be search also for these specific records:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 5. Krückeberg Marriage Records to Confirm</caption>
+<colgroup>
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Groom</th>
+<th class="tableblock halign-left valign-top">Bride</th>
+<th class="tableblock halign-left valign-top">Date</th>
+<th class="tableblock halign-left valign-top">Church</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Johann Heinrich Krückeberg</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Caroline Sophie Weÿland</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Jan. 26, 1833</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Petzen</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Friedrich Krückeberg</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Luise Dorothea Weiland</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Nov. 16, 1834</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Petzen</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>I would like these facts for the children of Johann Heinrich Krückeberg (born 1806) confirmed:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Johann Heinrich Krückeberg's Children: Petzen Baptisms to Confirm</caption>
+<colgroup>
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Child</th>
+<th class="tableblock halign-left valign-top">Birth</th>
+<th class="tableblock halign-left valign-top">Baptism</th>
+<th class="tableblock halign-left valign-top">Confirmation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Caroline Philippine Dorathee</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">February 27, 1834</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">March 9, 1834</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">April 11, 1847 or April 23, 1848</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Christine Sophie Eleonore</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 22, 1835</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">August 28th, 1835</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">April 30, 1849</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Philippine Christine</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">June 18, 1837</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">June 24, 1837</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">N/A</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>I would like these facts for the children of Carl Friedrich Krückeberg (born 1807) confirmed:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Carl Friedrich Krückeberg's Children: Petzen Baptisms to Confirm</caption>
+<colgroup>
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+<col style="width: 25%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Child</th>
+<th class="tableblock halign-left valign-top">Birth</th>
+<th class="tableblock halign-left valign-top">Baptism</th>
+<th class="tableblock halign-left valign-top">Confirmation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Carl Heinrich Wilhelm</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Feb. 4, 1835</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Feb. 8, 1835</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">April 30, 1849 or March 31,1850
+:w</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Caroline Philippine</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Oct. 15, 1837</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Oct. 22, 1837</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Caroline Philippine Sophie</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sept. 8, 1840</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sept 13, 1840</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Wilhelmine Christine</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sept 6, 1843</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Sept 14, 1843</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Friedrich Wilhelm</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">July 23, 1846</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">July 30, 1846</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Ernst Heinrich</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Feb. 6, 1850</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Feb. 13, 1850</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">skip</p></td>
+</tr>
+</tbody>
+</table>
+<div class="paragraph">
+<p>Death dates to confirm:</p>
+</div>
+<table class="tableblock frame-all grid-all stretch">
+<caption class="title">Table 6. Death Dates to Confirm</caption>
+<colgroup>
+<col style="width: 50%;">
+<col style="width: 50%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">Name</th>
+<th class="tableblock halign-left valign-top">Approx. Death Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Philippine Eleonore Krückeberg</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">1838</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Philippine Christine Eleonore Krückeberg</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">??? 8, 1849</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div id="footer-text">
+Last updated 2025-08-27 12:17:04 -0400
+</div>
+</div>
+</body>
+</html>
