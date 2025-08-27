@@ -8,18 +8,31 @@ We would also like the records below confirmed.
 //https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979525[Die Stätte Nr. 14 zu Berenbusch]
 == Frille Volumes to Reserve
 
+To view any of these volumes in person in the Bückeburg archive, follow these steps:
+1. Create an Arcinsys Account:
+** Go to link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys for Niedersachen and
+Bremem].
+** In upper right corner: Login -> Register
+2. Login to to your link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys account]
+3. Click on the call number of the volume in the table below.
+4. Bookmark it within Arcinsys
+5. After you have bookmarked all the volumes you desire, go to
+link:https://www.arcinsys.niedersachsen.de/arcinsys/nutzer/merkzettel.action[Memo List] to view them. *Memo List* is
+one of the tabs at the top of every page.
+6. Add to your *order basket*. This will reserve it for the date you supply.
+
 .Frille Kirchenbücher Volumes in Bückeburg Archive
 |===
 |Call Number|Description|Translation|Duration
 
 
-|NLA BU, S 8, Frille Nr. 8
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514283[NLA BU, S 8, Frille Nr. 8]
 |Heiratsregister der ev. luth. Kirche Frille
 |Marriage register of the Evangelical Lutheran Church in Frille
 |1805 - 1852
 
 
-|NLA BU, S 8, Frille Nr. 11
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[NLA BU, S 8, Frille Nr. 11]
 |Sterberegister der ev. luth. Kirche Frille
 |Death register of the Evangelical Lutheran Church in Frille
 |1805 - 1960
@@ -31,43 +44,44 @@ We would also like the records below confirmed.
 |1808 - 1898
 
 
-|NLA BU, S 8, Frille Nr. 10
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[NLA BU, S 8, Frille Nr. 10]
 |Sterberegister der ev. luth. Kirche Frille
 |Death register of the Evangelical Lutheran Church in Frille
 |1664 - 1804
 
 
-|NLA BU, S 8, Frille Nr. 9
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514287[NLA BU, S 8, Frille Nr. 9]
 |Heiratsregister der ev. luth. Kirche Frille
 |Marriage register of the Evangelical Lutheran Church in Frille
 |1853 - 1906
 
 
-|NLA BU, S 8, Frille Nr. 4
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514269[NLA BU, S 8, Frille Nr. 4]
 |Eheberedungen und Heiratsregister der ev. luth. Kirche Frille
 |Marriage banns and marriage register of the Evangelical Lutheran Church in Frille
 |1664 - 1799
 
 
-|NLA BU, S 8, Frille Absch. Nr. 1
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514254[NLA BU, S 8, Frille Absch. Nr.
+1]
 |Taufregister der ev. luth. Kirche Frille
 |Baptism register of the Evangelical Lutheran Church in Frille
 |1664 - 1803
 
 
-|NLA BU, S 8, Frille Nr. 5
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
 |Konfirmations- und Sterberegister der ev. luth. Kirche Frille
 |Confirmation and death register of the Evangelical Lutheran Church in Frille
 |1664 - 1898
 
 
-|NLA BU, S 8, Frille Nr. 6
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514279[NLA BU, S 8, Frille Nr. 6]
 |Eheberedungen Frille
 |Marriage banns in Frille
 |1757 - 1813
 
 
-|NLA BU, S 8, Frille Nr. 7
+|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU, S 8, Frille Nr. 7]
 |Taufregister der ev. luth. Kirche Frille
 |Baptism register of the Evangelical Lutheran Church in Frille
 |1805 - 1935
