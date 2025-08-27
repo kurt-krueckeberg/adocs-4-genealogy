@@ -23,6 +23,7 @@ one of the tabs at the top of every page.
 . Add to view in person an item in your Memo List, click *"into the order basket"*. This will reserve it for the date you supply.
 
 .Frille Kirchenbücher Volumes in Bückeburg Archive
+[cols="2,4,1"]
 |===
 |Call Number|Description|Duration
 
