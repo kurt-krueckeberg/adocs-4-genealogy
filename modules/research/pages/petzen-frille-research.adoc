@@ -16,7 +16,7 @@ Bremem].
 ** In upper right corner: Login -> Register
 . Login to to your link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys account]
 . Click on the call number of the volume in the table below.
-. Bookmark it within Arcinsys
+. Bookmark it within Arcinsys (you must be logged in to bookmark items)
 . After you have bookmarked all the volumes you desire, go to
 link:https://www.arcinsys.niedersachsen.de/arcinsys/nutzer/merkzettel.action[Memo List] to view them. *Memo List* is
 one of the tabs at the top of every page.
