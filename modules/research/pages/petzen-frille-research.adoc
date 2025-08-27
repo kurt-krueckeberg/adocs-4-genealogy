@@ -9,17 +9,18 @@ We would also like the records below confirmed.
 == Frille Volumes to Reserve
 
 To view any of these volumes in person in the Bückeburg archive, follow these steps:
-1. Create an Arcinsys Account:
+[arabic,start="1"]
+. Create an Arcinsys Account:
 ** Go to link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys for Niedersachen and
 Bremem].
 ** In upper right corner: Login -> Register
-2. Login to to your link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys account]
-3. Click on the call number of the volume in the table below.
-4. Bookmark it within Arcinsys
-5. After you have bookmarked all the volumes you desire, go to
+. Login to to your link:https://www.arcinsys.niedersachsen.de/arcinsys/start.action?oldNodeid=[Arcinsys account]
+. Click on the call number of the volume in the table below.
+. Bookmark it within Arcinsys
+. After you have bookmarked all the volumes you desire, go to
 link:https://www.arcinsys.niedersachsen.de/arcinsys/nutzer/merkzettel.action[Memo List] to view them. *Memo List* is
 one of the tabs at the top of every page.
-6. Add to your *order basket*. This will reserve it for the date you supply.
+. Add to your *order basket*. This will reserve it for the date you supply.
 
 .Frille Kirchenbücher Volumes in Bückeburg Archive
 |===
