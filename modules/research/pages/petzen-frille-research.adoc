@@ -34,7 +34,7 @@ one of the tabs at the top of every page.
 === Baptism
 
 [[baptisms]]
-.Frille Baptism Church register copy in Bückeburg Archive
+.Frille Baptism Church register copies in Bückeburg Archive
 [cols="2,4,1"]
 |===
 |Call Number|Description|Duration|Comments
@@ -45,6 +45,7 @@ one of the tabs at the top of every page.
 
 Taufregister der ev. luth. Kirche Frille
 |1664 - 1803
+|Digital, Paper, Macro- and Microfiche
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU, S 8, Frille Nr. 7]
 |*Baptism register* of the Evangelical Lutheran Church in Frille
