@@ -1,11 +1,16 @@
 = Petzen and Frille Bückeburg Archive Research
 
-We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
-who appear. The surname will be underlined in the Kirchenbuch.
+== Records
 
-We also need *citations* for each record. What is the name of the microfiche volume (or roll, etc) and where on
-the microfiche is it found, which film number or image number. We need enough information so that someone else can
-go to the Bückeburg arhive and find the record easily and verify it.
+We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
+who appear. The surname will be underlined in the Kirchenbuch. We need transliteration of the original--not
+translations!
+
+== Accompanying Citations
+
+We also need an accompanying *citations* for each record. What is the name of the microfiche volume (or roll, etc)
+and where on the microfiche is it found, which film number or image number? We need enough information so that
+anyone else can go to the Bückeburg archive and find the record easily and verify it.
 
 We would also like the records below confirmed.
 
