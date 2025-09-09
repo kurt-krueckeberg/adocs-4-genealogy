@@ -35,7 +35,7 @@ one of the tabs at the top of every page.
 
 [[baptisms]]
 .Frille Baptism Church register copies in Bückeburg Archive
-[cols="2,4,1"]
+[cols="2,4,1,2"]
 |===
 |Call Number|Description|Duration|Comments
 
