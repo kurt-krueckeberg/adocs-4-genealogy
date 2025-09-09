@@ -162,8 +162,8 @@ Bleeke brothers, who were members of the Frille congregation:
 
 .Bleeke Marriage Dates to confirm:
 |===
-|Groom|Bride|Marriage Date|Cross-reference +
-to volume
+|Groom|Bride|Marriage Date|Cross-referenced +
+volume
 
 |Carl Fridrich Bleeke
 |Marie Luise Niemann 
@@ -207,21 +207,30 @@ Volume
 
 .Birth, Baptism and Death Dates to Confirm for the children of Johann Heinrich Philipp Bleeke:
 |===
-|Name|Birth|Baptism|Confirmation|Death
+|Name|Birth|Baptism|Confirmation|Death|Cross-referenced volumes
 
-|Carl Heinrich| April 27, 1818|April 30, 1818| Sunday after Easter 1832|skip
+|Carl Heinrich| April 27, 1818|April 30, 1818| Sunday after Easter 1832
+|skip
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
-|Christian Fridrich| May 7, 1821|on May 13, 1821|Judica Sunday 1835|skip
+|Christian Fridrich| May 7, 1821|on May 13, 1821|Judica Sunday 1835
+|skip
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
 |Carl Friedrich| July 17, 1823|July 20, 1823. |skip|May 11, 1825
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
 |Carl Friedrich Wilhelm| November 30, 1825| December 4, 1825|skip|skip
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
 |Christine Maria| August 11, 1828| August 17, 1828|skip|skip
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
 |Christine Sophie Eleonore|August 13, 1831|August 21, 1831|skip|skip
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 
 |Marie Louise Eleonore| November 15, 1833|November 24, 1833|skip|skip
+|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
 |===
 
 === Krückeberg:
