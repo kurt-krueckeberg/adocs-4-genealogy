@@ -112,25 +112,27 @@ Heiratsregister der ev. luth. Kirche Frille
 
 === Deaths
 
-[[deaths]]
 .Frille Death Kirchenbücher Volumes in Bückeburg Archive
 [cols="2,4,1"]
 |===
 |Call Number|Description|Duration
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
+a|[[deaths-1664-1898]]
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
 |*Confirmation and death register* of the Evangelical Lutheran Church in Frille
 
 Konfirmations- und Sterberegister der ev. luth. Kirche Frille
 |1664 - 1898
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[NLA BU, S 8, Frille Nr. 10]
+a|[[deaths-1664-1804]]
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514295[NLA BU, S 8, Frille Nr. 10]
 |*Death register* of the Evangelical Lutheran Church in Frille
 
 Sterberegister der ev. luth. Kirche Frille
 |1664 - 1804
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[NLA BU, S 8, Frille Nr. 11]
+a|[[deaths-1805-1960]]
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514297[NLA BU, S 8, Frille Nr. 11]
 |*Death register* of the Evangelical Lutheran Church in Frille
 
 Sterberegister der ev. luth. Kirche Frille
