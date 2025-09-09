@@ -14,7 +14,6 @@ anyone else can go to the Bückeburg archive and find the record easily and veri
 
 We would also like the records below confirmed.
 
-//https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979525[Die Stätte Nr. 14 zu Berenbusch]
 == To Reserve Frille Volumes
 
 To view any of these volumes in person in the Bückeburg archive, follow these steps:
@@ -58,22 +57,23 @@ Taufregister der ev. luth. Kirche Frille
 === Confirmations
 
 [[confirmations]]
-.Frille Confirmations Kirchenbücher Volumes in Bückeburg Archive
+.Frille Confirmations church register copies in Bückeburg Archive
 [cols="2,4,1"]
 |===
-|Call Number|Description|Duration
+|Call Number|Description|Duration|Format
 
 |link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514272[NLA BU, S 8, Frille Nr. 5]
 |*Confirmation and death register* of the Evangelical Lutheran Church in Frille
 
 Konfirmations- und Sterberegister der ev. luth. Kirche Frille
-|1664 - 1898
+|1868-1898; 1664-1804
 
 |https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514267[NLA BU, S 8, Frille Absch. Nr. 3]
 |*Confirmation register* of the Evangelical Lutheran Church in Frille
 
 Konfirmationsregister der ev. luth. Kirche Frille
-|1808 - 1898
+|1808-1820; 1868-1898
+|Paper copy, film (digital?), microfiche
 |===
 
 === Marriages
