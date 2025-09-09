@@ -3,6 +3,10 @@
 We would like to have the event, dates and facts for any Petzen post-1828 church records for any Krückebergs
 who appear. The surname will be underlined in the Kirchenbuch.
 
+We also need *citations* for each record. What is the name of the microfiche volume (or roll, etc) and where on
+the microfiche is it found, which film number or image number. We need enough information so that someone else can
+go to the Bückeburg arhive and find the record easily and verify it.
+
 We would also like the records below confirmed.
 
 //https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v4979525[Die Stätte Nr. 14 zu Berenbusch]
