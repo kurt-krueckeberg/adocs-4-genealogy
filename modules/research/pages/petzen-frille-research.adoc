@@ -51,7 +51,8 @@ Taufregister der ev. luth. Kirche Frille
 |1664 - 1803
 |Digital, Paper, Macro- and Microfiche
 
-|link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU, S 8, Frille Nr. 7]
+a|[[baptisms-1805-1935]]
+link:https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v10514280[NLA BU, S 8, Frille Nr. 7]
 |*Baptism register* of the Evangelical Lutheran Church in Frille
 
 Taufregister der ev. luth. Kirche Frille
@@ -182,25 +183,26 @@ to volume
 
 .Birth and Baptism Dates to Confirm for Carl Friedrich Bleeke's Children
 |===
-|Child|Aprox. Birth
+|Child|Aprox. Birth|Cross-reference +
+Volume
 
-|Christine Blecke/Bleeke| around 1820
+|Christine Blecke/Bleeke| around 1820|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Carl Friedrich Bleeke| October 1823
+|Carl Friedrich Bleeke| October 1823|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Marie Christine Bleeke| January 5, 1826
+|Marie Christine Bleeke| January 5, 1826|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Christian Friederich Bleeke| February 1828
+|Christian Friederich Bleeke| February 1828|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Johann Hartweg Bleeke| October 11, 1830
+|Johann Hartweg Bleeke| October 11, 1830|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Gottlieb Bleeke| 1831
+|Gottlieb Bleeke| 1831|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Sophie Luise Bleeke| March 3, 1833
+|Sophie Luise Bleeke| March 3, 1833|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Eleonore (Ellen) Bleeke| February 20, 1835
+|Eleonore (Ellen) Bleeke| February 20, 1835|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 
-|Christine Louise Bleeke| March 31
+|Christine Louise Bleeke| March 31|xref:#baptisms-1805-1935[Frille Baptism 1805-1935]
 |===
 
 .Date to Confirm for the children of Johann Heinrich Philipp Bleeke:
