@@ -14,7 +14,12 @@ anyone else can go to the Bückeburg archive and find the record easily and veri
 
 We would also like the records below confirmed.
 
-== To Reserve Frille Volumes
+== Frille Volumes
+
+The Frille volumes are apparently transcripts of the Frille church registers. I assume they are already
+in contemporary German and not the old _Kurrent_ handwritting. While they are not the original source, the
+original church registers (Kirchenbücher), they should be consulted first. The original church registers 
+are not listed in link:https://www.arcinsys.niedersachsen.de/[Arcinsys] catalog.
 
 To view any of these volumes in person in the Bückeburg archive, follow these steps:
 [arabic,start="1"]
