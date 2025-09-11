@@ -251,7 +251,7 @@ It should be search also for these specific records:
 |Carl Friedrich Krückeberg|Luise Dorothea Weiland|Nov. 16, 1834|Petzen
 |===
 
-==== Baptism/Births and Confirmation Information to Confirm
+==== Baptisms/Births and Confirmations to Confirm
 
 I would like these facts for the children of Johann Heinrich Krückeberg (born 1806) confirmed:
 
@@ -296,7 +296,7 @@ I would like these facts for the children of Carl Friedrich Krückeberg (born 18
 |Ernst Heinrich|Feb. 6, 1850|Feb. 13, 1850|skip
 |===
 
-==== Death Dates to Confirm
+==== Deaths to Confirm
 
 Death dates to confirm:
 
