@@ -183,7 +183,7 @@ volume
 
 .Birth and Baptism Dates to Confirm for Carl Friedrich Bleeke's Children
 |===
-|Child|Aprox. Birth|Cross-reference +
+|Child|Aprox. Birth|Cross-referenced +
 Volume
 
 |Christine Blecke/Bleeke| around 1820|xref:#baptisms-1805-1935[Frille Baptisms 1805-1935]
